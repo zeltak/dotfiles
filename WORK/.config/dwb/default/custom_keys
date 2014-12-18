@@ -1,6 +1,0 @@
-y:yank;;yank_primary
-xzz:toggle enable-private-browsing
-xdd:download-no-confirm
-Rr:tabdo reload
-xD:download
-xps:clone_selection
