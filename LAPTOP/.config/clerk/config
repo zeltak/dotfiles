@@ -26,7 +26,7 @@ cd_divider=CD
 # Seperator used for splitting tags - Make sure this is something most
 # likely not used in tags itself. Can be multiple characters
 # If you change seperator, update caches with clerk -update
-seperator= " • "
+seperator=" • "
 
 # use artist or albumartist for album ratings
 mpd_artist=albumartist
@@ -47,4 +47,4 @@ mpd_socket=/home/zeltak/.mpd/socket
 
 
 ##### DO NOT EDIT #####
-change_db=DBUpdated:FriDec1220:17:052014
+change_db=DBUpdated:ThuDec1820:35:312014

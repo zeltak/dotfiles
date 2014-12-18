@@ -205,6 +205,7 @@
 /home/zeltak/music/Beach Boys, The/1977 Love You
 /home/zeltak/music/Beach Boys, The/1962 Surfin' Safari
 /home/zeltak/music/Beach Boys, The/1963 Surfin' USA
+/home/zeltak/music/Beach Boys, The/Unknown
 /home/zeltak/music/MGMT
 /home/zeltak/music/Porcupine Tree
 /home/zeltak/music/Stone Roses, The
@@ -1626,6 +1627,7 @@
 /home/zeltak/dotfiles/LAPTOP/.config/flacon
 /home/zeltak/dotfiles/LAPTOP/.config/htop
 /home/zeltak/dotfiles/LAPTOP/.config/kava
+/home/zeltak/dotfiles/LAPTOP/.config/terminator
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/info/default
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/colors
 /home/zeltak/dotfiles/LAPTOP/.i3
@@ -1936,6 +1938,7 @@
 /home/zeltak/NoMachine
 /home/zeltak/.putty
 /home/zeltak/.gmvault
+/home/zeltak/configs
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
