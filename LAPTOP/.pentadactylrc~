@@ -1,0 +1,265 @@
+"""NOTE (COMMENTS CANT BE ON SAME LINE AS COMMAND)
+
+"STARTUP
+
+loadplugins
+
+"set buftabs-maxlength=7
+set hintkeys=fdsaghjklwertyuiovbcnm
+ 
+"has to be the same name as in firefox (if you give google a short name use it (g) other wise use full name-google
+set defsearch=g
+
+set passkeys+='/mail\.google\.com/':jk#<Return>     
+set passkeys+="https://duckduckgo\.com/":jkv
+"set passkeys+=mail.google.com:'!#*+-./<C-Down><C-s><Enter>?INU[]acefjk lmnopqrsuvxyz',*a,*n,*r,*s,*t,*u,ga,gc,gd,gi,gl,gs,gt,yo
+
+"--------------------------LOOK AND FEEL
+
+"colorscheme solarized-dark
+colorscheme solarized-light
+
+
+highlight Hint       font-size: 14px; background: rgba(210,1,133,0.8) !important; border: 2px solid rgb(165,1,105); padding: 4px; border-radius: 3px; font-weight: bold; margin-left: -25px; color: white; font-family: Helvetica; line-height:1em;
+highlight HintActive background: rgba(145,197,43,0.8)    !important;
+highlight HintElem   background: rgba(255, 209, 20, 0.7) !important;
+
+"don't hide last tab
+set! browser.tabs.closeWindowWithLastTab=false
+
+
+"------------------------Gui Options
+"put here elements you want to hide ($Note$ the - sign)
+"set guioptions-=br
+"put here elements to show
+set guioptions+=nrbBT
+
+" Highlight all search matches, not just the first.
+set hlfind
+
+" Clear search highlighting and normal highlighting.
+nmap -builtin ,<space> <esc>:noh<CR>
+
+
+"" open things at new tab
+set newtab=all
+
+"" complete search engine suguest
+set complete=location,suggestion
+
+
+" ==================== KEY MAPPING ==================== "
+map , <Leader>
+
+"help
+map -builtin <F1> :tab<Space>:help<Space>
+
+
+map a :tabprevious<CR>
+map s  :tabnext<CR>
+" h l should go through the history
+map h H
+map l L
+" scroll left or right
+map S <right>
+map A <left>
+map vv <End>
+map ra <ESC>:reloadall<CR>
+
+" Go to the second input field.
+" Useful for skipping over search fields, etc.
+nmap -builtin gI 2gi
+
+" Shift is hard.
+nmap -builtin ; :
+
+" I never use marks, but always use quickmarks.
+"nmap -builtin "'" go
+"nmap -builtin '"' gn
+
+"use backspace key to switch between 2 last tabs (kinda like the back button on a remote)
+map <BS>  <C-6> 
+
+map <a-Right> <Esc>:tabm +1<CR>
+map <a-Left> <Esc>:tabm -1<CR>
+
+map <F3> :tabprevious<CR>
+map <F4>  :tabnext<CR>
+
+"toggle location bar
+
+"" toggle menus
+nmap -builtin gm :set guioptions!=m<CR>
+nmap -builtin gb :set guioptions!=B<CR>
+nmap -builtin gt :set guioptions!=T<CR>
+
+"" open addons manager
+nmap -builtin ,a :dialog addons<CR>
+
+"" rehash
+nmap -builtin ,R :rehash<CR>
+"" private mode
+nmap -builtin ,p :set private!<CR>
+"" fullscreen
+nmap -builtin ,F :set fullscreen!<CR>
+"" display download
+nmap -builtin ,d :downloads<CR>
+"" about:config
+nmap -builtin ,c :tabopen about:config<CR>
+
+
+
+
+"" tabgroup
+if config.OS.isMacOSX
+nmap -builtin ,e <S-M-e>
+else
+nmap -builtin ,e <S-C-e>
+end
+
+
+
+
+""""""""""""extra commands with the -e- key
+"open links in back in sucsession 
+map ef g;b
+
+
+"" jumping at hint mode, see http://code.google.com/p/dactyl/issues/detail?id=158
+"map -modes hints j -ex normal! 10j
+"map -modes hints k -ex normal! 10k
+map -modes hints <C-f> -ex normal! <C-f>
+map -modes hints <C-b> -ex normal! <C-b>
+"map -modes hints gg -ex normal! gg
+"map -modes hints G -ex normal! G
+
+
+
+"open the bookmark bar in a new tab
+map eb  :open bookmarks<CR> 
+
+
+"restart firefox
+"map er  :restart<CR> 
+
+
+
+
+
+"integrate into takswarrior
+"map et -js io.run("task", ["add", buffer.title,buffer.URL,"+DL"], false); dactyl.echomsg("Added task for " + buffer.title);
+map et -js io.run("todo.sh", ["add", buffer.title,buffer.URL,"@DL"], false); dactyl.echomsg("Added task for " + buffer.title);
+
+"this sortcut is based on a boomarket with a keyword (gmt)
+map eg  :open gmt<CR> 
+map es  :open gra<CR> 
+map eq  :open qxx<CR> 
+map el  :open eng<CR> 
+
+
+map -m hints j     -ex normal! j
+map -m hints k     -ex normal! k
+
+
+" Firefox dialogues
+nmap <Leader>d :dia downloads<CR>
+nmap <Leader>p :dia preferences<CR>
+nmap <Leader>e :dia places<CR>
+nmap <Leader>a :dia addons<CR>
+
+
+
+
+
+"---------------abrriviations
+
+"dl folders
+" cabbr d1 /home/zeltak/
+" cabbr d2 /home/zeltak/Downloads/
+" 
+" 
+" 
+" 
+" ia 557 557 VFW parkway,Chestnut Hill, Boston, MA 02467
+" ia .bw Best wishes <CR>Itai Kloog
+" ia .at attached is the file
+" 
+" "_____________________________________________________________________________________________________________________________________________ 
+
+
+" "" {{{ Bookmarklet
+" nmap -builtin ,b :bml-
+" nmap -builtin ,s :bml-subscribe<CR>
+" command bml-readable -description "Bookmarklet: Make webpage readable" open javascript:(function(){_readableOptions={'text_font':'Vollkorn','text_font_monospace':'quote(Courier%20New),%20Courier,%20monospace','text_font_header':'quote(Palatino%20Linotype),%20Palatino,%20quote(Book%20Antigua),%20Georgia,%20serif','text_size':'20px','text_line_height':'1.5','box_width':'35em','color_text':'#282828','color_background':'#E5DED6','color_links':'#EE4545','text_align':'normal','base':'blueprint','custom_css':''};if(document.getElementsByTagName('body').length>0);else{return;}if(window.$readable){if(window.$readable.bookmarkletTimer){return;}}else{window.$readable={};}window.$readable.bookmarkletTimer=true;window.$readable.options=_readableOptions;if(window.$readable.bookmarkletClicked){window.$readable.bookmarkletClicked();return;}_readableScript=document.createElement('script');_readableScript.setAttribute('src','http://readable-static.tastefulwords.com/target.js?rand='+encodeURIComponent(Math.random()));document.getElementsByTagName('body')[0].appendChild(_readableScript);})()
+" command bml-page2rss -description "Bookmarklet: Turn any page to RSS" open javascript:(function(){if(!window.page2rss_bookmark_urlr)window.page2rss_bookmark_urlr=function(ur){if(ur.error)alert(ur.error);if(ur.page&&ur.page.page)location.href=ur.page.page};var%20r=document.getElementById('urlFormRequest');if(r)r.parentNode.removeChild(r);r=document.createElement('script');r.id='urlFormRequest';r.type='text/javascript';r.src='http://page2rss.com/api/page?url='+encodeURIComponent(location.href)+'&callback=page2rss_bookmark_urlr';document.body.appendChild(r);})();
+" command bml-share -description "Bookmarklet: Google reader official bookmarklet" open javascript:var%20b=document.body;var%20GR________bookmarklet_domain='http://www.google.com';if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.src='http://www.google.com/reader/ui/link-bookmarklet.js');void(b.appendChild(z));}else{}
+" command bml-subscribe -description "Bookmarklet: Subscribe using Google reader" open javascript:var%20b=document.body;var%20GR________bookmarklet_domain='http://www.google.com';if(b&&!document.xmlVersion){void(z=document.createElement('script'));void(z.src='http://www.google.com/reader/ui/subscribe-bookmarklet.js');void(b.appendChild(z));}else{location='http://www.google.com/reader/view/feed/'+encodeURIComponent(location.href)}
+" command bml-twitter -description "Bookmarklet: Share on Twitter" open javascript:(function(){window.twttr=window.twttr||{};var%20D=550,A=450,C=screen.height,B=screen.width,H=Math.round((B/2)-(D/2)),G=0,F=document,E;if(C>A){G=Math.round((C/2)-(A/2))}window.twttr.shareWin=window.open('http://twitter.com/share','','left='+H+',top='+G+',width='+D+',height='+A+',personalbar=0,toolbar=0,scrollbars=1,resizable=1');E=F.createElement('script');E.src='http://platform.twitter.com/bookmarklets/share.js?v=1';F.getElementsByTagName('head')[0].appendChild(E)}());
+" command bml-readability -description "Bookmarklet: Make webpage readable using readability" open javascript:(%28function%28%29%7Bwindow.baseUrl%3D%27http%3A//www.readability.com%27%3Bwindow.readabilityToken%3D%27%27%3Bvar%20s%3Ddocument.createElement%28%27script%27%29%3Bs.setAttribute%28%27type%27%2C%27text/javascript%27%29%3Bs.setAttribute%28%27charset%27%2C%27UTF-8%27%29%3Bs.setAttribute%28%27src%27%2CbaseUrl%2B%27/bookmarklet/read.js%27%29%3Bdocument.documentElement.appendChild%28s%29%3B%7D%29%28%29)
+" command bml-pocket -description "Bookmarklet: Save to pocket" open javascript:(function(){ISRIL_H='7a0b';PKT_D='getpocket.com';ISRIL_SCRIPT=document.createElement('SCRIPT');ISRIL_SCRIPT.type='text/javascript';ISRIL_SCRIPT.src='http://'+PKT_D+'/b/r.js';document.getElementsByTagName('head')[0].appendChild(ISRIL_SCRIPT)})();
+" "" }}}
+
+
+
+" Add the urlbar icons to the bottom status bar too
+javascript <<EOF
+(function(){
+var panel = document.createElement("statusbarpanel");
+panel.setAttribute("id", "urlbar-icons-clone");
+var urlbar = document.getElementById("urlbar-icons");
+var allicons = [];
+for(var i=0; i<urlbar.childNodes.length; ++i)
+allicons.push(urlbar.childNodes[i].id);
+for(var i=0; i<allicons.length; ++i) {
+var icon = document.getElementById(allicons[i]);
+if(icon.id == "go-button") continue;
+icon.setAttribute("style", "padding: 0; max-height: 16px;");
+panel.appendChild(icon);
+}
+var statbar = document.getElementById("status-bar");
+statbar.appendChild(panel);
+})();
+EOF
+
+
+"--------------------Quickmakrs
+silent qmark 1 https://mail.google.com/mail/u/0/?tab=cm&zx=1a9kkuzmcil0m&shva=1#inbox
+silent qmark ! https://mail.google.com/mail/u/1/?tab=cm&zx=1a9kkuzmcil0m&shva=1#inbox
+silent qmark 2 http://www.google.com/calendar
+silent qmark 3  https://ttrss.server-speed.net/index.php#f=-3&c=0
+silent qmark 5 https://www.google.com/contacts/#contacts
+
+silent qmark 6 http://woot.com | http://1saleaday.com/ | http://mobile.dailysteals.com/ | http://slickdeals.net/ | http://www.priceplunge.com/ | http://www.amazon.com/mobile-apps/b?ie=UTF8&node=2350149011 | http://deals.woot.com/
+
+silent qmark 7 https://groups.google.com/forum/?fromgroups=#!forum/notecase-pro | https://plus.google.com/u/0/ | https://bbs.archlinux.org/viewforum.php?id=27 
+
+silent qmark 9 http://www.walla.co.il/ | http://www.ynet.co.il/ | http://www.nrg.co.il/  | http://sports.walla.co.il/ | http://espn.go.com/ | http://soccernet.espn.go.com/ | http://www.cnn.com/ | http://kde-apps.org/ | http://kde-look.org/ | http://www.haaretz.co.il/
+
+silent qmark w http://www.walla.co.il/
+silent qmark y http://www.ynet.co.il/ 
+silent qmark o http://sports.walla.co.il 
+silent qmark e  http://espn.go.com/
+silent qmark s http://www.espnfc.com
+silent qmark c http://www.cnn.com
+silent qmark l http://www.espnfc.com
+silent qmark L http://www.firstrowsports.eu/
+silent qmark o http://sports.walla.co.il/ 
+silent qmark p http://paste.xinu.at/
+silent qmark d http://debuzzer.com/
+silent qmark F http://10.0.0.44/
+silent qmark x http://www.dropbox.com/
+silent qmark R http://10.0.0.138/ 
+silent qmark f https://bbs.archlinux.org/viewforum.php?id=27 
+silent qmark n http://www.nrg.co.il
+silent qmark a http://forum.mobilism.org/viewforum.php?f=398&sid=458ecb73421dcafe102bc23ef5f955fe
+silent qmark q http://slickdeals.net/
+silent qmark k http://forum.xbmc.org/ 
+silent qmark h http://www.haaretz.co.il/
+silent qmark g https://plus.google.com/u/0/
+silent qmark G https://groups.google.com/forum/#!forum/beets-users
+silent qmark r http://lists.gnu.org/archive/html/emacs-orgmode/
+silent qmark u https://github.com/zeltak
+silent qmark v https://vpn.bgu.ac.il/extender.html
+silent qmark Q http://10.0.0.2:8080/cgi-bin/
+silent qmark r http://10.0.0.2:9091/transmission/web/ 
+

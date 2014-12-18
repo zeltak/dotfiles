@@ -1,0 +1,21 @@
+#!/bin/bash
+urxvt -name music1 +sb -e ncmpcpp & 
+urxvt -name music2 -fn "xft:Envy Code R:pixelsize=17" +sb -e lyvi &
+urxvt -name music3 -fn "xft:Envy Code R:pixelsize=12" +sb -e lyvi -c /home/zeltak/.config/lyvi/rc_artist & 
+urxvt -name music4 -e ncmpcpp -c /home/zeltak/.ncmpcpp/alt_config
+sleep 11
+
+
+music1=$(wmctrl -l -x | grep music1 | cut -c 1-10)
+music2=$(wmctrl -l -x | grep music2 | cut -c 1-10)
+music3=$(wmctrl -l -x | grep music3 | cut -c 1-10)
+music4=$(wmctrl -l -x | grep music4 | cut -c 1-10)
+
+wmctrl -i -r $music1 -e 0,3,28,1590,514
+wmctrl -i -r $music2 -e 0,3,552,800,340
+wmctrl -i -r $music3 -e 0,801,552,400,340
+wmctrl -i -r $music4 -e 0,1201,552,400,340
+
+#0,w,x,y,z -> 0,position x, position y, size x, size y
+
+#it counts from top left to bottom right posX,posY,SizeX,SizeY and the leading 0,

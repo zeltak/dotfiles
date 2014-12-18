@@ -1,0 +1,90 @@
+#!/bin/bash
+#
+# dvolbar - OSD Volume utility
+#
+
+#Customize this stuff
+IF="Master"         # audio channel: Master|PCM
+SECS="1"            # sleep $SECS
+BG="#080808"        # background colour of window-dark ice
+#BG="#EEEEEC"        # background colour of window-white frost 
+FG="#b8b8b8"        # foreground colour of text/icon-dark ice
+#FG="#1F1F18"        # foreground colour of text/icon-white frost
+BAR_BG="#Fecf35"    # foreground colour of volume bar
+BAR_FG="#00bbff"    # background colour of volume bar
+#BAR_FG="#777777"    # foreground colour of volume bar-white frost
+#BAR_BG="#F92672"    # background colour of volume bar-white frost
+XPOS="455"          # horizontal positioning
+YPOS="998"          # vertical positioning
+HEIGHT="22"         # window height
+WIDTH="400"         # window width
+BAR_WIDTH="265"     # width of volume bar
+ICON=/home/zeltak/MLT/xbm/info.xbm
+#FONT="fixed"
+FONT="-*-terminus-medium-r-*-*-14-*-*-*-*-*-*-*"
+ICON_VOL=/home/zeltak/MLT/xbm/volume.xbm
+ICON_VOL_MUTE=~/vol-mute.xbm
+ICON=$ICON_VOL
+
+#Probably do not customize
+PIPE="/tmp/dvolpipe"
+
+err() {
+  echo "$1"
+  exit 1
+}
+
+usage() {
+  echo "usage: dvol [option] [argument]"
+  echo
+  echo "Options:"
+  echo "     -i, --increase - increase volume by \`argument'"
+  echo "     -d, --decrease - decrease volume by \`argument'"
+  echo "     -t, --toggle   - toggle mute on and off"
+  echo "     -h, --help     - display this"
+  exit 
+}   
+    
+#Argument Parsing
+case "$1" in 
+  '-i'|'--increase')
+    [ -z "$2" ] && err "No argument specified for increase."
+    [ -n "$(tr -d [0-9] <<<$2)" ] && err "The argument needs to be an integer."
+    AMIXARG="${2}%+"
+    ;;
+  '-d'|'--decrease')
+    [ -z "$2" ] && err "No argument specified for decrease."
+    [ -n "$(tr -d [0-9] <<<$2)" ] && err "The argument needs to be an integer."
+    AMIXARG="${2}%-"
+    ;;
+  '-t'|'--toggle')
+    AMIXARG="toggle"
+    ;;
+  ''|'-h'|'--help')
+    usage
+    ;;
+  *)
+    err "Unrecognized option \`$1', see dvol --help"
+    ;;
+esac
+
+#Actual volume changing (readability low)
+AMIXOUT="$(amixer set "$IF" "$AMIXARG" | tail -n 1)"
+MUTE="$(cut -d '[' -f 4 <<<"$AMIXOUT")"
+VOL="$(cut -d '[' -f 2 <<<"$AMIXOUT" | sed 's/%.*//g')"
+if [ "$MUTE" = "off]" ]; then
+  ICON=$ICON_VOL_MUTE
+else
+  ICON=$ICON_VOL
+fi
+
+#Using named pipe to determine whether previous call still exists
+#Also prevents multiple volume bar instances
+if [ ! -e "$PIPE" ]; then
+  mkfifo "$PIPE"
+  (dzen2 -tw "$WIDTH" -h "$HEIGHT" -x "$XPOS" -y "$YPOS" -fn "$FONT" -bg "$BG" -fg "$FG" < "$PIPE"
+   rm -f "$PIPE") &
+fi
+
+#Feed the pipe!
+(echo "$VOL" | gdbar -l "^i(${ICON})" -fg "$BAR_FG" -bg "$BAR_BG" -w "$BAR_WIDTH" ; sleep "$SECS") > "$PIPE"

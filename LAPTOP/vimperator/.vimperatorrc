@@ -1,0 +1,70 @@
+"what is the default search engine
+set defsearch=g
+set urlseparator=","
+"Hints
+set hintchars=abcdefghijklmnopqrstuvwxyz
+hi Hint font-family:Sans;font-size:15px;font-weight:bold;color:white; background-color:rgba(0, 0, 0, 0.5);border:solid 1px LightGray;
+"hi Hint               font-family: monospace; font-size: 12pt; font-weight: normal; color: #fff; background-color: #666; padding: 0px 1px; border: 1px solid #FFFFFF;
+
+
+"KEYBOARD SHORCUTS
+map vv <End>
+map ra <ESC>:reloadall<CR>
+
+"use backspace key to switch between 2 last tabs (kinda like the back button on a remote)
+map <BS>  <C-6> 
+map <a-Right> <Esc>:tabm +1<CR>
+map <a-Left> <Esc>:tabm -1<CR>
+map <F3> :tabprevious<CR>
+map <F4>  :tabnext<CR>
+
+""""""""""""extra commands with the -e- key
+
+"open links in back in sucsession 
+map ef g;b
+
+"open the bookmark bar in a new tab
+map eb  :open bookmarks<CR> 
+
+"restart firefox
+"map er  :restart<CR> 
+
+"integrate into takswarrior
+map et -js io.run("task", ["add", buffer.title,buffer.URL,"+DL"], false); dactyl.echomsg("Added task for " + buffer.title);
+
+"this sortcut is based on a boomarket with a keyword (gmt)
+map eg  :open gmt<CR> 
+
+map es  :open gra<CR> 
+
+map eq  :open qxx<CR> 
+map el  :open eng<CR> 
+
+"movment
+
+map a :tabprevious<CR>
+map s  :tabnext<CR>
+
+" h l should go through the history
+map h H
+map l L
+
+" scroll left or right
+map S <right>
+map A <left>
+
+
+"_____________________________________________________________________________________________________________________________________________
+"abrriviations
+
+"dl folders
+cabbr d1 /home/zeltak/
+cabbr d2 /home/zeltak/Downloads/
+
+ia 557 557 VFW parkway,Chestnut Hill, Boston, MA 02467
+ia .bw Best wishes <CR>Itai Kloog
+ia .at attached is the file
+
+"_____________________________________________________________________________________________________________________________________________ 
+
+

@@ -1,0 +1,2304 @@
+time 1279478656
+new [description:"check regarding SG refund" entry:"1279478656" status:"pending" uuid:"0743f396-08ab-0bd1-9aa1-25221a811622"]
+---
+time 1279594667
+new [description:"cancel car insurance honda israel" entry:"1279594667" status:"pending" uuid:"5c755fb9-858d-d1e4-cf74-e7ae451078ac"]
+---
+time 1279594705
+new [description:"check mass health" entry:"1279594705" status:"pending" uuid:"0cb801f2-66c9-ac61-acb8-5f5530c92702"]
+---
+time 1279594721
+new [description:"check Haid uni latest payment" entry:"1279594721" status:"pending" uuid:"b3f9acf8-cea3-7df8-cdc2-8edf179c371f"]
+---
+time 1279594732
+new [description:"get phd certificate Haid uni" entry:"1279594732" status:"pending" uuid:"358dd1cd-a31e-8aed-df79-a7cc163fab8d"]
+---
+time 1279594771
+new [description:"get phd certificate Haid uni" entry:"1279594771" status:"pending" uuid:"e79ab595-1cec-fd67-fa39-456d398898f8"]
+---
+time 1279638237
+new [description:"check mass health" entry:"1279638237" status:"pending" uuid:"389cb568-174f-8a1d-669b-0c8892683db6"]
+---
+time 1280237707
+old [description:"check Haid uni latest payment" entry:"1279594721" status:"pending" uuid:"b3f9acf8-cea3-7df8-cdc2-8edf179c371f"]
+new [description:"check Haifa uni latest payment" entry:"1279594721" status:"pending" uuid:"b3f9acf8-cea3-7df8-cdc2-8edf179c371f"]
+---
+time 1280771955
+new [description:"email ars technich response" entry:"1280771955" status:"pending" uuid:"897116c5-f175-70b5-d3ed-61bf3482fba8"]
+---
+time 1280771961
+new [description:"email boaz weiss" entry:"1280771961" status:"pending" uuid:"f78c46ed-663c-d970-ff2c-c21735749468"]
+---
+time 1280771974
+old [description:"email boaz weiss" entry:"1280771961" status:"pending" uuid:"f78c46ed-663c-d970-ff2c-c21735749468"]
+new [description:"email boaz weiss" entry:"1280771961" start:"1280771974" status:"pending" uuid:"f78c46ed-663c-d970-ff2c-c21735749468"]
+---
+time 1280772938
+old [description:"email ars technich response" entry:"1280771955" status:"pending" uuid:"897116c5-f175-70b5-d3ed-61bf3482fba8"]
+new [description:"email ars electronica response" entry:"1280771955" status:"pending" uuid:"897116c5-f175-70b5-d3ed-61bf3482fba8"]
+---
+time 1280844788
+old [description:"email boaz weiss" entry:"1280771961" start:"1280771974" status:"pending" uuid:"f78c46ed-663c-d970-ff2c-c21735749468"]
+new [description:"email boaz weiss" end:"1280844788" entry:"1280771961" start:"1280771974" status:"completed" uuid:"f78c46ed-663c-d970-ff2c-c21735749468"]
+---
+time 1282350327
+old [description:"email ars electronica response" entry:"1280771955" status:"pending" uuid:"897116c5-f175-70b5-d3ed-61bf3482fba8"]
+new [description:"email ars electronica response" end:"1282350326" entry:"1280771955" status:"deleted" uuid:"897116c5-f175-70b5-d3ed-61bf3482fba8"]
+---
+time 1282522407
+new [description:"find course 200 or 201 courses" entry:"1282522407" status:"pending" uuid:"3af3fb58-8182-7914-07d2-5eab7cb42295"]
+---
+time 1284256573
+new [description:"call nokia to get RTM details" entry:"1284256573" status:"pending" uuid:"3c751f98-3014-ae90-e3c1-0948240c9fbd"]
+---
+time 1284256594
+old [description:"find course 200 or 201 courses" entry:"1282522407" status:"pending" uuid:"3af3fb58-8182-7914-07d2-5eab7cb42295"]
+new [description:"find course 200 or 201 courses" end:"1284256591" entry:"1282522407" status:"deleted" uuid:"3af3fb58-8182-7914-07d2-5eab7cb42295"]
+---
+time 1284256624
+old [description:"check mass health" entry:"1279594705" status:"pending" uuid:"0cb801f2-66c9-ac61-acb8-5f5530c92702"]
+new [description:"check mass health" end:"1284256623" entry:"1279594705" status:"deleted" uuid:"0cb801f2-66c9-ac61-acb8-5f5530c92702"]
+---
+time 1284256656
+old [description:"check mass health" entry:"1279638237" status:"pending" uuid:"389cb568-174f-8a1d-669b-0c8892683db6"]
+new [description:"check mass health" end:"1284256655" entry:"1279638237" status:"deleted" uuid:"389cb568-174f-8a1d-669b-0c8892683db6"]
+---
+time 1289739491
+old [description:"call nokia to get RTM details" entry:"1284256573" status:"pending" uuid:"3c751f98-3014-ae90-e3c1-0948240c9fbd"]
+new [description:"call nokia to get RTM details" end:"1289739489" entry:"1284256573" status:"deleted" uuid:"3c751f98-3014-ae90-e3c1-0948240c9fbd"]
+---
+time 1289739525
+old [description:"check regarding SG refund" entry:"1279478656" status:"pending" uuid:"0743f396-08ab-0bd1-9aa1-25221a811622"]
+new [description:"check regarding SG refund" entry:"1279478656" status:"pending" uuid:"0743f396-08ab-0bd1-9aa1-25221a811622"]
+---
+time 1289745579
+new [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+---
+time 1289745604
+new [description:"email chen about apartment settelment" entry:"1289745604" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+---
+time 1289847916
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1289848072
+new [description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1289848958
+old [description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1289848990
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1289849187
+new [description:"check effect modification in BW study" entry:"1289849187" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1289849299
+new [description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289849334
+old [description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289849363
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289849480
+new [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1289850794
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"Uni" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1289850794
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"Uni" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1289850794
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"Uni" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1289850794
+old [description:"check effect modification in BW study" entry:"1289849187" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"check effect modification in BW study" entry:"1289849187" project:"Uni" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1289850794
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"Uni" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289850794
+old [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"Uni" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1289851007
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"Uni" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"uni" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1289851007
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"Uni" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"uni" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1289851007
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"Uni" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"uni" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1289851007
+old [description:"check effect modification in BW study" entry:"1289849187" project:"Uni" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"check effect modification in BW study" entry:"1289849187" project:"uni" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1289851007
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"Uni" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289851007
+old [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"Uni" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"uni" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1289851072
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"uni" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1289851072
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"uni" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1289851072
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"uni" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1289851091
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289851108
+old [description:"check effect modification in BW study" entry:"1289849187" project:"uni" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"check effect modification in BW study" entry:"1289849187" project:"uni" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1289851108
+old [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"uni" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"uni" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1289851326
+old [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+new [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+---
+time 1289855062
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD,mortality-AODxx" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289855083
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD,mortality-AODxx" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD,mortality-AODxx,mortality" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1289856165
+new [description:"check oil/water in car recurring:monthly" entry:"1289856165" status:"pending" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1289856208
+old [description:"check oil/water in car recurring:monthly" entry:"1289856165" status:"pending" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" entry:"1289856165" status:"pending" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1289856255
+old [description:"check oil/water" entry:"1289856165" status:"pending" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1289856259
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"-" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1289856259
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" imask:"0" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" uuid:"fe2700fa-9684-75c8-c3a4-563dbd749eb8"]
+---
+time 1289856528
+old [annotation_1289849334:"show how in the study they also got lower cooefiecetns" annotation_1289849363:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD,mortality-AODxx,mortality" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1290256031
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1290256050
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1290299954
+new [description:"create a volume osd" entry:"1290299954" status:"pending" uuid:"f24cf2b4-559a-734b-2f2a-e9a47ddfba5a"]
+---
+time 1290299966
+new [description:"create a dmenu for scrot" entry:"1290299966" status:"pending" uuid:"29585682-f2c8-a3fb-3a69-0ec6f4226a48"]
+---
+time 1290311963
+new [description:"check markers vim" entry:"1290311963" status:"pending" uuid:"33fc27cc-484a-b770-1a89-6eb8d3bf25d5"]
+---
+time 1290352815
+new [description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1290519277
+new [description:"fix replaygain mpd" entry:"1290519277" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1290961912
+new [description:"check how to suto reattach to tmux after sshlogin" entry:"1290961912" status:"pending" uuid:"911ee6c0-fcd7-0aec-de1a-f96687fb92e3"]
+---
+time 1290984432
+new [description:"keybinds for quick light/dark colorscheme change" entry:"1290984432" status:"pending" uuid:"905e76c4-0345-fff6-fe6c-af64ca0019ea"]
+---
+time 1290993672
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1290994692
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290994692" status:"pending" uuid:"a355ab09-724f-3aeb-45fd-97831b5417fc"]
+---
+time 1291141134
+new [description:"send birth weight application" entry:"1291141134" status:"pending" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1291165327
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"-" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"--" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1291165327
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1291434221
+old [description:"create a volume osd" entry:"1290299954" status:"pending" uuid:"f24cf2b4-559a-734b-2f2a-e9a47ddfba5a"]
+new [description:"create a volume osd" end:"1291434219" entry:"1290299954" status:"deleted" uuid:"f24cf2b4-559a-734b-2f2a-e9a47ddfba5a"]
+---
+time 1291434248
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290994692" status:"pending" uuid:"a355ab09-724f-3aeb-45fd-97831b5417fc"]
+new [description:"find a way to quick add a task with dmenu/other" end:"1291434247" entry:"1290994692" status:"deleted" uuid:"a355ab09-724f-3aeb-45fd-97831b5417fc"]
+---
+time 1291434270
+old [description:"keybinds for quick light/dark colorscheme change" entry:"1290984432" status:"pending" uuid:"905e76c4-0345-fff6-fe6c-af64ca0019ea"]
+new [description:"keybinds for quick light/dark colorscheme change" end:"1291434269" entry:"1290984432" status:"deleted" uuid:"905e76c4-0345-fff6-fe6c-af64ca0019ea"]
+---
+time 1291434292
+old [description:"check how to suto reattach to tmux after sshlogin" entry:"1290961912" status:"pending" uuid:"911ee6c0-fcd7-0aec-de1a-f96687fb92e3"]
+new [description:"check how to suto reattach to tmux after sshlogin" end:"1291434290" entry:"1290961912" status:"deleted" uuid:"911ee6c0-fcd7-0aec-de1a-f96687fb92e3"]
+---
+time 1291434305
+old [description:"check markers vim" entry:"1290311963" status:"pending" uuid:"33fc27cc-484a-b770-1a89-6eb8d3bf25d5"]
+new [description:"check markers vim" end:"1291434304" entry:"1290311963" status:"deleted" uuid:"33fc27cc-484a-b770-1a89-6eb8d3bf25d5"]
+---
+time 1291434983
+new [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1291468280
+new [description:"check wildmenu vim" entry:"1291468280" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1291474877
+new [description:"fix server clock" entry:"1291474877" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1291475093
+new [description:"start screen capture of bio213" entry:"1291475093" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1291490397
+old [description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1291491314
+new [description:"E-mail: Important NuevaSync account information" entry:"1291491314" status:"pending" tags:"email" uuid:"f570c86e-62f7-2c59-4c5e-68d4d5f1beba"]
+---
+time 1291504282
+new [description:"update urxvt with image support when server is live again" entry:"1291504282" status:"pending" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+---
+time 1291504334
+new [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1291505537
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1291552465
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1291560348
+new [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1291605907
+new [description:"E-mail:" entry:"1291605907" status:"pending" tags:"email" uuid:"68823f2c-853d-ed0a-3f41-5f72e49eae50"]
+---
+time 1291606766
+new [description:"E-mail: EER MINI GOLF/HOLIDAY PARTY" entry:"1291606766" status:"pending" tags:"email" uuid:"39c95414-3518-6ac5-b166-f31449e13946"]
+---
+time 1291989496
+new [description:"E-mail: =?utf-8?B?15HXk9eZ16fXqiDXqteZ15bXlA==?=" entry:"1291989495" status:"pending" tags:"email" uuid:"2863db07-028f-a674-e94e-482f5ec41d54"]
+---
+time 1292012706
+new [description:"E-mail: http" entry:"1292012706" status:"pending" tags:"email" uuid:"5b5a4eee-7e68-23a9-3e6f-ce8f6f520de5"]
+---
+time 1292012762
+old [description:"E-mail: =?utf-8?B?15HXk9eZ16fXqiDXqteZ15bXlA==?=" entry:"1291989495" status:"pending" tags:"email" uuid:"2863db07-028f-a674-e94e-482f5ec41d54"]
+new [description:"fel" entry:"1291989495" status:"pending" tags:"email" uuid:"2863db07-028f-a674-e94e-482f5ec41d54"]
+---
+time 1292012794
+old [description:"fel" entry:"1291989495" status:"pending" tags:"email" uuid:"2863db07-028f-a674-e94e-482f5ec41d54"]
+new [description:"fel" end:"1292012790" entry:"1291989495" status:"deleted" tags:"email" uuid:"2863db07-028f-a674-e94e-482f5ec41d54"]
+---
+time 1292012801
+old [description:"E-mail: EER MINI GOLF/HOLIDAY PARTY" entry:"1291606766" status:"pending" tags:"email" uuid:"39c95414-3518-6ac5-b166-f31449e13946"]
+new [description:"E-mail: EER MINI GOLF/HOLIDAY PARTY" end:"1292012799" entry:"1291606766" status:"deleted" tags:"email" uuid:"39c95414-3518-6ac5-b166-f31449e13946"]
+---
+time 1292012806
+old [description:"E-mail:" entry:"1291605907" status:"pending" tags:"email" uuid:"68823f2c-853d-ed0a-3f41-5f72e49eae50"]
+new [description:"E-mail:" end:"1292012805" entry:"1291605907" status:"deleted" tags:"email" uuid:"68823f2c-853d-ed0a-3f41-5f72e49eae50"]
+---
+time 1292038851
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"--" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292038851
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" imask:"0" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" uuid:"fe2700fa-9684-75c8-c3a4-563dbd749eb8"]
+new [description:"check oil/water" due:"1291093200" end:"1292038844" entry:"1289856165" imask:"0" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"deleted" uuid:"fe2700fa-9684-75c8-c3a4-563dbd749eb8"]
+---
+time 1292073595
+new [description:"fix osd" entry:"1292073595" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292128045
+new [description:"t shell" entry:"1292128045" status:"pending" uuid:"6c07fed0-1ebd-ebb1-dd22-fdd50f9e618c"]
+---
+time 1292128066
+old [description:"t shell" entry:"1292128045" status:"pending" uuid:"6c07fed0-1ebd-ebb1-dd22-fdd50f9e618c"]
+new [description:"t shell" end:"1292128064" entry:"1292128045" status:"deleted" uuid:"6c07fed0-1ebd-ebb1-dd22-fdd50f9e618c"]
+---
+time 1292128428
+old [description:"E-mail: Important NuevaSync account information" entry:"1291491314" status:"pending" tags:"email" uuid:"f570c86e-62f7-2c59-4c5e-68d4d5f1beba"]
+new [description:"E-mail: Important NuevaSync account information" end:"1292128426" entry:"1291491314" status:"deleted" tags:"email" uuid:"f570c86e-62f7-2c59-4c5e-68d4d5f1beba"]
+---
+time 1292128436
+old [description:"E-mail: http" entry:"1292012706" status:"pending" tags:"email" uuid:"5b5a4eee-7e68-23a9-3e6f-ce8f6f520de5"]
+new [description:"E-mail: http" end:"1292128434" entry:"1292012706" status:"deleted" tags:"email" uuid:"5b5a4eee-7e68-23a9-3e6f-ce8f6f520de5"]
+---
+time 1292128445
+old [description:"create a dmenu for scrot" entry:"1290299966" status:"pending" uuid:"29585682-f2c8-a3fb-3a69-0ec6f4226a48"]
+new [description:"create a dmenu for scrot" end:"1292128444" entry:"1290299966" status:"deleted" uuid:"29585682-f2c8-a3fb-3a69-0ec6f4226a48"]
+---
+time 1292187017
+old [description:"send birth weight application" entry:"1291141134" status:"pending" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" project:"uni" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292187160
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" project:"home" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1292187160
+old [description:"fix replaygain mpd" entry:"1290519277" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" entry:"1290519277" project:"home" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1292187160
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" project:"home" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1292187160
+old [description:"send birth weight application" entry:"1291141134" project:"uni" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292187160
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292187160
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292187160
+old [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" entry:"1291434983" project:"home" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1292187160
+old [description:"check wildmenu vim" entry:"1291468280" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" entry:"1291468280" project:"home" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1292187160
+old [description:"fix server clock" entry:"1291474877" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" entry:"1291474877" project:"home" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1292187160
+old [description:"start screen capture of bio213" entry:"1291475093" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" entry:"1291475093" project:"home" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1292187160
+old [description:"update urxvt with image support when server is live again" entry:"1291504282" status:"pending" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+new [description:"update urxvt with image support when server is live again" entry:"1291504282" project:"home" status:"pending" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+---
+time 1292187160
+old [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a mc prog to subtle" entry:"1291504334" project:"home" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292187160
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" project:"home" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1292187160
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" project:"home" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292187160
+old [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" entry:"1291560348" project:"home" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1292187160
+old [description:"fix osd" entry:"1292073595" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" entry:"1292073595" project:"home" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292187286
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" project:"home" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" project:"home" status:"pending" tags:"nixtodo" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1292187286
+old [description:"fix replaygain mpd" entry:"1290519277" project:"home" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" entry:"1290519277" project:"home" status:"pending" tags:"nixtodo" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1292187286
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" project:"home" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" project:"home" status:"pending" tags:"nixtodo" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1292187286
+old [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo,nixtodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292187286
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" tags:"nixtodo" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292187286
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" tags:"nixtodo" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292187286
+old [description:"find command to show all ips on current lan" entry:"1291434983" project:"home" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" entry:"1291434983" project:"home" status:"pending" tags:"nixtodo" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1292187286
+old [description:"check wildmenu vim" entry:"1291468280" project:"home" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" entry:"1291468280" project:"home" status:"pending" tags:"nixtodo" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1292187286
+old [description:"fix server clock" entry:"1291474877" project:"home" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" entry:"1291474877" project:"home" status:"pending" tags:"nixtodo" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1292187286
+old [description:"start screen capture of bio213" entry:"1291475093" project:"home" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" entry:"1291475093" project:"home" status:"pending" tags:"nixtodo" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1292187286
+old [description:"update urxvt with image support when server is live again" entry:"1291504282" project:"home" status:"pending" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+new [description:"update urxvt with image support when server is live again" entry:"1291504282" project:"home" status:"pending" tags:"nixtodo" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+---
+time 1292187286
+old [description:"add a mc prog to subtle" entry:"1291504334" project:"home" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a mc prog to subtle" entry:"1291504334" project:"home" status:"pending" tags:"nixtodo" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292187286
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" project:"home" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" project:"home" status:"pending" tags:"nixtodo" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1292187286
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" project:"home" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" project:"home" status:"pending" tags:"nixtodo" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292187286
+old [description:"find out about hebrew support for term" entry:"1291560348" project:"home" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" entry:"1291560348" project:"home" status:"pending" tags:"nixtodo" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1292187286
+old [description:"fix osd" entry:"1292073595" project:"home" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" entry:"1292073595" project:"home" status:"pending" tags:"nixtodo" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292188124
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" tags:"nixtodo" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292188124
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" tags:"nixtodo" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292191132
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix,nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292191139
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix,nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292191152
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" project:"home" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292191171
+old [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+new [description:"talk to nili about arnona haifa" entry:"1289745579" project:"home" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+---
+time 1292191171
+old [description:"email chen about apartment settelment" entry:"1289745604" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+new [description:"email chen about apartment settelment" entry:"1289745604" project:"home" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+---
+time 1292191199
+old [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo,nixtodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292191239
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" tags:"repchor" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292191239
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" tags:"repchor" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292192908
+old [description:"talk to nili about arnona haifa" entry:"1289745579" project:"home" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+new [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+---
+time 1292192908
+old [description:"email chen about apartment settelment" entry:"1289745604" project:"home" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+new [description:"email chen about apartment settelment" entry:"1289745604" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+---
+time 1292192908
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" tags:"mortality-AOD" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1292192908
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" tags:"mortality-AOD" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1292192908
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" tags:"mortality-AOD" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1292192908
+old [description:"check effect modification in BW study" entry:"1289849187" project:"uni" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"check effect modification in BW study" entry:"1289849187" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1292192908
+old [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"uni" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1292192908
+old [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" project:"uni" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1292192908
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" project:"home" recur:"monthly" status:"recurring" tags:"repchor" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"repchor" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292192908
+old [description:"config mutt this weekend" entry:"1290256031" project:"home" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292192908
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" project:"home" status:"pending" tags:"nixtodo" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" tags:"nixtodo" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1292192908
+old [description:"fix replaygain mpd" entry:"1290519277" project:"home" status:"pending" tags:"nixtodo" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" entry:"1290519277" status:"pending" tags:"nixtodo" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1292192908
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" project:"home" status:"pending" tags:"nixtodo" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" tags:"nixtodo" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1292192908
+old [description:"send birth weight application" entry:"1291141134" project:"home" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292192908
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" project:"home" recur:"monthly" status:"pending" tags:"repchor" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"repchor" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292192908
+old [description:"find command to show all ips on current lan" entry:"1291434983" project:"home" status:"pending" tags:"nixtodo" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" tags:"nixtodo" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1292192908
+old [description:"check wildmenu vim" entry:"1291468280" project:"home" status:"pending" tags:"nixtodo" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" entry:"1291468280" status:"pending" tags:"nixtodo" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1292192908
+old [description:"fix server clock" entry:"1291474877" project:"home" status:"pending" tags:"nixtodo" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" entry:"1291474877" status:"pending" tags:"nixtodo" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1292192908
+old [description:"start screen capture of bio213" entry:"1291475093" project:"home" status:"pending" tags:"nixtodo" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" entry:"1291475093" status:"pending" tags:"nixtodo" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1292192908
+old [description:"update urxvt with image support when server is live again" entry:"1291504282" project:"home" status:"pending" tags:"nixtodo" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+new [description:"update urxvt with image support when server is live again" entry:"1291504282" status:"pending" tags:"nixtodo" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+---
+time 1292192921
+old [description:"add a mc prog to subtle" entry:"1291504334" project:"home" status:"pending" tags:"nixtodo" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" tags:"nixtodo" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292192921
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" project:"home" status:"pending" tags:"nixtodo" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" tags:"nixtodo" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1292192921
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" project:"home" status:"pending" tags:"nixtodo" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" tags:"nixtodo" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292192921
+old [description:"find out about hebrew support for term" entry:"1291560348" project:"home" status:"pending" tags:"nixtodo" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" tags:"nixtodo" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1292192921
+old [description:"fix osd" entry:"1292073595" project:"home" status:"pending" tags:"nixtodo" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" entry:"1292073595" status:"pending" tags:"nixtodo" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292193391
+new [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" tags:"utask" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+---
+time 1292193455
+old [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"unitodo" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"unitodo,utask" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292193462
+old [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"unitodo,utask" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"utask" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292193501
+old [description:"talk to nili about arnona haifa" entry:"1289745579" status:"pending" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+new [description:"talk to nili about arnona haifa" end:"1292193500" entry:"1289745579" status:"deleted" uuid:"5f8fd66e-7c59-42b8-fc8a-c97feceb58aa"]
+---
+time 1292193508
+old [description:"email chen about apartment settelment" entry:"1289745604" status:"pending" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+new [description:"email chen about apartment settelment" end:"1292193506" entry:"1289745604" status:"deleted" uuid:"21f1d02d-b56c-fdab-ae29-82163d2cc9df"]
+---
+time 1292206939
+new [description:"E-mail: Fwd graf Fri, Dec 11, 2009 at 6" entry:"1292206939" status:"pending" tags:"email" uuid:"6364f028-9c70-9144-168e-014bdcf42fe9"]
+---
+time 1292206975
+old [description:"E-mail: Fwd graf Fri, Dec 11, 2009 at 6" entry:"1292206939" status:"pending" tags:"email" uuid:"6364f028-9c70-9144-168e-014bdcf42fe9"]
+new [description:"E-mail: Fwd graf Fri, Dec 11, 2009 at 6" end:"1292206973" entry:"1292206939" status:"deleted" tags:"email" uuid:"6364f028-9c70-9144-168e-014bdcf42fe9"]
+---
+time 1292252961
+new [description:"tell mom what to bring" entry:"1292252961" status:"pending" tags:"home" uuid:"4b39c9a8-1304-a854-429f-19bc355fed93"]
+---
+time 1292253032
+old [description:"tell mom what to bring" entry:"1292252961" status:"pending" tags:"home" uuid:"4b39c9a8-1304-a854-429f-19bc355fed93"]
+new [annotation_1292253032:"bring dates,thina,falafel mix,elmax toothpaste" description:"tell mom what to bring" entry:"1292252961" status:"pending" tags:"home" uuid:"4b39c9a8-1304-a854-429f-19bc355fed93"]
+---
+time 1292278917
+new [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"homw" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+---
+time 1292278938
+new [description:"arrange meeting with HIO at longwood" entry:"1292278938" status:"pending" uuid:"6857fdc9-387f-d536-d8d2-7eadd25af066"]
+---
+time 1292705339
+old [description:"update urxvt with image support when server is live again" entry:"1291504282" status:"pending" tags:"nixtodo" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+new [description:"update urxvt with image support when server is live again" end:"1292705338" entry:"1291504282" status:"deleted" tags:"nixtodo" uuid:"ef7a003c-eb58-b540-d128-713402ebe0bd"]
+---
+time 1292706285
+new [description:"http://espn.go.com/" entry:"1292706285" status:"pending" uuid:"3a893a71-98e6-4ae3-8e6b-11f2b9790163"]
+---
+time 1292706303
+new [description:"http://espn.go.com/" entry:"1292706303" status:"pending" uuid:"fcaf5588-81f6-3df0-d022-7204542cd64c"]
+---
+time 1292706366
+new [description:"http://espn.go.com/" entry:"1292706366" status:"pending" uuid:"11bc759a-4ad7-7313-39ae-04159e0a3ac4"]
+---
+time 1292706391
+old [description:"http://espn.go.com/" entry:"1292706285" status:"pending" uuid:"3a893a71-98e6-4ae3-8e6b-11f2b9790163"]
+new [description:"http://espn.go.com/" end:"1292706387" entry:"1292706285" status:"deleted" uuid:"3a893a71-98e6-4ae3-8e6b-11f2b9790163"]
+---
+time 1292706391
+old [description:"http://espn.go.com/" entry:"1292706303" status:"pending" uuid:"fcaf5588-81f6-3df0-d022-7204542cd64c"]
+new [description:"http://espn.go.com/" end:"1292706387" entry:"1292706303" status:"deleted" uuid:"fcaf5588-81f6-3df0-d022-7204542cd64c"]
+---
+time 1292706391
+old [description:"http://espn.go.com/" entry:"1292706366" status:"pending" uuid:"11bc759a-4ad7-7313-39ae-04159e0a3ac4"]
+new [description:"http://espn.go.com/" end:"1292706387" entry:"1292706366" status:"deleted" uuid:"11bc759a-4ad7-7313-39ae-04159e0a3ac4"]
+---
+time 1292706398
+new [description:"http://espn.go.com/" entry:"1292706398" status:"pending" uuid:"c042d94c-2de2-e0a7-d4fe-415fb619dafa"]
+---
+time 1292706615
+new [description:"http://espn.go.com/" entry:"1292706615" status:"pending" uuid:"934c591e-39c2-5bd7-a8a8-2723de4403b9"]
+---
+time 1292706812
+old [description:"http://espn.go.com/" entry:"1292706398" status:"pending" uuid:"c042d94c-2de2-e0a7-d4fe-415fb619dafa"]
+new [description:"http://espn.go.com/" end:"1292706810" entry:"1292706398" status:"deleted" uuid:"c042d94c-2de2-e0a7-d4fe-415fb619dafa"]
+---
+time 1292706812
+old [description:"http://espn.go.com/" entry:"1292706615" status:"pending" uuid:"934c591e-39c2-5bd7-a8a8-2723de4403b9"]
+new [description:"http://espn.go.com/" end:"1292706810" entry:"1292706615" status:"deleted" uuid:"934c591e-39c2-5bd7-a8a8-2723de4403b9"]
+---
+time 1292706823
+new [description:"http://www.livescore.com/default.dll?page=home" entry:"1292706823" status:"pending" uuid:"27a18564-6e27-66df-1f88-4d69bc56c8ee"]
+---
+time 1292706834
+old [description:"http://www.livescore.com/default.dll?page=home" entry:"1292706823" status:"pending" uuid:"27a18564-6e27-66df-1f88-4d69bc56c8ee"]
+new [description:"http://www.livescore.com/default.dll?page=home" end:"1292706833" entry:"1292706823" status:"deleted" uuid:"27a18564-6e27-66df-1f88-4d69bc56c8ee"]
+---
+time 1292767721
+new [description:"about:blank" entry:"1292767721" status:"pending" uuid:"294cd28a-40ce-114d-c040-6b499a1f74e9"]
+---
+time 1292767723
+new [description:"about:blank" entry:"1292767723" status:"pending" uuid:"5ecfaa77-67e0-64b9-6358-ec8fc1b63bf8"]
+---
+time 1292816017
+new [description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nixtodo" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+---
+time 1292816057
+old [description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nixtodo" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+new [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nixtodo" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+---
+time 1292865124
+old [description:"about:blank" entry:"1292767721" status:"pending" uuid:"294cd28a-40ce-114d-c040-6b499a1f74e9"]
+new [description:"about:blank" end:"1292865123" entry:"1292767721" status:"deleted" uuid:"294cd28a-40ce-114d-c040-6b499a1f74e9"]
+---
+time 1292865124
+old [description:"about:blank" entry:"1292767723" status:"pending" uuid:"5ecfaa77-67e0-64b9-6358-ec8fc1b63bf8"]
+new [description:"about:blank" end:"1292865123" entry:"1292767723" status:"deleted" uuid:"5ecfaa77-67e0-64b9-6358-ec8fc1b63bf8"]
+---
+time 1292902807
+new [description:"check about source dmenurc" entry:"1292902807" status:"pending" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+---
+time 1292903767
+new [description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292903777
+old [description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292903802
+old [annotation_1292903777:"9" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292903802:"Hot Tub Time Machine" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292903818
+old [annotation_1292903777:"9" annotation_1292903802:"Hot Tub Time Machine" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292903802:"Hot Tub Time Machine" annotation_1292903818:"machete" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292956295
+new [description:"about:blank" entry:"1292956295" status:"pending" uuid:"5fe7b24a-3f0c-d341-5abf-a9be2ef379cc"]
+---
+time 1292967740
+old [description:"about:blank" entry:"1292956295" status:"pending" uuid:"5fe7b24a-3f0c-d341-5abf-a9be2ef379cc"]
+new [description:"about:blank" end:"1292967739" entry:"1292956295" status:"deleted" uuid:"5fe7b24a-3f0c-d341-5abf-a9be2ef379cc"]
+---
+time 1292967870
+new [description:"http://en.wikipedia.org/wiki/Special:Search" entry:"1292967870" status:"pending" uuid:"b08c9257-d0bb-363e-ce95-33b8d2f5a425"]
+---
+time 1292967897
+old [description:"http://en.wikipedia.org/wiki/Special:Search" entry:"1292967870" status:"pending" uuid:"b08c9257-d0bb-363e-ce95-33b8d2f5a425"]
+new [description:"http://en.wikipedia.org/wiki/Special:Search" end:"1292967895" entry:"1292967870" status:"deleted" uuid:"b08c9257-d0bb-363e-ce95-33b8d2f5a425"]
+---
+time 1292984742
+old [description:"fix server clock" entry:"1291474877" status:"pending" tags:"nixtodo" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" entry:"1291474877" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1292984742
+old [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nixtodo" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+new [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+---
+time 1292984776
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nixtodo" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292984776
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" tags:"nixtodo" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1292984776
+old [description:"fix replaygain mpd" entry:"1290519277" status:"pending" tags:"nixtodo" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" entry:"1290519277" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1292984776
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" tags:"nixtodo" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1292984776
+old [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" tags:"nixtodo" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1292984776
+old [description:"check wildmenu vim" entry:"1291468280" status:"pending" tags:"nixtodo" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" entry:"1291468280" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1292984776
+old [description:"start screen capture of bio213" entry:"1291475093" status:"pending" tags:"nixtodo" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" entry:"1291475093" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1292984776
+old [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" tags:"nixtodo" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292984776
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" tags:"nixtodo" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1292984776
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" tags:"nixtodo" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292984776
+old [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" tags:"nixtodo" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1292984776
+old [description:"fix osd" entry:"1292073595" status:"pending" tags:"nixtodo" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" entry:"1292073595" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292984783
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1292984783
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" tags:"nix" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1292984783
+old [description:"fix replaygain mpd" entry:"1290519277" status:"pending" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" entry:"1290519277" status:"pending" tags:"nix" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1292984783
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" tags:"nix" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1292984783
+old [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" tags:"nix" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1292984783
+old [description:"check wildmenu vim" entry:"1291468280" status:"pending" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" entry:"1291468280" status:"pending" tags:"nix" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1292984783
+old [description:"fix server clock" entry:"1291474877" status:"pending" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" entry:"1291474877" status:"pending" tags:"nix" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1292984783
+old [description:"start screen capture of bio213" entry:"1291475093" status:"pending" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" entry:"1291475093" status:"pending" tags:"nix" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1292984783
+old [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" tags:"nix" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292984783
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" tags:"nix" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1292984783
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" tags:"nix" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292984783
+old [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" tags:"nix" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1292984783
+old [description:"fix osd" entry:"1292073595" status:"pending" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" entry:"1292073595" status:"pending" tags:"nix" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292984783
+old [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+new [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nix" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+---
+time 1292985161
+old [annotation_1292903777:"9" annotation_1292903802:"Hot Tub Time Machine" annotation_1292903818:"machete" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292903818:"machete" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292985170
+old [annotation_1292903777:"9" annotation_1292903818:"machete" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292985179
+old [annotation_1292903777:"9" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292985179:"hot tub time machine" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292985282
+old [description:"fix osd" entry:"1292073595" status:"pending" tags:"nix" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+new [description:"fix osd" end:"1292985280" entry:"1292073595" status:"deleted" tags:"nix" uuid:"a919dda5-9a12-3970-5adc-ac14e6bd8b32"]
+---
+time 1292985538
+old [description:"check about source dmenurc" entry:"1292902807" status:"pending" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+new [description:"check about source dmenurc" entry:"1292902807" status:"pending" tags:"nix" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+---
+time 1292985585
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"repchor" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"repchor,home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292985585
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"repchor" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"repchor,home" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292985585
+old [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"homw" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+new [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"homw,home" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+---
+time 1292985585
+old [description:"arrange meeting with HIO at longwood" entry:"1292278938" status:"pending" uuid:"6857fdc9-387f-d536-d8d2-7eadd25af066"]
+new [description:"arrange meeting with HIO at longwood" entry:"1292278938" status:"pending" tags:"home" uuid:"6857fdc9-387f-d536-d8d2-7eadd25af066"]
+---
+time 1292985585
+old [annotation_1292903777:"9" annotation_1292985179:"hot tub time machine" description:"mov2dl" entry:"1292903767" status:"pending" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292985179:"hot tub time machine" description:"mov2dl" entry:"1292903767" status:"pending" tags:"home" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1292985594
+old [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"homw,home" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+new [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"home" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+---
+time 1292985623
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"repchor,home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1292985623
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"repchor,home" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"home" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1292985632
+old [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" tags:"utask" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+new [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+---
+time 1292985637
+old [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+new [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" tags:"uni" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+---
+time 1292985697
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" tags:"mortality-AOD" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1292985697
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" tags:"mortality-AOD" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1292985887
+old [description:"check effect modification in BW study" entry:"1289849187" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"- Birth_weight" entry:"1289849187" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1292985887
+old [description:"add center data from BW sas script to notecase uni software" entry:"1289849480" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"- Birth_weight" entry:"1289849480" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1292985895
+old [description:"- Birth_weight" entry:"1289849187" status:"pending" tags:"Birth_weight" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"- Birth_weight" entry:"1289849187" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1292985895
+old [description:"- Birth_weight" entry:"1289849480" status:"pending" tags:"Birth_weight" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"- Birth_weight" entry:"1289849480" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1292985912
+old [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" tags:"mortality-AOD" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1292985919
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" tags:"mortality-AOD" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1292985931
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" tags:"uni" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1292985931
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" tags:"uni" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1292985931
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" tags:"uni" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1292985931
+old [description:"- Birth_weight" entry:"1289849187" status:"pending" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"- Birth_weight" entry:"1289849187" status:"pending" tags:"uni" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1292985931
+old [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" tags:"uni" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1292985931
+old [description:"- Birth_weight" entry:"1289849480" status:"pending" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"- Birth_weight" entry:"1289849480" status:"pending" tags:"uni" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1292985945
+old [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"utask" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" status:"pending" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292985948
+old [description:"send birth weight application" entry:"1291141134" status:"pending" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"uni" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1292986314
+old [description:"- Birth_weight" entry:"1289849187" status:"pending" tags:"uni" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+new [description:"- Birth_weight" end:"1292986306" entry:"1289849187" status:"deleted" tags:"uni" uuid:"0bc039fb-75ae-f669-b0b5-5c254dee55d5"]
+---
+time 1292986327
+old [description:"- Birth_weight" entry:"1289849480" status:"pending" tags:"uni" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+new [description:"- Birth_weight" end:"1292986326" entry:"1289849480" status:"deleted" tags:"uni" uuid:"fbb3ccb8-0ab2-7cb6-79a1-325614cbce5b"]
+---
+time 1292986558
+old [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" status:"pending" tags:"uni" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+new [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" project:"haifa_uni" status:"pending" tags:"uni" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+---
+time 1292986595
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" status:"pending" tags:"uni" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"mortality" status:"pending" tags:"uni" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1292986595
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" status:"pending" tags:"uni" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"mortality" status:"pending" tags:"uni" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1292986595
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" status:"pending" tags:"uni" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"mortality" status:"pending" tags:"uni" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1292986595
+old [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" status:"pending" tags:"uni" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"mortality" status:"pending" tags:"uni" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1292986709
+old [description:"add a mc prog to subtle" entry:"1291504334" status:"pending" tags:"nix" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a midnight commander  prog to subtle" entry:"1291504334" status:"pending" tags:"nix" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1292986730
+old [description:"check about an option for a yank penta to task option" entry:"1291552465" status:"pending" tags:"nix" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+new [description:"check about an option for a yank penta to task option" end:"1292986730" entry:"1291552465" status:"completed" tags:"nix" uuid:"f698b5cf-18f7-d856-1216-b248eaff020f"]
+---
+time 1292986752
+old [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" entry:"1292816017" status:"pending" tags:"nix" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+new [annotation_1292816057:"key-primary/meta-key menu/meta-alt-key/secondary" description:"orginaize menus" end:"1292986752" entry:"1292816017" status:"completed" tags:"nix" uuid:"3fb77e61-03b0-085c-a197-dc6c4e1c958c"]
+---
+time 1292990056
+new [description:"look into task custom reports" entry:"1292990056" status:"pending" tags:"nix" uuid:"cfd51df0-3e85-917b-44b7-46f1bd83e23b"]
+---
+time 1293044079
+new [description:"give notecase some love" entry:"1293044079" status:"pending" tags:"nix" uuid:"095f77b5-134a-5d6b-c515-e0da5b92bccb"]
+---
+time 1293067143
+new [description:"http://www.clear.com/callnow/call?cpao=111&cpca=BOS+Brand&cpag=Brand++Internet&kw=clear+internet&open;e&close;&s_kwcid=TC|9631|clear%20internet||S|e|6765855715&gclid=CNja3qGagaYCFYHc4AodpTq3nw#" entry:"1293067143" status:"pending" uuid:"1f670599-3240-ae59-9b1e-6a672d667128"]
+---
+time 1293068146
+old [description:"fix replaygain mpd" entry:"1290519277" status:"pending" tags:"nix" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+new [description:"fix replaygain mpd" end:"1293068145" entry:"1290519277" status:"deleted" tags:"nix" uuid:"03ea3a33-21fa-0415-d09c-9fe2b1516c36"]
+---
+time 1293392716
+new [description:"look into fonts" entry:"1293392716" status:"pending" tags:"nix" uuid:"c031fa9e-f3da-0077-970f-11df6132cd38"]
+---
+time 1293400545
+new [description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+---
+time 1293400564
+old [description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+new [annotation_1293400564:"vid card" description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+---
+time 1293400575
+old [annotation_1293400564:"vid card" description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+new [annotation_1293400564:"vid card" annotation_1293400575:"bluetooth headset" description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+---
+time 1293424759
+new [description:"complete cheatsheet dmenu" entry:"1293424759" status:"pending" tags:"nix" uuid:"6d1c747c-d132-492c-6bbf-bc51b49e0996"]
+---
+time 1293649274
+old [description:"http://www.clear.com/callnow/call?cpao=111&cpca=BOS+Brand&cpag=Brand++Internet&kw=clear+internet&open;e&close;&s_kwcid=TC|9631|clear%20internet||S|e|6765855715&gclid=CNja3qGagaYCFYHc4AodpTq3nw#" entry:"1293067143" status:"pending" uuid:"1f670599-3240-ae59-9b1e-6a672d667128"]
+new [description:"http://www.clear.com/callnow/call?cpao=111&cpca=BOS+Brand&cpag=Brand++Internet&kw=clear+internet&open;e&close;&s_kwcid=TC|9631|clear%20internet||S|e|6765855715&gclid=CNja3qGagaYCFYHc4AodpTq3nw#" end:"1293649273" entry:"1293067143" status:"deleted" uuid:"1f670599-3240-ae59-9b1e-6a672d667128"]
+---
+time 1293728713
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X-" recur:"monthly" status:"recurring" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X--" recur:"monthly" status:"recurring" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1293728713
+new [description:"check oil/water" due:"1296363600" entry:"1289856165" imask:"2" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"home" uuid:"a22a34e5-1a09-d559-a1af-eb111bc56340"]
+---
+time 1293804564
+old [description:"check oil/water" due:"1291093200" entry:"1289856165" mask:"X--" recur:"monthly" status:"recurring" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil/water" due:"1291093200" end:"1293804553" entry:"1289856165" mask:"X--" recur:"monthly" status:"deleted" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1293804564
+old [description:"check oil/water" due:"1293685200" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"home" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+new [description:"check oil/water" due:"1293685200" end:"1293804553" entry:"1289856165" imask:"1" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"deleted" tags:"home" uuid:"a362ea09-02fa-3f4d-e769-900cdf078182"]
+---
+time 1293804610
+old [description:"fix server clock" entry:"1291474877" status:"pending" tags:"nix" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+new [description:"fix server clock" end:"1293804609" entry:"1291474877" status:"deleted" tags:"nix" uuid:"eb858666-4147-9119-5cad-3c5808749187"]
+---
+time 1293808541
+old [description:"look into task custom reports" entry:"1292990056" status:"pending" tags:"nix" uuid:"cfd51df0-3e85-917b-44b7-46f1bd83e23b"]
+new [description:"look into task custom reports" end:"1293808540" entry:"1292990056" status:"deleted" tags:"nix" uuid:"cfd51df0-3e85-917b-44b7-46f1bd83e23b"]
+---
+time 1293809581
+old [description:"check wildmenu vim" entry:"1291468280" status:"pending" tags:"nix" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+new [description:"check wildmenu vim" end:"1293809580" entry:"1291468280" status:"deleted" tags:"nix" uuid:"b9031ffc-c3e3-9a47-bc4c-be50a4d3a8c5"]
+---
+time 1293810939
+new [description:"add command to auto del tmp folder every week" entry:"1293810939" status:"pending" tags:"pro:nix" uuid:"1c838a77-6893-13ea-de77-ab9cbeee2943"]
+---
+time 1293810954
+old [description:"add command to auto del tmp folder every week" entry:"1293810939" status:"pending" tags:"pro:nix" uuid:"1c838a77-6893-13ea-de77-ab9cbeee2943"]
+new [description:"add command to auto del tmp folder every week" end:"1293810953" entry:"1293810939" status:"deleted" tags:"pro:nix" uuid:"1c838a77-6893-13ea-de77-ab9cbeee2943"]
+---
+time 1293810965
+new [description:"add command to auto del tmp folder every week" entry:"1293810965" status:"pending" tags:"nix" uuid:"a26edd18-d904-fa95-1cc7-642c4bdee7d8"]
+---
+time 1293817619
+old [description:"add a midnight commander  prog to subtle" entry:"1291504334" status:"pending" tags:"nix" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+new [description:"add a midnight commander  prog to subtle" end:"1293817618" entry:"1291504334" status:"deleted" tags:"nix" uuid:"0ab21d2d-5571-7b47-52bc-ffbe5adecfdc"]
+---
+time 1293819648
+old [description:"check about source dmenurc" entry:"1292902807" status:"pending" tags:"nix" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+new [description:"check about source dmenurc" end:"1293819646" entry:"1292902807" status:"deleted" tags:"nix" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+---
+time 1293826795
+old [description:"check about source dmenurc" end:"1293819646" entry:"1292902807" status:"deleted" tags:"nix" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+new [description:"check about source dmenurc" end:"1293819646" entry:"1292902807" status:"deleted" tags:"nix" uuid:"a0a6bbae-462c-781f-6d12-32b40b789693"]
+---
+time 1293848452
+old [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" entry:"1290352815" status:"pending" tags:"nix" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+new [annotation_1291490397:"www.taskwarrior.org" description:"look into vim abbriviations" end:"1293848451" entry:"1290352815" status:"deleted" tags:"nix" uuid:"07238424-0568-92e6-ebe0-4c8a5922cdcc"]
+---
+time 1293848525
+old [description:"find a way to quick add a task with dmenu/other" entry:"1290993672" status:"pending" tags:"nix" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+new [description:"find a way to quick add a task with dmenu/other" end:"1293848524" entry:"1290993672" status:"deleted" tags:"nix" uuid:"e778026e-4592-e1e6-0053-98988675abd9"]
+---
+time 1293884802
+new [description:"check about vim and latex and vim and scientific papers" entry:"1293884802" status:"pending" tags:"nix" uuid:"9babaaeb-f153-ae86-4807-9d4d0967cde5"]
+---
+time 1293911329
+new [description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1293911841
+old [description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+new [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1293911934
+old [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+new [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1293911944
+old [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+new [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" annotation_1293911944:"check source mutt hotkey" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1293912416
+old [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" annotation_1293911944:"check source mutt hotkey" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+new [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" annotation_1293911944:"check source mutt hotkey" annotation_1293912416:"check how to have contacts hotkeys where pressing it auto brings up vim" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1293934437
+new [description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+---
+time 1293934468
+old [description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+new [annotation_1293934468:"check about save to predefined folder with no gtk save gui" description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+---
+time 1293934483
+old [annotation_1293934468:"check about save to predefined folder with no gtk save gui" description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+new [annotation_1293934468:"check about save to predefined folder with no gtk save gui" annotation_1293934483:"check about bookmark into specific folders" description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+---
+time 1294113141
+new [description:"get the vim last line to appear only when pressing: like in penta" entry:"1294113141" status:"pending" tags:"nix" uuid:"d1e4db23-15b4-43f7-40a5-d0d2c9f6a598"]
+---
+time 1294115983
+new [description:"check about sessions in vim" entry:"1294115983" status:"pending" uuid:"bd4f1da3-2d8e-d6c6-5db3-c068e3f2e0fa"]
+---
+time 1294579516
+new [description:"create botton pop up dzen" entry:"1294579516" status:"pending" uuid:"ccc5295b-42ef-a7ea-4d93-4a44c5e4cfa8"]
+---
+time 1294579539
+new [description:"create botton pop up dzenconky info bar" entry:"1294579539" status:"pending" tags:"nix" uuid:"6ada9859-0adb-d94e-43e6-e20d9846c523"]
+---
+time 1294805048
+old [description:"check thesis for Boris" due:"1294612591" entry:"1292193391" project:"haifa_uni" status:"pending" tags:"uni" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+new [description:"check thesis for Boris" due:"1294612591" end:"1294805047" entry:"1292193391" project:"haifa_uni" status:"deleted" tags:"uni" uuid:"79c793b7-43c1-eabf-bfa1-7419147be946"]
+---
+time 1294805163
+old [description:"send birth weight application" entry:"1291141134" status:"pending" tags:"uni" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+new [description:"send birth weight application" end:"1294805162" entry:"1291141134" status:"deleted" tags:"uni" uuid:"c7215ba7-89a6-15b0-a4bc-903d0349d37a"]
+---
+time 1294805185
+old [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" entry:"1289849299" project:"mortality" status:"pending" tags:"uni" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+new [annotation_1289797200:"show how in the study they also got lower cooefiecetns" annotation_1289797201:"in addition the avaerage size in LA of counties is bigger compared to boston explaining also our low coeefiecnts" description:"add east LA time series paper to mortality paper" end:"1294805185" entry:"1289849299" project:"mortality" status:"completed" tags:"uni" uuid:"9d9cbdf6-f4a0-6de7-4d2e-17b10da33bdd"]
+---
+time 1294805209
+old [description:"check about sessions in vim" entry:"1294115983" status:"pending" uuid:"bd4f1da3-2d8e-d6c6-5db3-c068e3f2e0fa"]
+new [description:"check about sessions in vim" entry:"1294115983" status:"pending" tags:"nix" uuid:"bd4f1da3-2d8e-d6c6-5db3-c068e3f2e0fa"]
+---
+time 1294805209
+old [description:"create botton pop up dzen" entry:"1294579516" status:"pending" uuid:"ccc5295b-42ef-a7ea-4d93-4a44c5e4cfa8"]
+new [description:"create botton pop up dzen" entry:"1294579516" status:"pending" tags:"nix" uuid:"ccc5295b-42ef-a7ea-4d93-4a44c5e4cfa8"]
+---
+time 1294805316
+old [description:"create botton pop up dzen" entry:"1294579516" status:"pending" tags:"nix" uuid:"ccc5295b-42ef-a7ea-4d93-4a44c5e4cfa8"]
+new [description:"create botton pop up dzen" end:"1294805316" entry:"1294579516" status:"deleted" tags:"nix" uuid:"ccc5295b-42ef-a7ea-4d93-4a44c5e4cfa8"]
+---
+time 1294835147
+new [description:"check about adding euro clock to tmux/weechat in the bar somwher" entry:"1294835147" status:"pending" tags:"nix" uuid:"f3a86090-f6a2-9e6c-9bd4-312d0f3efcff"]
+---
+time 1295273267
+old [description:"give notecase some love" entry:"1293044079" status:"pending" tags:"nix" uuid:"095f77b5-134a-5d6b-c515-e0da5b92bccb"]
+new [description:"give notecase some love" entry:"1293044079" start:"1295273267" status:"pending" tags:"nix" uuid:"095f77b5-134a-5d6b-c515-e0da5b92bccb"]
+---
+time 1295273267
+old [description:"give notecase some love" entry:"1293044079" start:"1295273267" status:"pending" tags:"nix" uuid:"095f77b5-134a-5d6b-c515-e0da5b92bccb"]
+new [description:"give notecase some love" end:"1295273267" entry:"1293044079" start:"1295273267" status:"completed" tags:"nix" uuid:"095f77b5-134a-5d6b-c515-e0da5b92bccb"]
+---
+time 1295443537
+new [description:"test vitek" entry:"1295443537" status:"pending" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+---
+time 1295443607
+new [description:"task finish mc skin FIA" entry:"1295443607" status:"pending" tags:"nix" uuid:"0870ba90-df53-033b-e808-fefeea926b86"]
+---
+time 1295444173
+old [description:"test vitek" entry:"1295443537" status:"pending" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+new [description:"test vitek" entry:"1295443537" status:"pending" tags:"nix" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+---
+time 1295444193
+old [description:"test vitek" entry:"1295443537" status:"pending" tags:"nix" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+new [description:"test vitek" entry:"1295443537" status:"pending" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+---
+time 1295444213
+old [description:"test vitek" entry:"1295443537" status:"pending" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+new [description:"test vitek" entry:"1295443537" status:"pending" tags:"nix" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+---
+time 1295448314
+new [description:"dl deep purple in rock" entry:"1295448314" status:"pending" uuid:"b8635f2f-decd-7511-27da-f46d57b29214"]
+---
+time 1296330240
+old [description:"task finish mc skin FIA" entry:"1295443607" status:"pending" tags:"nix" uuid:"0870ba90-df53-033b-e808-fefeea926b86"]
+new [description:"task finish mc skin FIA" end:"1296330235" entry:"1295443607" status:"deleted" tags:"nix" uuid:"0870ba90-df53-033b-e808-fefeea926b86"]
+---
+time 1296336137
+new [description:"http://www.imdb.com/title/tt1250777/" entry:"1296336137" status:"pending" uuid:"23991b48-5603-a858-3521-db0fcfbc812a"]
+---
+time 1296336466
+old [description:"http://www.imdb.com/title/tt1250777/" entry:"1296336137" status:"pending" uuid:"23991b48-5603-a858-3521-db0fcfbc812a"]
+new [description:"http://www.imdb.com/title/tt1250777/" end:"1296336465" entry:"1296336137" status:"deleted" uuid:"23991b48-5603-a858-3521-db0fcfbc812a"]
+---
+time 1296336798
+new [description:"tststststs" entry:"1296336798" status:"pending" tags:"nix" uuid:"6f737630-5753-df69-cfc6-50cac5732988"]
+---
+time 1296337288
+new [description:"http://www.imdb.com/title/tt1250777/" entry:"1296337288" status:"pending" tags:"DL" uuid:"d5b7b370-9813-e29a-0c00-ab73f49df6cc"]
+---
+time 1296339860
+new [description:"undefined" entry:"1296339860" status:"pending" tags:"DL" uuid:"ae87c243-c8c1-a985-7019-9a60311a272c"]
+---
+time 1296339879
+new [description:"undefined" entry:"1296339879" status:"pending" tags:"DL" uuid:"a381eb1c-8c58-7315-da2a-97f07d6a1d5b"]
+---
+time 1296339923
+old [description:"http://www.imdb.com/title/tt1250777/" entry:"1296337288" status:"pending" tags:"DL" uuid:"d5b7b370-9813-e29a-0c00-ab73f49df6cc"]
+new [description:"http://www.imdb.com/title/tt1250777/" end:"1296339919" entry:"1296337288" status:"deleted" tags:"DL" uuid:"d5b7b370-9813-e29a-0c00-ab73f49df6cc"]
+---
+time 1296339923
+old [description:"undefined" entry:"1296339860" status:"pending" tags:"DL" uuid:"ae87c243-c8c1-a985-7019-9a60311a272c"]
+new [description:"undefined" end:"1296339919" entry:"1296339860" status:"deleted" tags:"DL" uuid:"ae87c243-c8c1-a985-7019-9a60311a272c"]
+---
+time 1296339923
+old [description:"undefined" entry:"1296339879" status:"pending" tags:"DL" uuid:"a381eb1c-8c58-7315-da2a-97f07d6a1d5b"]
+new [description:"undefined" end:"1296339919" entry:"1296339879" status:"deleted" tags:"DL" uuid:"a381eb1c-8c58-7315-da2a-97f07d6a1d5b"]
+---
+time 1296339928
+new [description:"PKGBUILD - ArchWiki" entry:"1296339928" status:"pending" tags:"DL" uuid:"38a1d810-9a77-16bd-c38a-64a63de599ac"]
+---
+time 1296340064
+new [description:"tst anno rrr" entry:"1296340064" status:"pending" tags:"DL" uuid:"9a9bd7dd-c52b-82c8-9e8a-777a2944b4f4"]
+---
+time 1296340196
+new [description:"Kick-Ass (2010) - IMDb http://www.imdb.com/title/tt1250777/" entry:"1296340196" status:"pending" tags:"DL" uuid:"aa207824-3b39-5824-227b-7aa690e126ac"]
+---
+time 1296340345
+old [description:"PKGBUILD - ArchWiki" entry:"1296339928" status:"pending" tags:"DL" uuid:"38a1d810-9a77-16bd-c38a-64a63de599ac"]
+new [description:"PKGBUILD - ArchWiki" end:"1296340337" entry:"1296339928" status:"deleted" tags:"DL" uuid:"38a1d810-9a77-16bd-c38a-64a63de599ac"]
+---
+time 1296340345
+old [description:"tst anno rrr" entry:"1296340064" status:"pending" tags:"DL" uuid:"9a9bd7dd-c52b-82c8-9e8a-777a2944b4f4"]
+new [description:"tst anno rrr" end:"1296340337" entry:"1296340064" status:"deleted" tags:"DL" uuid:"9a9bd7dd-c52b-82c8-9e8a-777a2944b4f4"]
+---
+time 1296340409
+new [description:"BBC - BBC Two Programmes - Arctic with Bruce Parry http://www.bbc.co.uk/programmes/b00xgh30" entry:"1296340409" status:"pending" tags:"DL" uuid:"37a60655-820f-4e3d-4100-c459ba1a2056"]
+---
+time 1296340423
+new [description:"Tekkon kinkur�to (2006) - IMDb http://www.imdb.com/title/tt0831888/" entry:"1296340423" status:"pending" tags:"DL" uuid:"8ec118ec-cd64-038b-ab09-1470dfc2ead6"]
+---
+time 1296340424
+new [description:"Paprika (2006) - IMDb http://www.imdb.com/title/tt0851578/" entry:"1296340424" status:"pending" tags:"DL" uuid:"aefd0950-fb5f-a6af-6712-388830e5e888"]
+---
+time 1296342298
+new [description:"Journey to the Edge of the Universe | National Geographic Channel http://channel.nationalgeographic.com/episode/journey-to-the-edge-of-the-universe-3023" entry:"1296342298" status:"pending" tags:"DL" uuid:"1449587a-ccf2-4435-ed1f-20a71a154cd5"]
+---
+time 1296342324
+new [description:"BBC - BBC Four Programmes - The Secret Life of Chaos http://www.bbc.co.uk/programmes/b00pv1c3" entry:"1296342324" status:"pending" tags:"DL" uuid:"01457c4c-98cd-162d-d299-50ff892a3be3"]
+---
+time 1296342405
+new [description:"9 (2009) - IMDb http://www.imdb.com/title/tt0472033/" entry:"1296342405" status:"pending" tags:"DL" uuid:"311abdd5-c95c-ac76-bdb3-46c331c76749"]
+---
+time 1296342415
+old [annotation_1292903777:"9" annotation_1292985179:"hot tub time machine" description:"mov2dl" entry:"1292903767" status:"pending" tags:"home" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+new [annotation_1292903777:"9" annotation_1292985179:"hot tub time machine" description:"mov2dl" end:"1296342414" entry:"1292903767" status:"deleted" tags:"home" uuid:"b1927a5b-33aa-f3e0-a8bd-f37fb7a3d5f8"]
+---
+time 1296681232
+old [description:"Kick-Ass (2010) - IMDb http://www.imdb.com/title/tt1250777/" entry:"1296340196" status:"pending" tags:"DL" uuid:"aa207824-3b39-5824-227b-7aa690e126ac"]
+new [description:"Kick-Ass (2010) - IMDb http://www.imdb.com/title/tt1250777/" end:"1296681222" entry:"1296340196" status:"deleted" tags:"DL" uuid:"aa207824-3b39-5824-227b-7aa690e126ac"]
+---
+time 1296681232
+old [description:"BBC - BBC Two Programmes - Arctic with Bruce Parry http://www.bbc.co.uk/programmes/b00xgh30" entry:"1296340409" status:"pending" tags:"DL" uuid:"37a60655-820f-4e3d-4100-c459ba1a2056"]
+new [description:"BBC - BBC Two Programmes - Arctic with Bruce Parry http://www.bbc.co.uk/programmes/b00xgh30" end:"1296681222" entry:"1296340409" status:"deleted" tags:"DL" uuid:"37a60655-820f-4e3d-4100-c459ba1a2056"]
+---
+time 1296847573
+new [description:"A Prophet (2009) - IMDb http://www.imdb.com/title/tt1235166/" entry:"1296847573" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1296953829
+new [description:"PURE REASON REVOLUTION The Dark Third music reviews and MP3 http://www.progarchives.com/album.asp?id=11810" entry:"1296953829" status:"pending" tags:"DL" uuid:"7f91270a-b9ab-15ed-c0ee-1f6f75e223ea"]
+---
+time 1297050393
+new [description:"HOME - a film by Yann Arthus-Bertrand http://www.homethemovie.org/" entry:"1297050393" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1297205379
+new [description:"Shutter Island (2010) - IMDb http://www.imdb.com/title/tt1130884/" entry:"1297205379" status:"pending" tags:"DL" uuid:"14e49e7a-09ef-ef0e-f7ee-3893401f53a7"]
+---
+time 1297273249
+new [description:"The Expendables (2010) - IMDb http://www.imdb.com/title/tt1320253/" entry:"1297273249" status:"pending" tags:"DL" uuid:"7023d0fe-861f-8aaf-6105-0335c015dec4"]
+---
+time 1297396976
+new [description:"set cron job to empty ztmp/screens for files above 2 weeks old" entry:"1297396976" status:"pending" tags:"nix" uuid:"e8dcef26-d79b-e6cc-c75d-1267cda48276"]
+---
+time 1297397160
+old [description:"arrange meeting with HIO at longwood" entry:"1292278938" status:"pending" tags:"home" uuid:"6857fdc9-387f-d536-d8d2-7eadd25af066"]
+new [description:"arrange meeting with HIO at longwood" end:"1297397160" entry:"1292278938" status:"completed" tags:"home" uuid:"6857fdc9-387f-d536-d8d2-7eadd25af066"]
+---
+time 1297397171
+old [description:"add antonella results in email to the mortality paper" entry:"1289847916" project:"mortality" status:"pending" tags:"uni" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+new [description:"add antonella results in email to the mortality paper" end:"1297397171" entry:"1289847916" project:"mortality" status:"completed" tags:"uni" uuid:"489fb0d0-6302-c88a-0458-79e96c141cc5"]
+---
+time 1297397181
+old [description:"check about regression calibration for mixed model?" entry:"1289848990" project:"mortality" status:"pending" tags:"uni" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+new [description:"check about regression calibration for mixed model?" end:"1297397181" entry:"1289848990" project:"mortality" status:"completed" tags:"uni" uuid:"80d99476-51d3-4aa2-d46c-218aa8912e8a"]
+---
+time 1297397190
+old [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" entry:"1289848072" project:"mortality" status:"pending" tags:"uni" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+new [annotation_1289848958:"perhapd a scatter plot of predicated vs observed for both season?" description:"check what joel wanted with the cold-hot season to raise r2" end:"1297397190" entry:"1289848072" project:"mortality" status:"completed" tags:"uni" uuid:"9af13fe5-5f1c-eb46-0063-6abdf300b7f5"]
+---
+time 1297397286
+new [description:"read vittk manual" entry:"1297397286" status:"pending" tags:"nix" uuid:"b497c0ef-4a94-f85a-eb35-0b1f2818b606"]
+---
+time 1297397304
+old [annotation_1292253032:"bring dates,thina,falafel mix,elmax toothpaste" description:"tell mom what to bring" entry:"1292252961" status:"pending" tags:"home" uuid:"4b39c9a8-1304-a854-429f-19bc355fed93"]
+new [annotation_1292253032:"bring dates,thina,falafel mix,elmax toothpaste" description:"tell mom what to bring" end:"1297397304" entry:"1292252961" status:"completed" tags:"home" uuid:"4b39c9a8-1304-a854-429f-19bc355fed93"]
+---
+time 1297634756
+new [description:"True Grit (2010) - IMDb http://www.imdb.com/title/tt1403865/" entry:"1297634756" status:"pending" tags:"DL" uuid:"4542be8e-3fd5-5df7-1c46-bdde1acca27e"]
+---
+time 1298145845
+old [description:"tststststs" entry:"1296336798" status:"pending" tags:"nix" uuid:"6f737630-5753-df69-cfc6-50cac5732988"]
+new [description:"tststststs" end:"1298145845" entry:"1296336798" status:"completed" tags:"nix" uuid:"6f737630-5753-df69-cfc6-50cac5732988"]
+---
+time 1298828861
+new [description:"http://scsys.co.uk:8002/90207?tx=on&submit=Format+it%22" entry:"1298828861" status:"pending" tags:"DL" uuid:"34f3594e-49f9-4643-9408-f7da210a615a"]
+---
+time 1313112211
+new [description:"prepare poster isee" entry:"1313112211" status:"pending" uuid:"04657f88-6ce0-9fcf-3853-ec377cd541b4"]
+---
+time 1313457841
+new [description:"dpod android - Google Search http://www.google.com/search?q=dpod+android&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" entry:"1313457841" status:"pending" tags:"DL" uuid:"c2866109-1483-0a85-51b5-c05d02bfc978"]
+---
+time 1328735325
+new [description:"Mobilism \&dquot; User Control Panel \&dquot; Information http:\/\/forum.mobilism.org\/ucp.php?mode=login" entry:"1328735325" status:"pending" tags:"DL" uuid:"6b045c84-cf4c-43bd-ab78-1094d3e40dfd"]
+---
+time 1346371013
+new [description:"new task" entry:"1346371013" status:"pending" uuid:"93b90b8f-c1de-4b1b-bf15-58fcbf742f70"]
+---
+time 1346412708
+new [description:"new task" entry:"1346412708" status:"pending" uuid:"83c5feaa-a244-4f9e-8acf-afe3831685c7"]
+---
+time 1354593737
+new [description:"new task" entry:"1354593737" status:"pending" uuid:"49884fea-3a9e-4b94-8967-5af8fed886ed"]
+---
+time 1354715022
+old [description:"Mobilism \\\" User Control Panel \\\" Information http:\/\/forum.mobilism.org\/ucp.php?mode=login" entry:"1328735325" status:"pending" tags:"DL" uuid:"6b045c84-cf4c-43bd-ab78-1094d3e40dfd"]
+new [description:"Mobilism \\\" User Control Panel \\\" Information http:\/\/forum.mobilism.org\/ucp.php?mode=login" end:"1354715022" entry:"1328735325" modified:"1354715022" status:"completed" tags:"DL" uuid:"6b045c84-cf4c-43bd-ab78-1094d3e40dfd"]
+---
+time 1354715131
+old [description:"find command to show all ips on current lan" entry:"1291434983" status:"pending" tags:"nix" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+new [description:"find command to show all ips on current lan" end:"1354715131" entry:"1291434983" modified:"1354715131" status:"completed" tags:"nix" uuid:"e80e947a-1e0e-4542-16f8-d4e4f83bad29"]
+---
+time 1354715233
+old [description:"dpod android - Google Search http:\/\/www.google.com\/search?q=dpod+android&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" entry:"1313457841" status:"pending" tags:"DL" uuid:"c2866109-1483-0a85-51b5-c05d02bfc978"]
+new [description:"dpod android - Google Search http:\/\/www.google.com\/search?q=dpod+android&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a" end:"1354715233" entry:"1313457841" modified:"1354715233" status:"completed" tags:"DL" uuid:"c2866109-1483-0a85-51b5-c05d02bfc978"]
+---
+time 1354715237
+old [description:"dl deep purple in rock" entry:"1295448314" status:"pending" uuid:"b8635f2f-decd-7511-27da-f46d57b29214"]
+new [description:"dl deep purple in rock" end:"1354715237" entry:"1295448314" modified:"1354715237" status:"completed" uuid:"b8635f2f-decd-7511-27da-f46d57b29214"]
+---
+time 1354715240
+old [description:"prepare poster isee" entry:"1313112211" status:"pending" uuid:"04657f88-6ce0-9fcf-3853-ec377cd541b4"]
+new [description:"prepare poster isee" end:"1354715240" entry:"1313112211" modified:"1354715240" status:"completed" uuid:"04657f88-6ce0-9fcf-3853-ec377cd541b4"]
+---
+time 1354715243
+old [description:"new task" entry:"1346371013" status:"pending" uuid:"93b90b8f-c1de-4b1b-bf15-58fcbf742f70"]
+new [description:"new task" end:"1354715243" entry:"1346371013" modified:"1354715243" status:"completed" uuid:"93b90b8f-c1de-4b1b-bf15-58fcbf742f70"]
+---
+time 1354715244
+old [description:"new task" entry:"1346412708" status:"pending" uuid:"83c5feaa-a244-4f9e-8acf-afe3831685c7"]
+new [description:"new task" end:"1354715244" entry:"1346412708" modified:"1354715244" status:"completed" uuid:"83c5feaa-a244-4f9e-8acf-afe3831685c7"]
+---
+time 1354715245
+old [description:"new task" entry:"1354593737" status:"pending" uuid:"49884fea-3a9e-4b94-8967-5af8fed886ed"]
+new [description:"new task" end:"1354715245" entry:"1354593737" modified:"1354715245" status:"completed" uuid:"49884fea-3a9e-4b94-8967-5af8fed886ed"]
+---
+time 1354715264
+new [description:"call tiger direct for 0 rebate" entry:"1354715264" status:"pending" uuid:"ae537484-a8c4-411c-a693-eb05026166ae"]
+---
+time 1354759057
+old [description:"read vittk manual" entry:"1297397286" status:"pending" tags:"nix" uuid:"b497c0ef-4a94-f85a-eb35-0b1f2818b606"]
+new [description:"read vittk manual" end:"1354759057" entry:"1297397286" status:"completed" tags:"nix" uuid:"b497c0ef-4a94-f85a-eb35-0b1f2818b606"]
+---
+time 1355450392
+new [description:"finish MIA paper" due:"1355979600" entry:"1355450392" scheduled:"1355461200" status:"pending" uuid:"a36205c5-45bd-4da1-9765-c4a7db97a5b6"]
+---
+time 1355452055
+old [description:"complete cheatsheet dmenu" entry:"1293424759" status:"pending" tags:"nix" uuid:"6d1c747c-d132-492c-6bbf-bc51b49e0996"]
+new [description:"complete cheatsheet dmenu" end:"1355452055" entry:"1293424759" status:"completed" tags:"nix" uuid:"6d1c747c-d132-492c-6bbf-bc51b49e0996"]
+---
+time 1355452058
+old [description:"start screen capture of bio213" entry:"1291475093" status:"pending" tags:"nix" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+new [description:"start screen capture of bio213" end:"1355452058" entry:"1291475093" status:"completed" tags:"nix" uuid:"bcd6f6f0-5c29-5a93-2940-84954dc7b2f7"]
+---
+time 1355452063
+old [description:"add a backup system similar to vim for local backup of files" entry:"1291505537" status:"pending" tags:"nix" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+new [description:"add a backup system similar to vim for local backup of files" end:"1355452063" entry:"1291505537" status:"completed" tags:"nix" uuid:"71ab7d10-2d72-a831-1137-7ae80bd9d424"]
+---
+time 1355452065
+old [description:"find out about hebrew support for term" entry:"1291560348" status:"pending" tags:"nix" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+new [description:"find out about hebrew support for term" end:"1355452065" entry:"1291560348" status:"completed" tags:"nix" uuid:"84482dd6-9cf7-3c3e-81df-f174f60b0c59"]
+---
+time 1355452069
+old [description:"Tekkon kinkur�to (2006) - IMDb http:\/\/www.imdb.com\/title\/tt0831888\/" entry:"1296340423" status:"pending" tags:"DL" uuid:"8ec118ec-cd64-038b-ab09-1470dfc2ead6"]
+new [description:"Tekkon kinkur�to (2006) - IMDb http:\/\/www.imdb.com\/title\/tt0831888\/" end:"1355452069" entry:"1296340423" status:"completed" tags:"DL" uuid:"8ec118ec-cd64-038b-ab09-1470dfc2ead6"]
+---
+time 1355452071
+old [description:"Paprika (2006) - IMDb http:\/\/www.imdb.com\/title\/tt0851578\/" entry:"1296340424" status:"pending" tags:"DL" uuid:"aefd0950-fb5f-a6af-6712-388830e5e888"]
+new [description:"Paprika (2006) - IMDb http:\/\/www.imdb.com\/title\/tt0851578\/" end:"1355452071" entry:"1296340424" status:"completed" tags:"DL" uuid:"aefd0950-fb5f-a6af-6712-388830e5e888"]
+---
+time 1355452077
+old [description:"call to arrange car test for me and michal" entry:"1292278917" status:"pending" tags:"home" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+new [description:"call to arrange car test for me and michal" end:"1355452077" entry:"1292278917" status:"completed" tags:"home" uuid:"215b8e88-65d6-ac95-dfdf-7b88256543f6"]
+---
+time 1355452083
+old [description:"add command to auto del tmp folder every week" entry:"1293810965" status:"pending" tags:"nix" uuid:"a26edd18-d904-fa95-1cc7-642c4bdee7d8"]
+new [description:"add command to auto del tmp folder every week" end:"1355452083" entry:"1293810965" status:"completed" tags:"nix" uuid:"a26edd18-d904-fa95-1cc7-642c4bdee7d8"]
+---
+time 1355452093
+old [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" annotation_1293911944:"check source mutt hotkey" annotation_1293912416:"check how to have contacts hotkeys where pressing it auto brings up vim" description:"find how to del instant without $ in mutt" entry:"1293911329" status:"pending" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+new [annotation_1293911841:"check to see if its possible to show only real attached stuff and not the message itself" annotation_1293911934:"check move to mbox hotkey" annotation_1293911944:"check source mutt hotkey" annotation_1293912416:"check how to have contacts hotkeys where pressing it auto brings up vim" description:"find how to del instant without $ in mutt" end:"1355452093" entry:"1293911329" status:"completed" tags:"nix" uuid:"5969afbf-2770-b847-271a-0e215ea812a6"]
+---
+time 1355452100
+old [description:"9 (2009) - IMDb http:\/\/www.imdb.com\/title\/tt0472033\/" entry:"1296342405" status:"pending" tags:"DL" uuid:"311abdd5-c95c-ac76-bdb3-46c331c76749"]
+new [description:"9 (2009) - IMDb http:\/\/www.imdb.com\/title\/tt0472033\/" end:"1355452100" entry:"1296342405" status:"completed" tags:"DL" uuid:"311abdd5-c95c-ac76-bdb3-46c331c76749"]
+---
+time 1355452103
+old [description:"The Expendables (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1320253\/" entry:"1297273249" status:"pending" tags:"DL" uuid:"7023d0fe-861f-8aaf-6105-0335c015dec4"]
+new [description:"The Expendables (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1320253\/" end:"1355452103" entry:"1297273249" status:"completed" tags:"DL" uuid:"7023d0fe-861f-8aaf-6105-0335c015dec4"]
+---
+time 1355452104
+old [description:"Shutter Island (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1130884\/" entry:"1297205379" status:"pending" tags:"DL" uuid:"14e49e7a-09ef-ef0e-f7ee-3893401f53a7"]
+new [description:"Shutter Island (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1130884\/" end:"1355452104" entry:"1297205379" status:"completed" tags:"DL" uuid:"14e49e7a-09ef-ef0e-f7ee-3893401f53a7"]
+---
+time 1355452107
+old [description:"True Grit (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1403865\/" entry:"1297634756" status:"pending" tags:"DL" uuid:"4542be8e-3fd5-5df7-1c46-bdde1acca27e"]
+new [description:"True Grit (2010) - IMDb http:\/\/www.imdb.com\/title\/tt1403865\/" end:"1355452107" entry:"1297634756" status:"completed" tags:"DL" uuid:"4542be8e-3fd5-5df7-1c46-bdde1acca27e"]
+---
+time 1355452110
+old [description:"http:\/\/scsys.co.uk:8002\/90207?tx=on&submit=Format+it%22" entry:"1298828861" status:"pending" tags:"DL" uuid:"34f3594e-49f9-4643-9408-f7da210a615a"]
+new [description:"http:\/\/scsys.co.uk:8002\/90207?tx=on&submit=Format+it%22" end:"1355452110" entry:"1298828861" status:"completed" tags:"DL" uuid:"34f3594e-49f9-4643-9408-f7da210a615a"]
+---
+time 1355452113
+old [description:"config mutt this weekend" entry:"1290256031" status:"pending" tags:"nix" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+new [description:"config mutt this weekend" end:"1355452113" entry:"1290256031" status:"completed" tags:"nix" uuid:"750a0611-c97d-3e52-8629-a540ae64b542"]
+---
+time 1355452118
+old [description:"look into fonts" entry:"1293392716" status:"pending" tags:"nix" uuid:"c031fa9e-f3da-0077-970f-11df6132cd38"]
+new [description:"look into fonts" end:"1355452118" entry:"1293392716" status:"completed" tags:"nix" uuid:"c031fa9e-f3da-0077-970f-11df6132cd38"]
+---
+time 1355452761
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1355453804
+old [description:"PURE REASON REVOLUTION The Dark Third music reviews and MP3 http:\/\/www.progarchives.com\/album.asp?id=11810" entry:"1296953829" status:"pending" tags:"DL" uuid:"7f91270a-b9ab-15ed-c0ee-1f6f75e223ea"]
+new [description:"PURE REASON REVOLUTION The Dark Third music reviews and MP3 http:\/\/www.progarchives.com\/album.asp?id=11810" end:"1355453799" entry:"1296953829" status:"deleted" tags:"DL" uuid:"7f91270a-b9ab-15ed-c0ee-1f6f75e223ea"]
+---
+time 1355454105
+new [description:"apply to cen. conn uni" entry:"1355454105" project:"job" status:"pending" tags:"Uni" uuid:"b8feaf56-a409-41e9-a66f-7391da1b7704"]
+---
+time 1355454155
+old [description:"finish MIA paper" due:"1355979600" entry:"1355450392" scheduled:"1355461200" status:"pending" uuid:"a36205c5-45bd-4da1-9765-c4a7db97a5b6"]
+new [description:"finish MIA paper" due:"1355979600" end:"1355454153" entry:"1355450392" scheduled:"1355461200" status:"deleted" uuid:"a36205c5-45bd-4da1-9765-c4a7db97a5b6"]
+---
+time 1355454318
+new [description:"apply to penn uni" entry:"1355454318" priority:"H" project:"job" status:"pending" tags:"Uni" uuid:"0cd80a9f-8fab-4889-aec7-4c232426a0cb"]
+---
+time 1355454427
+old [description:"apply to cen. conn uni" entry:"1355454105" project:"job" status:"pending" tags:"Uni" uuid:"b8feaf56-a409-41e9-a66f-7391da1b7704"]
+new [description:"apply to cen. conn uni" entry:"1355454105" priority:"H" project:"job" status:"pending" tags:"Uni" uuid:"b8feaf56-a409-41e9-a66f-7391da1b7704"]
+---
+time 1359512075
+new [description:"lsamixer" entry:"1359512075" status:"pending" uuid:"3a72d8c2-b5eb-4ffd-8ff1-d15eca54d386"]
+---
+time 1359512091
+new [description:"lsamixer" entry:"1359512091" status:"pending" uuid:"105235fd-74f4-4b93-a2a1-b3fa7504dd88"]
+---
+time 1359572433
+old [annotation_1293400564:"vid card" annotation_1293400575:"bluetooth headset" description:"keep track on rebates" entry:"1293400545" status:"pending" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+new [annotation_1293400564:"vid card" annotation_1293400575:"bluetooth headset" description:"keep track on rebates" end:"1359572433" entry:"1293400545" status:"completed" tags:"home" uuid:"e3aa7c38-e196-5614-1ea5-a923b81dce7a"]
+---
+time 1359572442
+old [description:"apply to penn uni" entry:"1355454318" priority:"H" project:"job" status:"pending" tags:"Uni" uuid:"0cd80a9f-8fab-4889-aec7-4c232426a0cb"]
+new [description:"apply to penn uni" end:"1359572442" entry:"1355454318" priority:"H" project:"job" status:"completed" tags:"Uni" uuid:"0cd80a9f-8fab-4889-aec7-4c232426a0cb"]
+---
+time 1359572444
+old [description:"apply to cen. conn uni" entry:"1355454105" priority:"H" project:"job" status:"pending" tags:"Uni" uuid:"b8feaf56-a409-41e9-a66f-7391da1b7704"]
+new [description:"apply to cen. conn uni" end:"1359572444" entry:"1355454105" priority:"H" project:"job" status:"completed" tags:"Uni" uuid:"b8feaf56-a409-41e9-a66f-7391da1b7704"]
+---
+time 1359572469
+old [description:"check about sessions in vim" entry:"1294115983" status:"pending" tags:"nix" uuid:"bd4f1da3-2d8e-d6c6-5db3-c068e3f2e0fa"]
+new [description:"check about sessions in vim" end:"1359572469" entry:"1294115983" status:"completed" tags:"nix" uuid:"bd4f1da3-2d8e-d6c6-5db3-c068e3f2e0fa"]
+---
+time 1359572475
+old [description:"create botton pop up dzenconky info bar" entry:"1294579539" status:"pending" tags:"nix" uuid:"6ada9859-0adb-d94e-43e6-e20d9846c523"]
+new [description:"create botton pop up dzenconky info bar" end:"1359572475" entry:"1294579539" status:"completed" tags:"nix" uuid:"6ada9859-0adb-d94e-43e6-e20d9846c523"]
+---
+time 1359572479
+old [description:"check about adding euro clock to tmux\/weechat in the bar somwher" entry:"1294835147" status:"pending" tags:"nix" uuid:"f3a86090-f6a2-9e6c-9bd4-312d0f3efcff"]
+new [description:"check about adding euro clock to tmux\/weechat in the bar somwher" end:"1359572479" entry:"1294835147" status:"completed" tags:"nix" uuid:"f3a86090-f6a2-9e6c-9bd4-312d0f3efcff"]
+---
+time 1359572482
+old [description:"test vitek" entry:"1295443537" status:"pending" tags:"nix" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+new [description:"test vitek" end:"1359572482" entry:"1295443537" status:"completed" tags:"nix" uuid:"6769138f-ddc7-cf47-33eb-73bd21c2618c"]
+---
+time 1359572488
+old [description:"BBC - BBC Four Programmes - The Secret Life of Chaos http:\/\/www.bbc.co.uk\/programmes\/b00pv1c3" entry:"1296342324" status:"pending" tags:"DL" uuid:"01457c4c-98cd-162d-d299-50ff892a3be3"]
+new [description:"BBC - BBC Four Programmes - The Secret Life of Chaos http:\/\/www.bbc.co.uk\/programmes\/b00pv1c3" end:"1359572488" entry:"1296342324" status:"completed" tags:"DL" uuid:"01457c4c-98cd-162d-d299-50ff892a3be3"]
+---
+time 1359572620
+old [description:"Journey to the Edge of the Universe | National Geographic Channel http:\/\/channel.nationalgeographic.com\/episode\/journey-to-the-edge-of-the-universe-3023" entry:"1296342298" status:"pending" tags:"DL" uuid:"1449587a-ccf2-4435-ed1f-20a71a154cd5"]
+new [description:"Journey to the Edge of the Universe | National Geographic Channel http:\/\/channel.nationalgeographic.com\/episode\/journey-to-the-edge-of-the-universe-3023" end:"1359572620" entry:"1296342298" status:"completed" tags:"DL" uuid:"1449587a-ccf2-4435-ed1f-20a71a154cd5"]
+---
+time 1359574306
+old [description:"call tiger direct for 0 rebate" entry:"1354715264" status:"pending" uuid:"ae537484-a8c4-411c-a693-eb05026166ae"]
+new [description:"call tiger direct for 0 rebate" end:"1359574306" entry:"1354715264" status:"completed" uuid:"ae537484-a8c4-411c-a693-eb05026166ae"]
+---
+time 1359574311
+old [description:"lsamixer" entry:"1359512091" status:"pending" uuid:"105235fd-74f4-4b93-a2a1-b3fa7504dd88"]
+new [description:"lsamixer" end:"1359574311" entry:"1359512091" status:"completed" uuid:"105235fd-74f4-4b93-a2a1-b3fa7504dd88"]
+---
+time 1359574313
+old [description:"lsamixer" entry:"1359512075" status:"pending" uuid:"3a72d8c2-b5eb-4ffd-8ff1-d15eca54d386"]
+new [description:"lsamixer" end:"1359574313" entry:"1359512075" status:"completed" uuid:"3a72d8c2-b5eb-4ffd-8ff1-d15eca54d386"]
+---
+time 1360553996
+old [annotation_1293934468:"check about save to predefined folder with no gtk save gui" annotation_1293934483:"check about bookmark into specific folders" description:"pentadactly followups" entry:"1293934437" status:"pending" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+new [annotation_1293934468:"check about save to predefined folder with no gtk save gui" annotation_1293934483:"check about bookmark into specific folders" description:"pentadactly followups" end:"1360553996" entry:"1293934437" status:"completed" tags:"nix" uuid:"6875ec3c-98c4-f7d2-8be5-07c0ef868f0e"]
+---
+time 1360554105
+old [description:"get the vim last line to appear only when pressing: like in penta" entry:"1294113141" status:"pending" tags:"nix" uuid:"d1e4db23-15b4-43f7-40a5-d0d2c9f6a598"]
+new [description:"get the vim last line to appear only when pressing: like in penta" end:"1360554098" entry:"1294113141" status:"deleted" tags:"nix" uuid:"d1e4db23-15b4-43f7-40a5-d0d2c9f6a598"]
+---
+time 1360554134
+old [description:"set cron job to empty ztmp\/screens for files above 2 weeks old" entry:"1297396976" status:"pending" tags:"nix" uuid:"e8dcef26-d79b-e6cc-c75d-1267cda48276"]
+new [description:"set cron job to empty ztmp\/screens for files above 2 weeks old" end:"1360554134" entry:"1297396976" status:"completed" tags:"nix" uuid:"e8dcef26-d79b-e6cc-c75d-1267cda48276"]
+---
+time 1360554177
+new [description:"keepass as bookmark manager" entry:"1360554177" status:"pending" tags:"nix" uuid:"6e198fb3-2e30-438c-9c45-b0ec565a3c1f"]
+---
+time 1360554208
+new [description:"nc srever" entry:"1360554208" status:"pending" tags:"nix" uuid:"64ce6dbe-e11b-456e-acf6-185d4277352c"]
+---
+time 1360554260
+new [description:"loliclip" entry:"1360554260" status:"pending" tags:"nix" uuid:"20999e70-be9f-4fdd-b504-1c0045ee77cc"]
+---
+time 1360554577
+new [description:"ctrl-s to save in vim" entry:"1360554577" status:"pending" tags:"nix" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+---
+time 1360554599
+new [description:"finish Rsync server for server and laptop" entry:"1360554599" status:"pending" tags:"nix" uuid:"ef359bd7-cb5b-4315-a147-0fa5470f6a50"]
+---
+time 1360554615
+new [description:"mc solarized skin" entry:"1360554615" status:"pending" tags:"nix" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+---
+time 1360554636
+new [description:"tmux as systemd server" entry:"1360554636" status:"pending" tags:"nix" uuid:"7fce4f40-6ff5-49c1-b29a-a6bed6f06231"]
+---
+time 1360554654
+new [description:"disable caps lock login" entry:"1360554654" status:"pending" tags:"nix" uuid:"77f545ec-2099-46e1-94e3-5a9b5ea8a286"]
+---
+time 1360554667
+new [description:"start using task warrior" entry:"1360554667" status:"pending" tags:"nix" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+---
+time 1360554672
+new [description:"learn lateX" entry:"1360554672" status:"pending" tags:"nix" uuid:"ff88cfd0-2c4f-41a6-829b-f352bd34978c"]
+---
+time 1360593816
+new [description:"check out autokey" entry:"1360593816" status:"pending" tags:"nix" uuid:"d9552865-b0cc-458d-96ee-64d517640bb6"]
+---
+time 1360632142
+new [description:"change rom to PA n7" entry:"1360632142" status:"pending" tags:"nix" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+---
+time 1360640747
+new [description:"new james bond" entry:"1360640747" status:"pending" tags:"DL" uuid:"803b2414-033f-4e56-9359-4c5c596131ea"]
+---
+time 1360640903
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360641007
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360641027
+old [description:"new james bond" entry:"1360640747" status:"pending" tags:"DL" uuid:"803b2414-033f-4e56-9359-4c5c596131ea"]
+new [description:"new james bond" end:"1360641025" entry:"1360640747" status:"deleted" tags:"DL" uuid:"803b2414-033f-4e56-9359-4c5c596131ea"]
+---
+time 1360674067
+old [description:"check oil\/water" due:"1291093200" end:"1293804553" entry:"1289856165" mask:"X--" recur:"monthly" status:"deleted" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+new [description:"check oil\/water" due:"1291093200" end:"1293804553" entry:"1289856165" mask:"X-+" recur:"monthly" status:"deleted" tags:"home" uuid:"8eda4cb9-3ae7-5774-4bab-5f415e27599d"]
+---
+time 1360674067
+old [description:"check oil\/water" due:"1296363600" entry:"1289856165" imask:"2" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"pending" tags:"home" uuid:"a22a34e5-1a09-d559-a1af-eb111bc56340"]
+new [description:"check oil\/water" due:"1296363600" end:"1360674067" entry:"1289856165" imask:"2" parent:"8eda4cb9-3ae7-5774-4bab-5f415e27599d" recur:"monthly" status:"completed" tags:"home" uuid:"a22a34e5-1a09-d559-a1af-eb111bc56340"]
+---
+time 1360718606
+old [description:"nc srever" entry:"1360554208" status:"pending" tags:"nix" uuid:"64ce6dbe-e11b-456e-acf6-185d4277352c"]
+new [description:"nc srever" end:"1360718606" entry:"1360554208" status:"completed" tags:"nix" uuid:"64ce6dbe-e11b-456e-acf6-185d4277352c"]
+---
+time 1360722190
+new [description:"keep checking about keefox bookmarking solution in V1.2" entry:"1360722190" status:"pending" tags:"nix" uuid:"abdd79d8-e0bf-4da8-873c-94e062996d8b"]
+---
+time 1360722715
+new [description:"Rsync server" entry:"1360722715" status:"pending" tags:"nix" uuid:"8e1240a9-4810-4db1-af7a-7d9e5e9efec5"]
+---
+time 1360724348
+new [description:"wechat-layout apply" entry:"1360724348" status:"pending" tags:"nix" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+---
+time 1360724710
+new [description:"better alternative than logs to know rsync worked" entry:"1360724710" status:"pending" tags:"nix" uuid:"5cc01d55-6886-4307-bc41-e33bf29ace6b"]
+---
+time 1360724822
+new [description:"use ctrl-s for save in vim" entry:"1360724822" status:"pending" tags:"nix" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+---
+time 1360724976
+new [description:"check out AURA" entry:"1360724976" status:"pending" tags:"nix" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+---
+time 1360728201
+new [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" entry:"1360728201" status:"pending" tags:"DL" uuid:"5cd95e8c-c114-480b-93de-f49cfca9d2d2"]
+---
+time 1360728258
+new [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" entry:"1360728258" status:"pending" tags:"DL" uuid:"850b0ecb-7c4a-46c0-89fa-7b78d92d249a"]
+---
+time 1360728285
+old [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" entry:"1360728201" status:"pending" tags:"DL" uuid:"5cd95e8c-c114-480b-93de-f49cfca9d2d2"]
+new [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" end:"1360728283" entry:"1360728201" status:"deleted" tags:"DL" uuid:"5cd95e8c-c114-480b-93de-f49cfca9d2d2"]
+---
+time 1360728333
+old [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" entry:"1360728258" status:"pending" tags:"DL" uuid:"850b0ecb-7c4a-46c0-89fa-7b78d92d249a"]
+new [description:"Aura - ArchWiki https:\/\/wiki.archlinux.org\/index.php\/Aura" end:"1360728331" entry:"1360728258" status:"deleted" tags:"DL" uuid:"850b0ecb-7c4a-46c0-89fa-7b78d92d249a"]
+---
+time 1360771804
+new [description:"look at xdotool-gui" entry:"1360771804" status:"pending" tags:"nix" uuid:"c3ddddac-9ff8-43f3-9d00-3b03895f0438"]
+---
+time 1360775820
+new [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" status:"pending" tags:"DL" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+---
+time 1360809788
+old [description:"Rsync server" entry:"1360722715" status:"pending" tags:"nix" uuid:"8e1240a9-4810-4db1-af7a-7d9e5e9efec5"]
+new [description:"Rsync server" end:"1360809788" entry:"1360722715" status:"completed" tags:"nix" uuid:"8e1240a9-4810-4db1-af7a-7d9e5e9efec5"]
+---
+time 1360845695
+new [description:"send sara addar email" entry:"1360845695" status:"pending" tags:"uni" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+---
+time 1360845711
+new [description:"check out marrie curie grant" entry:"1360845711" status:"pending" tags:"uni" uuid:"c4f934c3-9486-4c7b-bb37-6a4d8c4f9990"]
+---
+time 1360845722
+new [description:"finish courses for BGU" entry:"1360845722" status:"pending" tags:"uni" uuid:"dfa34644-dca5-4996-b4fd-2c18a3f137d6"]
+---
+time 1360845728
+new [description:"look into ISF" entry:"1360845728" status:"pending" tags:"uni" uuid:"c2845e2c-1917-4955-9102-7d531acd8b2a"]
+---
+time 1360845738
+new [description:"talk to joel about EHP grant" entry:"1360845738" status:"pending" tags:"uni" uuid:"5fde4c95-406d-43ab-9af0-e6def21f5752"]
+---
+time 1360845751
+new [description:"start DVT prject" entry:"1360845751" status:"pending" tags:"uni" uuid:"16f8b13b-9a90-4ca1-a393-a09c2940884f"]
+---
+time 1360845816
+new [description:"skype Ryan zing project" entry:"1360845816" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+---
+time 1360845861
+old [description:"skype Ryan zing project" entry:"1360845816" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+new [description:"skype Ryan zink project" entry:"1360845816" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+---
+time 1360894066
+new [description:"write the seed moenet docie" entry:"1360894066" project:"UNI" status:"pending" uuid:"f4d490c2-329b-42b9-be27-1bfcdacf4311"]
+---
+time 1360894106
+old [description:"write the seed moenet docie" entry:"1360894066" project:"UNI" status:"pending" uuid:"f4d490c2-329b-42b9-be27-1bfcdacf4311"]
+new [description:"write the seed moenet docie" end:"1360894103" entry:"1360894066" project:"UNI" status:"deleted" uuid:"f4d490c2-329b-42b9-be27-1bfcdacf4311"]
+---
+time 1360894317
+old [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+new [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1360894317
+old [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+new [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1360894317
+old [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1360894317
+old [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360894317
+old [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360894317
+old [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" status:"pending" tags:"DL" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+new [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" project:"dl" status:"pending" tags:"DL" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+---
+time 1360894498
+old [description:"send sara addar email" entry:"1360845695" status:"pending" tags:"uni" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+new [description:"send sara addar email" entry:"1360845695" project:"uni" status:"pending" tags:"uni" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+---
+time 1360894498
+old [description:"check out marrie curie grant" entry:"1360845711" status:"pending" tags:"uni" uuid:"c4f934c3-9486-4c7b-bb37-6a4d8c4f9990"]
+new [description:"check out marrie curie grant" entry:"1360845711" project:"uni" status:"pending" tags:"uni" uuid:"c4f934c3-9486-4c7b-bb37-6a4d8c4f9990"]
+---
+time 1360894498
+old [description:"finish courses for BGU" entry:"1360845722" status:"pending" tags:"uni" uuid:"dfa34644-dca5-4996-b4fd-2c18a3f137d6"]
+new [description:"finish courses for BGU" entry:"1360845722" project:"uni" status:"pending" tags:"uni" uuid:"dfa34644-dca5-4996-b4fd-2c18a3f137d6"]
+---
+time 1360894498
+old [description:"look into ISF" entry:"1360845728" status:"pending" tags:"uni" uuid:"c2845e2c-1917-4955-9102-7d531acd8b2a"]
+new [description:"look into ISF" entry:"1360845728" project:"uni" status:"pending" tags:"uni" uuid:"c2845e2c-1917-4955-9102-7d531acd8b2a"]
+---
+time 1360894498
+old [description:"talk to joel about EHP grant" entry:"1360845738" status:"pending" tags:"uni" uuid:"5fde4c95-406d-43ab-9af0-e6def21f5752"]
+new [description:"talk to joel about EHP grant" entry:"1360845738" project:"uni" status:"pending" tags:"uni" uuid:"5fde4c95-406d-43ab-9af0-e6def21f5752"]
+---
+time 1360894498
+old [description:"start DVT prject" entry:"1360845751" status:"pending" tags:"uni" uuid:"16f8b13b-9a90-4ca1-a393-a09c2940884f"]
+new [description:"start DVT prject" entry:"1360845751" project:"uni" status:"pending" tags:"uni" uuid:"16f8b13b-9a90-4ca1-a393-a09c2940884f"]
+---
+time 1360894498
+old [description:"skype Ryan zink project" entry:"1360845816" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+new [description:"skype Ryan zink project" entry:"1360845816" project:"uni" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+---
+time 1360894516
+old [description:"check about vim and latex and vim and scientific papers" entry:"1293884802" status:"pending" tags:"nix" uuid:"9babaaeb-f153-ae86-4807-9d4d0967cde5"]
+new [description:"check about vim and latex and vim and scientific papers" entry:"1293884802" project:"nix" status:"pending" tags:"nix" uuid:"9babaaeb-f153-ae86-4807-9d4d0967cde5"]
+---
+time 1360894516
+old [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+new [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"nix" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1360894516
+old [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+new [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"nix" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1360894516
+old [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"nix" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1360894516
+old [description:"keepass as bookmark manager" entry:"1360554177" status:"pending" tags:"nix" uuid:"6e198fb3-2e30-438c-9c45-b0ec565a3c1f"]
+new [description:"keepass as bookmark manager" entry:"1360554177" project:"nix" status:"pending" tags:"nix" uuid:"6e198fb3-2e30-438c-9c45-b0ec565a3c1f"]
+---
+time 1360894516
+old [description:"loliclip" entry:"1360554260" status:"pending" tags:"nix" uuid:"20999e70-be9f-4fdd-b504-1c0045ee77cc"]
+new [description:"loliclip" entry:"1360554260" project:"nix" status:"pending" tags:"nix" uuid:"20999e70-be9f-4fdd-b504-1c0045ee77cc"]
+---
+time 1360894516
+old [description:"ctrl-s to save in vim" entry:"1360554577" status:"pending" tags:"nix" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+new [description:"ctrl-s to save in vim" entry:"1360554577" project:"nix" status:"pending" tags:"nix" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+---
+time 1360894516
+old [description:"finish Rsync server for server and laptop" entry:"1360554599" status:"pending" tags:"nix" uuid:"ef359bd7-cb5b-4315-a147-0fa5470f6a50"]
+new [description:"finish Rsync server for server and laptop" entry:"1360554599" project:"nix" status:"pending" tags:"nix" uuid:"ef359bd7-cb5b-4315-a147-0fa5470f6a50"]
+---
+time 1360894516
+old [description:"mc solarized skin" entry:"1360554615" status:"pending" tags:"nix" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+new [description:"mc solarized skin" entry:"1360554615" project:"nix" status:"pending" tags:"nix" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+---
+time 1360894516
+old [description:"tmux as systemd server" entry:"1360554636" status:"pending" tags:"nix" uuid:"7fce4f40-6ff5-49c1-b29a-a6bed6f06231"]
+new [description:"tmux as systemd server" entry:"1360554636" project:"nix" status:"pending" tags:"nix" uuid:"7fce4f40-6ff5-49c1-b29a-a6bed6f06231"]
+---
+time 1360894516
+old [description:"disable caps lock login" entry:"1360554654" status:"pending" tags:"nix" uuid:"77f545ec-2099-46e1-94e3-5a9b5ea8a286"]
+new [description:"disable caps lock login" entry:"1360554654" project:"nix" status:"pending" tags:"nix" uuid:"77f545ec-2099-46e1-94e3-5a9b5ea8a286"]
+---
+time 1360894516
+old [description:"start using task warrior" entry:"1360554667" status:"pending" tags:"nix" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+new [description:"start using task warrior" entry:"1360554667" project:"nix" status:"pending" tags:"nix" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+---
+time 1360894516
+old [description:"learn lateX" entry:"1360554672" status:"pending" tags:"nix" uuid:"ff88cfd0-2c4f-41a6-829b-f352bd34978c"]
+new [description:"learn lateX" entry:"1360554672" project:"nix" status:"pending" tags:"nix" uuid:"ff88cfd0-2c4f-41a6-829b-f352bd34978c"]
+---
+time 1360894516
+old [description:"check out autokey" entry:"1360593816" status:"pending" tags:"nix" uuid:"d9552865-b0cc-458d-96ee-64d517640bb6"]
+new [description:"check out autokey" entry:"1360593816" project:"nix" status:"pending" tags:"nix" uuid:"d9552865-b0cc-458d-96ee-64d517640bb6"]
+---
+time 1360894516
+old [description:"change rom to PA n7" entry:"1360632142" status:"pending" tags:"nix" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+new [description:"change rom to PA n7" entry:"1360632142" project:"nix" status:"pending" tags:"nix" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+---
+time 1360894516
+old [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"nix" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360894516
+old [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"nix" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360894516
+old [description:"keep checking about keefox bookmarking solution in V1.2" entry:"1360722190" status:"pending" tags:"nix" uuid:"abdd79d8-e0bf-4da8-873c-94e062996d8b"]
+new [description:"keep checking about keefox bookmarking solution in V1.2" entry:"1360722190" project:"nix" status:"pending" tags:"nix" uuid:"abdd79d8-e0bf-4da8-873c-94e062996d8b"]
+---
+time 1360894516
+old [description:"wechat-layout apply" entry:"1360724348" status:"pending" tags:"nix" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+new [description:"wechat-layout apply" entry:"1360724348" project:"nix" status:"pending" tags:"nix" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+---
+time 1360894516
+old [description:"better alternative than logs to know rsync worked" entry:"1360724710" status:"pending" tags:"nix" uuid:"5cc01d55-6886-4307-bc41-e33bf29ace6b"]
+new [description:"better alternative than logs to know rsync worked" entry:"1360724710" project:"nix" status:"pending" tags:"nix" uuid:"5cc01d55-6886-4307-bc41-e33bf29ace6b"]
+---
+time 1360894516
+old [description:"use ctrl-s for save in vim" entry:"1360724822" status:"pending" tags:"nix" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+new [description:"use ctrl-s for save in vim" entry:"1360724822" project:"nix" status:"pending" tags:"nix" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+---
+time 1360894516
+old [description:"check out AURA" entry:"1360724976" status:"pending" tags:"nix" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+new [description:"check out AURA" entry:"1360724976" project:"nix" status:"pending" tags:"nix" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+---
+time 1360894516
+old [description:"look at xdotool-gui" entry:"1360771804" status:"pending" tags:"nix" uuid:"c3ddddac-9ff8-43f3-9d00-3b03895f0438"]
+new [description:"look at xdotool-gui" entry:"1360771804" project:"nix" status:"pending" tags:"nix" uuid:"c3ddddac-9ff8-43f3-9d00-3b03895f0438"]
+---
+time 1360894692
+old [description:"check about vim and latex and vim and scientific papers" entry:"1293884802" project:"nix" status:"pending" tags:"nix" uuid:"9babaaeb-f153-ae86-4807-9d4d0967cde5"]
+new [description:"check about vim and latex and vim and scientific papers" entry:"1293884802" project:"nix" status:"pending" uuid:"9babaaeb-f153-ae86-4807-9d4d0967cde5"]
+---
+time 1360894724
+old [description:"keepass as bookmark manager" entry:"1360554177" project:"nix" status:"pending" tags:"nix" uuid:"6e198fb3-2e30-438c-9c45-b0ec565a3c1f"]
+new [description:"keepass as bookmark manager" entry:"1360554177" project:"nix" status:"pending" uuid:"6e198fb3-2e30-438c-9c45-b0ec565a3c1f"]
+---
+time 1360894724
+old [description:"loliclip" entry:"1360554260" project:"nix" status:"pending" tags:"nix" uuid:"20999e70-be9f-4fdd-b504-1c0045ee77cc"]
+new [description:"loliclip" entry:"1360554260" project:"nix" status:"pending" uuid:"20999e70-be9f-4fdd-b504-1c0045ee77cc"]
+---
+time 1360894724
+old [description:"ctrl-s to save in vim" entry:"1360554577" project:"nix" status:"pending" tags:"nix" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+new [description:"ctrl-s to save in vim" entry:"1360554577" project:"nix" status:"pending" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+---
+time 1360894724
+old [description:"finish Rsync server for server and laptop" entry:"1360554599" project:"nix" status:"pending" tags:"nix" uuid:"ef359bd7-cb5b-4315-a147-0fa5470f6a50"]
+new [description:"finish Rsync server for server and laptop" entry:"1360554599" project:"nix" status:"pending" uuid:"ef359bd7-cb5b-4315-a147-0fa5470f6a50"]
+---
+time 1360894724
+old [description:"mc solarized skin" entry:"1360554615" project:"nix" status:"pending" tags:"nix" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+new [description:"mc solarized skin" entry:"1360554615" project:"nix" status:"pending" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+---
+time 1360894724
+old [description:"tmux as systemd server" entry:"1360554636" project:"nix" status:"pending" tags:"nix" uuid:"7fce4f40-6ff5-49c1-b29a-a6bed6f06231"]
+new [description:"tmux as systemd server" entry:"1360554636" project:"nix" status:"pending" uuid:"7fce4f40-6ff5-49c1-b29a-a6bed6f06231"]
+---
+time 1360894724
+old [description:"disable caps lock login" entry:"1360554654" project:"nix" status:"pending" tags:"nix" uuid:"77f545ec-2099-46e1-94e3-5a9b5ea8a286"]
+new [description:"disable caps lock login" entry:"1360554654" project:"nix" status:"pending" uuid:"77f545ec-2099-46e1-94e3-5a9b5ea8a286"]
+---
+time 1360894724
+old [description:"start using task warrior" entry:"1360554667" project:"nix" status:"pending" tags:"nix" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+new [description:"start using task warrior" entry:"1360554667" project:"nix" status:"pending" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+---
+time 1360894724
+old [description:"learn lateX" entry:"1360554672" project:"nix" status:"pending" tags:"nix" uuid:"ff88cfd0-2c4f-41a6-829b-f352bd34978c"]
+new [description:"learn lateX" entry:"1360554672" project:"nix" status:"pending" uuid:"ff88cfd0-2c4f-41a6-829b-f352bd34978c"]
+---
+time 1360894724
+old [description:"check out autokey" entry:"1360593816" project:"nix" status:"pending" tags:"nix" uuid:"d9552865-b0cc-458d-96ee-64d517640bb6"]
+new [description:"check out autokey" entry:"1360593816" project:"nix" status:"pending" uuid:"d9552865-b0cc-458d-96ee-64d517640bb6"]
+---
+time 1360894724
+old [description:"change rom to PA n7" entry:"1360632142" project:"nix" status:"pending" tags:"nix" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+new [description:"change rom to PA n7" entry:"1360632142" project:"nix" status:"pending" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+---
+time 1360894724
+old [description:"keep checking about keefox bookmarking solution in V1.2" entry:"1360722190" project:"nix" status:"pending" tags:"nix" uuid:"abdd79d8-e0bf-4da8-873c-94e062996d8b"]
+new [description:"keep checking about keefox bookmarking solution in V1.2" entry:"1360722190" project:"nix" status:"pending" uuid:"abdd79d8-e0bf-4da8-873c-94e062996d8b"]
+---
+time 1360894724
+old [description:"wechat-layout apply" entry:"1360724348" project:"nix" status:"pending" tags:"nix" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+new [description:"wechat-layout apply" entry:"1360724348" project:"nix" status:"pending" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+---
+time 1360894724
+old [description:"better alternative than logs to know rsync worked" entry:"1360724710" project:"nix" status:"pending" tags:"nix" uuid:"5cc01d55-6886-4307-bc41-e33bf29ace6b"]
+new [description:"better alternative than logs to know rsync worked" entry:"1360724710" project:"nix" status:"pending" uuid:"5cc01d55-6886-4307-bc41-e33bf29ace6b"]
+---
+time 1360894724
+old [description:"use ctrl-s for save in vim" entry:"1360724822" project:"nix" status:"pending" tags:"nix" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+new [description:"use ctrl-s for save in vim" entry:"1360724822" project:"nix" status:"pending" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+---
+time 1360894724
+old [description:"check out AURA" entry:"1360724976" project:"nix" status:"pending" tags:"nix" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+new [description:"check out AURA" entry:"1360724976" project:"nix" status:"pending" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+---
+time 1360894724
+old [description:"look at xdotool-gui" entry:"1360771804" project:"nix" status:"pending" tags:"nix" uuid:"c3ddddac-9ff8-43f3-9d00-3b03895f0438"]
+new [description:"look at xdotool-gui" entry:"1360771804" project:"nix" status:"pending" uuid:"c3ddddac-9ff8-43f3-9d00-3b03895f0438"]
+---
+time 1360894759
+old [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"nix" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+new [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1360894759
+old [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"nix" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+new [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1360894759
+old [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"nix" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1360894759
+old [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"nix" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360894759
+old [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"nix" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360894791
+old [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" tags:"DL" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+new [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1360894791
+old [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" tags:"DL" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+new [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1360894791
+old [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" tags:"DL" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1360894791
+old [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" tags:"DL" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360894791
+old [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" tags:"DL" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360894791
+old [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" project:"dl" status:"pending" tags:"DL" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+new [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" project:"dl" status:"pending" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+---
+time 1360894807
+old [description:"send sara addar email" entry:"1360845695" project:"uni" status:"pending" tags:"uni" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+new [description:"send sara addar email" entry:"1360845695" project:"uni" status:"pending" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+---
+time 1360894807
+old [description:"check out marrie curie grant" entry:"1360845711" project:"uni" status:"pending" tags:"uni" uuid:"c4f934c3-9486-4c7b-bb37-6a4d8c4f9990"]
+new [description:"check out marrie curie grant" entry:"1360845711" project:"uni" status:"pending" uuid:"c4f934c3-9486-4c7b-bb37-6a4d8c4f9990"]
+---
+time 1360894807
+old [description:"finish courses for BGU" entry:"1360845722" project:"uni" status:"pending" tags:"uni" uuid:"dfa34644-dca5-4996-b4fd-2c18a3f137d6"]
+new [description:"finish courses for BGU" entry:"1360845722" project:"uni" status:"pending" uuid:"dfa34644-dca5-4996-b4fd-2c18a3f137d6"]
+---
+time 1360894807
+old [description:"look into ISF" entry:"1360845728" project:"uni" status:"pending" tags:"uni" uuid:"c2845e2c-1917-4955-9102-7d531acd8b2a"]
+new [description:"look into ISF" entry:"1360845728" project:"uni" status:"pending" uuid:"c2845e2c-1917-4955-9102-7d531acd8b2a"]
+---
+time 1360894807
+old [description:"talk to joel about EHP grant" entry:"1360845738" project:"uni" status:"pending" tags:"uni" uuid:"5fde4c95-406d-43ab-9af0-e6def21f5752"]
+new [description:"talk to joel about EHP grant" entry:"1360845738" project:"uni" status:"pending" uuid:"5fde4c95-406d-43ab-9af0-e6def21f5752"]
+---
+time 1360894807
+old [description:"start DVT prject" entry:"1360845751" project:"uni" status:"pending" tags:"uni" uuid:"16f8b13b-9a90-4ca1-a393-a09c2940884f"]
+new [description:"start DVT prject" entry:"1360845751" project:"uni" status:"pending" uuid:"16f8b13b-9a90-4ca1-a393-a09c2940884f"]
+---
+time 1360894807
+old [description:"skype Ryan zink project" entry:"1360845816" project:"uni" status:"pending" tags:"uni" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+new [description:"skype Ryan zink project" entry:"1360845816" project:"uni" status:"pending" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+---
+time 1360894839
+old [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+new [description:"A Prophet (2009) - IMDb http:\/\/www.imdb.com\/title\/tt1235166\/" entry:"1296847573" project:"dl" status:"pending" tags:"movs" uuid:"85e8ad62-729a-bff9-d103-45fb21f19751"]
+---
+time 1360894839
+old [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+new [description:"HOME - a film by Yann Arthus-Bertrand http:\/\/www.homethemovie.org\/" entry:"1297050393" project:"dl" status:"pending" tags:"movs" uuid:"3e9e6924-b1c5-d3e9-8231-96bbf54452c8"]
+---
+time 1360894929
+old [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+new [description:"Man of Steel ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt0770828\/?ref_=fn_al_tt_1" entry:"1355452761" project:"dl" status:"pending" tags:"movs" uuid:"efd4ebff-601d-414c-8e26-304abb53d2f2"]
+---
+time 1360894929
+old [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/" entry:"1360640903" project:"dl" status:"pending" tags:"movs" uuid:"02e7704d-1915-4d98-9fd9-2f3a945d7e16"]
+---
+time 1360894929
+old [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+new [description:"The Hobbit: An Unexpected Journey ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0903624\/?ref_=sr_1" entry:"1360641007" project:"dl" status:"pending" tags:"movs" uuid:"ef568ce9-78da-4228-9bf0-5e52fb981755"]
+---
+time 1360894929
+old [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" project:"dl" status:"pending" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+new [description:"Jack the Giant Slayer ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1351685\/?ref_=fn_al_tt_4" entry:"1360775820" project:"dl" status:"pending" tags:"movs" uuid:"5c9c3327-3284-4d0f-a1af-d30da136a099"]
+---
+time 1360898244
+new [description:"בקשה לחוות דעת על עבודה למשרד להגנת הסביבה - ikloog@gmail.com - Gmail https:\/\/mail.google.com\/mail\/u\/0\/?shva=1#inbox\/13cd28ed58ac9da3" entry:"1360898244" project:"uni" status:"pending" uuid:"6d08f4de-fe43-4dd0-b8b7-656953276a72"]
+---
+time 1360898335
+old [description:"בקשה לחוות דעת על עבודה למשרד להגנת הסביבה - ikloog@gmail.com - Gmail https:\/\/mail.google.com\/mail\/u\/0\/?shva=1#inbox\/13cd28ed58ac9da3" entry:"1360898244" project:"uni" status:"pending" uuid:"6d08f4de-fe43-4dd0-b8b7-656953276a72"]
+new [description:"בקשה לחוות דעת על עבודה למשרד להגנת הסביבה - ikloog@gmail.com - Gmail https:\/\/mail.google.com\/mail\/u\/0\/?shva=1#inbox\/13cd28ed58ac9da3" end:"1360898332" entry:"1360898244" project:"uni" status:"deleted" uuid:"6d08f4de-fe43-4dd0-b8b7-656953276a72"]
+---
+time 1360898424
+new [description:"Meeting with EHF group in Boston - ikloog@gmail.com - Gmail" entry:"1360898424" project:"uni" status:"pending" uuid:"02b3ab40-882f-4f58-836e-0717ab1255a2"]
+---
+time 1360898527
+old [description:"Meeting with EHF group in Boston - ikloog@gmail.com - Gmail" entry:"1360898424" project:"uni" status:"pending" uuid:"02b3ab40-882f-4f58-836e-0717ab1255a2"]
+new [annotation_1360898527:"find a resturant in Fenway and send email back to Sari" description:"Meeting with EHF group in Boston - ikloog@gmail.com - Gmail" entry:"1360898424" project:"uni" status:"pending" uuid:"02b3ab40-882f-4f58-836e-0717ab1255a2"]
+---
+time 1360899402
+new [description:"find about shipping companies" entry:"1360899402" status:"pending" tags:"home" uuid:"a19cfa58-fe5a-4998-bde4-84cf7af6e052"]
+---
+time 1360899434
+new [description:"buy 2 low powered android htpc devices" entry:"1360899434" status:"pending" tags:"home" uuid:"59131671-aa71-46e6-be42-2c8007f3898c"]
+---
+time 1360899469
+old [description:"find about shipping companies" entry:"1360899402" status:"pending" tags:"home" uuid:"a19cfa58-fe5a-4998-bde4-84cf7af6e052"]
+new [description:"find about shipping companies" end:"1360899467" entry:"1360899402" status:"deleted" tags:"home" uuid:"a19cfa58-fe5a-4998-bde4-84cf7af6e052"]
+---
+time 1360899477
+old [description:"buy 2 low powered android htpc devices" entry:"1360899434" status:"pending" tags:"home" uuid:"59131671-aa71-46e6-be42-2c8007f3898c"]
+new [description:"buy 2 low powered android htpc devices" end:"1360899475" entry:"1360899434" status:"deleted" tags:"home" uuid:"59131671-aa71-46e6-be42-2c8007f3898c"]
+---
+time 1360899565
+new [description:"buy 2 low powered android htpc devices" entry:"1360899565" project:"home" status:"pending" uuid:"a1d5a533-3eda-4bd9-b429-9a5617b01ac0"]
+---
+time 1360899588
+new [description:"look at shipping companies" entry:"1360899588" project:"home" status:"pending" uuid:"87b4c63e-19f1-40dd-90e7-c0816f067f0f"]
+---
+time 1360900054
+new [description:"style the ZSH command prompt" entry:"1360900054" project:"nix" status:"pending" uuid:"2d093137-5c56-436f-883e-99b4300e1e75"]
+---
+time 1360900514
+new [description:"Life of Pi ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0454876\/?ref_=fn_al_tt_1" entry:"1360900514" project:"dl" status:"pending" tags:"music" uuid:"110466ea-5a20-4f7f-854c-99a4f8f05270"]
+---
+time 1360900558
+old [description:"Life of Pi ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0454876\/?ref_=fn_al_tt_1" entry:"1360900514" project:"dl" status:"pending" tags:"music" uuid:"110466ea-5a20-4f7f-854c-99a4f8f05270"]
+new [description:"Life of Pi ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0454876\/?ref_=fn_al_tt_1" end:"1360900555" entry:"1360900514" project:"dl" status:"deleted" tags:"music" uuid:"110466ea-5a20-4f7f-854c-99a4f8f05270"]
+---
+time 1360900857
+new [description:"Life of Pi ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt0454876\/?ref_=fn_al_tt_1" entry:"1360900857" project:"dl" status:"pending" tags:"mov" uuid:"8be4cdbf-93ad-4f70-b113-3aee3eda6cf8"]
+---
+time 1360931601
+new [description:"Re: call next monday - ikloog@gmail.com - Gmail" entry:"1360931601" project:"uni" status:"pending" uuid:"a8205ecf-9052-43e3-bed4-b670c1982d35"]
+---
+time 1360931625
+old [description:"Re: call next monday - ikloog@gmail.com - Gmail" entry:"1360931601" project:"uni" status:"pending" uuid:"a8205ecf-9052-43e3-bed4-b670c1982d35"]
+new [description:"Re: call next monday - ikloog@gmail.com - Gmail" end:"1360931622" entry:"1360931601" project:"uni" status:"deleted" uuid:"a8205ecf-9052-43e3-bed4-b670c1982d35"]
+---
+time 1360982206
+old [description:"change rom to PA n7" entry:"1360632142" project:"nix" status:"pending" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+new [description:"change rom to PA n7" end:"1360982204" entry:"1360632142" project:"nix" status:"deleted" uuid:"fb38c3f2-6a4a-4e79-bfd7-92f934a136ac"]
+---
+time 1360982225
+old [description:"wechat-layout apply" entry:"1360724348" project:"nix" status:"pending" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+new [description:"wechat-layout apply" end:"1360982223" entry:"1360724348" project:"nix" status:"deleted" uuid:"ec22fed7-a750-4c70-9f50-3be01d702074"]
+---
+time 1360982242
+old [description:"use ctrl-s for save in vim" entry:"1360724822" project:"nix" status:"pending" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+new [description:"use ctrl-s for save in vim" end:"1360982241" entry:"1360724822" project:"nix" status:"deleted" uuid:"aab19489-5f18-4ad7-a3a4-09f5e0645fbe"]
+---
+time 1361017849
+new [description:"Skyfall ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1074638\/?ref_=fn_al_tt_1" entry:"1361017849" project:"dl" status:"pending" tags:"mov" uuid:"98c346c8-5229-4d8d-96c1-1ed4729cf9b3"]
+---
+time 1361024978
+new [description:"try roxterm" entry:"1361024978" project:"nix" status:"pending" uuid:"4a448c14-fae9-4ef1-a8e9-71c83be07a11"]
+---
+time 1361024982
+new [description:"try i3" entry:"1361024982" project:"nix" status:"pending" uuid:"c1ca8196-10d0-4904-bd04-7c56f0d83f40"]
+---
+time 1361024991
+new [description:"edit dwb site and add wiki extensions" entry:"1361024991" project:"nix" status:"pending" uuid:"0aa1eaf4-b0da-4ebc-9eaf-19dc8979074a"]
+---
+time 1361071060
+new [description:"install rasi font ( see gchat logs 16.2 )" entry:"1361071060" project:"nix" status:"pending" uuid:"64f65f59-d201-4d7c-8b63-d94fd35fa563"]
+---
+time 1361078326
+new [description:"configure bitlbee on weechat" entry:"1361078326" project:"nix" status:"pending" uuid:"50245d92-46ec-43ef-a1ad-874af9ff8554"]
+---
+time 1361078711
+new [description:"look into flexget" entry:"1361078711" project:"nix" status:"pending" uuid:"bfa68a17-fd41-474a-8943-70b61efe2c70"]
+---
+time 1361153478
+old [description:"mc solarized skin" entry:"1360554615" project:"nix" status:"pending" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+new [description:"mc solarized skin" end:"1361153478" entry:"1360554615" project:"nix" status:"completed" uuid:"99085d37-7ec8-4391-814c-f19b9e1245c4"]
+---
+time 1361229382
+new [description:"look into run-shell for tmux to auto switch back to ncmpcc every X seconds" entry:"1361229382" project:"nix" status:"pending" uuid:"5a971bb9-03bc-43d1-8156-9c98485bb0a3"]
+---
+time 1361241491
+new [description:"atoms 4 peace" entry:"1361241491" project:"DL" status:"pending" uuid:"1ac4a6bc-ffa1-4c11-90e9-79237cdcd53e"]
+---
+time 1361242216
+new [description:"tmux switch to pane 1 every x minutes-see NC tmux entry" entry:"1361242216" project:"nix" status:"pending" uuid:"f033d0cc-6deb-4588-8aaa-63edab62467b"]
+---
+time 1361277584
+new [description:"look at wake on plan app to wakr laptop at 06:30 and launch rsync" entry:"1361277584" project:"nix" status:"pending" uuid:"ae160801-b033-4ddc-936b-f36c880bd9a0"]
+---
+time 1361277611
+new [description:"finish LAN paper review" entry:"1361277611" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+---
+time 1361277723
+old [description:"finish LAN paper review" entry:"1361277611" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+new [description:"finish LAN paper review" entry:"1361277611" priority:"H" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+---
+time 1361277800
+old [description:"finish LAN paper review" entry:"1361277611" priority:"H" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+new [description:"finish LAN paper review" due:"1363320000" entry:"1361277611" priority:"H" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+---
+time 1361278245
+new [description:"wallpapers per WS i3 possible" entry:"1361278245" project:"nix" status:"pending" uuid:"77d2bcab-1545-494e-8943-e27d630dd198"]
+---
+time 1361278283
+old [description:"start using task warrior" entry:"1360554667" project:"nix" status:"pending" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+new [description:"start using task warrior" end:"1361278283" entry:"1360554667" project:"nix" status:"completed" uuid:"6046782b-6e41-4fdf-86ee-313e46544225"]
+---
+time 1361278301
+old [description:"check out AURA" entry:"1360724976" project:"nix" status:"pending" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+new [description:"check out AURA" end:"1361278301" entry:"1360724976" project:"nix" status:"completed" uuid:"9189b008-3e19-4c97-878d-60175bed0f5f"]
+---
+time 1361278313
+old [description:"style the ZSH command prompt" entry:"1360900054" project:"nix" status:"pending" uuid:"2d093137-5c56-436f-883e-99b4300e1e75"]
+new [description:"style the ZSH command prompt" end:"1361278313" entry:"1360900054" project:"nix" status:"completed" uuid:"2d093137-5c56-436f-883e-99b4300e1e75"]
+---
+time 1361278326
+old [description:"install rasi font ( see gchat logs 16.2 )" entry:"1361071060" project:"nix" status:"pending" uuid:"64f65f59-d201-4d7c-8b63-d94fd35fa563"]
+new [description:"install rasi font ( see gchat logs 16.2 )" end:"1361278326" entry:"1361071060" project:"nix" status:"completed" uuid:"64f65f59-d201-4d7c-8b63-d94fd35fa563"]
+---
+time 1361278342
+old [description:"tmux switch to pane 1 every x minutes-see NC tmux entry" entry:"1361242216" project:"nix" status:"pending" uuid:"f033d0cc-6deb-4588-8aaa-63edab62467b"]
+new [description:"tmux switch to pane 1 every x minutes-see NC tmux entry" end:"1361278342" entry:"1361242216" project:"nix" status:"completed" uuid:"f033d0cc-6deb-4588-8aaa-63edab62467b"]
+---
+time 1361278435
+new [description:"look into CLI google cal for linux, to add a appointment from within dwb" entry:"1361278435" project:"nix" status:"pending" uuid:"e6de2c13-1787-44dc-b7c2-16fba46c6fe2"]
+---
+time 1361325358
+new [description:"http:\/\/hellobeck.com\/" entry:"1361325358" project:"DL" status:"pending" uuid:"4a0690d8-1166-4cf2-a9e0-3d206be3bbf2"]
+---
+time 1361329909
+new [description:"atoms 4 peace" entry:"1361329909" project:"dl" status:"pending" uuid:"4327bb86-7fe1-447a-a7aa-b6b43b384eb2"]
+---
+time 1361329932
+old [description:"atoms 4 peace" entry:"1361241491" project:"DL" status:"pending" uuid:"1ac4a6bc-ffa1-4c11-90e9-79237cdcd53e"]
+new [description:"atoms 4 peace" end:"1361329930" entry:"1361241491" project:"DL" status:"deleted" uuid:"1ac4a6bc-ffa1-4c11-90e9-79237cdcd53e"]
+---
+time 1361329944
+old [description:"atoms 4 peace" entry:"1361329909" project:"dl" status:"pending" uuid:"4327bb86-7fe1-447a-a7aa-b6b43b384eb2"]
+new [description:"atoms 4 peace" end:"1361329942" entry:"1361329909" project:"dl" status:"deleted" uuid:"4327bb86-7fe1-447a-a7aa-b6b43b384eb2"]
+---
+time 1361329954
+old [description:"http:\/\/hellobeck.com\/" entry:"1361325358" project:"DL" status:"pending" uuid:"4a0690d8-1166-4cf2-a9e0-3d206be3bbf2"]
+new [description:"http:\/\/hellobeck.com\/" end:"1361329953" entry:"1361325358" project:"DL" status:"deleted" uuid:"4a0690d8-1166-4cf2-a9e0-3d206be3bbf2"]
+---
+time 1361329989
+new [description:"BECK\/CHRIS MILK : HELLO AGAIN http:\/\/hellobeck.com\/" entry:"1361329989" project:"dl" status:"pending" tags:"mov" uuid:"3543332e-f807-4907-953e-3b64fa52d5fe"]
+---
+time 1361330722
+old [description:"ctrl-s to save in vim" entry:"1360554577" project:"nix" status:"pending" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+new [description:"ctrl-s to save in vim" end:"1361330719" entry:"1360554577" project:"nix" status:"deleted" uuid:"00593020-2957-4a7f-a78f-411454043415"]
+---
+time 1361369524
+old [annotation_1360898527:"find a resturant in Fenway and send email back to Sari" description:"Meeting with EHF group in Boston - ikloog@gmail.com - Gmail" entry:"1360898424" project:"uni" status:"pending" uuid:"02b3ab40-882f-4f58-836e-0717ab1255a2"]
+new [annotation_1360898527:"find a resturant in Fenway and send email back to Sari" description:"Meeting with EHF group in Boston - ikloog@gmail.com - Gmail" end:"1361369524" entry:"1360898424" project:"uni" status:"completed" uuid:"02b3ab40-882f-4f58-836e-0717ab1255a2"]
+---
+time 1361378167
+old [description:"look into run-shell for tmux to auto switch back to ncmpcc every X seconds" entry:"1361229382" project:"nix" status:"pending" uuid:"5a971bb9-03bc-43d1-8156-9c98485bb0a3"]
+new [description:"look into run-shell for tmux to auto switch back to ncmpcc every X seconds" end:"1361378167" entry:"1361229382" project:"nix" status:"completed" uuid:"5a971bb9-03bc-43d1-8156-9c98485bb0a3"]
+---
+time 1361450463
+new [description:"check with rasi shell prompt change on non localhost" entry:"1361450463" project:"nix" status:"pending" tags:"rasi" uuid:"063a3e06-aa84-47d7-9eb1-8ec42073af33"]
+---
+time 1361462560
+new [description:"write to the bgu yedion" entry:"1361462560" project:"uni" status:"pending" uuid:"85748412-a745-46c6-a86f-321cc9e117c9"]
+---
+time 1363191064
+old [description:"finish LAN paper review" due:"1363320000" entry:"1361277611" priority:"H" project:"uni" status:"pending" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+new [description:"finish LAN paper review" due:"1363320000" end:"1363191064" entry:"1361277611" priority:"H" project:"uni" status:"completed" uuid:"ef372273-c486-4be5-9521-e0419154483b"]
+---
+time 1363191093
+new [description:"finish birth weight epid review" entry:"1363191093" priority:"H" project:"uni" status:"pending" uuid:"4a342726-9eee-41db-ac1c-42019c357480"]
+---
+time 1363268498
+new [description:"move non sensetive dotfile to git" entry:"1363268498" project:"nix" status:"pending" uuid:"f7b9e6be-26d9-443c-a670-2a631de76ad1"]
+---
+time 1363565277
+new [description:"checkout serman2" entry:"1363565277" project:"nix" status:"pending" uuid:"91dbcf77-4063-478c-9c76-2858718aa372"]
+---
+time 1363565290
+old [description:"write to the bgu yedion" entry:"1361462560" project:"uni" status:"pending" uuid:"85748412-a745-46c6-a86f-321cc9e117c9"]
+new [description:"write to the bgu yedion" end:"1363565290" entry:"1361462560" project:"uni" status:"completed" uuid:"85748412-a745-46c6-a86f-321cc9e117c9"]
+---
+time 1363565305
+old [description:"send sara addar email" entry:"1360845695" project:"uni" status:"pending" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+new [description:"send sara addar email" end:"1363565305" entry:"1360845695" project:"uni" status:"completed" uuid:"2c1505e4-8cdb-4652-a9c8-d12770b23df9"]
+---
+time 1363565319
+old [description:"skype Ryan zink project" entry:"1360845816" project:"uni" status:"pending" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+new [description:"skype Ryan zink project" end:"1363565319" entry:"1360845816" project:"uni" status:"completed" uuid:"dc7b00c6-1acb-4227-92e5-ab4fdcaba711"]
+---
+time 1363611724
+new [description:"send RMA for usb thumb drive 32gb" entry:"1363611724" priority:"H" project:"home" status:"pending" uuid:"2960204a-dcce-4b0f-b46e-c7f58f78a70e"]
+---
+time 1363727010
+new [description:"Modern Vampires of the City - Vampire Weekend : Songs, Reviews, Credits, Awards : AllMusic http:\/\/www.allmusic.com\/album\/modern-vampires-of-the-city-mw0002489977" entry:"1363727010" project:"dl" status:"pending" tags:"music" uuid:"74fc5cc8-a81f-47c2-8785-ee69eff73b66"]
+---
+time 1363866271
+new [description:"dl django" entry:"1363866271" priority:"H" project:"dl" status:"pending" uuid:"217615cd-ad94-4f20-af00-74782f981861"]
+---
+time 1363866278
+old [description:"finish birth weight epid review" entry:"1363191093" priority:"H" project:"uni" status:"pending" uuid:"4a342726-9eee-41db-ac1c-42019c357480"]
+new [description:"finish birth weight epid review" end:"1363866278" entry:"1363191093" priority:"H" project:"uni" status:"completed" uuid:"4a342726-9eee-41db-ac1c-42019c357480"]
+---
+time 1364301563
+new [description:"Wire - Music Biography, Credits and Discography : AllMusic http:\/\/www.allmusic.com\/artist\/wire-mn0000672910" entry:"1364301563" project:"dl" status:"pending" tags:"music" uuid:"48a21a7d-2502-454e-b196-a8060e6cecb5"]
+---
+time 1364481782
+new [description:"Welcome to the Punch ( 2013 ) - IMDb http:\/\/www.imdb.com\/title\/tt1684233\/" entry:"1364481782" project:"dl" status:"pending" tags:"mov" uuid:"518a164d-09b9-406d-97a5-86184ac838bb"]
+---
+time 1364671642
+new [description:"The Man with the Iron Fists ( 2012 ) - IMDb http:\/\/www.imdb.com\/title\/tt1258972\/?ref_=fn_al_tt_1" entry:"1364671642" project:"dl" status:"pending" tags:"mov" uuid:"13c6a319-2fb5-4be7-8467-957a91524958"]
+---
+time 1364780307
+new [description:"The Harder They Come ( soundtrack) - Wikipedia, the free encyclopedia http:\/\/en.wikipedia.org\/wiki\/The_Harder_They_Come_%28soundtrack%29" entry:"1364780307" project:"dl" status:"pending" tags:"music" uuid:"b6b10ec1-6592-4cf5-9354-a88be00967d4"]
+---
+time 1364862308
+old [description:"The Harder They Come ( soundtrack) - Wikipedia, the free encyclopedia http:\/\/en.wikipedia.org\/wiki\/The_Harder_They_Come_%28soundtrack%29" entry:"1364780307" project:"dl" status:"pending" tags:"music" uuid:"b6b10ec1-6592-4cf5-9354-a88be00967d4"]
+new [description:"The Harder They Come ( soundtrack) - Wikipedia, the free encyclopedia http:\/\/en.wikipedia.org\/wiki\/The_Harder_They_Come_%28soundtrack%29" end:"1364862308" entry:"1364780307" project:"dl" status:"completed" tags:"music" uuid:"b6b10ec1-6592-4cf5-9354-a88be00967d4"]
+---
+time 1365172781
+new [description:"dropbox restart script" entry:"1365172781" project:"nix" status:"pending" uuid:"fd8b390d-6bf2-4ed1-8efb-ce7a48e5a398"]
+---
+time 1365172800
+old [description:"dl django" entry:"1363866271" priority:"H" project:"dl" status:"pending" uuid:"217615cd-ad94-4f20-af00-74782f981861"]
+new [description:"dl django" end:"1365172800" entry:"1363866271" priority:"H" project:"dl" status:"completed" uuid:"217615cd-ad94-4f20-af00-74782f981861"]
+---
+time 1365597190
+new [description:"Elysium ( film) - Wikipedia, the free encyclopedia http:\/\/en.wikipedia.org\/wiki\/Elysium_(film)" entry:"1365597190" project:"dl" status:"pending" tags:"mov" uuid:"a4da2155-0b68-44bf-b807-a317f5997bdc"]
+---
+time 1365977887
+new [description:"Bat For Lashes - Daniel - YouTube http:\/\/www.youtube.com\/watch?v=00ZHah-c0hQ" entry:"1365977887" project:"dl" status:"pending" tags:"music" uuid:"53c69a16-a63b-4d92-8035-159d8104caf7"]
+---
+time 1365987027
+new [description:"Epicloud - Wikipedia, the free encyclopedia http:\/\/en.wikipedia.org\/wiki\/Epicloud" entry:"1365987027" project:"dl" status:"pending" tags:"music" uuid:"cc17a6f3-c2ff-4131-b84e-c3526fcf9bed"]
+---
+time 1367629775
+new [description:"Dizzy Mizz Lizzy - Dizzy Mizz Lizzy : Songs, Reviews, Credits, Awards : AllMusic http:\/\/www.allmusic.com\/album\/dizzy-mizz-lizzy-mw0000464499" entry:"1367629775" project:"dl" status:"pending" tags:"music" uuid:"a609f244-b607-4057-8331-6bd1ed6bc850"]
+---
+time 1369009884
+new [description:"Anchorman: The Legend of Ron Burgundy ( 2004 ) - IMDb http:\/\/www.imdb.com\/title\/tt0357413\/" entry:"1369009884" project:"dl" status:"pending" tags:"mov" uuid:"ce11eaca-d66d-4778-ab31-1381634274f6"]
+---
+time 1370260126
+new [description:"use emacs grep for cross org search" entry:"1370260126" project:"nix" status:"pending" uuid:"2c180914-b42f-4e69-b215-dba00fa00f08"]
+---
+time 1370263497
+new [description:"SSR screencast app" entry:"1370263497" project:"nix" status:"pending" uuid:"010cdfe4-ce9a-472a-b144-da2fe0d3e1d2"]
+---
+time 1370477371
+new [description:"Little Boots - Live From Abbey Road - Part 1 - YouTube https:\/\/www.youtube.com\/watch?v=K8-qE9i10rc" entry:"1370477371" project:"dl" status:"pending" tags:"music" uuid:"732f60f8-f000-44df-8157-4f128f638c97"]
+---

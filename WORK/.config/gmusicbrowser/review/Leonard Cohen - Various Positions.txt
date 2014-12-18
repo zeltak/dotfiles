@@ -1,0 +1,12 @@
+<amgid>r105976</amgid>
+<author>Jason Ankeny</author>
+<genre>Pop/Rock</genre>
+<label>Columbia</label>
+<mood>Autumnal, Bittersweet, Melancholy, Somber</mood>
+<rating>60</rating>
+<review>Recorded with vocalist Jennifer Warnes (who later cut the album Famous Blue Raincoat, a collection of Leonard Cohen compositions), Various Positions is a stunning return to form -- Cohen's strongest work since New Skin for the Old Ceremony. Cryptic and spartan, the set continues in the eclectic vein of recent efforts, but with greater clarity and focus, resulting in an intriguingly diffuse collection ranging from the Serge Gainsbourg-esque pop of "Dance Me to the End of Love" to the boozy, country-inflected "The Captain." </review>
+<rls_date>1985</rls_date>
+<style>Singer/Songwriter</style>
+<theme>Autumn, Rainy Day</theme>
+<time>35:10</time>
+<url>http://allmusic.com/album/various-positions-r105976/review</url>

@@ -1,0 +1,12 @@
+<amgid>r227966</amgid>
+<author>Michael Gallucci</author>
+<genre>Pop/Rock</genre>
+<label>Virgin</label>
+<mood>Humorous, Literate, Witty, Wry, Bittersweet, Earnest, Playful, Precious, Quirky</mood>
+<rating>80</rating>
+<rec_date>Feb 1995</rec_date>
+<review>The debut album from piano-playing Ben Folds' smart-ass trio is a potent, and extremely fun, collection of postmodern rock ditties that comes off as a pleasantly workable combination of Tin Pan Alley showmanship, Todd Rundgren-style power pop, and myriad alt-rock sensibilities. The gimmick here is that not a single guitar was used on the 12 songs; but the way that Folds and his bandmates unravel their instruments (piano, bass, and drums make up this combo), even the most hardened noise enthusiasts will hardly miss it (it's the melodies that carry this album, and Folds has plenty of them up his sleeve). Some of it is a bit coy -- Folds plays the joker as much as he does the musician -- but with the dead-on "Underground," they manage to skewer, and pay loving tribute, to the oh-so-hip indie scene from which they came. </review>
+<rls_date>Aug 8, 1995</rls_date>
+<style>Adult Alternative Pop/Rock, Alternative Pop/Rock, Alternative/Indie Rock, Contemporary Pop/Rock</style>
+<theme>School, At the Office, Autumn, Hanging Out, Housework, Reflection, Spring</theme>
+<url>http://allmusic.com/album/ben-folds-five-r227966/review</url>

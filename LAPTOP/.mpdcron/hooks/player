@@ -1,0 +1,4 @@
+#!/bin/sh
+hooks/schange.sh
+
+

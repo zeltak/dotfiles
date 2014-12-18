@@ -1,0 +1,280 @@
+###config file
+
+
+#################################################################33
+######## X/SYSTEM
+#################################################################33
+
+#xkill
+control+alt+super+x 
+		 xkill
+
+
+#touchpad on/off
+control+alt+super + t 
+   /home/zeltak/bin/trackpad-toggle.sh 
+
+
+#suspend
+control+alt+super + s 
+		  systemctl suspend 
+
+
+#################################################################33
+###### TERMIANLS
+#################################################################33
+
+#floating_Term
+super+Return 
+	     terminator --classname=float_term
+
+#main_terms
+alt+super + 1 
+	     terminator --classname=main_term
+#	  termite -r tmux_terms -e tmux_terms  
+
+#################################################################33
+###### LAUNCHERS
+#################################################################33
+
+#Rofi
+#rofi launcher
+alt+w 
+      rofi -zeltak -rnow   -location 8 -width 350 -lines 30 -fixed-num-lines   
+
+#rofi start menu
+super + Insert 
+       /home/zeltak/bin/start
+
+#rofi switcher
+alt+q
+      rofi  -zeltak -now  -location 8 -width 350 -lines 30 -fixed-num-lines  
+
+
+#help menu
+super+ i 
+        /home/zeltak/bin/zhelp       
+
+
+###########################
+#WS app launcher
+###########################
+
+#WS3-Browser
+alt+super + 2 
+      firefox
+
+#WS4-mpd_console
+alt+super + 3 
+            #exec urxvt -name tmux_mpd -e tmux_mpd 
+            cantata
+#WS5-volume control
+alt+super + 4 
+	  pavucontrol 
+
+#WS6-FM
+alt+super + q 
+	 worker
+	 #spacefm 
+
+#WS7-SSH
+#launch_ssh
+alt+super+w 
+	    exec /home/zeltak/bin/ssh_karif
+
+#WS8-Org tech
+alt+super + e
+     emacsclient -c  /home/zeltak/org/files/Tech/linux.org
+
+#WS9-plain emacs
+alt+super+a 
+     emacsclient -c /home/zeltak/.emacs.d/econf.org 
+
+#WS10-org TODO
+alt+super+s
+     emacsclient -c /home/zeltak/org/files/agenda/TODO.org
+
+
+#WS11-org Work
+alt+super + d
+     emacsclient -c /home/zeltak/org/files/agenda/Research.org
+
+#WS13-TeamV
+alt+super + z 
+	  teamviewer
+
+
+#WS13-Utils
+alt+super + x 
+	  termite -r tmux_utils -e tmux_utils
+#WS13-Utils
+alt+super +c 
+	  inkscape
+
+
+###########################################################
+#Auxilary chain launcher
+###########################################################
+
+super + l ; {1,2,3,4,q,w,e,a,s,d,z,x,c}
+       {termite,chromium,cantata,skype,spacefm,ssh_home,emacsclient -c  /home/zeltak/org/files/Tech/linux.org, emacsclient -c, emacsclient -c, emacsclient -c ,virtualbox,systemsettings ,gimp}	 
+
+
+super + shift+ l ; {1,2,3,4,q,w,e,a,s,d,z,x,c}
+       {urxvt,dwb,gmpc,urxvt,dolphin,ssh_home,emacsclient -c  /home/zeltak/org/files/Tech/linux.org, emacsclient -c, emacsclient -c, emacsclient -c ,virtualbox,systemsettings ,gcolor2}	 
+ 
+
+
+
+
+#################################################################33
+###### APPLICATIONS 
+#################################################################33
+
+#lxtask
+control+alt + Delete 
+	    lxtask 
+
+#Teiler
+#super + Insert 
+#      /home/zeltak/bin/teiler/teiler 
+
+#scratchpad
+alt+super + Return 
+	  /home/zeltak/bin/scratchpad_light 
+  
+# org mode quick capture
+#super + u 
+#      urxvt -name ecapture -e  emacsclient -t -e "(org-capture)
+
+
+#################################################################33
+###### MPD 
+#################################################################33
+
+######## MPC based
+
+#MPD next
+Print 
+      mpc next 
+
+#MPD Play/Pause
+XF86Launch1 
+      mpc toggle 
+
+#MPD skip 
+shift+Print 
+       mpc seek +20
+
+#mpd vol up
+shift + XF86AudioRaiseVolume 
+     mpc volume +4 
+
+#mpd vol down
+shift + XF86AudioLowerVolume 
+     mpc volume -4 
+
+######## CLERK based
+
+#mpd_menu
+super + Print 
+      clerk 
+
+#load random album
+alt+super+ Print 
+      clerk -ra
+
+#browse library
+super + slash
+      clerk -library
+
+#add/insert/replace track
+super + period
+      clerk -t
+
+
+#add/insert/replace album
+super + shift+ period
+      clerk -a
+
+#rate track
+super + comma 
+      clerk -tr
+
+#mpd_zfav
+super+ control + Print  
+     clerk -lrated 
+
+
+
+#################################################################
+###### VOLUME
+#################################################################
+
+#vol_up
+XF86AudioRaiseVolume 
+		     /home/zeltak/bin/dvol.sh -i 5 
+
+#vol_down
+XF86AudioLowerVolume 
+		     /home/zeltak/bin/dvol.sh -d 5 
+
+#vol_mute
+XF86AudioMute 
+	       /home/zeltak/bin/dvol.sh -t 
+
+
+
+
+### Help
+#xzelp
+super + u 
+#super + F1 
+    /home/zeltak/bin/zhelp 
+
+
+### rofi
+super + g  ; {g,f,h}
+       {teiler --quick  , teiler  , teiler}	 
+
+#################################################################
+###### localazation
+#################################################################
+
+
+super + F12
+      /home/zeltak/bin/ls_english.sh  
+
+#super + F11
+#      /home/zeltak/bin/ls_hebrew.sh  
+
+#change english
+super+ hebrew_finalkaph
+      /home/zeltak/bin/ls_english.sh  
+
+#change hebrew
+super+ l
+      /home/zeltak/bin/ls_hebrew.sh  
+
+#################################################################
+###### LEGACY
+#################################################################
+#xclip
+#alt+super + Insert 
+#	  lolictrl 
+
+
+
+#Launcher
+#super+q 
+#      interrobang
+#     dmenu_run
+
+#keepass global
+#control+alt+super + k 
+#		  keepass --auto-type & notify-send launch
+
+
+#gmpc search
+#super + slash 
+#      gmpc search database

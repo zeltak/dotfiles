@@ -1,0 +1,16 @@
+[GENERAL]
+delay=0
+filename[$e]=file://$HOME/MLT/cheatsheets/org_general1.png
+includeDecorations=true
+includePointer=false
+mode=2
+
+[KFileDialog Settings]
+Height 900=450
+Recent Files[$e]=$HOME/MLT/cheatsheets/org_tables.png,$HOME/MLT/cheatsheets/org_general.png,$HOME/MLT/cheatsheets/org_movment.png
+Recent URLs[$e]=$HOME/MLT/cheatsheets/,$HOME/Dropbox/PC/dotfiles/bin/
+Width 1600=800
+
+[MainWindow]
+Height 900=499
+Width 1600=430

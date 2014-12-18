@@ -1,0 +1,22 @@
+#!/bin/bash
+source ~/.config/teiler/config
+
+if [ "$DMENU_TRANS" == "1" ]; then
+DMENU_OPTS="-o 0.9 -fn "Source\Code\Pro-12" -nb #000000 -nf #a0a0a0 -sb #0c73c2 -sf #ffffff -l 18 -p $(basename $0)"
+else
+DMENU_OPTS="-fn "Source\Code\Pro-12" -nb #000000 -nf #a0a0a0 -sb #0c73c2 -sf #ffffff -l 18 -p $(basename $0)"
+fi
+
+# Present a menu with all windows
+TITLE="$(i3-msg -t get_tree | python -mjson.tool | sed -n -e 's/^ \{35\}[ ]\+\"name\": \"\(.*\)\", $/\1/p' | sed '/^#[a-F0-9]\{6\}$/d' | dmenu $DMENU_OPTS)"
+
+if [ -z "$TITLE" ] ; then
+   exit 1
+fi
+
+# Escape some characters to prevent i3 to interpret them as a pattern
+# "(" and ")" replaced with "\(" and "\)"
+TITLE="$(echo "$TITLE" | sed 's/\([()]\)/\\\1/g')"
+
+# Focus window
+i3-msg "[title=\"$TITLE\"] focus"

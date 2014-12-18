@@ -1,0 +1,5 @@
+#!/bin/bash
+ 
+gpg2 --batch --decrypt  /home/zeltak/Dropbox/multisync/passes.gpg 2>/dev/null | grep "$@" | cut -d' ' -f1 | tr -d "\n" | xclip -selection clipboard
+sleep 30
+echo " " | tr -d "\n" | xclip -selection clipboard

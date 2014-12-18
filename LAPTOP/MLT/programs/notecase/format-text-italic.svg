@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/dobey/Projects/gnome-icon-theme/scalable/actions"
+   sodipodi:docname="format-text-italic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/lapo/Desktop/format-text.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3219">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3221" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3223" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3219"
+       id="linearGradient3225"
+       x1="-10.5"
+       y1="9"
+       x2="-11"
+       y2="39.078125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(36,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8c86cb"
+     bordercolor="#afafaf"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="4.578125"
+     inkscape:cy="26.877617"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1023"
+     inkscape:window-height="749"
+     inkscape:window-x="77"
+     inkscape:window-y="24"
+     showgrid="false"
+     showborder="true"
+     showguides="false"
+     inkscape:guide-bbox="false"
+     inkscape:grid-points="true"
+     inkscape:grid-bbox="false">
+    <sodipodi:guide
+       orientation="vertical"
+       position="10"
+       id="guide3217" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="39.125"
+       id="guide3219" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="23.997436"
+       id="guide3221" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="4.125"
+       id="guide3544" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="5"
+       id="guide4317" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="3"
+       id="guide4887" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="44.989669"
+       id="guide4889" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="28"
+       id="guide3281" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="24.96875"
+       id="guide3361" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="20.948038"
+       id="guide3363" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="9"
+       id="guide4351" />
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="text4586"
+       d="M 38.000006,8.9999947 L 31.592561,30.894506 L 30.869669,33.833149 C 30.80392,34.113024 30.771066,34.349838 30.771086,34.54359 C 30.771066,34.88805 30.880593,35.189449 31.099678,35.447788 C 31.274893,35.641548 31.493958,35.738427 31.756852,35.738424 C 32.041604,35.738427 32.413995,35.566198 32.874044,35.221739 C 33.728342,34.597416 34.867444,33.305705 36.291349,31.346604 L 37.408551,32.121631 C 35.897018,34.360602 34.341707,36.072118 32.742607,37.256184 C 31.143467,38.418725 29.664818,38.999994 28.306682,38.999995 C 27.364716,38.999994 26.652778,38.763181 26.17087,38.289554 C 25.710832,37.837455 25.480822,37.170072 25.480843,36.287401 C 25.480822,35.232506 25.721786,33.843917 26.203735,32.121631 L 26.893762,29.699673 C 24.024084,33.381055 21.384434,35.953711 18.974814,37.417649 C 17.244247,38.472546 15.546544,38.999994 13.881716,38.999995 C 12.282586,38.999994 10.90252,38.35414 9.7415188,37.062428 C 8.5805076,35.749191 8.000007,33.95156 8.000007,31.669532 C 8.000007,28.246506 9.0405362,24.640483 11.121584,20.851448 C 13.224532,17.04092 15.886091,13.994637 19.106251,11.712589 C 21.625398,9.9042211 24.002184,9.0000239 26.236589,8.9999947 C 27.572825,9.0000239 28.679063,9.3444799 29.555321,10.033364 C 30.453429,10.722304 31.132512,11.863315 31.592561,13.456399 L 32.775471,9.7750216 L 38.000006,8.9999947 M 26.302307,10.67922 C 24.900312,10.679248 23.410719,11.325102 21.833518,12.616787 C 19.599114,14.446735 17.605693,17.159327 15.853237,20.75457 C 14.12267,24.349847 13.257396,27.600652 13.257406,30.506992 C 13.257396,31.970938 13.629797,33.133477 14.374599,33.994613 C 15.11939,34.834229 15.973709,35.254034 16.937575,35.254031 C 19.325295,35.254034 21.921126,33.52099 24.725086,30.054893 C 28.470953,25.447801 30.343902,20.722295 30.343922,15.878359 C 30.343902,14.048458 29.982456,12.724455 29.259594,11.906345 C 28.536671,11.088289 27.550916,10.679248 26.302307,10.67922"
+       style="font-size:14.29555988000000077px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline;font-family:Bitstream Vera Serif" />
+    <path
+       style="font-size:14.29555988000000077px;font-style:normal;font-weight:bold;fill:url(#linearGradient3225);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline;font-family:Bitstream Vera Serif"
+       d="M 26.25,9 C 24.015595,9.0000292 21.612898,9.9103818 19.09375,11.71875 C 15.87359,14.000798 13.227949,17.033222 11.125,20.84375 C 9.043952,24.632785 8,28.233223 8,31.65625 C 8,33.938278 8.588989,35.749263 9.75,37.0625 C 10.04025,37.385428 10.338617,37.664054 10.65625,37.90625 C 11.502244,35.935 12.452412,34.058568 13.46875,32.25 C 13.325183,31.72346 13.249996,31.142738 13.25,30.5 C 13.24999,27.59366 14.113183,24.345277 15.84375,20.75 C 17.596206,17.154757 19.609346,14.454948 21.84375,12.625 C 23.420951,11.333315 24.910505,10.687528 26.3125,10.6875 C 27.561109,10.687528 28.527077,11.088194 29.25,11.90625 C 29.750443,12.472634 30.064756,13.292426 30.21875,14.34375 C 32.521799,12.900923 34.963313,11.662124 37.53125,10.625 L 38,9 L 32.78125,9.78125 L 31.59375,13.46875 C 31.133701,11.875666 30.460608,10.72019 29.5625,10.03125 C 28.686242,9.3423659 27.586236,9.0000296 26.25,9 z"
+       id="path3213" />
+  </g>
+</svg>

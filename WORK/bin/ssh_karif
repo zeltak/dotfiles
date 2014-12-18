@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#for ssh uncomment below and comment mosh
+termite -r ssh_karif -e "mosh zeltak@karif.xssn.at"
+#terminator --classname=ssh_karif -e "mosh zeltak@karif.xssn.at"
+
+#for mosh uncomment below and comment ssh
+#termite -r ssh_karif -e "ssh -R 4321:localhost:20000 karif"

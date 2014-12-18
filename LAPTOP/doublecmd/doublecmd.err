@@ -1,0 +1,1173 @@
+--------------- 06-12-2011, 16:39:01 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F08495859FE
+  $0001030000000000
+
+--------------- 06-12-2011, 21:32:27 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F0D3E661A8D
+  $0000000F00000002
+
+--------------- 09-12-2011, 16:18:22 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F445513531E
+
+--------------- 09-12-2011, 22:41:56 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F744014B9FE
+  $0000020000000000
+
+--------------- 10-12-2011, 10:52:05 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F81B71219FE
+  $0000020000000000
+
+--------------- 10-12-2011, 14:21:07 ---------------
+| DC v0.5.5 alpha Rev. 4141 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00000000007D9FFE
+
+--------------- 20-12-2011, 09:46:09 ---------------
+| DC v0.5.5 alpha Rev. 4188 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000000082C53A
+  $00007F07FB69384D
+
+--------------- 23-12-2011, 10:29:34 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000516055
+  $000000000050F01A
+  $000000000055835D
+  $000000000056AEA6
+  $000000000050F01A
+  $0000000000ACA6B4
+  $0000000000ACA5EA
+  $0000000000ACA370
+  $000000000058E5E3
+  $00000000006D548C
+  $00000000006D5C82
+  $000000000050F585
+  $0000000000798FD1
+  $000000000082DE5A
+
+--------------- 23-12-2011, 10:29:46 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000516055
+  $000000000050F01A
+  $000000000055835D
+  $000000000056AEA6
+  $000000000050F01A
+  $0000000000ACA6B4
+  $0000000000ACA5EA
+  $0000000000ACA370
+  $000000000058E5E3
+  $00000000006D548C
+  $00000000006D5C82
+  $000000000050F585
+  $0000000000798FD1
+  $000000000082DE5A
+
+--------------- 23-12-2011, 10:29:50 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000515C58
+
+--------------- 23-12-2011, 10:30:00 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000516055
+  $000000000058B628
+  $000000000058BBCC
+  $0000000000580464
+  $000000000089F5A0
+  $00000000006C65BD
+  $000000000073100D
+  $0000000000732B31
+  $000000000050F585
+  $00000000006C418D
+  $00000000006B7F27
+  $00000000006B9585
+  $00000000007CD02F
+  $0000000000798FD1
+  $00000000007A73B5
+  $00000000007A74D4
+  $00007F3FF55F9EA8
+
+--------------- 23-12-2011, 10:31:51 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000515C58
+  $00000000006A5DC4
+  $00000000006A6255
+  $0000000000627E71
+  $00000000007309C6
+  $000000000073319E
+  $00000000007322D3
+  $00000000006CE0FC
+  $000000000050F585
+  $00000000006C418D
+  $00000000006B85FC
+  $00000000006B836C
+  $00000000006BC415
+  $00000000006CE763
+  $000000000050F585
+  $00000000006B9738
+  $00000000007CD02F
+
+--------------- 24-12-2011, 09:34:14 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00000000005C3DE2
+  $0000000000957364
+  $00000000009573F9
+  $0000000000959FAC
+  $00000000005C367B
+
+
+--------------- 24-12-2011, 09:34:14 ---------------
+| DC v0.5.5 alpha Rev. 4193 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EStringListError: List index (0) out of bounds
+  Stack trace:
+  $00000000005C2915
+
+--------------- 28-12-2011, 12:09:09 ---------------
+| DC v0.5.5 alpha Rev. 4200 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: Exception: Cannot open existing file
+  Stack trace:
+  $0000000000B01E4F
+  $0000000000B01855
+  $0000000000AC54CB
+  $0000000000AC5870
+  $0000000000AB3164
+  $00000000008DF51C
+  $00000000008EC6B4
+  $000000000057C2A1
+  $00000000005C7D24
+  $00000000006DFA9A
+  $00000000005C7A86
+  $00000000006D541D
+  $00000000006D5C42
+  $000000000050F585
+  $0000000000798F91
+  $000000000082DE1A
+
+--------------- 28-12-2011, 16:24:42 ---------------
+| DC v0.5.5 alpha Rev. 4200 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F2C48ACFA8D
+  $0000000F00000002
+
+--------------- 29-12-2011, 20:39:43 ---------------
+| DC v0.5.5 alpha Rev. 4200 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EInvalidOp: Invalid floating point operation
+  Stack trace:
+  $00007F1B62407A8D
+  $0000000F00000002
+
+--------------- 31-12-2011, 16:11:25 ---------------
+| DC v0.5.5 alpha Rev. 4217 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EDivByZero: Division by zero
+  Stack trace:
+  $00007F9A75E27A8D
+  $0000000F00000002
+
+--------------- 06-01-2012, 16:37:13 ---------------
+| DC v0.5.5 alpha Rev. 4226 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.8
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000000082C41A
+  $00007F842766E84D
+
+--------------- 05-07-2013, 09:56:31 ---------------
+| DC v0.5.5 alpha Rev. 5237 -- x86_64-Linux-gtk2
+| Arch Linux -- GTK 2.24.19
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000A33568 line 206, column 1 of udisplayfile.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A355DB line 650, column 3 of fileviews/ufileviewwithgrid.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000664E27 in /usr/lib/doublecmd/doublecmd
+  $0000000000664AB2 in /usr/lib/doublecmd/doublecmd
+  $0000000000A3A3B8 line 220, column 3 of fileviews/ufileviewwithmainctrl.pas in /usr/lib/doublecmd/doublecmd
+  $000000000098F305 line 214, column 7 of uformcommands.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006246CC line 883, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000668CCC in /usr/lib/doublecmd/doublecmd
+  $00000000008379DE line 252, column 13 of include/customaction.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000668963 in /usr/lib/doublecmd/doublecmd
+  $00000000007016E5 line 80, column 7 of include/menuitem.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000701FA2 line 278, column 5 of include/menuitem.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000577279 in /usr/lib/doublecmd/doublecmd
+  $00000000007846C9 line 3591, column 68 of gtk2proc.inc in /usr/lib/doublecmd/doublecmd
+  $00000000008CBB4D line 138, column 3 of gtk2wsmenus.pp in /usr/lib/doublecmd/doublecmd
+
+
+--------------- 10-08-2013, 10:22:26 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00000000009E7E78 line 206, column 1 of udisplayfile.pas in /usr/lib/doublecmd/doublecmd
+  $00000000009E9E0B line 650, column 3 of fileviews/ufileviewwithgrid.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000617307 in /usr/lib/doublecmd/doublecmd
+  $0000000000616F92 in /usr/lib/doublecmd/doublecmd
+  $00000000009F6158 line 220, column 3 of fileviews/ufileviewwithmainctrl.pas in /usr/lib/doublecmd/doublecmd
+  $000000000090530D line 214, column 7 of uformcommands.pas in /usr/lib/doublecmd/doublecmd
+  $000000000087AD2C line 1252, column 77 of uhotkeymanager.pas in /usr/lib/doublecmd/doublecmd
+  $000000000074872F line 5556, column 25 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000748763 line 5564, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000748A54 line 5695, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000748983 line 5676, column 14 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074BB52 line 6986, column 38 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005635B1 in /usr/lib/doublecmd/doublecmd
+  $0000000000747674 line 5322, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000009CBD29 line 4487, column 31 of grids.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000800B3A line 5099, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007FC2E4 line 3022, column 9 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+
+
+--------------- 10-08-2013, 21:18:03 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000562874 in /usr/lib/doublecmd/doublecmd
+  $0000000000B24B98 line 428, column 3 of frames/foptionstoolbar.pas in /usr/lib/doublecmd/doublecmd
+  $000000000078AFC6 line 55, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078B8A9 line 175, column 3 of include/buttons.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007EA421 line 58, column 3 of include/bitbtn.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078AEE9 line 26, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005635B1 in /usr/lib/doublecmd/doublecmd
+  $0000000000747674 line 5322, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000800B3A line 5099, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000801BED line 5477, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FCFBE420BA8 in /usr/lib/libQtCore.so.4
+
+--------------- 10-08-2013, 21:18:08 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000562874 in /usr/lib/doublecmd/doublecmd
+  $0000000000B24B98 line 428, column 3 of frames/foptionstoolbar.pas in /usr/lib/doublecmd/doublecmd
+  $000000000078AFC6 line 55, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078B8A9 line 175, column 3 of include/buttons.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007EA421 line 58, column 3 of include/bitbtn.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078AEE9 line 26, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005635B1 in /usr/lib/doublecmd/doublecmd
+  $0000000000747674 line 5322, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000800B3A line 5099, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000801BED line 5477, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FCFBE420BA8 in /usr/lib/libQtCore.so.4
+
+--------------- 10-08-2013, 21:18:16 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000562874 in /usr/lib/doublecmd/doublecmd
+  $0000000000B24B98 line 428, column 3 of frames/foptionstoolbar.pas in /usr/lib/doublecmd/doublecmd
+  $000000000078AFC6 line 55, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078B8A9 line 175, column 3 of include/buttons.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007EA421 line 58, column 3 of include/bitbtn.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078AEE9 line 26, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005635B1 in /usr/lib/doublecmd/doublecmd
+  $0000000000747674 line 5322, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000800B3A line 5099, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000801BED line 5477, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FCFBE420BA8 in /usr/lib/libQtCore.so.4
+
+--------------- 10-08-2013, 21:18:20 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000562874 in /usr/lib/doublecmd/doublecmd
+  $0000000000B24B98 line 428, column 3 of frames/foptionstoolbar.pas in /usr/lib/doublecmd/doublecmd
+  $000000000078AFC6 line 55, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078B8A9 line 175, column 3 of include/buttons.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007EA421 line 58, column 3 of include/bitbtn.inc in /usr/lib/doublecmd/doublecmd
+  $000000000078AEE9 line 26, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005635B1 in /usr/lib/doublecmd/doublecmd
+  $0000000000747674 line 5322, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000800B3A line 5099, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000801BED line 5477, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FCFBE420BA8 in /usr/lib/libQtCore.so.4
+
+--------------- 26-08-2013, 21:31:16 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-08-2013, 14:32:31 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-09-2013, 11:01:17 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-09-2013, 14:07:14 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 03-09-2013, 09:33:44 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-09-2013, 11:16:47 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-09-2013, 08:38:10 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-09-2013, 15:03:42 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-09-2013, 19:17:39 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-09-2013, 20:04:24 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-09-2013, 20:44:20 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-09-2013, 22:32:57 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 13-09-2013, 14:01:02 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 13-09-2013, 15:11:36 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 13-09-2013, 21:01:01 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 14-09-2013, 15:40:33 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 14-09-2013, 20:58:15 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-09-2013, 19:42:45 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-09-2013, 20:05:18 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 22-09-2013, 10:10:48 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-10-2013, 10:35:14 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-10-2013, 11:34:34 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-10-2013, 11:40:34 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-10-2013, 22:23:01 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 10-10-2013, 21:18:41 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 11-10-2013, 01:53:29 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 11-10-2013, 12:12:54 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-10-2013, 06:38:07 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 17-10-2013, 09:28:58 ---------------
+| DC v0.5.6 beta Rev. 5261 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $000000000076207E line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761EE1 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000075339E line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743759 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752B44 line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007619C5 line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741D2A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074134D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740D90 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A4427 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749DEF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A5B line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007587AC line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742DF1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000076238A line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F7D3 line 7886, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B360 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 18-10-2013, 19:42:31 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 06:36:30 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 08:30:34 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 08:38:03 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 09:01:37 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 09:01:38 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $0000000000617362 in /usr/lib/doublecmd/doublecmd
+  $0000000000A4D7DF line 332, column 9 of fileviews/ufileviewworker.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A4D851 line 345, column 3 of fileviews/ufileviewworker.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000616A9B in /usr/lib/doublecmd/doublecmd
+
+
+--------------- 19-10-2013, 09:14:42 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-10-2013, 09:18:41 ---------------
+| DC v0.5.7 beta Rev. 5310 -- x86_64-Linux-qt4
+| Arch Linux -- Qt 4.8.5, libQt4Pas 4.5.3
+Unhandled exception: Exception: TControl.InvalidatePreferredSize loop detected frmMain:TfrmMain Bounds=l=3,t=3,r=65533,b=65533
+  Stack trace:
+  $00000000007622E6 line 5324, column 120 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000762149 line 5340, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007535C6 line 749, column 6 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000743949 line 3765, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000752D6C line 679, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000761C2D line 5171, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000741F1A line 2999, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074153D line 3112, column 27 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000740F80 line 3187, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000005A43B7 line 86, column 44 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000749FDF line 6251, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758CBB line 2837, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000758A0C line 2882, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000742FE1 line 3500, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000007625F2 line 5430, column 7 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074F9FB line 7891, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000074B550 line 6865, column 47 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+

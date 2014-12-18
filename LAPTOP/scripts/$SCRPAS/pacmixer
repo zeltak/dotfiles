@@ -1,0 +1,5 @@
+#!/bin/bash
+urxvt -name pacmixer   +sb  -e pacmixer
+
+
+

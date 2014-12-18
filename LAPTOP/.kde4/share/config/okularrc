@@ -1,0 +1,42 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Height 900=450
+Recent Files[$e]=kloog_2014-04-11-Note-14-25.pdf,$HOME/ZH_tmp/form/kloog_2014-04-11-Note-14-25.pdf
+Recent URLs[$e]=$HOME/ZH_tmp/form/
+Width 1600=800
+
+[MainWindow]
+Height 1152=1153
+Height 1200=854
+Height 1440=1441
+Height 900=901
+State=AAAA/wAAAAD9AAAAAAAABjgAAAMhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1601
+Width 1920=1584
+Width 2048=2049
+Width 2560=2561
+
+[Recent Files]
+File1[$e]=$HOME/ZH_tmp/Ikloog_italy.pdf
+File10[$e]=$HOME/ZH_tmp/ikloog_EHF.pdf
+File2[$e]=$HOME/ZH_tmp/ikloog_delta.pdf
+File3[$e]=$HOME/ZH_tmp/BoardingPass.pdf
+File4[$e]=$HOME/ZH_tmp/Wire Request FormBlank.IK.pdf
+File5[$e]=$HOME/ZH_tmp/חוברת תקצירים.pdf
+File6[$e]=$HOME/Sync/scans/Manuals/178738_062512.pdf
+File7[$e]=$HOME/Sync/scans/Manuals/Q_100_120_200_220_Owners Guide_2012_59779_090111.pdf
+File8[$e]=$HOME/Sync/scans/2013/FalconFT5030UserManual.pdf
+File9[$e]=$HOME/ZH_tmp/Manage My Trips.pdf
+Name1[$e]=Ikloog_italy.pdf
+Name10[$e]=ikloog_EHF.pdf
+Name2[$e]=ikloog_delta.pdf
+Name3[$e]=BoardingPass.pdf
+Name4[$e]=Wire Request FormBlank.IK.pdf
+Name5[$e]=חוברת תקצירים.pdf
+Name6[$e]=178738_062512.pdf
+Name7[$e]=Q_100_120_200_220_Owners Guide_2012_59779_090111.pdf
+Name8[$e]=FalconFT5030UserManual.pdf
+Name9[$e]=Manage My Trips.pdf

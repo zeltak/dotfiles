@@ -1,0 +1,6 @@
+[Z1_lyrics]
+Default     = Window(size=800x600)
+
+
+
+HBmain= PluginLyrics

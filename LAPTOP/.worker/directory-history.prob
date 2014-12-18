@@ -1,0 +1,169 @@
+nextaging = "1415564835";
+entry {
+	prefix = ".co";
+	value = "0.327680";
+	name = "/home/zeltak/.config/Recoll.org";
+}
+entry {
+	prefix = "Downl";
+	value = "0.107374";
+	name = "/home";
+}
+entry {
+	prefix = "bi";
+	value = "0.275146";
+	name = "/home/zeltak/bin";
+	value = "0.209715";
+	name = "/home/zeltak/bin/ecapture.sh";
+	value = "0.209715";
+	name = "/home/zeltak/bin/helpmenu.sh";
+	value = "0.209715";
+	name = "/home/zeltak/programs";
+}
+entry {
+	prefix = "bin";
+	value = "0.317090";
+	name = "/home/zeltak/bin";
+}
+entry {
+	prefix = "co";
+	value = "0.209715";
+	name = "/home/zeltak/.config/feh";
+}
+entry {
+	prefix = "com";
+	value = "0.301990";
+	name = "/home/zeltak/mounts/lraid/Download/transmission/completed";
+}
+entry {
+	prefix = "compl";
+	value = "0.262144";
+	name = "/home/zeltak/mounts/lraid/Download/transmission/completed";
+}
+entry {
+	prefix = "comple";
+	value = "0.167772";
+	name = "/home/zeltak/mounts/lraid/Download/transmission/completed";
+}
+entry {
+	prefix = "complete";
+	value = "0.167772";
+	name = "/home/zeltak/mounts/lraid/Download/transmission/completed";
+}
+entry {
+	prefix = "con";
+	value = "0.275146";
+	name = "/.config";
+}
+entry {
+	prefix = "conf";
+	value = "0.167772";
+	name = "/home/zeltak/.config";
+	value = "0.167772";
+	name = "/";
+}
+entry {
+	prefix = "confi";
+	value = "0.134218";
+	name = "/home/zeltak/.config";
+	value = "0.262144";
+	name = "/.config";
+}
+entry {
+	prefix = "config";
+	value = "0.107374";
+	name = "/.config";
+}
+entry {
+	prefix = "dot";
+	value = "0.640000";
+	name = "/home/zeltak/dotfiles";
+	value = "0.800000";
+	name = "/home/zeltak/dotfiles/COMMON";
+}
+entry {
+	prefix = "dow";
+	value = "0.209715";
+	name = "/";
+	value = "0.262144";
+	name = "/home";
+	value = "1.769472";
+	name = "/home/zeltak/Downloads";
+	value = "0.327680";
+	name = "/home/zeltak/Downloads/[kickass.to]top.secret.1984.720p.web.dl.h264.hdclub.publichd.torrent";
+	value = "0.327680";
+	name = "/home/zeltak/Downloads/test_Beit.pdf";
+}
+entry {
+	prefix = "down";
+	value = "0.899678";
+	name = "/home/zeltak/mounts/lraid/Download";
+	value = "0.167772";
+	name = "/home/zeltak/mounts/lraid/Download/transmission";
+	value = "0.786432";
+	name = "/home/zeltak/Downloads";
+}
+entry {
+	prefix = "downl";
+	value = "0.301990";
+	name = "/home/zeltak/Downloads";
+	value = "0.134218";
+	name = "/home/zeltak/music";
+}
+entry {
+	prefix = "h";
+	value = "0.512000";
+	name = "/home";
+	value = "0.640000";
+	name = "/home/zeltak/Zmusic";
+}
+entry {
+	prefix = "music";
+	value = "0.107374";
+	name = "/home/zeltak/music";
+	value = "0.107374";
+	name = "/home/zeltak";
+}
+entry {
+	prefix = "org";
+	value = "0.262144";
+	name = "/home/zeltak/.emacs.d/nonelpa/org-screen";
+	value = "0.774144";
+	name = "/home/zeltak/org";
+	value = "0.262144";
+	name = "/home/zeltak/org/files";
+	value = "0.409600";
+	name = "/";
+}
+entry {
+	prefix = "sc";
+	value = "0.209715";
+	name = "/home/zeltak/ZH_tmp";
+	value = "0.209715";
+	name = "/home/zeltak/scripts/Audio";
+}
+entry {
+	prefix = "z";
+	value = "0.967772";
+	name = "/home/zeltak";
+	value = "0.167772";
+	name = "/home/zeltak/ZH_tmp";
+	value = "0.167772";
+	name = "/home/zeltak/ZH_tmp/zorg";
+	value = "1.000000";
+	name = "/home/zeltak/Downloads";
+}
+entry {
+	prefix = "zh";
+	value = "0.327680";
+	name = "/home/zeltak";
+	value = "0.819200";
+	name = "/home/zeltak/ZH_tmp";
+	value = "0.409600";
+	name = "/home/zeltak/ZH_tmp/t.html";
+}
+entry {
+	prefix = "zsh";
+	value = "0.524288";
+	name = "/home/zeltak/.zsh";
+}

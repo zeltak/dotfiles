@@ -1,0 +1,2 @@
+#!/bin/bash
+urxvt -fg black -bg white -name vim_z  +sb  -e vim

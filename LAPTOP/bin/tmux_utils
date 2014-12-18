@@ -1,0 +1,94 @@
+#!/bin/sh
+
+tmux has-session -t tmux_utils
+if [ $? != 0 ]
+then
+
+#create the main tmux session and detach 
+tmux  new-session -s tmux_utils -n Main -d
+
+
+#create first window
+tmux send-keys -t tmux_utils 'htop' C-m
+
+#create a new window
+tmux new-window -t tmux_utils -n Glances
+tmux send-keys -t tmux_utils:2 'glances' C-m
+
+
+tmux select-window -t tmux_utils:1
+
+###########THEME############################
+
+#split panes  border colours
+
+#non active
+tmux set -t tmux_utils pane-border-fg default
+tmux set -t tmux_utils pane-border-bg default
+#active
+#set -t tmux_utils pane-active-border-bg '#006F95' #comment out to make pane thinner
+tmux set -t tmux_utils pane-active-border-fg '#A5F100'
+
+
+
+#command line
+tmux set -t tmux_utils message-fg white
+tmux set -t tmux_utils message-bg black
+tmux set -t tmux_utils message-attr bright
+
+
+
+#Status-Bar
+tmux set -t tmux_utils status-bg "#222222"
+tmux set -t tmux_utils status-fg "#777777"
+# center align window list
+tmux set -t tmux_utils status-justify centre
+
+
+ 
+#Left side of status bar
+tmux set -t tmux_utils status-left-length 500
+tmux set-option -t tmux_utils status-left  '#[fg=#ffffff]'
+#right side of status bar
+tmux set -t tmux_utils status-right-length 500
+tmux set-option -t tmux_utils status-right '#[fg=#ffffff]'
+
+
+
+
+####window properties
+
+
+###Win1
+
+# Current or active window in status bar
+tmux set -t tmux_utils:1 window-status-current-attr bold
+tmux set -t tmux_utils:1 window-status-current-fg black
+tmux set -t tmux_utils:1 window-status-current-bg '#A5F100'
+
+# Non active window in status bar
+tmux set -t tmux_utils:1 window-status-attr bold
+tmux set -t tmux_utils:1 window-status-fg black
+tmux set -t tmux_utils:1  window-status-bg '#828282'
+
+###Win2
+tmux set -t tmux_utils:2 window-status-current-attr bold
+tmux set -t tmux_utils:2 window-status-current-fg black
+tmux set -t tmux_utils:2 window-status-current-bg '#A5F100'
+tmux set -t tmux_utils:2 window-status-attr bold
+tmux set -t tmux_utils:2 window-status-fg black
+tmux set -t tmux_utils:2  window-status-bg '#828282'
+
+
+#clear annoying window flags
+tmux set  -t tmux_utils:1  window-status-current-format " #I$ #W"
+tmux set  -t tmux_utils:2  window-status-current-format " #I$ #W"
+
+tmux set -t tmux_utils:1    window-status-format " #I$ #W "
+tmux set -t tmux_utils:2    window-status-format " #I$ #W "
+
+fi
+
+tmux attach -t tmux_utils
+
+

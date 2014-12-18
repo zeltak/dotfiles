@@ -1,0 +1,13 @@
+<amgid>r18764</amgid>
+<author>William Ruhlmann</author>
+<genre>Pop/Rock</genre>
+<label>Columbia</label>
+<mood>Wistful, Yearning, Bittersweet, Earnest, Energetic, Fiery, Intimate, Joyous, Literate, Melancholy, Organic, Passionate, Plaintive, Poignant, Rousing, Sad</mood>
+<rating>100</rating>
+<review>Imbedded within the double-disc running time of The River is a single-disc album that follows up on the themes and sound of Darkness on the Edge of Town -- wide-screen, midtempo rock and stories of the disillusionment of working-class life and the conflicts within families. In these songs, which include the title track, "Independence Day," and "Point Blank," Bruce Springsteen's world-view is just as dire as it had become on Darkness, but less judgmental. "Independence Day," for example, is a father-and-son ballad that has little of the anger of its hard rock counterpart on Darkness, "Adam Raised a Cain." Springsteen's heroes again seek to overcome their crushing troubles through defiance and by driving around, and though "The River" repeats the soured love theme of "Racing in the Street," he also posits romance as a possible escape, sometimes combining it with one of the other solutions, as on the eight-plus-minute "Drive All Night." But there is also another album lurking within The River, and it is a more lighthearted pop/rock collection of short, sometimes humorous songs like "Sherry Darling" and "I'm a Rocker." At times Springsteen combines elements of the two, as on "Out in the Street," perhaps the album's quintessential song, a catchy, uptempo number that sounds like something from the early '60s and echoes the theme of the Vogues' 1966 hit "Five O'Clock World." "Hungry Heart," which became Springsteen's first Top Ten hit, combines a rollicking musical track with a more sober lyrical theme that emphasizes longing over disappointment. But a better guide to Springsteen's development are the songs "Stolen Car" and the album-closing "Wreck on the Highway," gentle, moody ballads imbued with a sense of hopelessness that anticipate his next record, Nebraska. </review>
+<rls_date>Oct 10, 1980</rls_date>
+<style>Album Rock, Contemporary Pop/Rock, Rock & Roll, Heartland Rock</style>
+<theme>Feeling Blue, Freedom, Late Night, Loss/Grief, Road Trip</theme>
+<time>82:58</time>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/the-river-r18764/review</url>

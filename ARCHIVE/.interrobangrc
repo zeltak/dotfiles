@@ -1,0 +1,49 @@
+## | InterobangRC
+## |
+## | Lines starting with a # are ignored as comments, but this file is
+## | not processed by a shell interpreter.
+
+
+#set font      = "Source\ Code\ Pro"
+set font      = fixed
+#set font      = -*-terminus-bold-r-normal--*-160-*-*-c-*-*-*
+#set geometry  = top
+set geometry  = 900x20+400+24
+set colors	  = #0092FF #000000 #000000 #0092FF #39b52f #ffffff
+set border    = 2px #0092FF
+set bangchar  = :
+set run_hook  = %s
+#set run_hook  = %s || (notify-send "Error: command not found";interrobang)
+set autocomp  = 1
+set list      = true
+set last      = true
+
+bang term     = urxvtc -e %s
+bang web      = dwb %s
+bang pdf      = mupdf %s
+bang man      = urxvtc -e man %s
+bang ddg      = dwb https://duckduckgo.com/?q=%s
+bang calc     = echo "interrobang ignored \"%s\""
+bang ?        = echo "interrobang ignored \"%s\""
+bang logout   = case "%s" in shutdown) sudo systemctl poweroff ;; sleep) sudo systemctl suspend ;; reboot) sudo systemctl reboot ;; logout) killall xinit ;; cancel) exit ;; esac
+
+tab default   = percontation "%s" %s | sort -u
+#tab default   = compgen -P "%s" -cf %s
+tab calc      = str="%s%s"; echo "!calc $(echo ${str#\!calc} | bc -l)"
+tab ?         = ignore="%s%s"; awk '/^bang/ {print $2;}' ~/.interrobangrc
+tab logout    = echo -e "cancel\nshutdown\nsleep\nreboot\nlogout" | grep "^%s%s"
+
+#create a history+MRU comes first option
+set run_hook       = cmd="%s"; ($cmd && echo $cmd >> ~/.config/interrobang/history) || (notify-send "Error: command not found")
+tab default        = pre="%s"; str="%s"; [[ -z "$pre" ]] && (grep "$str" ~/.config/interrobang/history | sort | uniq -c | sort -r | awk '{print $2}'; percontation "$pre" $str) | awk ' !x[$0]++' | head -7
+
+bang mp   =   mpc %s
+bang ms =      muss %s
+bang term = urxvtc -e %s
+bang web = dwb %s
+bang pdf = mupdf %s
+bang man = urxvtc -e man %s
+bang ddg = dwb https://duckduckgo.com/?q=%s
+
+bang calc = echo "interrobang ignored \"%s\""
+bang ? = echo "interrobang ignored \"%s\""

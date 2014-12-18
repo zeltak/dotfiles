@@ -1,0 +1,62 @@
+nextaging = "1399186239";
+entry {
+	prefix = "";
+	value = "0.800000";
+	name = "/home/zeltak/.config/.config";
+}
+entry {
+	prefix = ".co";
+	value = "1.000000";
+	name = "/home/zeltak/.config/.config";
+}
+entry {
+	prefix = "b";
+	value = "0.800000";
+	name = "/home/zeltak/bin";
+	value = "1.600000";
+	name = "/home/zeltak/bin/.qiv-select";
+}
+entry {
+	prefix = "bi";
+	value = "1.600000";
+	name = "/home/zeltak/bin";
+	value = "2.400000";
+	name = "/home/zeltak/bin/.qiv-select";
+}
+entry {
+	prefix = "bin";
+	value = "0.800000";
+	name = "/home/zeltak/bin";
+}
+entry {
+	prefix = "c";
+	value = "0.800000";
+	name = "/home/zeltak/.config/.config";
+}
+entry {
+	prefix = "co";
+	value = "2.400000";
+	name = "/home/zeltak/.config/.config";
+}
+entry {
+	prefix = "con";
+	value = "0.800000";
+	name = "/home/zeltak/.config/.config";
+}
+entry {
+	prefix = "hom";
+	value = "0.800000";
+	name = "/home/zeltak/bin";
+}
+entry {
+	prefix = "o";
+	value = "0.800000";
+	name = "/home/zeltak";
+}
+entry {
+	prefix = "sc";
+	value = "0.800000";
+	name = "/home/zeltak/scripts/$SCRPAS";
+	value = "1.600000";
+	name = "/home/zeltak/scripts/";
+}

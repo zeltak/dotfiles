@@ -1,0 +1,2 @@
+#!/bin/bash
+mpc clear && cd /home/zeltak/music && grep -lF "$(seq 7 10)" **/rating.txt | sed -e 's/\/rating.txt.*//g' | shuf -n 1 | while read line; do mpc add "$line" && mpc play; done

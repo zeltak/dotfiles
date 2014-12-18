@@ -1,0 +1,14 @@
+[Containments][1]
+ActionPluginsSource=Global
+activity=
+activityId=
+desktop=-1
+formfactor=0
+geometry=0,0,892,742
+immutability=1
+lastDesktop=-1
+lastScreen=-1
+location=0
+plugin=amarok_containment_vertical
+screen=-1
+zvalue=0

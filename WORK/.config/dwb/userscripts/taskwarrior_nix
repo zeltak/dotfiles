@@ -1,0 +1,6 @@
+#!/bin/bash
+# dwb: xtx
+task add pro:nix $DWB_TITLE $DWB_URI ; notify-send -u low "Task warrior" "added $DWB_TITLE"
+
+
+

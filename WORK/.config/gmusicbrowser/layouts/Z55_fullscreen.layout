@@ -1,0 +1,78 @@
+
+[Z55 fullscreen]
+
+###################################################################################################
+#General
+###################################################################################################
+Type=F
+Default		= Window fullscreen=1,sticky=0
+#keyboard shortcut configs
+KeyBindings	= f CloseWindow
+Skin            = background3.jpg::s
+
+
+
+
+
+
+
+HPBottom	= VBLeft _TBRight
+VBmain		= HBmenu 5_HPBottom
+
+
+###################################################################################################
+#TopBar Menu Widget
+###################################################################################################
+
+#Structure
+HBmenu		= -Fullscreen Prev(size=dialog) Play(size=dialog)  Next(size=dialog)
+
+
+###################################################################################################
+###################################################################################################
+#Left Side
+###################################################################################################
+###################################################################################################
+###################################################################################################
+
+VBLeft		= VBplayer -_HBContext
+
+
+###################################################################################################
+#Left Side #Top Player Widget-not text part (VBPLAYER)
+###################################################################################################
+
+#Structure
+VBplayer	= _VBText
+
+
+
+###################################################################################################
+#Left Side #Bottom Player Widget-Text info part (VBPLAYER)
+###################################################################################################
+
+#Structure
+VBText		= 5HBTitle 5HBArtist 5HBAlbum HBTime 
+
+#Player Time bar
+HBTime		= LabelTime Length _Scale
+#Song Title
+HBTitle		= LockAlbum2(stock="on:gmb-song off:gmb-song") \Filler0 _Title Stars
+#Artist info
+HBArtist	= LockArtist(stock="on:gmb-artist-lock gmb-lockopen off:gmb-artist gmb-locklight") \
+_Artist
+#Album info
+HBAlbum		= LockAlbum(stock="on:gmb-album-lock gmb-lockopen off:gmb-album gmb-locklight") \
+_Album  -Date
+HSize0		= Filler0 LockArtist LockAlbum
+
+
+
+
+###################################################################################################
+#Left Side #Context (lyrics plugin)
+###################################################################################################
+
+#Context box
+HBContext       =   10Cover(maxsize=350)  35PluginLyrics(minwidth=600) 30ArtistPic(maxsize=350) 
+

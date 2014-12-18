@@ -1,0 +1,155 @@
+directory: ~/music
+library: ~/.beets/musiclibrary.blb
+
+
+paths:
+    #with artist letter in middle
+    #default: %left{$albumartist,1}/$albumartist/$year $album/$track $title
+    #all artist in one directory #$Note$ the use of the %the needs the 'the' plugin
+    default: %the{$albumartist}/$year $album/$track $title
+
+    ####### Compilation switches
+    #comp: 1Singles/$album/$track $title
+    comp: 3Compilations/2013 $album/$track $title
+    #comp: 2Soundtracks/$album/$track $title
+    
+    ### soundtrack switches
+    albumtype:soundtrack: 2Soundtracks/$album/$track $title
+    
+    ######## Single swithces
+    #normal single mode for aritsts compliations
+    #singleton: %the{$albumartist}/2013 $albumartist Hits/$track $title
+    #Turn on when importing one/two hit wonders    
+    singleton: 1Singles/%the{$albumartist}/2013 $albumartist Hits/$track $title
+
+    #manual move
+    mis:1: %the{$albumartist}/$year $album/$track $title
+
+import:
+    # Do we copy the files when importing?
+    copy: yes
+    # Or do we instead move the music when import?
+    move: yes
+    # Write ID3v2.4 tags to the music?
+    write: yes
+    # Automatically resume from where we left off
+    resume: ask
+    quiet_fallback: skip
+    timid: no
+    log: beetslog.txt
+
+original_date: yes
+
+#to remove the folder after moving audio files 
+#A directory is considered empty if it only contains files whose names match the glob patterns in clutter
+clutter: .DS_Store *.*
+
+match:
+    strong_rec_thresh: 0.11
+    preferred:
+        countries: ['US', 'GB|UK']
+        media: ['CD', 'Digital Media|File']
+
+
+pluginpath: /home/zeltak/.beets/myplugins/
+
+plugins: play fuzzy mpdstats fetchart replaygain embedart  fromfilename web  zero scrub lyrics rewrite the  mpdupdate   duplicates info convert dates lastimport
+#unused: replaygain smartplaylist
+
+replaygain:
+     backend: gstreamer
+     overwrite: yes
+#    albumgain: yes
+
+play:
+   command: /home/zeltak/bin/beets_playplugin.sh
+   relative_to: /home/zeltak/music/
+
+convert:
+    embed: false
+    format: opus
+    #max_bitrate: 200
+    dest: /home/zeltak/ZH_tmp/$convmusic/
+    #threads: 4
+    paths:
+        default: $albumartist/$title
+
+rewrite:
+    artist Carl Newman: A.C. Newman
+    artist Bob Marley & The Wailers: Bob Marley 
+    
+the:
+    # handle "The" (on by default)
+    the: yes
+    # handle "A/An" (on by default)
+    a: yes
+    # format string, {0} - part w/o article, {1} - article
+    # spaces already trimmed from ends of both parts
+    # default is '{0}, {1}'
+    format: '{0}, {1}'
+    # strip instead of moving to the end, default is off
+    strip: no
+    # custom regexp patterns, space-separated
+    #patterns: 
+
+
+fetchart:
+    auto: yes
+
+embedart:
+    auto: yes
+    maxwidth: 500
+
+lyrics:
+    google_API_key: AIzaSyDooP7J5EmH77toX7PbEgNu3uqTT6XTdg 
+    google_engine_ID: 009217259823014548361:lndtuqkycfu
+    fallback: 'No lyrics found'
+zero:
+    fields: month day genre comments  
+    #comments: [EAC, LAME, from.+collection, 'ripped by']
+    comments: [ '^[^Ff]' ]
+    genre: [rnb, 'power metal']
+
+#mpd
+#update mpd dataset after import
+mpdupdate:
+    host: localhost
+    port: 6600
+
+ignore: .AppleDouble ._* *~ .DS_Store .txt .cue 
+
+#name of album coverart
+art_filename: folder
+
+threaded: yes
+color: yes
+
+smartplaylist:
+    playlist_dir: ~/.mpd/playlists/
+    playlists:
+        - query: ''
+          name: All.m3u
+        - query: 'favorite:yes'
+          name: Favorites.m3u
+        - query: 'playlist::^(?!\s*$).+'
+          name: '$playlist.m3u'
+
+
+replace:
+    '[\\/]': _
+    '^\.': _
+    '[\x00-\x1f]': _
+    '[<>:"\?\*\|]': _
+    '\.$': _
+    '\s+$': ''
+
+    
+lastimport:
+  per_page: 500
+  retry_limit: 3
+lastfm:
+  user: zeltak
+  api_key: e70efe1eea4ede457b02941c13f7f093
+types:
+  play_count: int
+  rating: float

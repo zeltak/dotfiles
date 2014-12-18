@@ -1,0 +1,42 @@
+#!/bin/bash
+shopt -s globstar
+
+# Change this, if you have subfolders for multi-disc albums. this should match the name of your subfolders, exluding the number
+cd_divider=CD
+
+# use artist or albumartist for album ratings
+mpd_artist=albumartist
+music_path="/home/zeltak/music/"
+
+rateTrack () {
+    extension=$(mpc current -f %file% | sed 's/.*\.//')
+    ratings="$(echo " " | dmenu_t -p "Rating:" | xargs echo)"
+    if [ ratings = "" ]; then
+        exit
+    else
+    cd "$music_path"
+        if [[ "$extension" == flac ]]; then
+            metaflac --remove-tag=comment "$(mpc current -f %file%)"
+            metaflac --set-tag=comment="$ratings" "$(mpc current -f %file%)"
+#             echo "Not yet implemented" && notify-send "mpdMenu" "Rating Tracks is not yet implemented"
+        elif [[ "$extension" == mp3 ]]; then
+             eyeD3 --add-comment "$ratings" "$(mpc current -f %file%)" 
+        fi
+    fi
+}
+        
+source $HOME/.config/dmenurc
+if [[ "$backend" == "rofi" ]]
+    then function dmenu_t () {
+    rofi -font "$font" -fg "$nf" -bg "$nb" -hlfg "$sf" -hlbg "$sb" -o 90 -bc "$bc" -dmenu "$@"
+}
+
+elif [[ "$backend" == "dmenu" ]]
+    then function dmenu_t () {
+    dmenu -l 15 -fn "$font" -nf "$nf" -nb "$nb" -sf "$sf" -sb "$sb" -o 90 "$@"
+}
+fi
+
+
+
+rateTrack

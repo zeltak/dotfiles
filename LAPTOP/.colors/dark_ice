@@ -1,0 +1,37 @@
+!bl1nk v0.2
+*foreground:              #FFFFFF
+*background:              #080808
+
+!black
+*color0:                  #1B1D1E
+*color8:                  #080808
+
+!red
+*color1:                  #F92672
+*color9:                  #CC094F
+
+!green
+*color2:                  #B7F44D
+*color10:                 #65CE2C
+
+!yellow
+*color3:                  #FECF35
+*color11:                 #FF7200
+
+!!blue
+*color4:                  #00BBFF
+*color12:                 #008BFF
+
+!magenta
+*color5:                  #9E6FFE
+*color13:                 #8C54FE
+   
+
+!cyan
+*color6:                  #B8B8B8
+*color14:                 #465457
+
+!white
+*color7:                  #CCCCC6
+*color15:                 #F8F8F2
+

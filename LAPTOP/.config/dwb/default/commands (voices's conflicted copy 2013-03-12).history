@@ -1,0 +1,60 @@
+set adblocker-filterlist /home/zeltak/.config/dwb/adblock_lists
+print
+/home/zeltak/Downloads/
+yank_primary
+yank
+insert_mode
+sanatize cookies
+tabopen g Cast of The Princess Bride - 25 years later
+tabopen g org-file-apps
+tabopen g Billerica
+sanitize cookies
+tabopen https://bbs.archlinux.org/viewforum.php?id=27
+tabopen https://plus.google.com/u/0/
+tabopen https://groups.google.com/forum/?fromgroups=#!forum/notecase-pro
+tabopen http://deals.woot.com/
+tabopen http://www.amazon.com/mobile-apps/b?ie=UTF8&node=2350149011
+tabopen http://www.priceplunge.com/
+tabopen http://slickdeals.net/
+tabopen http://mobile.dailysteals.com/
+tabopen http://1saleaday.com/
+tabopen http://woot.com
+tabopen http://kde-look.org/
+tabopen http://kde-apps.org/
+tabopen http://www.cnn.com/
+tabopen http://soccernet.espn.go.com/
+tabopen http://espn.go.com/
+tabopen http://sports.walla.co.il/
+tabopen http://www.nrg.co.il/
+tabopen http://www.walla.co.il/
+tabopen http://www.ynet.co.il/home/0,7340,L-8,00.html
+tabopen g Notational Velocity
+tabopen g deft.el
+down
+tabopen g RT 2011: Lecture 07 - Emacs and org-mode
+tabopen g C-x C-s C-x C-c
+tabopen g  toggle between the two most recently used buffers
+tabopen g undo-tree
+toggle enable-private-browsing
+protect
+tabopen g 227 Homer Street, Newton, MA
+im dog
+gi cat
+gs cat
+gs dog
+e
+add_view http://is.gd/ZDh27C
+add_view http://is.gd/w6yyB0
+add_view https://www.dropbox.com/cli_link?host_id=5121da3ddb54bf75bf6894ad19d147b4&cl=en_US
+add_view http://is.gd/D07Fdn
+add_view http://is.gd/SByTTB
+add_view http://is.gd/D62f9Q
+add_view http://youtu.be/t_ahGaf2YEE
+add_view http://is.gd/hRx043
+tabnew
+tabopen g total commander
+add_view http://paste.xinu.at/JVi5t/
+add_view
+add_view http://www.webupd8.org/2012/01/install-mplayer2-and-smplayer2-in.html
+add_view http://aur.archlinux.org/packages.php?ID=53245
+add_view http://paste.xinu.at/RxK5/

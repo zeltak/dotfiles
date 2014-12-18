@@ -1,0 +1,79 @@
+#!/bin/bash
+# Plays first song of actual, previous or next album in the mpd playlist
+# Requirements:
+# >= mpc git 2009-11-28 
+
+# 2007-11-02 FX  Initial code
+# 2009-09-24 FX  If "prev" then jump to first song of actual album
+# 2009-12-04 FX  Adapt to new mpc print outputs
+# 2010-08-01 FX  Bugfix if no album name (Workaround: add a "_" in front off album string)
+
+# Seperator
+IFS='
+'
+
+PLAYLISTTEMP=$(mpc playlist --format "%album%" | awk -F'\n' '{print "_" $1}')
+PLAYLIST=($PLAYLISTTEMP)
+
+#ACTNR=$(mpc | grep "#" | nawk -F "#|/" '{print $2}') # still working
+ACTNR=$(mpc --format "%position%"  | head -n 1) # works >= mpc git 2009-11-28
+
+##$(mpc playlist --format "[%album%]" | grep \> | awk -F')' '{print substr($1,2)}')
+ACTALBUM="_"$(mpc --format "%album%" | head -n 1)
+
+
+echo Current song nr: $ACTNR
+echo Current album: $ACTALBUM
+
+echo Number of songs in playlist: ${#PLAYLIST[*]}
+SONGSANZ=${#PLAYLIST[*]}
+
+case $1 in
+	next)
+	# Next album
+	for (( IDX=$ACTNR; $IDX<$SONGSANZ; IDX++ ))
+	do
+		if [ ${PLAYLIST[$IDX]} != $ACTALBUM ]; then
+			let IDX+=1
+			mpc play $IDX
+			echo New album \(next\)  IDX: $IDX 
+			break
+		fi
+	done
+	;;
+	prev)
+	# Previous album
+	#GETEND=FALSE 
+    ACTNRTEMP=$ACTNR
+	let ACTNRTEMP-=2
+	for (( IDX=$ACTNR-2; $IDX>=0; IDX-- ))
+	do
+	#echo TEST0  IDX $IDX
+		echo IDX: $IDX - ${PLAYLIST[$IDX]}
+		if [ ${PLAYLIST[$IDX]} != $ACTALBUM ]; then
+			# if [ $GETEND = TRUE ]; then
+			if [ $IDX -ne $ACTNRTEMP ]; then
+				#echo TEST: IDX:$IDX   $ACTNRTEMP
+				let IDX+=2
+				mpc play $IDX
+				echo New album \(prev\)  IDX: $IDX
+				break
+			fi
+			ACTALBUM=${PLAYLIST[$IDX]}
+			#echo ALBUMENDE ERKANNT BEI IDX: $IDX
+			#GETEND=TRUE
+		fi
+		if [ $IDX = 0 ]; then
+			#if [ $GETEND = FALSE ]; then 
+			#	mpc play 1
+			#	break
+			#fi 
+			mpc play 1 
+			break
+		fi
+	done
+	;;
+	*)
+	echo "usage: $0 {prev|next}"
+	;;
+esac

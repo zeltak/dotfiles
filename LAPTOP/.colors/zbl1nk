@@ -1,0 +1,43 @@
+!zbl1nk v0.4
+*foreground:              #000000
+*background:              #F5F5F5
+
+
+!black
+*color0:                  #1B1D1E
+*color8:                  #5B5B5B
+
+!red
+*color1:                  #F92672
+*color9:                  #A50640
+
+
+!green
+*color2:                  #2AFF18
+*color10:                 #39B52F
+
+
+!yellow
+*color3:                  #FD971F
+*color11:                #C59B54
+
+
+!blue
+*color4:   #3C5786
+*color12:    #B6C4FF
+
+
+
+!magenta
+*color5:                  #8C54FE
+*color13:                 #8D8A95
+
+!cyan
+*color6:                  #57AEF5
+*color14:                 #36F0D5
+
+
+!white
+*color7:                  #F2F2F2
+*color15:                 #F8F8F2
+

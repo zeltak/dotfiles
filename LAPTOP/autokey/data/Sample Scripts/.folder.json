@@ -1,0 +1,20 @@
+{
+    "usageCount": 0, 
+    "abbreviation": {
+        "ignoreCase": false, 
+        "wordChars": "[\\w]", 
+        "immediate": false, 
+        "abbreviation": null, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "modes": [], 
+    "title": "Sample Scripts", 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
+    "filter": null, 
+    "type": "folder", 
+    "showInTrayMenu": false
+}

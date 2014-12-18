@@ -1,0 +1,13 @@
+#!/bin/sh
+tmux -2  new-session -d  -s zdock_main
+tmux new-window -t zdock_main:1 -n 'term' 'bash'
+#tmux new-window -t zdock_main:2 -n 'weechat' 'weechat-curses'
+splitw -v -p 50 -t 0 bar
+selectw -t 1 
+selectp -t 0
+
+
+
+tmux select-window -t zdock_main:2
+tmux -2 attach-session -t zdock_main
+

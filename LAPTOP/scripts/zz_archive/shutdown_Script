@@ -1,0 +1,12 @@
+#!/bin/bash
+ 
+while getopts "s r" opt; do
+  case $opt in
+    s)
+      sudo /etc/rc.d/oss stop && sudo shutdown -hP now >&2
+      ;;
+    r)
+      sudo /etc/rc.d/oss stop && sudo reboot >&2
+      ;;
+  esac
+done

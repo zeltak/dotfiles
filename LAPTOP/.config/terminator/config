@@ -1,0 +1,123 @@
+[global_config]
+  window_state = maximise
+  handle_size = 2
+  title_hide_sizetext = True
+  suppress_multiple_term_dialog = True
+  borderless = True
+  enabled_plugins = CustomCommandsMenu, InactivityWatch, ActivityWatch, APTURLHandler, LaunchpadBugURLHandler
+  tab_position = bottom
+  inactive_color_offset = 0.97
+  inactive_color_offset = 0.0
+  inactive_color_offset = 1.2
+[keybindings]
+  insert_number = None
+  close_window = <Primary>q
+  next_tab = <Primary><Shift>Tab
+  split_horiz = <Primary>minus
+  full_screen = None
+  new_window = None
+  go_prev = <Alt>Page_Up
+  close_term = <Primary>w
+  split_vert = <Primary>equal
+  new_tab = <Primary>t
+  new_terminator = None
+  go_next = <Alt>Page_Down
+  prev_tab = None
+  hide_window = None
+[profiles]
+  [[default]]
+    scrollbar_position = hidden
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    font = PragmataPro 11
+    background_image = None
+    cursor_shape = underline
+    use_system_font = False
+    cursor_color = "#13cde6"
+    foreground_color = "#839496"
+    icon_bell = False
+    show_titlebar = False
+    copy_on_selection = True
+    background_color = "#002b36"
+    allow_bold = False
+  [[zsolar]]
+    scrollbar_position = hidden
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    background_image = None
+    cursor_shape = underline
+    use_system_font = False
+    cursor_color = "#23a2b5"
+    foreground_color = "#657b83"
+    icon_bell = False
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#fdf6e3"
+    allow_bold = False
+  [[R1]]
+    scrollbar_position = hidden
+    palette = "#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff"
+    exit_action = hold
+    background_image = None
+    custom_command = su
+    cursor_shape = underline
+    use_system_font = False
+    cursor_color = "#ffffff"
+    foreground_color = "#ffffff"
+    use_custom_command = True
+    icon_bell = False
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#ff2227"
+    allow_bold = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+  [[4w]]
+    [[[child0]]]
+      position = 0:17
+      type = Window
+      order = 0
+      parent = ""
+      size = 1600, 883
+    [[[child1]]]
+      position = 441
+      type = VPaned
+      order = 0
+      parent = child0
+    [[[child2]]]
+      position = 800
+      type = HPaned
+      order = 0
+      parent = child1
+    [[[child5]]]
+      position = 800
+      type = HPaned
+      order = 1
+      parent = child1
+    [[[terminal3]]]
+      profile = default
+      type = Terminal
+      order = 0
+      parent = child2
+      command = ""
+    [[[terminal4]]]
+      profile = zsolar
+      type = Terminal
+      order = 1
+      parent = child2
+    [[[terminal7]]]
+      profile = Z1
+      type = Terminal
+      order = 1
+      parent = child5
+    [[[terminal6]]]
+      profile = R1
+      type = Terminal
+      order = 0
+      parent = child5
+      command = su
+[plugins]

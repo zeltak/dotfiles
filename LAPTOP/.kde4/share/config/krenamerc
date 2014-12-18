@@ -1,0 +1,74 @@
+[CustomDialogGroup]
+Height 900=360
+Width 1600=482
+
+[ExtHistoryComboEXTENSION_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboEXTENSION_TEMPLATE]
+CompletionList=$
+HistoryList=$
+
+[ExtHistoryComboFILENAME_CUSTOM_TEMPLATE]
+CompletionList=chew_
+HistoryList=chew_
+
+[ExtHistoryComboFILENAME_TEMPLATE]
+CompletionList=$,[$8-[length]],[$7-[length]],[$4-[length]],[$23-[length]],chew_[$6-[length]]
+HistoryList=chew_[$6-[length]],$,[$7-[length]],[$23-[length]],[$4-[length]],[$8-[length]]
+
+[ExtHistoryComboPREVIX_CUSTOM_TEMPLATE]
+CompletionList=[,chew_[
+HistoryList=chew_[,[
+
+[ExtHistoryComboSUFFIX_CUSTOM_TEMPLATE]
+CompletionList=8-[length]],7-[length]],4-[length]],23-[length]],6-[length]]
+HistoryList=6-[length]],23-[length]],4-[length]],7-[length]],8-[length]]
+
+[GUISettings]
+Advanced=true
+Column0=658
+Column1=1355
+ExtensionSplitDot=0
+ExtensionSplitMode=1
+FileListSorting=0
+FileListSortingCustomMode=0
+FileListSortingCustomToken=creationdate;yyyyMMddHHmm
+ImagePreview2=true
+ImagePreviewName2=true
+StartIndex=1
+Stepping=1
+firststart4=false
+
+[KFileDialog Settings]
+Height 900=578
+Recent Files[$e]=Dirty.Harry.Collection.1971-1988.1080p.Bluray.x264.anoXmous,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 15 - Lady And The Tramp,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 14 - Peter Pan,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 13 - Alice In Wonderland,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 12 - Cinderella,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 11 - The Adventures of Ichabod and Mr. Toad,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 10 - Melody Time,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 09 - Fun and Fancy Free,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 08 - Make Mine Music,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 07 - The Three Caballeros,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 06 - Saludos Amigos,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 05 - Bambi,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 04 - Dumbo,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 03 - Fantasia,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 02 - Pinocchio,$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/Disney Classic - 01 - Snow White and the Seven Dwarfs
+Recent URLs[$e]=$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated Movies/
+Width 1600=754
+
+[KRenameWindowSettings]
+Height 900=863
+State=AAAA/wAAAAD9AAAAAAAABjgAAANIAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1592
+
+[PluginSettings]
+JavaScriptDefinitions=
+JavaScriptVariableNames=
+JavaScriptVariableTypes=
+JavaScriptVariableValues=
+
+[Recent Dirs]
+default[$e]=file://$HOME/mounts/lraid/raid/Videos/1_Video/Kids/Animated%20Movies/,file://$HOME/mounts/lraid/raid/P2P_Dl/4_in/,file://$HOME/mounts/lraid/raid/P2P_Dl/4_in/James%20Bond%20Complete%20Collection%201962-2012%20BDRip%201080p%20DTS%20HighCode/
+
+[TokenHelpDialog]
+Column0=100
+Column1=301
+Column2=268
+Height 900=434
+LastSelectedCategory=
+Preview=false
+RecentTokens=
+Splitter=672,671
+Width 1600=1389

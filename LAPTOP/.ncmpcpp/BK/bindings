@@ -1,0 +1,15 @@
+def_key "ctrl_y"
+  show_search_engine
+  reset_search_engine
+  press_enter
+  start_searching
+
+def_key "ctrl_a"
+ add_selected_items
+ press_enter
+ scroll_down
+ scroll_down
+ press_enter
+
+
+

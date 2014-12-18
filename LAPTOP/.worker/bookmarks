@@ -1,0 +1,39 @@
+bookmarks {
+	entry {
+		name = "/home/zeltak";
+		useparent = false;
+		alias = "home";
+	}
+	entry {
+		name = "/home/zeltak/.config/.config";
+		useparent = true;
+	}
+	entry {
+		name = "/home/zeltak/programs/GCstar";
+		useparent = true;
+	}
+	entry {
+		name = "/home/zeltak/scripts/";
+		useparent = true;
+		alias = "scripts";
+	}
+	entry {
+		name = "/home/zeltak/bin/.qiv-select";
+		useparent = true;
+	}
+	entry {
+		name = "/home/zeltak/mounts/lraid/raid/Videos/Q/2.MQ/Edge.of.Tomorrow.2014.1080p.WEB-DL.DD5.1.H264-RARBG";
+		useparent = false;
+		category = "marked";
+	}
+	entry {
+		name = "/home/zeltak/mounts/lraid/raid/Videos/Q/2.MQ/Godzilla.2014.1080p.BluRay.x264-SPARKS[rarbg]";
+		useparent = false;
+		category = "marked";
+	}
+	entry {
+		name = "/home/zeltak/mounts/lraid/raid/Videos/Q/2.MQ/Sin.City.A.Dame.to.Kill.For.2014.1080p.BRRip.x264.AC3.2.0-RARBG";
+		useparent = false;
+		category = "marked";
+	}
+}

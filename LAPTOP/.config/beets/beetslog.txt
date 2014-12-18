@@ -1,0 +1,1257 @@
+import started Sat Nov 16 09:04:37 2013
+
+import started Sat Nov 16 09:15:11 2013
+
+import started Sat Nov 16 09:54:24 2013
+
+import started Sat Nov 16 09:55:43 2013
+
+import started Sat Nov 16 15:10:28 2013
+
+import started Sat Nov 16 15:38:49 2013
+skip /home/zeltak/Zmusic/A/Aerosmith/Get A Grip
+
+import started Sat Nov 16 15:45:55 2013
+
+import started Sat Nov 16 16:34:20 2013
+
+import started Sat Nov 16 16:36:14 2013
+
+import started Sat Nov 16 16:40:15 2013
+
+import started Sat Nov 16 16:41:53 2013
+
+import started Sat Nov 16 17:19:37 2013
+
+import started Sat Nov 16 18:06:45 2013
+
+import started Sat Nov 16 18:13:20 2013
+
+import started Sat Nov 16 18:16:08 2013
+duplicate-replace /home/zeltak/Zmusic/A/Aerosmith/Z-Hits/01 - Draw The Line.mp3
+
+import started Sat Nov 16 18:31:57 2013
+
+import started Sat Nov 16 18:32:01 2013
+
+import started Sat Nov 23 10:23:37 2013
+asis /home/zeltak/Zmusic/gh2/VA World/VA/01 - Bambaleo.mp3
+
+import started Thu Dec 12 14:38:36 2013
+
+import started Thu Dec 12 14:43:25 2013
+
+import started Thu Dec 12 14:52:04 2013
+
+import started Thu Dec 12 15:45:16 2013
+
+import started Thu Dec 12 15:46:16 2013
+
+import started Thu Dec 12 16:23:37 2013
+
+import started Thu Dec 12 16:26:15 2013
+
+import started Thu Dec 12 16:27:11 2013
+
+import started Thu Dec 12 16:31:43 2013
+
+import started Thu Dec 12 16:34:38 2013
+
+import started Thu Dec 12 21:53:56 2013
+
+import started Thu Dec 12 21:59:55 2013
+
+import started Fri Dec 13 10:44:49 2013
+
+import started Fri Dec 13 10:52:10 2013
+
+import started Fri Dec 13 10:54:22 2013
+
+import started Fri Dec 13 11:28:24 2013
+
+import started Fri Dec 13 11:29:09 2013
+
+import started Fri Dec 13 11:32:08 2013
+
+import started Fri Dec 13 11:32:44 2013
+duplicate-replace /home/zeltak/Zmusic/B/Beck/Guero
+
+import started Fri Dec 13 11:34:22 2013
+
+import started Fri Dec 13 11:38:55 2013
+
+import started Fri Dec 13 11:39:36 2013
+
+import started Fri Dec 13 11:40:29 2013
+
+import started Fri Dec 13 11:41:44 2013
+
+import started Fri Dec 13 11:42:20 2013
+
+import started Fri Dec 13 11:46:01 2013
+
+import started Fri Dec 13 11:55:12 2013
+
+import started Fri Dec 13 11:57:42 2013
+
+import started Fri Dec 13 11:58:30 2013
+
+import started Fri Dec 13 12:00:30 2013
+duplicate-replace /home/zeltak/Zmusic/B/Beck/Guero
+
+import started Fri Dec 13 12:01:26 2013
+
+import started Fri Dec 13 12:03:42 2013
+
+import started Fri Dec 13 20:04:31 2013
+
+import started Sat Dec 14 07:52:16 2013
+
+import started Sat Dec 14 08:14:15 2013
+
+import started Sat Dec 14 08:23:38 2013
+
+import started Sat Dec 14 08:31:26 2013
+
+import started Sat Dec 14 10:25:59 2013
+
+import started Sat Dec 14 10:26:46 2013
+
+import started Sat Dec 14 10:27:38 2013
+
+import started Sat Dec 14 10:37:24 2013
+
+import started Sat Dec 14 10:38:58 2013
+duplicate-replace /home/zeltak/Zmusic/A/Air/Love 2 
+
+import started Sat Dec 14 10:39:48 2013
+
+import started Sat Dec 14 13:17:08 2013
+
+import started Sat Dec 14 13:58:29 2013
+duplicate-skip /home/zeltak/Zmusic/A/AC-DC/The Razors Edge
+
+import started Sat Dec 14 14:43:09 2013
+
+import started Sat Dec 14 14:48:38 2013
+
+import started Sat Dec 14 14:50:46 2013
+
+import started Sat Dec 14 17:51:00 2013
+
+import started Sat Dec 14 18:05:11 2013
+import started Sat Dec 14 18:05:30 2013
+import started Sat Dec 14 18:10:40 2013
+import started Sun Dec 15 16:26:06 2013
+
+import started Sat Dec 28 13:52:38 2013
+
+import started Sat Dec 28 20:47:42 2013
+
+import started Sat Dec 28 21:00:38 2013
+
+import started Sat Dec 28 21:12:09 2013
+
+import started Sat Dec 28 21:16:41 2013
+asis /home/zeltak/ZH_tmp/11/Z-Hitsz
+
+import started Sat Dec 28 21:27:15 2013
+
+import started Sat Dec 28 21:28:29 2013
+
+import started Sat Dec 28 21:57:45 2013
+
+import started Sat Dec 28 22:29:50 2013
+
+import started Sat Dec 28 22:31:16 2013
+
+import started Sat Dec 28 22:36:35 2013
+
+import started Sat Dec 28 22:55:48 2013
+
+import started Sat Dec 28 23:01:05 2013
+
+import started Sun Dec 29 12:47:54 2013
+
+import started Sun Dec 29 19:24:10 2013
+
+import started Sun Dec 29 21:52:48 2013
+
+import started Sun Dec 29 21:56:51 2013
+
+import started Sun Dec 29 22:03:15 2013
+
+import started Sun Dec 29 22:08:46 2013
+
+import started Sun Dec 29 22:14:32 2013
+
+import started Sun Dec 29 22:29:19 2013
+duplicate-replace /home/zeltak/Zmusic/B/Beach Boys/Love You
+
+import started Sun Dec 29 22:35:28 2013
+
+import started Sun Dec 29 22:35:39 2013
+duplicate-skip /home/zeltak/Zmusic/B/Beach Boys/Love You
+duplicate-keep /home/zeltak/Zmusic/B/Beatles/Z-Hits/01 - Yellow Submarine.mp3
+duplicate-skip /home/zeltak/Zmusic/B/Beatles/Z-Hits/04 - Hey Bulldog.mp3
+import started Mon Dec 30 08:49:32 2013
+
+import started Mon Dec 30 09:19:02 2013
+duplicate-skip /home/zeltak/Zmusic/B/Bob Dylan/Bob Dylan GH/01 - All I Really Want to Do.mp3
+duplicate-skip /home/zeltak/Zmusic/B/Bob Dylan/Bob Dylan GH/02 - The Times They Are A-Changin'.mp3
+duplicate-skip /home/zeltak/Zmusic/B/Bob Dylan/Bob Dylan GH/05 - Like a Rolling Stone.mp3
+duplicate-skip /home/zeltak/Zmusic/B/Bob Dylan/Bob Dylan GH/13 - Tangled Up in Blue.mp3
+
+import started Mon Dec 30 10:01:28 2013
+
+import started Mon Dec 30 10:16:13 2013
+duplicate-skip /home/zeltak/Zmusic/B/Bat For Lashes/Bat For Lashes - Fur And Gold
+duplicate-skip /home/zeltak/Zmusic/B/Bat For Lashes/Bat For Lashes - Two Suns (2009)/Bat For Lashes - Two Suns (2009)
+duplicate-skip /home/zeltak/Zmusic/B/Beach Boys/ Pet Sounds
+duplicate-skip /home/zeltak/Zmusic/B/Beach Boys/15 Big Ones
+import started Tue Dec 31 20:33:01 2013
+
+import started Tue Dec 31 20:47:20 2013
+asis /home/zeltak/music/Beach Boys/2013 Beach Boys Hits
+
+import started Tue Dec 31 20:57:43 2013
+skip /home/zeltak/music/Beach Boys, The/2000 Greatest Hits, Vol. 1
+
+import started Tue Dec 31 21:54:31 2013
+
+import started Tue Dec 31 21:59:36 2013
+
+import started Wed Jan  1 08:38:24 2014
+
+import started Wed Jan  1 09:07:32 2014
+duplicate-skip /home/zeltak/Zmusic/A/A.C. Newman/Get Guilty
+
+import started Wed Jan  1 09:08:16 2014
+
+import started Wed Jan  1 09:28:47 2014
+duplicate-replace /home/zeltak/Zmusic/C/Crosby & Nash/Graham Nash, David Crosby
+
+import started Wed Jan  1 09:38:18 2014
+duplicate-skip /home/zeltak/Zmusic/D/Deep Purple/Z-hits/01 - Woman From Tokyo.mp3
+duplicate-skip /home/zeltak/Zmusic/D/Deep Purple/Z-hits/02 - Mary Long.mp3
+duplicate-skip /home/zeltak/Zmusic/D/Depeche Mode/Z-Hits/03 - People Are People.mp3
+duplicate-skip /home/zeltak/Zmusic/D/Dream Theater/Z-hits/02 - This Dying Soul.mp3
+
+import started Wed Jan  1 10:25:48 2014
+duplicate-keep /home/zeltak/Zmusic/E/Eric Clapton/z-hits/08 - Running on Faith.mp3
+
+import started Wed Jan  1 11:07:52 2014
+asis /home/zeltak/Zmusic/F/Faith No More/B sides/13 - green fields.mp3
+asis /home/zeltak/Zmusic/F/Flight of the Conchords/TV Songbook/1 The Unoffical FotC HBO TV Show Songbook - Season 1
+asis /home/zeltak/Zmusic/F/Flight of the Conchords/TV Songbook/2 The Unoffical FotC HBO TV Show Songbook - Season 2
+asis /home/zeltak/Zmusic/F/Flight of the Conchords/TV Songbook/3 The Unoffical FotC HBO TV Show Songbook - Bonus CD
+
+import started Wed Jan  1 11:47:43 2014
+
+import started Wed Jan  1 14:29:37 2014
+
+import started Wed Jan  1 14:36:41 2014
+
+import started Wed Jan  1 14:48:05 2014
+asis /home/zeltak/Zmusic/I/Iron Maiden/Fear Of The Dark
+duplicate-skip /home/zeltak/Zmusic/I/Iron Maiden/The X Factor
+duplicate-skip /home/zeltak/Zmusic/I/Iron Maiden/Virtual XI
+
+import started Wed Jan  1 14:59:29 2014
+duplicate-keep /home/zeltak/Zmusic/J/Jethro Tull/Aqualung - 40th Anniversary Special Edition
+duplicate-keep /home/zeltak/Zmusic/J/Jethro Tull/Thick as a Brick - 40th Anniversary Special Edition
+asis /home/zeltak/Zmusic/J/John Williams/Best of
+
+import started Wed Jan  1 15:46:09 2014
+asis /home/zeltak/ZMX/L/Led Zeppelin/Shepperton Studios
+duplicate-keep /home/zeltak/ZMX/L/Leonard Cohen/Z-hits/01 - In My Secret Life.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/01 - Spinning, Spinning, Spinning.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/02 - Love's Fatal Way.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/03 - Would You Like to Go.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/04 - Magic Time.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/05 - You Turn Me Around.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/06 - Forever.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/08 - I'll Grow Stronger.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/09 - Musty Dusty.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/21 - I'm Not Living Here.mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/22 - Opus to a Friend [#].mp3
+asis /home/zeltak/ZMX/M/Millennium/Z-Hits/31 - Another Time.mp3
+asis /home/zeltak/ZMX/O/Orphand land/the calm before the flood
+skip /home/zeltak/ZMX/P/Paul Simon/Paul Simon's Concert in the Park, August 15, 1991 (1 of 2)
+skip /home/zeltak/ZMX/P/Paul Simon/Paul Simon's Concert in the Park, August 15, 1991 (2 of 2)
+asis /home/zeltak/ZMX/P/Pearl Jam/pulled the covers/PearlJamPulledTheCovers_1
+skip /home/zeltak/ZMX/P/Pearl Jam/pulled the covers/PearlJamPulledTheCovers_2
+skip /home/zeltak/ZMX/P/Pearl Jam/pulled the covers/PearlJamPulledTheCovers_3
+skip /home/zeltak/ZMX/P/Pearl Jam/pulled the covers/PearlJamPulledTheCovers_4
+skip /home/zeltak/ZMX/P/Pearl Jam/pulled the covers/PearlJamPulledTheCovers_5
+duplicate-keep /home/zeltak/ZMX/P/Pearl Jam/Ten
+duplicate-skip /home/zeltak/ZMX/P/Pearl Jam/z-hits/05 - Hitchhiker.mp3
+import started Wed Jan  1 19:21:59 2014
+duplicate-replace /home/zeltak/ZMX/N/New Model Army/1985 No Rest For The Wicked/1985 No Rest For The Wicked
+duplicate-skip /home/zeltak/ZMX/N/New Model Army/1990 Impurity
+
+import started Wed Jan  1 20:34:05 2014
+duplicate-keep /home/zeltak/ZMX/N/Neil Young/Decade
+
+import started Wed Jan  1 21:06:44 2014
+duplicate-skip /home/zeltak/ZMX/N/Neil Finn/One Nil
+duplicate-skip /home/zeltak/ZMX/N/Neil Finn/Try Whistling This
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/A Treasure
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/After the Gold Rush
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/American Stars 'n Bars
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Americana
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Are You Passionate
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Chrome Dreams II
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Comes a Time
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Decade
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Everybody Knows This Is Nowhere
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Fork In The Road
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Freedom
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Harvest
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Harvest Moon
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Le Noise 
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Live Rust
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Living With War
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Long May You Run
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Mirror Ball
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Neil Young
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/On the Beach
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Prairie Wind
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Psychedelic Pill
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Ragged Glory
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Re-ac-tor
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Rust Never Sleeps
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Silver & Gold
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Sleeps With Angels
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Tonight's the night
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Trans
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/Unplugged
+duplicate-skip /home/zeltak/ZMX/N/Neil Young/zuma
+duplicate-skip /home/zeltak/ZMX/N/Neutral Milk Hotel/Beauty (demo)
+
+import started Wed Jan  1 21:16:23 2014
+
+import started Wed Jan  1 21:16:27 2014
+
+import started Wed Jan  1 21:16:36 2014
+
+import started Wed Jan  1 21:16:52 2014
+
+import started Wed Jan  1 21:21:28 2014
+
+import started Wed Jan  1 21:27:33 2014
+duplicate-keep /home/zeltak/ZMX/Y/Yes/Z-Hits/01 - Something's Coming [Stereo Mix].mp3
+duplicate-keep /home/zeltak/ZMX/Y/Yes/Z-Hits/02 - Then.mp3
+duplicate-keep /home/zeltak/ZMX/Y/Yes/Z-Hits/03 - Everydays.mp3
+skip /home/zeltak/ZMX/Y/Young Fresh Fellows/Because We Hate You_Let the War Against Music Begin (1 of 2)
+skip /home/zeltak/ZMX/Y/Young Fresh Fellows/Because We Hate You_Let the War Against Music Begin (2 of 2)
+
+import started Wed Jan  1 21:34:58 2014
+
+import started Wed Jan  1 21:40:03 2014
+
+import started Wed Jan  1 21:40:15 2014
+duplicate-skip /home/zeltak/ZMX/W/Weezer/Weezer
+duplicate-replace /home/zeltak/ZMX/W/Weezer/Weezer (green)
+
+import started Wed Jan  1 21:58:03 2014
+duplicate-keep /home/zeltak/ZMX/W/Weezer/Weezer
+
+import started Wed Jan  1 21:59:43 2014
+duplicate-keep /home/zeltak/ZMX/W/Weezer/Red
+
+import started Wed Jan  1 22:01:09 2014
+
+import started Wed Jan  1 22:05:07 2014
+asis /home/zeltak/ZMX/O/Orphand land/the calm before the flood
+duplicate-keep /home/zeltak/ZMX/P/Paul Simon/Greatest Hits- Shining Like a National Guitar/09 Late in the Evening.mp3
+duplicate-keep /home/zeltak/ZMX/P/Paul Simon/Greatest Hits- Shining Like a National Guitar/18 Hearts and Bones.mp3
+duplicate-keep /home/zeltak/ZMX/P/Pearl Jam/Pearl Jam Remixed
+duplicate-keep /home/zeltak/ZMX/P/Pearl Jam/Ten
+duplicate-keep /home/zeltak/ZMX/P/Pearl Jam/z-hits/05 - Hitchhiker.mp3
+asis /home/zeltak/ZMX/P/Pink Floyd/bootlegs/Pink Floyd - 04 - Eyesight_to_the_Blind.mp3
+asis /home/zeltak/ZMX/P/Pink Floyd/bootlegs/Pink Floyd - 06 - pink floyd-Lucy Leave(live).mp3
+duplicate-skip /home/zeltak/ZMX/P/Porcupine Tree/The Sky Moves Sideways US
+asis /home/zeltak/ZMX/Q/Quicksilver Messenger Service/Quicksilver Messenger Service-Sons Of Mercury-1968-1975-1991-CD 1
+asis /home/zeltak/ZMX/R/Rod Stewart/Z-Hits/08 - Miss Judy's Farm.mp3
+asis /home/zeltak/ZMX/R/Roy Harper/Whatever Happened to Jugula
+duplicate-keep /home/zeltak/ZMX/R/Rush/Z-Hits/01 - Show Don't Tell.mp3
+
+import started Thu Jan  2 08:38:20 2014
+asis /home/zeltak/ZMX/S/Anna Star/2011 Alone in this Together
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/02 - A Little dog And His Boy.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/03 - Have To be Myself.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/04 - I Look Baby - I Can't See.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/05 - You Don't phase Me.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/06 - Still.mp3
+duplicate-keep /home/zeltak/ZMX/S/Sunrays/Andrea/07 - I Live For the Sun.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/08 - Jo Ann.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/08 - Outta Gas.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/09 - All Summer Long.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/09 - Better Be good To Me.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/10 - Bye Bye Baby.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/11 - Tears In My Eyes.mp3
+asis /home/zeltak/ZMX/S/Sunrays/Andrea/12 - Since My Findin' You.mp3
+
+import started Thu Jan  2 11:16:14 2014
+
+import started Thu Jan  2 20:45:20 2014
+duplicate-skip /home/zeltak/ZMX/C/Cake/Comfort Eagle
+duplicate-skip /home/zeltak/ZMX/C/Cake/Fashion Nugget
+duplicate-skip /home/zeltak/ZMX/C/Cake/Motorcade of Generosity
+duplicate-skip /home/zeltak/ZMX/C/Cake/Pressure Chief
+duplicate-skip /home/zeltak/ZMX/C/Cake/Prolonging the Magic
+duplicate-skip /home/zeltak/ZMX/C/Cake/Showroom of Compassion
+duplicate-skip /home/zeltak/ZMX/C/Camel/Rain Dances
+duplicate-skip /home/zeltak/ZMX/C/Caravan/Canterbury Tales
+
+import started Thu Jan  2 20:50:02 2014
+duplicate-replace /home/zeltak/ZMX/C/Clash/London Calling
+skip /home/zeltak/ZMX/C/Clash/Z-Hits
+
+import started Thu Jan  2 20:53:04 2014
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Afterglow
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Crowded House
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Crowded House - Recurring Dream
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Crowded House - Temple of Low Men
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Crowded House - Time On Earth
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Crowded House - Woodface
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Intriguer 
+duplicate-replace /home/zeltak/ZMX/C/Crowded House/Together Alone
+
+import started Thu Jan  2 21:02:26 2014
+duplicate-replace /home/zeltak/ZMX/C/Crosby & Nash/wind on the water
+
+import started Thu Jan  2 21:04:10 2014
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/American Dream
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/Crosby, Stills & Nash
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/CSN
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/Deja Vu
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/teach your children
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/Z-hits/03 - Stand and Be Counted.mp3
+duplicate-replace /home/zeltak/ZMX/C/Crosby, Stills, Nash & Young/Z-hits/03- Southern Cross.flac
+
+import started Thu Jan  2 21:14:29 2014
+
+import started Thu Jan  2 21:15:08 2014
+
+import started Thu Jan  2 21:15:58 2014
+
+import started Thu Jan  2 21:21:38 2014
+duplicate-skip /home/zeltak/ZMX/M/Mountain Goats/Get Lonely
+duplicate-skip /home/zeltak/ZMX/M/Mountain Goats/Tallahassee
+
+import started Thu Jan  2 21:26:42 2014
+
+import started Thu Jan  2 21:26:58 2014
+
+import started Thu Jan  2 21:29:38 2014
+
+import started Thu Jan  2 21:29:43 2014
+
+import started Thu Jan  2 21:36:28 2014
+
+import started Thu Jan  2 21:38:30 2014
+
+import started Thu Jan  2 21:41:50 2014
+
+import started Thu Jan  2 21:43:52 2014
+
+import started Thu Jan  2 21:50:15 2014
+duplicate-replace /home/zeltak/Zmusic/D/David Bowie/Tonight
+
+import started Thu Jan  2 21:54:58 2014
+
+import started Thu Jan  2 21:55:05 2014
+duplicate-keep /home/zeltak/ZMX/13 - Beginners.mp3
+
+import started Thu Jan  2 22:13:19 2014
+duplicate-replace /home/zeltak/Zmusic/I/Iron Maiden/Live After Death
+
+import started Thu Jan  2 22:20:37 2014
+duplicate-skip /home/zeltak/Zmusic/J/Jefferson Airplane/The Roar Of Jefferson Airplane/06 - plastic fantastic lover.mp3
+duplicate-skip /home/zeltak/Zmusic/J/Jefferson Airplane/The Roar Of Jefferson Airplane/07 - somebody to love.mp3
+duplicate-skip /home/zeltak/Zmusic/J/Jefferson Airplane/The Roar Of Jefferson Airplane/08 - 3 5 of a mile in 10 seconds.mp3
+
+import started Thu Jan  2 22:44:45 2014
+
+import started Thu Jan  2 22:45:55 2014
+
+import started Thu Jan  2 22:47:14 2014
+asis /home/zeltak/Zmusic/L/Lenny Kravitz/Mama Said
+
+import started Fri Jan  3 19:44:36 2014
+
+import started Fri Jan  3 20:41:58 2014
+
+import started Fri Jan  3 20:51:41 2014
+
+import started Fri Jan  3 21:47:39 2014
+asis /home/zeltak/Zmusic/ע/שלום חנוך/האוסף
+
+import started Fri Jan  3 22:11:02 2014
+asis /home/zeltak/Zmusic/gh2/VA World/VA/01 - Bambaleo.mp3
+
+import started Sat Jan  4 08:29:30 2014
+
+import started Sat Jan  4 08:30:07 2014
+
+import started Sat Jan  4 08:30:51 2014
+asis /home/zeltak/Zmusic/gh2/VA World/VA/01 - Bambaleo.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - Bambaleo.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - Chan Chan.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - Day-O.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - mas que nada.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - Orinoco Flow.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/01 - the girl from ipanema.mp3
+duplicate-skip /home/zeltak/Zmusic/gh2/VA World/VA/mas que nada.mp3
+
+import started Sat Jan  4 08:54:26 2014
+
+import started Sat Jan  4 10:05:49 2014
+
+import started Sat Jan  4 10:06:23 2014
+
+import started Sat Jan  4 10:13:31 2014
+duplicate-replace /home/zeltak/mreview/1990 The La's
+
+import started Sat Jan  4 12:22:35 2014
+asis /home/zeltak/ZMX/VA Classical/VA/01 - 1812.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - ג'וני שועלי-עכשיו.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - דודה - לידיה הלוהטת.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - דן תורן-לבן על לבן.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - דני ליטני-ימות משיח.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - היהודים-מחפש תשובה.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - הנחל-הבן יקיר לי.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - טאטו-מחבואים.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - מוניקה סקס-מכה אפורה.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - ערן צור-ערב ב' כסלו.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - שלמה גרוניך- יש לי סימפטיה.mp3
+asis /home/zeltak/ZMX/VA Israeli/VA/oj no
+duplicate-skip /home/zeltak/ZMX/VA Pop/VA/01 - Grace Kelly.mp3
+
+import started Fri Jan 10 08:41:53 2014
+
+import started Fri Jan 10 08:43:43 2014
+duplicate-replace /home/zeltak/xMX/  Bangles/01 - betty davis eyes.mp3
+
+import started Fri Jan 10 09:42:46 2014
+
+import started Fri Jan 10 09:42:57 2014
+
+import started Fri Jan 10 09:43:50 2014
+
+import started Fri Jan 10 09:44:15 2014
+
+import started Fri Jan 10 09:59:37 2014
+
+import started Fri Jan 10 10:02:00 2014
+
+import started Fri Jan 10 10:04:54 2014
+
+import started Fri Jan 10 10:06:01 2014
+
+import started Fri Jan 10 10:08:52 2014
+
+import started Fri Jan 10 10:16:53 2014
+
+import started Fri Jan 10 10:17:38 2014
+
+import started Fri Jan 10 10:18:21 2014
+
+import started Fri Jan 10 10:22:55 2014
+
+import started Fri Jan 10 10:36:14 2014
+
+import started Fri Jan 10 10:48:11 2014
+
+import started Fri Jan 10 18:49:47 2014
+
+import started Fri Jan 10 22:05:22 2014
+
+import started Fri Jan 10 22:06:43 2014
+
+import started Fri Jan 10 22:07:36 2014
+
+import started Fri Jan 10 22:08:02 2014
+
+import started Fri Jan 10 22:09:55 2014
+
+import started Fri Jan 10 22:13:40 2014
+
+import started Fri Jan 10 22:15:17 2014
+
+import started Fri Jan 10 22:18:40 2014
+
+import started Fri Jan 10 22:20:37 2014
+
+import started Tue Jan 14 21:39:59 2014
+
+import started Tue Jan 14 22:44:30 2014
+
+import started Tue Jan 14 22:46:08 2014
+
+import started Tue Jan 14 22:47:20 2014
+
+import started Tue Jan 14 22:58:35 2014
+
+import started Tue Jan 14 23:03:44 2014
+
+import started Wed Jan 15 21:15:32 2014
+
+import started Wed Jan 15 21:19:37 2014
+
+import started Wed Jan 15 21:21:19 2014
+
+import started Wed Jan 15 21:22:33 2014
+import started Wed Jan 15 21:22:52 2014
+asis /home/zeltak/ZMX/VA World/VA/01 - Bambaleo.mp3
+
+import started Wed Jan 15 21:23:53 2014
+
+import started Wed Jan 15 21:25:19 2014
+asis /home/zeltak/ZMX/VA Soul/VA/01 - Le Freak.mp3
+
+import started Wed Jan 15 21:31:20 2014
+asis /home/zeltak/ZMX/VA Soul/VA/01 - Le Freak.mp3
+duplicate-skip /home/zeltak/ZMX/VA Soul/VA/02 - Think.mp3
+
+import started Wed Jan 15 21:33:15 2014
+duplicate-skip /home/zeltak/ZMX/VA Rock/VA/02 - Fisherman's Blues.mp3
+
+import started Wed Jan 15 21:46:41 2014
+duplicate-skip /home/zeltak/ZMX/VA Pop/VA/01 - Grace Kelly.mp3
+
+import started Wed Jan 15 21:48:34 2014
+
+import started Wed Jan 15 21:50:32 2014
+asis /home/zeltak/ZMX/VA Classical/VA/01 - 1812.mp3
+
+import started Wed Jan 15 21:52:45 2014
+asis /home/zeltak/ZMX/VA Israeli/VA/01 - ג'וני שועלי-עכשיו.mp3
+
+import started Wed Jan 15 21:59:11 2014
+
+import started Wed Jan 15 22:02:50 2014
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 achshav.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 captain Jack
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 Haben yakir li.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 kidya halohetet.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 lavan al lavan.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 Mahboaim.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 Maka Afora.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 mehapesh tshova.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 yesh li Simpatia.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 Yomeot hamasihach.mp3
+asis /home/zeltak/music/3Compilations/2013 VA Israeli/01 ג'וני שועלי-עכשיו.mp3
+duplicate-replace /home/zeltak/music/3Compilations/2013 VA Israeli/01 ג'וני שועלי-עכשיו.mp3
+
+import started Wed Jan 15 22:06:43 2014
+asis /home/zeltak/music/1Singles/Hits - Israeli/2013 Hits - Israeli Hits/01 achshav.mp3
+
+import started Wed Jan 15 22:10:40 2014
+
+import started Wed Jan 15 22:12:26 2014
+
+import started Wed Jan 15 22:13:47 2014
+
+import started Wed Jan 15 22:14:18 2014
+
+import started Wed Jan 15 22:15:56 2014
+
+import started Wed Jan 15 22:54:05 2014
+
+import started Wed Jan 15 22:54:41 2014
+
+import started Wed Jan 15 22:56:41 2014
+
+import started Fri Jan 17 16:28:54 2014
+
+import started Fri Jan 17 16:36:52 2014
+
+import started Fri Jan 17 16:37:23 2014
+
+import started Fri Jan 17 16:59:41 2014
+
+import started Fri Jan 17 21:29:02 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/Tonight [Bonus Tracks]
+
+import started Fri Jan 17 22:13:43 2014
+
+import started Sat Jan 18 17:02:09 2014
+
+import started Sat Jan 18 17:03:18 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/Haim - Days Are Gone (Deluxe Edition) (2013) FLAC
+
+import started Sat Jan 18 17:38:47 2014
+
+import started Sat Jan 18 17:42:13 2014
+
+import started Sat Jan 18 17:44:05 2014
+import started Sat Jan 18 17:44:38 2014
+
+import started Sat Jan 18 18:37:26 2014
+
+import started Sat Jan 18 22:15:06 2014
+asis /home/zeltak/ZH_tmp/!!tiger
+
+import started Sat Jan 18 22:17:25 2014
+
+import started Sat Jan 18 22:19:10 2014
+
+import started Sat Jan 18 22:24:52 2014
+
+import started Sat Jan 18 22:32:30 2014
+
+import started Sat Jan 18 22:35:12 2014
+
+import started Sat Jan 18 22:46:55 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/0_P2P_Process/music/2007 - Cassadaga
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/0_P2P_Process/music/The Waterboys - This Is The Sea [Flac-Lossless]
+
+import started Sat Jan 18 23:00:08 2014
+
+import started Sat Jan 18 23:00:53 2014
+
+import started Sat Jan 18 23:03:18 2014
+
+import started Sat Jan 18 23:04:30 2014
+duplicate-replace /home/zeltak/mreview/Pantera/1992 - Vulgar Display Of Power (Anniversary Edition)
+
+import started Sat Jan 18 23:08:58 2014
+
+import started Sat Jan 18 23:09:34 2014
+duplicate-replace /home/zeltak/mreview/Destroyer/2004 - your blues
+
+import started Sun Jan 19 21:56:06 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/Fisherman's Blues
+
+import started Wed Jan 22 20:37:43 2014
+
+import started Wed Jan 22 20:41:31 2014
+
+import started Wed Jan 22 21:16:42 2014
+
+import started Wed Jan 22 22:04:21 2014
+
+import started Wed Jan 22 22:05:45 2014
+duplicate-skip /home/zeltak/music/Beatles/Beatles Hits/03 Yellow Submarine.mp3
+
+import started Wed Jan 22 22:06:34 2014
+duplicate-skip /home/zeltak/music/Beatles/Beatles Hits/03 Yellow Submarine.mp3
+
+import started Wed Jan 22 22:08:40 2014
+
+import started Wed Jan 22 22:10:45 2014
+
+import started Wed Jan 22 22:11:34 2014
+
+import started Wed Jan 22 22:13:20 2014
+
+import started Wed Jan 22 22:14:27 2014
+
+import started Wed Jan 22 22:15:52 2014
+duplicate-skip /home/zeltak/music/Smashing Pumpkins/2013 Smashing Pumpkins Hits/01 Cherub Rock.mp3
+
+import started Wed Jan 22 22:16:27 2014
+duplicate-keep /home/zeltak/music/Smashing Pumpkins/2013 Smashing Pumpkins Hits/01 Cherub Rock.mp3
+
+import started Wed Jan 22 22:30:58 2014
+
+import started Wed Jan 22 22:33:55 2014
+asis /home/zeltak/music/Star Anna/2012/01 Wolves in disguise (live PJ20).m4a
+
+import started Wed Jan 22 22:34:20 2014
+
+import started Wed Jan 22 22:35:46 2014
+
+import started Wed Jan 22 22:38:31 2014
+
+import started Fri Jan 24 11:00:10 2014
+duplicate-skip /home/zeltak/music/Jethro Tull/1984 Aqualung
+
+import started Fri Jan 24 11:00:54 2014
+duplicate-skip /home/zeltak/music/Jethro Tull/1984 Aqualung
+
+import started Fri Jan 24 11:03:07 2014
+duplicate-skip /home/zeltak/music/Jethro Tull/1984 Aqualung
+
+import started Fri Jan 24 11:03:17 2014
+
+import started Fri Jan 24 16:55:47 2014
+
+import started Sat Jan 25 08:02:13 2014
+duplicate-replace /home/zeltak/music/Jethro Tull/1984 Aqualung
+
+import started Sat Jan 25 08:21:18 2014
+duplicate-replace /home/zeltak/music/Jethro Tull/1985 Thick as a Brick
+
+import started Sat Jan 25 08:24:25 2014
+duplicate-replace /home/zeltak/Zmusic/J/Jethro Tull/Thick as a Brick
+
+import started Sat Jan 25 10:17:55 2014
+
+import started Sat Jan 25 10:18:22 2014
+
+import started Sat Jan 25 10:26:50 2014
+duplicate-keep /home/zeltak/Zmusic/J/Jethro Tull/Thick as a Brick - 40th Anniversary Special Edition
+
+import started Sat Jan 25 10:35:51 2014
+
+import started Sat Jan 25 10:44:30 2014
+
+import started Sat Jan 25 10:51:23 2014
+
+import started Sat Jan 25 10:52:16 2014
+asis /home/zeltak/music/Beach Boys, The/2000 Greatest Hits, Vol. 1
+
+import started Sat Jan 25 11:16:06 2014
+skip /home/zeltak/music/Beatles, The/2013 The Beatles Hits
+
+import started Sat Jan 25 11:23:10 2014
+asis /home/zeltak/music/Bob Marley/2013 Bob Marley Hits
+
+import started Sat Jan 25 11:27:15 2014
+
+import started Sat Jan 25 11:37:29 2014
+
+import started Sat Jan 25 11:39:19 2014
+asis /home/zeltak/music/David Bowie/2013 David Bowie Hits
+
+import started Sat Jan 25 11:41:53 2014
+asis /home/zeltak/music/Deep Purple/2013 Deep Purple Hits
+
+import started Sat Jan 25 11:44:40 2014
+
+import started Sat Jan 25 11:46:00 2014
+
+import started Sat Jan 25 11:47:30 2014
+
+import started Sat Jan 25 11:49:13 2014
+
+import started Sat Jan 25 11:50:00 2014
+
+import started Sat Jan 25 11:52:12 2014
+
+import started Sat Jan 25 11:55:26 2014
+
+import started Sat Jan 25 11:56:25 2014
+asis /home/zeltak/music/Genesis/2013 Genesis Hits
+
+import started Sat Jan 25 11:57:48 2014
+
+import started Sat Jan 25 12:00:14 2014
+
+import started Sat Jan 25 12:05:14 2014
+
+import started Sat Jan 25 12:06:57 2014
+asis /home/zeltak/music/Kinks, The/2013 The Kinks Hits
+
+import started Sat Jan 25 12:07:55 2014
+asis /home/zeltak/music/Led Zeppelin/2007 Shepperton Studios
+
+import started Sat Jan 25 12:13:44 2014
+asis /home/zeltak/music/Leonard Cohen/2013 Leonard Cohen Hits
+
+import started Sat Jan 25 12:17:16 2014
+
+import started Sat Jan 25 12:17:32 2014
+
+import started Sat Jan 25 12:18:18 2014
+
+import started Sat Jan 25 12:21:08 2014
+
+import started Sat Jan 25 12:23:55 2014
+
+import started Sat Jan 25 12:24:32 2014
+
+import started Sat Jan 25 12:25:59 2014
+
+import started Sat Jan 25 12:27:40 2014
+duplicate-skip /home/zeltak/music/Neil Young/1988 Decade
+
+import started Sat Jan 25 12:30:15 2014
+
+import started Sat Jan 25 12:32:19 2014
+
+import started Sat Jan 25 12:35:43 2014
+asis /home/zeltak/music/Paul Simon/2013 Paul Simon Hits
+
+import started Sat Jan 25 12:37:28 2014
+asis /home/zeltak/music/Pink Floyd/2013 Pink Floyd Hits
+
+import started Sat Jan 25 12:43:14 2014
+
+import started Sat Jan 25 12:45:38 2014
+
+import started Sat Jan 25 12:47:43 2014
+
+import started Sat Jan 25 12:49:33 2014
+
+import started Sat Jan 25 12:51:44 2014
+
+import started Sat Jan 25 12:52:16 2014
+
+import started Sat Jan 25 12:53:00 2014
+
+import started Sat Jan 25 12:58:16 2014
+
+import started Sat Jan 25 13:00:05 2014
+
+import started Sat Jan 25 18:27:18 2014
+
+import started Sat Jan 25 18:36:31 2014
+
+import started Sat Jan 25 18:37:25 2014
+
+import started Sat Jan 25 18:39:11 2014
+
+import started Sat Jan 25 18:41:28 2014
+
+import started Sat Jan 25 18:41:52 2014
+
+import started Sat Jan 25 18:42:31 2014
+
+import started Sat Jan 25 18:43:53 2014
+asis /home/zeltak/music/U2/2013 U2 Hits
+
+import started Sat Jan 25 18:45:18 2014
+
+import started Sat Jan 25 18:48:04 2014
+
+import started Sat Jan 25 18:48:25 2014
+
+import started Sat Jan 25 18:49:26 2014
+
+import started Sat Jan 25 18:50:43 2014
+asis /home/zeltak/music/Yes/2013 Yes Hits
+
+import started Sat Jan 25 18:52:49 2014
+
+import started Sat Jan 25 20:33:26 2014
+
+import started Sat Jan 25 20:59:51 2014
+
+import started Thu Jan 30 21:01:51 2014
+
+import started Fri Jan 31 22:14:30 2014
+
+import started Fri Jan 31 22:37:24 2014
+duplicate-replace /home/zeltak/mreview/Pantera/1992 - Vulgar Display Of Power (Anniversary Edition)
+
+import started Fri Jan 31 22:50:50 2014
+
+import started Sun Feb  2 20:31:20 2014
+
+import started Sun Feb  2 21:11:20 2014
+
+import started Sun Feb  2 22:16:18 2014
+
+import started Tue Feb  4 21:10:54 2014
+
+import started Tue Feb  4 21:13:18 2014
+
+import started Tue Feb  4 21:17:07 2014
+
+import started Tue Feb  4 21:18:35 2014
+
+import started Wed Feb  5 21:11:16 2014
+
+import started Wed Feb  5 21:23:17 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/King Crimson - Red {Spanish Pressing} vinyl 24-96
+
+import started Wed Feb  5 21:49:38 2014
+
+import started Wed Feb  5 21:51:58 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/Family - Family Entertainment-1969
+
+import started Wed Feb  5 21:54:35 2014
+
+import started Wed Feb  5 21:58:54 2014
+
+import started Wed Feb  5 21:59:21 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/Family-Music In The Doll's House 1968/new
+
+import started Wed Feb  5 22:08:17 2014
+
+import started Wed Feb  5 22:10:15 2014
+
+import started Wed Feb  5 22:11:36 2014
+
+import started Wed Feb  5 22:12:44 2014
+
+import started Wed Feb  5 22:26:14 2014
+
+import started Wed Feb  5 22:30:07 2014
+duplicate-replace /home/zeltak/mounts/lraid/P2P_Dl/The Jam - All Mod Cons & Sound Affects (1978-80)/mods
+
+import started Wed Feb  5 22:36:50 2014
+
+import started Fri Feb  7 09:44:45 2014
+
+import started Fri Feb  7 09:46:33 2014
+
+import started Fri Feb  7 09:49:09 2014
+
+import started Fri Feb  7 09:53:49 2014
+
+import started Fri Feb  7 09:58:31 2014
+
+import started Fri Feb  7 10:05:39 2014
+
+import started Fri Feb  7 10:20:09 2014
+
+import started Fri Feb  7 11:06:54 2014
+
+import started Fri Feb  7 11:09:37 2014
+
+import started Fri Feb  7 11:11:57 2014
+
+import started Fri Feb  7 16:20:25 2014
+
+import started Thu Feb 20 20:45:13 2014
+
+import started Thu Feb 20 20:59:07 2014
+
+import started Thu Feb 20 21:02:52 2014
+skip /home/zeltak/mreview/1_music_import/St. Vincent - Actor (2009)
+
+import started Thu Feb 20 21:08:45 2014
+skip /home/zeltak/mreview/1_imp_single/split-track03.flac
+
+import started Thu Feb 20 21:10:46 2014
+
+import started Thu Feb 20 21:14:45 2014
+
+import started Thu Feb 20 21:14:50 2014
+skip /home/zeltak/mreview/1_music_import/St. Vincent - Marry Me/t
+
+import started Fri Feb 21 20:36:33 2014
+
+import started Sun Feb 23 21:11:52 2014
+skip /home/zeltak/mounts/lraid/Download/transmission/completed/The Byrds - 1965 Turn! Turn! Turn!
+
+import started Sun Feb 23 21:15:58 2014
+
+import started Sun Feb 23 21:17:15 2014
+
+import started Mon Feb 24 22:52:26 2014
+
+import started Fri Feb 28 08:55:49 2014
+
+import started Fri Feb 28 20:27:43 2014
+
+import started Sat Mar  1 15:01:57 2014
+
+import started Fri Mar  7 08:19:24 2014
+
+import started Fri Mar  7 08:37:45 2014
+
+import started Fri Mar  7 08:40:19 2014
+
+import started Fri Mar  7 08:42:15 2014
+
+import started Fri Mar  7 08:55:20 2014
+
+import started Fri Mar  7 08:58:17 2014
+
+import started Fri Mar  7 09:02:28 2014
+
+import started Fri Mar  7 09:19:48 2014
+
+import started Fri Mar  7 09:31:59 2014
+
+import started Fri Mar  7 09:33:58 2014
+
+import started Fri Mar  7 09:36:00 2014
+
+import started Fri Mar  7 09:53:58 2014
+
+import started Fri Mar  7 10:09:36 2014
+
+import started Fri Mar  7 10:13:01 2014
+duplicate-replace /home/zeltak/mreview/1_imp_single/15 Frankie Valli and the Four Seasons - Can't Take My Eyes Off You.flac
+
+import started Fri Mar  7 11:02:34 2014
+
+import started Fri Mar  7 11:03:55 2014
+
+import started Fri Mar  7 12:35:07 2014
+
+import started Sat Mar  8 16:35:42 2014
+duplicate-replace /home/zeltak/mreview/1_imp_single/01 - Speedy Gonzales-Pat Boone.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/02 - Pass The Dutchie-Musical Youth.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/03 - Seasons In The Sun-Terry Jacks.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/04 - Video Killed The Radio Star-Buggles.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/05 - I Don't Like Mondays-Boomtown Rats.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/06 - A Whiter Shade Of Pale-Procol Harum.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/07 - Love Of The Comman People-Paul Young.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/08 - Down Under-Men At Work.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/08 - More Than A Feeling-Boston.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/10 - Celebration-Kool And The Gang.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/11 - Don't Go-Yazoo.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/13 - All The Young Dudes-Mott The Hoople.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/14 - Black Betty-Ram Jam.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/16. Johnny Mann Singers - Up Up And Away.mp3
+duplicate-replace /home/zeltak/mreview/1_imp_single/17 - Come On Eileen-Dexy's Midnight Runners.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/17 - Ordinary World-Duran Duran.flac
+duplicate-replace /home/zeltak/mreview/1_imp_single/19 - You Ain't Seen Nothing Yet-Bachman Turner Overdrive.flac
+import started Sat Mar 15 10:44:41 2014
+asis /home/zeltak/mounts/lraid/Download/transmission/completed/American Hustle (2013) [1080p]
+
+import started Sat Mar 15 10:45:24 2014
+
+import started Sat Mar 15 10:46:07 2014
+
+import started Sat Mar 15 10:50:37 2014
+
+import started Sat Mar 15 10:58:03 2014
+
+import started Sun Mar 16 12:57:52 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen - 2000 - Field Commander Cohen - Tour of 79
+
+import started Sun Mar 16 13:08:41 2014
+duplicate-keep /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby Stills Nash - Crosby Stills Nash (2012) [Flac] {HDtracks 24-96}
+
+import started Sun Mar 16 13:32:20 2014
+
+import started Mon Mar 17 14:20:18 2014
+
+import started Mon Mar 17 14:57:21 2014
+
+import started Mon Mar 17 17:32:02 2014
+
+import started Tue Mar 18 18:02:35 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby, Stills, Nash & Young/Crosby, Stills & Nash/1988 American Dream
+
+import started Tue Mar 18 18:07:44 2014
+import started Tue Mar 18 18:12:40 2014
+
+import started Tue Mar 18 19:14:10 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby, Stills, Nash & Young/Crosby/1971 If I Could Only Remember My Name
+
+import started Tue Mar 18 20:05:36 2014
+
+import started Tue Mar 18 20:13:30 2014
+
+import started Wed Mar 19 19:10:22 2014
+
+import started Wed Mar 19 19:14:06 2014
+import started Wed Mar 19 19:15:52 2014
+duplicate-keep /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby, Stills, Nash & Young - 4 Way Street_Japan_1971/Crosby, Stills, Nash & Young - 4 Way Street (1971) [2CD] {Warner Japan}
+
+import started Wed Mar 19 19:26:41 2014
+
+import started Wed Mar 19 19:31:25 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/Graham Nash, David Crosby - Graham Nash & David Crosby
+
+import started Wed Mar 19 19:34:23 2014
+
+import started Wed Mar 19 19:35:52 2014
+
+import started Wed Mar 19 19:37:42 2014
+duplicate-keep /home/zeltak/mounts/lraid/Download/transmission/completed/Wind On The Water/Flacs
+
+import started Fri Mar 28 10:19:18 2014
+
+import started Fri Mar 28 10:26:37 2014
+
+import started Fri Mar 28 10:56:15 2014
+
+import started Fri Mar 28 11:34:43 2014
+
+import started Wed Apr 16 15:22:03 2014
+
+import started Wed Apr 16 20:51:58 2014
+
+import started Wed Apr 16 20:59:21 2014
+
+import started Wed Apr 16 21:00:17 2014
+
+import started Wed Apr 16 21:05:03 2014
+
+import started Thu Apr 17 12:00:22 2014
+
+import started Sat Apr 26 08:06:35 2014
+
+import started Sat Apr 26 08:32:17 2014
+duplicate-keep /home/zeltak/mounts/lraid/Download/transmission/completed/Argent/1973 In Deep/split-track01.flac
+
+import started Sat Apr 26 08:52:58 2014
+
+import started Fri May 16 12:19:11 2014
+import started Fri May 16 12:35:45 2014
+duplicate-replace /home/zeltak/mreview/Yossi Sassi - Desert Butterflies (2014) [FLAC]
+
+import started Wed May 21 15:20:44 2014
+
+import started Fri May 23 09:04:04 2014
+
+import started Sat May 24 13:35:34 2014
+
+import started Wed Jul 23 09:05:40 2014
+
+import started Wed Jul 23 18:49:47 2014
+
+import started Thu Aug 21 10:28:16 2014
+
+import started Sat Aug 23 08:52:15 2014
+
+import started Thu Sep  4 20:34:35 2014
+
+import started Thu Oct  9 17:58:24 2014
+
+import started Fri Oct 10 07:53:21 2014
+
+import started Fri Oct 10 11:07:18 2014
+
+import started Fri Oct 10 11:12:41 2014
+duplicate-keep /home/zeltak/ZH_tmp/KeeCloud-1.0.42/Hugh Masekela - Bring Him Back Home (Nelson Mandela) live-NG3oKb2JQow.m4a
+
+import started Sat Oct 11 15:07:10 2014
+
+import started Mon Oct 13 06:47:04 2014
+
+import started Sat Oct 18 20:02:54 2014
+
+import started Sat Oct 18 20:03:51 2014
+
+import started Sat Oct 18 20:05:43 2014
+
+import started Sat Oct 18 20:28:44 2014
+
+import started Sat Oct 18 20:29:40 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/1.In/5.music/Sam Cooke - Ain't That Good News/07 - A Change Is Gonna Come.flac
+
+import started Sat Oct 18 20:32:17 2014
+
+import started Sat Oct 18 20:36:46 2014
+
+import started Sat Oct 18 20:37:32 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/1.In/5.music/The Flaming Lips - Discography (1987-2013) [FLAC]/CD Rips/1999 - The Soft Bulletin
+
+import started Sat Oct 18 20:52:58 2014
+
+import started Sat Oct 18 20:56:32 2014
+
+import started Sat Oct 18 20:59:02 2014
+
+import started Mon Oct 20 17:01:41 2014
+duplicate-replace /home/zeltak/mounts/lraid/Download/transmission/completed/Alice In Chains - MTV Unplugged
+
+import started Mon Oct 20 17:08:08 2014
+
+import started Fri Oct 24 10:55:34 2014
+
+import started Fri Oct 24 10:59:55 2014
+
+import started Fri Oct 24 11:03:25 2014
+
+import started Fri Oct 24 11:06:45 2014
+
+import started Fri Oct 24 11:11:47 2014
+
+import started Fri Oct 24 11:12:55 2014
+
+import started Fri Oct 24 11:36:48 2014
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+urxvt -name tx_player -pixmap /home/zeltak/MLT/terminal/wood.jpg -icon 
+/home/zeltak/MLT/programs/term_progs/term_player.png +sb -iconic -e ncmpcpp

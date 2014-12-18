@@ -1,0 +1,24 @@
+{
+    "usageCount": 0, 
+    "abbreviation": {
+        "ignoreCase": false, 
+        "wordChars": "[\\w]", 
+        "immediate": false, 
+        "abbreviation": null, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "modes": [
+        3
+    ], 
+    "title": "My Phrases", 
+    "hotkey": {
+        "hotKey": "<f7>", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "filter": null, 
+    "type": "folder", 
+    "showInTrayMenu": false
+}

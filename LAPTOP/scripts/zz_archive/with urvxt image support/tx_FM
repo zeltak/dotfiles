@@ -1,0 +1,2 @@
+#!/bin/bash
+rxvt -fg black -bg white -name tx_FM  -pixmap /home/zeltak/MLT/terminal/task.jpg  -icon /home/zeltak/MLT/programs/term_progs/term_mc.png  +sb  -iconic -e ranger

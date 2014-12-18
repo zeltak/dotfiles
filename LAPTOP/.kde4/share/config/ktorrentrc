@@ -1,0 +1,94 @@
+[ChunkDownloadView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAAB9AAAAAUAAAAA
+
+[FileSelectDlg]
+download_location_history=/home/zeltak/
+file_view=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01ü\x00\x00\x00\x02\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01;\x00\x00\x00\x01\x00\x00\x00\x00
+move_on_completion_location_history=
+show_file_tree=true
+size=566,492
+
+[FileView]
+show_list_of_files=false
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAFAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAACbAAAAAEAAAAAAAABkAAAAAQAAAAA
+
+[GroupSwitcher]
+current_tab=0
+groups=/all,/all/downloads,/all/uploads
+tab0_settings=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06ß\x00\x00\x00\x10\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00À\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x05‹\x00\x00\x00\x0f\x00\x00\x00\x00
+tab1_settings=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06@\x00\x00\x00\x10\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x06@\x00\x00\x00\x10\x00\x00\x00\x00
+tab2_settings=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06@\x00\x00\x00\x10\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x06@\x00\x00\x00\x10\x00\x00\x00\x00
+
+[GroupView]
+expanded=/all,/all/active,/all/downloads,/all/uploads,/all/passive
+visible=false
+
+[InfoWidgetPlugin]
+InfoWidgetPluginEnabled=true
+
+[KFileDialog Settings]
+Height 900=450
+Recent Files[$e]=FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg].torrent,$HOME/ZH_tmp/[kickass.to]nba.2014.finals.g5.heat.spurs.720p.60fps.x264.reborn4hd.torrent,$HOME/ZH_tmp/FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg].torrent
+Recent URLs[$e]=$HOME/ZH_tmp/
+Width 1600=800
+
+[MagnetView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABi4AAAADAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAADAAACfgAAAAEAAAAAAAAAZAAAAAEAAAAAAAADTAAAAAEAAAAA
+
+[MainWindow]
+Height 900=863
+State=AAAA/wAAAAD9AAAAAAAABjgAAAMJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAHgBUAG8AcgByAGUAbgB0AHMAVABvAG8AbABCAGEAcgEAAAIV/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1592
+current_activity=0
+hidden_on_exit=true
+menubar_hidden=false
+statusbar_hidden=false
+
+[PasteDlg]
+group=0
+silently=false
+
+[PeerView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAABkAAAAAQAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAAGQAAAABAAAAAA
+
+[PrefDialog]
+size=628,408
+
+[QueueManager]
+suspended=false
+
+[QueueManagerWidget]
+search_bar_visible=false
+search_text=
+show_downloads=true
+show_not_queued=true
+show_uploads=true
+view_state=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg4AAAAEAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAABLAAAAAMAAAAAAAAE4gAAAAEAAAAA
+
+[Recent Dirs]
+openTorrent[$e]=file://$HOME/ZH_tmp/,$HOME/
+
+[TorrentActivityBottomTabBar]
+current_tab=Queue Manager
+shrunken=false
+
+[TorrentActivitySplitters]
+hsplit=AAAA/wAAAAAAAAACAAABAAAAAwABAAAABgEAAAAB
+vsplit=AAAA/wAAAAAAAAACAAACiAAAAMgBAAAABgEAAAAC
+
+[TorrentSearchBar]
+hidden=true
+text=
+
+[TrackerView]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAyoAAAAGAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAABNgAAAAEAAAAAAAAB9AAAAAUAAAAA
+tracker_hints=udp://tracker.publicbt.com:80/announce,udp://tracker.openbittorrent.com:80/announce
+
+[WebSeedsTab]
+state=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAABAAABkAAAAAQAAAAA
+
+[downloads]
+lastSaveDir=/home/zeltak/
+oldTorrentsImported=true
+tempDir=file:///home/zeltak/.kde4/share/apps/ktorrent/

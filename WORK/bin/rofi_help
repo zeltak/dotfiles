@@ -1,0 +1,117 @@
+#!/bin/bash
+shopt -s globstar
+source $HOME/.config/zhelp/config
+echo $PATH
+
+dplayPrompt () {
+    menu=("i emacs/org"
+          "2 Arch"
+          "3 Git"
+          "---"
+          "4 "
+          "6 Cvim"
+          "7 i3"
+          "8 sxhkd"
+          "9 CLI"
+          "0  Worker"
+          "---"
+          "/  ")
+
+    prompt() {
+        printf "%s\n" "$@" | dmenu_t -p "Help Menu: > "
+    }
+
+    case "$(prompt "${menu[@]}")" in
+        i*)  cat /home/zeltak/org/files/export/keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        2*) cat /home/zeltak/org/files/export/arch.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        3*)  cat /home/zeltak/org/files/export/git.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        4*)  ;;
+        5*)  ;;
+        /*)  ;;
+        6*)  ;;
+        7*)  ;;
+        8*)  cat /home/zeltak/org/files/export/sxhkd_keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        9*)  cliPromot;;
+        0*)   cat /home/zeltak/org/files/export/worker_keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        *) exit
+    esac
+}
+
+
+
+
+#### org menus below
+
+orgPrompt () {
+    menu=("1  Agenda"
+          "2  org-main (F9)"
+          "3  org-aux (F10)"
+          "4  org jump (F9 F9)"
+          "5  Tables"
+          "---"
+          "0  back to MPD Menu")
+
+   prompt() {
+        printf "%s\n" "$@" | dmenu_t -p "Help:> "
+    }
+
+    case "$(prompt "${menu[@]}")" in
+        1*) cat /home/zeltak/org/files/help/keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        2*) mpc next && playbackPrompt ;;
+        3*) mpc prev && playbackPrompt ;;
+        4*) mpc stop && playbackPrompt ;;
+        5*) cat /home/zeltak/org/files/help/orgtables.txt | rofi  -dmenu -width 1300 -lines 100 -p '';;
+        0*) dplayPrompt ;;
+        *) dplayPrompt ;;
+    esac
+}
+
+
+
+
+
+
+
+
+
+
+
+
+################################################################################
+##overall configs 
+#####
+
+
+if [[ "$backend" == "rofi" ]]
+    then function dmenu_t () {
+    rofi -dmenu "$@"
+}
+
+elif [[ "$backend" == "dmenu" ]]
+    then function dmenu_t () {
+    dmenu -l 15 "$@"
+}
+
+elif [[ "$backend" == "slmenu" ]]
+    then function dmenu_t () {
+    slmenu -l 15 "$@"
+}
+fi
+
+
+if [[ "$1" == "-h" ]]; then
+    echo "zhelp"
+    echo "Copyright © 2013 - 2014"
+    echo ""
+    echo "Options"
+    echo "  -h         this help message"
+   echo "  -color   change colors"
+
+elif [[ "$1" == "-color" ]]; then
+    echo colo
+else
+dplayPrompt
+fi
+
+
+

@@ -1,0 +1,3 @@
+[general]
+bmarks=$HOME/dotfiles/COMMON/bookmarks
+browser=firefox

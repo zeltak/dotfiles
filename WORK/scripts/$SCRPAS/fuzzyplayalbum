@@ -1,0 +1,19 @@
+#!/bin/bash
+
+albumplay() {
+
+if [ $1 = -a ]
+then
+shift
+mpc search album "$*" | mpc add ; mpc play
+exit
+fi
+mpc clear
+mpc search album "$*" | mpc add ; mpc play
+} 
+
+source ~/.config/teiler/config
+albumplay $(echo | dmenu -fn "$font" -nf "$nf" -nb "$nb" -sf "$sf" -sb "$sb" -p "Play:")
+
+
+#notify-send "MPD" "Playing Album: $(mpc current -f '%artist% - %album%')" 

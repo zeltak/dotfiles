@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0.0000000"
+   y="0.0000000"
+   width="48.000000px"
+   height="48.000000px"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="folder_new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata162">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2005-02-01</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:identifier>http://jimmac.musichall.cz/</dc:identifier>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>folder</rdf:li>
+            <rdf:li>directory</rdf:li>
+            <rdf:li>storage</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.14901961"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:cy="29.157706"
+     inkscape:cx="7.4007353"
+     inkscape:zoom="8"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-x="-4"
+     inkscape:window-y="28"
+     inkscape:current-layer="layer2"
+     inkscape:showpageshadow="false"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3188">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3190" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3192" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3188"
+       id="linearGradient3194"
+       x1="18.340364"
+       y1="5.2157631"
+       x2="18.284637"
+       y2="40.090763"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.64e-4,0)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="pixmap"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vectors"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 5.40625 5.46875 C 4.9412732 5.46875 4.59375 5.6960038 4.59375 6.1875 L 4.59375 39.21875 C 4.5937501 39.945897 5.088048 40.40625 5.75 40.40625 L 43.5 40.40625 C 44.165803 40.406248 44.40625 39.977544 44.40625 39.34375 L 44.40625 10.4375 C 44.40625 9.894535 44.030021 9.59375 43.53125 9.59375 L 24.40625 9.59375 C 24.069238 9.5937504 23.729051 9.397861 23.53125 9.125 L 20.90625 5.90625 C 20.688385 5.6057111 20.277453 5.46875 19.90625 5.46875 L 5.40625 5.46875 z M 24.90625 19 C 25.077499 19.013372 25.241821 19.057679 25.40625 19.125 C 26.063966 19.394283 26.480151 20.039385 26.46875 20.75 L 26.46875 26.25 L 31.96875 26.25 C 32.593185 26.233867 33.180798 26.525574 33.5 27.0625 C 33.819205 27.599424 33.812482 28.302881 33.5 28.84375 C 33.187523 29.384613 32.624583 29.695841 32 29.6875 L 26.5 29.6875 L 26.5 35.1875 C 26.500685 36.145723 25.739474 36.936815 24.78125 36.9375 C 23.823026 36.938185 23.031933 36.145722 23.03125 35.1875 L 23.03125 29.6875 L 17.53125 29.6875 C 16.825759 29.699573 16.210837 29.306751 15.9375 28.65625 C 15.664163 28.005749 15.810125 27.245465 16.3125 26.75 C 16.646807 26.420202 17.093062 26.23749 17.5625 26.25 L 23.0625 26.25 L 23.0625 20.75 C 23.049375 20.299095 23.194097 19.862783 23.5 19.53125 C 23.867665 19.145319 24.392503 18.959883 24.90625 19 z "
+       id="path895" />
+    <g
+       id="g891"
+       transform="matrix(0.186703,0.000000,0.000000,0.186703,-21.10730,57.62299)" />
+    <path
+       style="fill:url(#linearGradient3194);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 7.597708,16.042248 L 15.531053,16.042248 C 16.272787,16.042248 16.899023,15.661437 17.21822,15.160244 C 17.354963,14.945535 18.486202,13.034516 18.575894,12.904018 C 18.874681,12.469294 19.348811,12.145102 19.917876,12.145102 L 42.960109,12.145102 C 43.762946,12.145102 44.409272,12.788891 44.409272,13.588576 C 24.136038,15.484228 9.132823,20.591494 4.59,34.536425 L 4.59,19.22787 C 4.59,17.253505 5.730316,16.042248 7.597708,16.042248 z"
+       id="path2408"
+       sodipodi:nodetypes="czzszccccc"
+       inkscape:r_cx="true"
+       inkscape:r_cy="true" />
+    <g
+       id="g2669"
+       inkscape:label="pixmap"
+       style="display:inline"
+       transform="translate(49.438714,1.464991)" />
+    <g
+       transform="matrix(0.186703,0,0,0.186703,28.331414,59.087981)"
+       id="g2684" />
+  </g>
+</svg>

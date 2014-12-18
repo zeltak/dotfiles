@@ -1,0 +1,23 @@
+background no
+use_xft no
+# xftfont 123:size=8
+out_to_console yes
+out_to_x no
+update_interval 2
+total_run_times 0
+# own_window yes
+# own_window_type dock
+# own_window_transparent yes
+double_buffer yes
+border_inner_margin 0T
+border_outer_margin 0
+use_spacer none
+if_up_strictness address
+short_units yesBattery: 
+
+
+
+
+TEXT
+${if_mpd_playing}$mpd_artist - $mpd_title ($mpd_elapsed)${else}MPD ${endif}^fg(\#5FD7FF)| ^fg(\#ea84a9)^i(/home/zeltak/scripts/conky/icons/vol-hi.xbm)  ^fg(\#5FD7FF)|^fg(\#36F277)^i(/home/zeltak/scripts/conky/icons/power-bat.xbm)$battery_percent%^fg(\#5FD7FF)| ^fg(\#a5c95b)^i(/home/zeltak/scripts/conky/icons/clock.xbm) ${time %H:%M}^fg(\#5FD7FF)|
+

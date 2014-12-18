@@ -1,0 +1,1 @@
+sshfs zeltak@192.168.0.109:/home/zeltak/  /home/zeltak/mounts/ztpc   

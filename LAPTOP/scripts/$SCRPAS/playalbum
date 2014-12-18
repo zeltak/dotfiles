@@ -1,0 +1,18 @@
+#!/bin/bash
+source ~/.config/teiler/config
+DMENU="dmenu -i -l 20 -fn "$font" -nf "$nf" -nb "$nb" -sf "$sf" -sb "$sb" -p "Play:""
+
+
+case $1 in
+    -a)
+     ALBUM="$(mpc list album)";
+     ALBUM=$(echo -e "$ALBUM" | $DMENU -p select:);
+     if [ "$ALBUM" = "" ] 
+         then echo "no selection made"
+     else
+     mpc clear
+     mpc find album "$ALBUM" | mpc add && mpc play;
+     fi
+;;
+*)
+esac

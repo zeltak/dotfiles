@@ -1,0 +1,5 @@
+#!/bin/sh
+ 
+for f in /sys/block/md*/md/sync_action; do
+  echo check > $f
+done

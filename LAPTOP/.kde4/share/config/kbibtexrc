@@ -1,0 +1,51 @@
+[BibTeXFileView]
+HeaderState_Main=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00ˇˇˇˇ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0fE\x00\x00\x00$\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00¶\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01D\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00w\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x0c‰\x00\x00\x00!\x00\x00\x00\x00
+HeaderState_MergeWidget=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x00
+HeaderState_SearchResults=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00ˇˇˇˇ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0f§\x00\x00\x00$\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00~\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00í\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01∞\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x0c‰\x00\x00\x00!\x00\x00\x00\x00
+
+[ElementEditorDialog]
+Height 900=490
+Width 1600=743
+
+[Filter Bar]
+CurrentCombination=0
+CurrentField=0
+SearchPDFFiles=false
+
+[KFileDialog Settings]
+Height 900=450
+Recent Files[$e]=zeltakref.bib,$HOME/Dropbox/ztmp/zeltakref.bib
+Recent URLs[$e]=$HOME/Dropbox/ztmp/
+Width 1600=800
+
+[MainWindow]
+Height 900=854
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAJGAAADB/wCAAAAAvwAAAA9AAABdgAAAKUBAAAZ+gAAAAACAAAAAvsAAAAgAGQAbwBjAGsARABvAGMAdQBtAGUAbgB0AEwAaQBzAHQBAAAAAP////8AAACLAP////sAAAAaAGQAbwBjAGsAVgBhAGwAdQBlAEwAaQBzAHQBAAAAAP////8AAACIAP////wAAAG5AAABiwAAAPEBAAAZ+gAAAAECAAAAAvsAAAAoAGQAbwBjAGsAUgBlAGYAZQByAGUAbgBjAGUAUAByAGUAdgBpAGUAdwEAAAAA/////wAAAFoA////+wAAABwAZABvAGMAawBTAGUAYQByAGMAaABGAHIAbwBtAQAAAAD/////AAAA1wD///8AAAABAAAAAAAAAAD8AgAAAAH7AAAAJgBkAG8AYwBrAEQAbwBjAHUAbQBlAG4AdABQAHIAZQB2AGkAZQB3AAAAAAD/////AAABbAD///8AAAADAAAD5AAAAW/8AQAAAAL7AAAAHgBkAG8AYwBrAFIAZQBzAHUAbAB0AHMARgByAG8AbQEAAAJMAAAD5AAAAFsA////+wAAAB4AZABvAGMAawBFAGwAZQBtAGUAbgB0AEYAcgBvAG0AAAAAAP////8AAAOhAP///wAAA+QAAAGSAAAAAQAAAAIAAAABAAAAAvwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGgBmAGkAbAB0AGUAcgBUAG8AbwBsAEIAYQByAQAAAxr/////AAAAAAAAAAA=
+Width 1600=1584
+
+[Recent Dirs]
+opensave[$e]=file://$HOME/Dropbox/ztmp/,$HOME/
+
+[Reference Preview Docklet]
+Style=source,source
+
+[Search Engine General]
+author=
+free=kloog itai
+numResults=10
+title=
+year=
+
+[Search Engines Docklet]
+ISBNdbcom=false
+IngentaConnect=false
+InpsireHigh-EnergyPhysicsLiteratureDatabase=false
+JSTOR=false
+MathSciNet=false
+SAONASAAstrophysicsDataSystemADS=false
+
+[User Interface]
+EnableAllWidgets=true
+
+[Value List Docklet]
+FieldName=Author

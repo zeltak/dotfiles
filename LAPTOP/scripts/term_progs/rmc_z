@@ -1,0 +1,3 @@
+#!/bin/bash
+urxvt -fg black -bg '#EEEEEC'  -name rmc_z   +sb  -iconic -e sudo mc -S /home/zeltak/.mc/skins/rmc_z.ini
+

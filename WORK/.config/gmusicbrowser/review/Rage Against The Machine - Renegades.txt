@@ -1,0 +1,12 @@
+<amgid>r508437</amgid>
+<author>John Bush</author>
+<genre>Pop/Rock</genre>
+<label>Sony Music Distribution</label>
+<mood>Fierce, Outraged, Angry, Bitter, Cathartic, Confrontational, Cynical/Sarcastic, Organic, Raucous, Rebellious, Rousing, Aggressive, Angst-Ridden, Boisterous, Brash, Energetic, Fiery, Hostile, Intense, Menacing</mood>
+<rating>80</rating>
+<review>Rush released after the late-2000 split between Zack de la Rocha and the rest of Rage Against the Machine, the covers album Renegades salutes the band's musical and philosophical roots, ranging from the old-school Bronx to the hard-rockin' Motor City to protest-central Greenwich Village to gangsta-ridden L.A. As could be expected, the set works best when the group focuses on material from its most recent forebears: rappers and hardcore bands. Indeed, Renegades begins with a pair of powerful hip-hop covers -- Eric B & Rakim's "Microphone Fiend" and Volume 10's "Pistol Grip Pump" -- that spotlight Rage's immense strengths: Tom Morello's clean, heavy riffing and vocalist de la Rocha's finely tuned spray of vitriol, just this side of self-righteous. Another hip-hop blast (and the one closest to home), Cypress Hill's "How I Could Just Kill a Man," is even more devastating, an easy pick for the highlight of the album. Listeners familiar with the originals, however, may have trouble with Rage's covers of EPMD's "I'm Housin'," the Stones' "Street Fighting Man," and Dylan's "Maggie's Farm," a trio of original versions whose anger and emotion were conveyed more in the lyrics than the performances. Still, drummer Brad Wilk sets an appropriately frenetic hardcore tempo for the excellent version of Minor Threat's "In My Eyes," and de la Rocha stretches out well on the MC5's "Kick Out the Jams." With just a bare few excepions, Renegades works well, in part because Rage Against the Machine is both smart enough to change very little and talented enough to make the songs its own. </review>
+<rls_date>Dec 5, 2000</rls_date>
+<style>Alternative Metal, Alternative Pop/Rock, Heavy Metal, Rap-Metal, Alternative/Indie Rock</style>
+<theme>Cool & Cocky, Revolutionary, Guys Night Out, Hanging Out, Empowering</theme>
+<type>Explicit Lyrics</type>
+<url>http://allmusic.com/album/renegades-r508437/review</url>

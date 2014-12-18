@@ -1,0 +1,29 @@
+gvim
+vlc
+xournal
+mcomix
+chromium
+okular
+comix
+libreoffice
+firefox
+emacsclient
+kate
+xarchiver
+smplayer
+mplayer
+peazip
+gwenviwer
+feh
+xnview
+inkscape
+gimp
+./
+vim
+feh -f
+feh --scale-down -f
+feh --scale-down
+feh -f.
+emacs
+cat
+zathura

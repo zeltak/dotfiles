@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   id="svg5648">
+  <defs
+     id="defs5650" />
+  <metadata
+     id="metadata5653">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1004.3622)"
+     id="layer1">
+    <text
+       x="22.321426"
+       y="1047.8978"
+       id="text3621"
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Abandoned Bitplane Bold"><tspan
+         x="22.321426"
+         y="1047.8978"
+         id="tspan3623" /></text>
+    <text
+       x="0.62472403"
+       y="1178.0708"
+       transform="scale(1.1608689,0.86142372)"
+       id="text3671"
+       xml:space="preserve"
+       style="font-size:14.65425301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Abandoned Bitplane Bold"><tspan
+         x="0.62472403"
+         y="1178.0708"
+         id="tspan3673">'05</tspan></text>
+    <text
+       x="0.56748068"
+       y="1190.447"
+       transform="scale(1.1608689,0.86142372)"
+       id="text3671-3"
+       xml:space="preserve"
+       style="font-size:14.65425301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Abandoned Bitplane Bold"><tspan
+         x="0.56748068"
+         y="1190.447"
+         id="tspan3673-3">'08</tspan></text>
+    <g
+       transform="matrix(0.25567148,0.02323746,-0.02669411,0.22256429,17.563083,1021.8302)"
+       id="g4103"
+       style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4;overflow:visible">
+      <path
+         d="m 76,13 c -0.553,0 -1,0.448 -1,1 l 0,34 c 0,0.404 0.244,0.769 0.617,0.924 0.374,0.155 0.804,0.069 1.09,-0.217 0,0 8.8,-8.8 9.912,-9.912 C 95.622,45.409 101,55.872 101,67 c 0,19.299 -15.602,35 -34.901,35 -0.553,0 -1,0.447 -1,1 l 0,18 c 0,0.553 0.447,1 1,1 C 96.426,122 121,97.327 121,67 c 0,-16.275 -7.531,-32.033 -20.14,-42.446 1.293,-1.293 9.847,-9.847 9.847,-9.847 C 110.898,14.516 111,14.26 111,14 111,13.871 110.975,13.741 110.924,13.617 110.77,13.244 110.404,13 110,13 l -34,0 z"
+         id="path4105"
+         style="fill:#000080" />
+      <g
+         id="g4107"
+         style="fill:#000080">
+        <path
+           d="m 54,113 c 0.553,0 1,-0.447 1,-1 l 0,-34 c 0,-0.404 -0.244,-0.77 -0.617,-0.924 -0.374,-0.154 -0.804,-0.068 -1.09,0.217 0,0 -8.8,8.8 -9.912,9.912 C 34.378,80.591 29,70.129 29,59 29,39.701 44.602,24 63.901,24 c 0.553,0 1,-0.448 1,-1 l 0,-18 c 0,-0.552 -0.447,-1 -1,-1 C 33.574,4 9,28.673 9,59 c 0,16.275 7.531,32.033 20.14,42.446 -1.293,1.293 -9.847,9.847 -9.847,9.847 C 19.102,111.484 19,111.74 19,112 c 0,0.129 0.025,0.259 0.076,0.383 C 19.23,112.756 19.596,113 20,113 l 34,0 z"
+           id="path4109"
+           style="fill:#000080" />
+      </g>
+    </g>
+  </g>
+</svg>

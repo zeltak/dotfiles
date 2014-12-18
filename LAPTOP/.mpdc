@@ -1,0 +1,9 @@
+[mpd]
+host = localhost
+port = 6600
+password = 
+
+[mpdc]
+collections = /home/zeltak/.mpd/mpdc
+colors = red, green, blue
+

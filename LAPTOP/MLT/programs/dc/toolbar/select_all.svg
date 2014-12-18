@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Captions">
+</g>
+<g id="Your_Icon">
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<path stroke="#000000" stroke-miterlimit="10" d="M50.259,7.251c23.758,0,43.005,19.258,43.005,43.007        S74.017,93.264,50.259,93.264c-23.75,0-43.008-19.257-43.008-43.006S26.509,7.251,50.259,7.251 M50.259,1.517        c-26.877,0-48.742,21.865-48.742,48.741S23.382,99,50.259,99C77.134,99,99,77.134,99,50.258S77.134,1.517,50.259,1.517        L50.259,1.517z"/>
+					</g>
+				</g>
+				<g>
+					<circle fill="none" stroke="#000000" stroke-width="8" stroke-dasharray="20,15,20,15" cx="50.259" cy="50.424" r="33.452"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<rect x="34.447" y="45.659" transform="matrix(0.7036 -0.7106 0.7106 0.7036 -28.9254 44.9744)" width="10" height="23"/>
+		<rect x="34.619" y="46.073" transform="matrix(0.7036 -0.7106 0.7106 0.7036 -20.1032 53.9534)" width="40" height="10"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,308 @@
+[submenu] (Applications)
+ [submenu] (Accessibility)
+     [exec] (Jovie) {jovie}
+     [exec] (KMag) {kmag -caption "KMag" }
+     [exec] (KMouseTool) {kmousetool -caption "KMouseTool" }
+     [exec] (KMouth) {kmouth -caption "KMouth" }
+ [end] # (Accessibility)
+ [submenu] (Accessories)
+     [exec] (7-Zip FM) {7zFM}
+     [exec] (Akonaditray) {akonaditray}
+     [exec] (Android Notifier Desktop) {/usr/share/android-notifier-desktop/run.sh}
+     [exec] (Ark) {ark -caption "Ark" }
+     [exec] (Double Commander) {doublecmd}
+     [exec] (Duplicati) {/usr/bin/duplicati}
+     [exec] (Elementary Test) {elementary_test}
+     [exec] (Filelight) {filelight }
+     [exec] (Jovie) {jovie}
+     [exec] (KAlarm) {kalarm -caption "KAlarm" }
+     [exec] (KCalc) {kcalc -caption "KCalc"}
+     [exec] (KCharSelect) {kcharselect -caption "KCharSelect"}
+     [exec] (KFileReplace) {kfilereplace  -caption "KFileReplace"}
+     [exec] (KFloppy) {kfloppy -caption "KFloppy"}
+     [exec] (KGpg) {kgpg }
+     [exec] (KJots) {kjots -caption "KJots"}
+     [exec] (KMag) {kmag -caption "KMag" }
+     [exec] (KMouseTool) {kmousetool -caption "KMouseTool" }
+     [exec] (KMouth) {kmouth -caption "KMouth" }
+     [exec] (KNotes) {knotes}
+     [exec] (KRename) {krename -caption "KRename"   }
+     [exec] (KTeaTime) {kteatime}
+     [exec] (KTimeTracker) {ktimetracker}
+     [exec] (KTimer) {ktimer}
+     [exec] (KWrite) {kwrite }
+     [exec] (Kate) {kate -b }
+     [exec] (KeepassX v2) {/usr/bin/keepassx }
+     [exec] (Kleopatra) {kleopatra}
+     [exec] (Krusader) {krusader -caption "Krusader" }
+     [exec] (Kupfer) {kupfer }
+     [exec] (Launchy) {launchy }
+     [exec] (Leafpad) {leafpad }
+     [exec] (Métamorphose2) {/usr/bin/metamorphose2}
+     [exec] (NoteCase Pro) {notecase }
+     [exec] (Okteta) {okteta -caption "Okteta" }
+     [exec] (Orage Globaltime) {globaltime}
+     [exec] (Parcellite) {parcellite}
+     [exec] (PtBatterySystemTray) {ptbatterysystemtray}
+     [exec] (Qlipper) {qlipper}
+     [exec] (Root Terminal) {gksu -l gnome-terminal}
+     [exec] (Screenkey) {screenkey}
+     [exec] (Screenshot) {xfce4-screenshooter}
+     [exec] (SpaceFM File Search) {spacefm --find-files }
+     [exec] (SpeedCrunch) {speedcrunch}
+     [exec] (Sweeper) {sweeper}
+     [exec] (Synapse) {synapse}
+     [exec] (Terminology) {terminology}
+     [exec] (Vi IMproved) {gvim -f }
+     [exec] (Worker) {worker}
+     [exec] (kalu) {kalu}
+ [end] # (Accessories)
+ [submenu] (Education)
+     [exec] (Avogadro) {avogadro }
+     [exec] (Blinken) {blinken}
+     [exec] (Cantor) {cantor  -caption "Cantor"}
+     [exec] (KAlgebra) {kalgebra}
+     [exec] (KAlgebra Mobile) {kalgebramobile}
+     [exec] (KBruch) {kbruch -caption "KBruch" }
+     [exec] (KGeography) {kgeography}
+     [exec] (KHangMan) {khangman -caption "KHangMan" }
+     [exec] (KLettres) {klettres -caption "KLettres" }
+     [exec] (KStars) {kstars -caption "KStars" }
+     [exec] (KTouch) {ktouch -caption "KTouch" }
+     [exec] (KTurtle) {kturtle  -caption "KTurtle"}
+     [exec] (KWordQuiz) {kwordquiz -caption "KWordQuiz" }
+     [exec] (Kalzium) {kalzium -caption "Kalzium" }
+     [exec] (Kanagram) {kanagram}
+     [exec] (Kig) {kig  -caption "Kig"}
+     [exec] (Kiten) {kiten -caption "Kiten" }
+     [exec] (KmPlot) {kmplot}
+     [exec] (Marble) {marble}
+     [exec] (Pairs) {pairs  -caption "Pairs"}
+     [exec] (Parley) {parley }
+     [exec] (R) {xterm -e R}
+     [exec] (Rocs) {rocs  -caption "Rocs"}
+     [exec] (Step) {step -caption "Step" }
+     [exec] (zotero) {zotero}
+ [end] # (Education)
+ [submenu] (Games)
+     [exec] (AMOR) {amor}
+     [exec] (Blinken) {blinken}
+     [exec] (Bomber) {bomber -caption "Bomber"}
+     [exec] (Bovo) {bovo -caption "Bovo"}
+     [exec] (Granatier) {granatier}
+     [exec] (KAtomic) {katomic -caption "KAtomic"}
+     [exec] (KBlackBox) {kblackbox -caption "KBlackBox"}
+     [exec] (KBlocks) {kblocks -caption "KBlocks"}
+     [exec] (KBounce) {kbounce -caption "KBounce"}
+     [exec] (KBreakOut) {kbreakout -caption "KBreakOut"}
+     [exec] (KDiamond) {kdiamond -caption "KDiamond"}
+     [exec] (KFourInLine) {kfourinline}
+     [exec] (KGoldrunner) {kgoldrunner}
+     [exec] (KHangMan) {khangman -caption "KHangMan" }
+     [exec] (KJumpingCube) {kjumpingcube -caption "KJumpingCube"}
+     [exec] (KMahjongg) {kmahjongg -caption "KMahjongg"}
+     [exec] (KMines) {kmines -caption "KMines"}
+     [exec] (KNetWalk) {knetwalk -caption "KNetWalk"}
+     [exec] (KPatience) {kpat -caption "KPatience"}
+     [exec] (KReversi) {kreversi -caption "KReversi"}
+     [exec] (KSnake) {ktron -snake -caption "KSnake" }
+     [exec] (KSnakeDuel) {ktron -caption "KSnakeDuel" }
+     [exec] (KSpaceDuel) {kspaceduel -caption "KSpaceDuel"}
+     [exec] (KSquares) {ksquares  -caption "KSquares"}
+     [exec] (KSudoku) {ksudoku  -caption "KSudoku"}
+     [exec] (Kajongg) {kajongg}
+     [exec] (Kanagram) {kanagram}
+     [exec] (Kapman) {kapman}
+     [exec] (Kigo) {kigo  -caption "Kigo"}
+     [exec] (Killbots) {killbots -caption "Killbots"}
+     [exec] (Kiriki) {kiriki -caption "Kiriki"}
+     [exec] (Klickety) {klickety -caption "Klickety"}
+     [exec] (Kolf) {kolf }
+     [exec] (Kollision) {kollision}
+     [exec] (Kolor Lines) {klines -caption "Kolor Lines"}
+     [exec] (Konquest) {konquest -caption Konquest}
+     [exec] (KsirK) {ksirk -caption "KsirK" }
+     [exec] (KsirK Skin Editor) {ksirkskineditor -caption "KsirK Skin Editor" }
+     [exec] (Kubrick) {kubrick}
+     [exec] (LSkat) {lskat}
+     [exec] (Naval Battle) {kbattleship -caption "Naval Battle" }
+     [exec] (Pairs) {pairs  -caption "Pairs"}
+     [exec] (Palapeli) {palapeli}
+     [exec] (Potato Guy) {ktuberling -caption "Potato Guy" }
+     [exec] (SameGame) {klickety --KSameMode -caption "SameGame"}
+     [exec] (Shisen-Sho) {kshisen -caption "Shisen-Sho"}
+     [exec] (Torchlight) {/home/zeltak/programs/torchlight//Torchlight/Torchlight.bin.x86_64}
+     [exec] (Xdotoolgui) {python2.6 /usr/games/xdotoolgui.py}
+ [end] # (Games)
+ [submenu] (Graphics)
+     [exec] (AcquireImages) {scangui  -caption "AcquireImages" }
+     [exec] (Blender) {blender}
+     [exec] (DNGConverter) {dngconverter  -caption "DNGConverter" }
+     [exec] (ExpoBlending) {expoblending  -caption "ExpoBlending" }
+     [exec] (GNU Image Manipulation Program) {gimp-2.8 }
+     [exec] (Gcolor2) {gcolor2}
+     [exec] (Geeqie) {geeqie -r }
+     [exec] (Gwenview) {gwenview  -caption "Gwenview" }
+     [exec] (Inkscape) {inkscape }
+     [exec] (KColorChooser) {kcolorchooser}
+     [exec] (KRuler) {kruler}
+     [exec] (KSnapshot) {ksnapshot -caption "KSnapshot"}
+     [exec] (KeyMon) {key-mon}
+     [exec] (KolourPaint) {kolourpaint }
+     [exec] (LibreOffice Draw) {libreoffice --draw }
+     [exec] (MComix) {mcomix }
+     [exec] (Okular) {okular   -caption "Okular"}
+     [exec] (Panorama) {panoramagui  -caption "Panorama" }
+     [exec] (Photo Layouts Editor) {photolayoutseditor}
+     [exec] (Pinta) {pinta }
+     [exec] (Ristretto Image Viewer) {ristretto }
+     [exec] (digiKam) {digikam -caption "digiKam" }
+     [exec] (mtPaint) {mtpaint }
+     [exec] (showFoto) {showfoto  -caption "showFoto" }
+ [end] # (Graphics)
+ [submenu] (Internet)
+     [exec] (Akregator) {akregator  -caption "Akregator"}
+     [exec] (Avahi SSH Server Browser) {/usr/bin/bssh}
+     [exec] (Avahi VNC Server Browser) {/usr/bin/bvnc}
+     [exec] (Blogilo) {blogilo  -caption "Blogilo"}
+     [exec] (Chromium) {chromium }
+     [exec] (Dropbox) {dropboxd}
+     [exec] (FileZilla) {filezilla}
+     [exec] (Firefox) {firefox }
+     [exec] (Import Wizard) {importwizard}
+     [exec] (KGet) {kget -caption "KGet"  }
+     [exec] (KMail) {kmail -caption "KMail" }
+     [exec] (KNode) {knode -caption "KNode"}
+     [exec] (KPPP) {kppp}
+     [exec] (KRDC) {krdc -caption "KRDC" }
+     [exec] (KTnef) {ktnef }
+     [exec] (KTorrent) {ktorrent  -caption "KTorrent" }
+     [exec] (Konqueror) {kfmclient openProfile webbrowsing}
+     [exec] (Kopete) {kopete -caption "Kopete" }
+     [exec] (Krfb) {krfb -caption "Krfb" }
+     [exec] (Luakit) {luakit }
+     [exec] (NixNote) {/usr/share/nixnote/nixnote.sh}
+     [exec] (Pidgin Internet Messenger) {pidgin}
+     [exec] (ScreenCloud) {/opt/screencloud/screencloud.sh}
+     [exec] (Skype) {skype }
+     [exec] (TeamViewer) {/opt/teamviewer/teamviewer/7/bin/teamviewer}
+     [exec] (XChat IRC) {xchat}
+     [exec] (Zenmap) {zenmap }
+     [exec] (Zenmap (as root)) {/usr/share/zenmap/su-to-zenmap.sh }
+     [exec] (dwb) {dwb }
+     [exec] (gPodder) {gpodder}
+ [end] # (Internet)
+ [submenu] (Office)
+     [exec] (AbiWord) {abiword}
+     [exec] (Dictionary) {xfce4-dict}
+     [exec] (Import Wizard) {importwizard}
+     [exec] (KAddressBook) {kaddressbook }
+     [exec] (KMail) {kmail -caption "KMail" }
+     [exec] (KOrganizer) {korganizer }
+     [exec] (KTimeTracker) {ktimetracker}
+     [exec] (KTnef) {ktnef }
+     [exec] (Kontact) {kontact}
+     [exec] (LibreOffice ) {libreoffice }
+     [exec] (LibreOffice Base) {libreoffice --base }
+     [exec] (LibreOffice Calc) {libreoffice --calc }
+     [exec] (LibreOffice Draw) {libreoffice --draw }
+     [exec] (LibreOffice Impress) {libreoffice --impress }
+     [exec] (LibreOffice Writer) {libreoffice --writer }
+     [exec] (Lokalize) {lokalize  -caption "Lokalize"}
+     [exec] (NoteCase Pro) {notecase }
+     [exec] (Okular) {okular   -caption "Okular"}
+     [exec] (Orage Calendar) {orage}
+     [exec] (Orage Globaltime) {globaltime}
+     [exec] (Taskhelm) {/usr/bin/taskhelm }
+     [exec] (zotero) {zotero}
+ [end] # (Office)
+ [submenu] (Programming)
+     [exec] (Akonadi Console) {akonadiconsole}
+     [exec] (Android SDK) {android}
+     [exec] (CMake) {cmake-gui }
+     [exec] (Cervisia) {cervisia -caption "Cervisia"  }
+     [exec] (Elementary Test) {elementary_test}
+     [exec] (KAppTemplate) {kapptemplate}
+     [exec] (KCachegrind) {kcachegrind -caption "KCachegrind" }
+     [exec] (KImageMapEditor) {kimagemapeditor -caption "KImageMapEditor" }
+     [exec] (KLinkStatus) {klinkstatus   -caption "KLinkStatus"}
+     [exec] (KUIViewer) {kuiviewer -caption "KUIViewer"}
+     [exec] (Kompare) {kompare -caption "Kompare" -o }
+     [exec] (Lokalize) {lokalize  -caption "Lokalize"}
+     [exec] (Meld) {meld }
+     [exec] (OpenJDK Monitoring & Management Console) {/usr/bin/jconsole}
+     [exec] (OpenJDK Policy Tool) {/usr/bin/policytool}
+     [exec] (Qt Assistant) {/usr/bin/assistant}
+     [exec] (Qt Designer) {/usr/bin/designer}
+     [exec] (Qt Linguist) {/usr/bin/linguist}
+     [exec] (RStudio) {/usr/lib/rstudio/bin/rstudio }
+     [exec] (Umbrello) {umbrello -caption "Umbrello"}
+ [end] # (Programming)
+ [submenu] (Sound & Video)
+     [exec] (Audacity) {audacity }
+     [exec] (Cantata) {cantata }
+     [exec] (CdCat the Hyper's CdCatalog) {cdcat}
+     [exec] (Dragon Player) {dragon }
+     [exec] (EasyTAG) {easytag }
+     [exec] (Filebot) {filebot}
+     [exec] (Flacon) {flacon }
+     [exec] (FreetuxTV) {freetuxtv}
+     [exec] (Gnome Music Player Client) {gmpc}
+     [exec] (JuK) {juk -caption "JuK" }
+     [exec] (Kdenlive) {kdenlive  -caption "Kdenlive" }
+     [exec] (KsCD) {kscd -caption "KsCD" }
+     [exec] (MPlayer) {mplayer }
+     [exec] (MediaInfo) {mediainfo-gui  }
+     [exec] (MusicBrainz Picard) {picard }
+     [exec] (OpenShot Video Editor) {openshot }
+     [exec] (PulseAudio System Tray) {pasystray}
+     [exec] (PulseAudio Volume Control) {pavucontrol}
+     [exec] (QT V4L2 test Utility) {qv4l2}
+     [exec] (SMPlayer) {smplayer }
+     [exec] (SopCast Player) {sopcast-player }
+     [exec] (Sound Converter) {soundconverter }
+     [exec] (VLC media player) {/usr/bin/vlc }
+     [exec] (Xfburn) {xfburn}
+     [exec] (gMTP) {gmtp}
+     [exec] (gPodder) {gpodder}
+     [exec] (gmusicbrowser) {gmusicbrowser }
+     [exec] (puddletag) {puddletag }
+     [exec] (soundKonverter) {soundkonverter }
+ [end] # (Sound & Video)
+ [submenu] (System Tools)
+     [exec] (Avahi Zeroconf Browser) {/usr/bin/avahi-discover}
+     [exec] (Bulk Rename) {/usr/lib/Thunar/ThunarBulkRename }
+     [exec] (Dolphin) {dolphin  -caption "Dolphin" }
+     [exec] (GParted) {gparted-pkexec}
+     [exec] (Grsync) {/usr/bin/grsync -i }
+     [exec] (Htop) {xterm -e htop}
+     [exec] (KDiskFree) {kdf -caption "KDiskFree"}
+     [exec] (KSystemLog) {xdg_menu_su ksystemlog  -caption "KSystemLog"}
+     [exec] (KUser) {xdg_menu_su kuser  -caption "KUser"}
+     [exec] (KWalletManager) {kwalletmanager }
+     [exec] (Konsole) {konsole}
+     [exec] (Krfb) {krfb -caption "Krfb" }
+     [exec] (KwikDisk) {kwikdisk -caption "KwikDisk"}
+     [exec] (Manage Printing) {/usr/bin/xdg-open http://localhost:631/}
+     [exec] (Nepomuk Backup) {nepomukbackup}
+     [exec] (Nepomuk File Indexing Controller) {nepomukcontroller}
+     [exec] (Oracle VM VirtualBox) {VirtualBox }
+     [exec] (PkgBrowser) {pkgbrowser}
+     [exec] (ROXTerm) {roxterm}
+     [exec] (Sensor Viewer) {xfce4-sensors}
+     [exec] (Services) {systemadm}
+     [exec] (SpaceFM) {spacefm }
+     [exec] (System Monitor) {ksysguard }
+     [exec] (Task Manager) {lxtask}
+     [exec] (Task Manager) {xfce4-taskmanager}
+     [exec] (Terminator) {terminator}
+     [exec] (Thunar File Manager) {thunar }
+     [exec] (UXTerm) {uxterm}
+     [exec] (XTerm) {xterm}
+     [exec] (Xfce Terminal) {xfce4-terminal}
+     [exec] (dconf Editor) {dconf-editor}
+     [exec] (urxvt) {urxvt}
+     [exec] (urxvt (client)) {urxvtc}
+     [exec] (urxvt (tabbed)) {urxvt-tabbed}
+ [end] # (System Tools)
+[end] # (Applications)

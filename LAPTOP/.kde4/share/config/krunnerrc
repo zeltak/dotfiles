@@ -1,0 +1,11 @@
+[EdgePositions]
+Offset=0.5
+
+[General]
+PastQueries=Chromium,Terminator,,w
+
+[Interface]
+Size=420,500
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_chromium.desktop,1 services_terminator.desktop

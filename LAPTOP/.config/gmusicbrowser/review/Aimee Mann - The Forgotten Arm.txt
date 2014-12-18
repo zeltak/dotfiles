@@ -1,0 +1,12 @@
+<amgid>r735909</amgid>
+<author>Stephen Thomas Erlewine</author>
+<genre>Pop/Rock</genre>
+<label>V2 Records</label>
+<mood>Acerbic, Intimate, Searching, Autumnal, Gloomy, Literate, Melancholy, Plaintive, Bittersweet, Detached, Reflective, Sad, Yearning, Cathartic, Wistful</mood>
+<rating>70</rating>
+<review>The prospect of an Aimee Mann concept album concerning an addicted boxer returning from the Vietnam War isn't necessarily enticing, but after the meandering, adrift Lost in Space, a change of pace of any kind is welcome for the acclaimed, gifted, and increasingly predictable singer/songwriter. Mann must have sensed this too, since she not only committed herself to a narrative song cycle, but she cut the record live with a new band under the guidance of producer Joe Henry. The results aren't quite as different as you might expect -- her music is very much in the vein of Bachelor No. 2, right down to the vague carnivalesque overtones associated with Jon Brion -- but the project helped focus Mann both as a writer and a record-maker. The songs on The Forgotten Arm are sharper, stronger, more memorable than those on Lost in Space and the performances are robust and lively. As the record progresses, the songs take on a certain samey quality -- a flaw that's not uncommon to Mann's albums -- but as individual cuts, the songs are quite strong. That is a bit of an oddity for a concept album, but the concept seems like a MacGuffin anyway, a way for her to write some stark songs about addiction and to force discipline upon herself. She had a similar situation with the songs from Magnolia that spilled onto Bachelor No. 2 -- when she had to fit her tunes to the requirements of Paul Thomas Anderson's film, it made for better music. While the music here isn't as good as that on Bachelor, the strict structure does help give The Forgotten Arm direction, helping shape it into one of her more consistent albums. </review>
+<rls_date>May 3, 2005</rls_date>
+<style>Adult Alternative Pop/Rock, Contemporary Pop/Rock, Alternative/Indie Rock</style>
+<theme>Breakup, Heartache, Rainy Day, Reflection, Regret</theme>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/the-forgotten-arm-r735909/review</url>

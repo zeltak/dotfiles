@@ -1,0 +1,9 @@
+//!javascript
+
+signals.connect("tabButtonPress", function(wv, widget, event) {
+    if (event.button == 2)
+        execute((wv.number + 1) + "close_tab");
+    else if (event.button == 3)
+        return true;
+    
+});

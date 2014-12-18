@@ -1,0 +1,13 @@
+<amgid>r15963</amgid>
+<author>Greg Prato</author>
+<genre>Pop/Rock</genre>
+<label>EMI Music Distribution</label>
+<mood>Atmospheric, Aggressive, Bravado, Campy, Confident, Dramatic, Energetic, Fun, Playful, Raucous, Rousing, Rowdy, Swaggering, Elaborate, Exciting</mood>
+<rating>60</rating>
+<review>Unbeknownst to the public, Freddie Mercury had been diagnosed with the AIDS virus in the late '80s. Although his health weakened by the '90s, Mercury insisted that the band work on music until the very end; their final album turned out to be 1991's Innuendo. Although it didn't receive the same critical praise as its predecessor, 1989's The Miracle, it was another strong album and global hit (again going gold in the U.S.). With hindsight, the song's lyrics are blatantly autobiographical from Mercury's standpoint, such as the reflective "These Are the Days of Our Lives" and the bold "The Show Must Go On." Also included are a pair of tracks that deal with mankind's inability to live harmoniously (the superb epic title track and "All God's People") and a humorous tribute to Mercury's beloved pet felines ("Delilah"). Queen's heavier side is represented by both the rock radio hit "Headlong" and "The Hitman," while "I'm Going Slightly Mad," "I Can't Live With You," and "Don't Try So Hard" show the band's pop sensibilities in full force, and on "Bijou," Brian May gets to show off his guitar chops. Innuendo was a fitting way to end one of rock's most successful careers. </review>
+<rls_date>Feb 5, 1991</rls_date>
+<style>Album Rock, Contemporary Pop/Rock, Hard Rock, Art Rock, Arena Rock, Dance-Rock</style>
+<theme>Girls Night Out, Guys Night Out, Mischievous, Playful</theme>
+<time>53:44</time>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/innuendo-r15963/review</url>

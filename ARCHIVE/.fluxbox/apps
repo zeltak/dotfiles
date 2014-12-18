@@ -1,0 +1,311 @@
+#WORKSPACE #1
+#all untagged apps
+
+[app] (name=xfce4-panel)
+ [Sticky] {yes} 
+ [Alpha]	{255 255}
+[end]
+
+
+#WORKSPACE #2 (Terms) 
+
+#terminals
+[app] (name=urxvt) (class=URxvt)
+  [Workspace]	{1}
+  [Dimensions]	{49% 47%}
+  [Position]	(CENTER)	{0 0}
+  [Deco]	{BORDER}
+  [Alpha]	{240 180}
+  [Jump]        {yes}
+[end]
+
+#other terms
+[app] (name=xterm|terminal)
+  [Workspace]	{1}
+  [Deco]	{BORDER}
+[end]
+
+#sticky term
+[app] (name=xfce4-terminal-dropdown)
+  [Workspace]	{1}
+  [Deco]	{BORDER}
+ [end]
+
+[app] (name=tmux_terms)
+ [Workspace]	{1}
+  [Deco]	{BORDER}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	
+  [Maximized] {yes} 
+  [Alpha]	{255 255}
+[end]
+
+
+
+
+#WORKSPACE #3 (browsers)
+
+
+[app] (name=uzbl|opera|firefox|navigator|chromium|Browser|Minefield|Navigator|jumanji|dwb|<unknown>|plugin-container|operapluginwrapper|npviewer.bin)
+  [Workspace]	{2}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	
+  [Maximized] {yes} 
+  [Jump]        {yes}
+[end]
+
+
+[app] (name=Download)
+  [Workspace]	{2}
+  [Dimensions]	{20% 10%}
+  [Position]	(LOWERRIGHT)	{50 50}
+[end]
+
+[app] (name=SessionManager)
+  [Workspace]	{2}
+[end]
+
+
+[app] (name=keepass|keepassx) 
+  [Jump]        {yes}
+  [Workspace]	{2}
+  [Dimensions]	{49% 47%}
+  [Position]	(UPPERLEFT)
+  [Alpha]	{255 255}
+[end]
+
+
+
+#WORKSPACE #4 (multimedia)
+
+[app] (name=music1)
+ [Workspace]	{3}
+  # [Position]	(TopLeft )	{0 0}
+  [Dimensions]	{100% 60%}
+  [Deco]	{BORDER}
+  [Alpha]	{240 180}
+  [Jump]        {yes}
+[end]
+
+[app] (name=music2)
+ [Workspace]	{3}
+  [Dimensions]	{40% 37%}
+  # [Position]	(BottomLeft)	{0 0}
+  [Alpha]	{255 255}
+  [Deco]	{BORDER}
+[end]
+ 
+[app] (name=music3)
+ [Workspace]	{3}
+  [Dimensions]	{30% 37%}
+  # [Position]	(Bottom)	{0 0}
+  [Alpha]	{255 255}
+  [Deco]	{BORDER}
+[end]
+ 
+[app] (name=music4)
+ [Workspace]	{3}
+  [Dimensions]	{30% 37%}
+  [Alpha]	{255 255}
+  # [Position]	(BottomRight)	{0 0}
+  [Deco]	{BORDER}
+[end]
+ 
+
+ 
+ [app] (name=gmpc|cantata)
+ [Workspace]	{3}
+  [Maximized] {yes} 
+[end]
+ 
+[app] (name=htop|tmux_mpd)
+ [Workspace]	{3}
+  [Deco]	{BORDER}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	
+  [Maximized] {yes} 
+  [Alpha]	{240 180}
+
+[end]
+
+
+#WORKSPACE #5 (IM)
+
+[app] (name=okular)
+  [Workspace]	{4}
+  [Maximized] {yes} 
+  [Jump]        {yes}
+[end]
+
+[app] (name=rstudio|Rstudio)
+  [Workspace]	{4}
+  [Jump]        {yes}
+[end]
+
+[app] (name=tmux_office)
+ [Workspace]	{4}
+  [Deco]	{BORDER}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	
+  [Maximized] {yes} 
+  [Alpha]	{255 25a5}
+[end]
+
+
+
+
+#WORKSPACE #6 (FM)
+
+[app] (name=ranger|mc|rmc|worker|xterm|leafpad|morph|worker_term|krusader|krename|spacefm|konsole)
+  [Workspace]	{5}
+  [Maximized] {yes} 
+[end]
+
+
+[app] (name=termfm)
+  [Workspace]	{5}
+  [Dimensions]	{95% 47%}
+  [Position]	(Bottom)	{0 0}
+  [Alpha]	{255 255}
+  [Deco]	{NONE}
+  [Jump]        {yes}
+  [Layer]       {6}
+[end]
+
+[app] (@WM_ICON_NAME=SpaceFM Dialog)
+  [Workspace]	{5}
+  [Alpha]	{255 255}
+  [Jump]        {yes}
+
+[end]
+
+[app] (@WM_ICON_NAME=FileBot)
+  [Workspace]	{5}
+  [Alpha]	{255 255}
+  [Layer]       {6}
+[end]
+
+[app] (name=termfm)
+  [Workspace]	{5}
+  [Dimensions]	{95% 47%}
+  [Position]	(Bottom)	{0 0}
+  [Alpha]	{255 255}
+  [Deco]	{NONE}
+  [Jump]        {yes}
+  [Layer]       {6}
+[end]
+
+
+#WORKSPACE #7 (ssh)
+
+[app] (name=ssh_home)
+ [Workspace]	{6}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	{0 0}
+  [Maximized] {yes} 
+  [Jump]        {yes}
+  [Alpha]	{240 180}
+[end]
+
+
+
+#WORKSPACE #8 (Notecase)
+
+[app] (name=Notecase Pro)
+  [Workspace]	{7}
+  [Position]	(UPPERLEFT)	{0% 3%}
+  [Maximized] {yes} 
+  [Jump]        {yes}
+[end]
+
+
+
+#WORKSPACE #9 (Editor)
+[app] (name=gvim)
+  [Workspace]	{8}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	{0 0}
+  [Maximized] {yes} 
+  [Jump]        {yes}
+[end]
+
+
+#WORKSPACE #10 (Productivity)
+
+[app] (name=task) 
+  [Jump]        {yes}
+  [Workspace]	{9}
+  [Dimensions]	{49% 47%}
+  [Position]	(UPPERRIGHT)
+  [Alpha]	{255 255}
+[end]
+
+[app] (name=pavucontrol) (class=Pavucontrol)
+  [Workspace]	{9}
+  [Dimensions]	{49% 47%}
+  [Position]	(BOTTOMRIGHT)
+  [Alpha]	{255 255}
+[end]
+
+
+
+
+#WORKSPACE #11 (Utils)
+
+
+
+
+[app] (name=htop|tmux_utils)
+ [Workspace]	{10}
+  [Deco]	{BORDER}
+  [Dimensions]	{98% 95%}
+  [Position]	(CENTER)	
+  [Maximized] {yes} 
+  [Alpha]	{255 255}
+[end]
+
+
+
+
+#WORKSPACE #12  (VM/Remote access)
+
+[app] (name=Wine|TeamViewer.exe)
+  [Workspace]	{11}
+  [Jump]        {yes}
+[end]
+
+
+
+
+#WORKSPACE #13   (graphics)
+
+[app] (name=gthumb|Gthumb|Shotwell|shotwell|digikam|Digikam|gimp|inkscape) 
+  [Workspace]	{12}
+  [Maximized] {yes} 
+  [Jump]        {yes}
+[end]
+
+#WORKSPACE #14   (IM)
+
+
+
+[app] (name=skype)
+  [Workspace]	{13}
+  [Dimensions]	{30% 95%}
+  [Position]	(Right)	{0 0}
+[end]
+
+#stikcy apps
+
+[app] (name=wrapper|gcolor2|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|exe|<unknown>|plugin-container|synapse|xfce4-panel|spad)
+  [Sticky] {yes} 
+  [Jump]        {yes}
+  [Alpha]	{255 255}
+[end]
+
+
+#############ALL UNTAGGED APPS##################
+
+[app] (name=.*)
+  [Workspace]	{0}
+[end]

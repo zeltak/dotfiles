@@ -1,0 +1,73 @@
+[options]
+resize_grip = false
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+visible_bell = false
+mouse_autohide = false
+allow_bold = false
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = Pragmata Pro 12
+#font = Envy Code R 10
+scrollback_lines = 1000
+search_wrap = true
+#icon_name = terminal
+#geometry = 640x480
+
+# $BROWSER is used by default
+browser = chromium
+
+# 0.0: opaque, 1.0: transparent
+transparency = 0.0
+pseudo_transparency = false
+
+# "system", "on" or "off"
+cursor_blink = on
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# word characters used for word selection
+# (default if unset: all graphic non-punctuation/space characters)
+#word_chars = -A-Za-z0-9,./?%&#:_=+@~
+
+[colors]
+foreground = #a0a0a0
+foreground_bold = #a0a0a0
+foreground_dim = #a0a0a0
+background = #121212
+cursor = #0087D7
+
+# if unset, will reverse foreground and background
+highlight = #FD971F
+
+# colors from color0 to color254 can be set
+color0 = #1B1D1E
+color8 = #505354
+color1 = #F92672
+color9 = #FF5995
+color2 = #82B414
+color10 = #B6E354
+color3 = #FD971F
+color11 = #FEED6C
+color4 = #4E82AA
+color12 = #0C73C2
+color5 = #8C54FE
+color13 = #9E6FFE
+color6 = #465457
+color14 = #899CA1
+color7 = #CCCCC6
+color15 = #F8F8F2
+
+[hints]
+font = font = Envy Code R 13
+foreground = #ffffff
+background = #0087D7
+padding = 2
+border = #000000
+border_width = 0.5
+roundness = 2.0
+
+# vim: ft=dosini

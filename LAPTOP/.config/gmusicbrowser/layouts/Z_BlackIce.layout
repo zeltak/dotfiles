@@ -1,0 +1,239 @@
+[Z_BlackIce]
+Type=G+
+Title       = "gmusicbrowser" 
+Category    = "Zeltak"
+DefaultFocus    = SimpleSearch
+#VolumeScroll    = HBVolume VBVolume
+Default     = Window(size=1280x800)
+Author      = Zeltak
+KeyBindings = c-l SetFocusOn(PluginLyrics) c-o SetPlayerLayout(Z_Editor) c-j SetFocusOn(FilterPane1)\
+c-c SetFocusOn(VPcov)
+
+Skin            = grey02.png::s
+
+
+#MAIN CONTAINER       
+HBMainFrame =  _VBMain 
+
+# LEFT SIDE CONTAINER
+VBMain = VBTop TimeBar _HPMain  VBbot
+
+
+
+
+
+
+
+###################
+###################
+#VBTop -THE TOP PART OF THE PLAYER- ALL THE BUTTONS, TITLES PREF ETC
+###################
+###################
+
+
+
+
+## LEFT SIDE CONTAINER TOP BAR
+    VBTop   = HBTop
+      
+#TOP BAR = COVER   TITLE AND PLAYER   BUTTONS&RATINGS         MENU                 NEXT/PREV SONG 
+ HBTop=  ABButtons 180_HBTitle HBind   -Stars 
+
+        ABButtons = (yalign=0,yscale=0.0) HBButtons
+        HBButtons       = Prev Play Next(click2=NextAlbum)
+             
+        HBind=\
+        Sort2 2Filter(stock="gmb-filter",size=small-toolbar,with_text=1)\
+        3Queue(stock="noqueue:gmb-qn" "queue:gmb-qy",size=small-toolbar, click3=ClearQueue)\
+        ChooseRandAlbum(action=queue,stock=gmb-random-album,size=small-toolbar)
+
+           
+      
+        HBTitle=\
+        (expand_max=500)\
+        Button32(stock=gmb-song,size=small-toolbar)\
+        3Title(minwidth=120,markup="%t") \
+        LockAlbum(stock="on:gmb-album-lock gmb-lockopen off:gmb-album gmb-locklight") \
+        3Album(minwidth=120,markup="%l",showcover=0) \
+        LockArtist(stock="on:gmb-artist-lock gmb-lockopen off:gmb-artist gmb-locklight") \
+        3Artist(minwidth=120,markup="%a")\ 
+        Button31(stock=gmb-time,size=small-toolbar)\
+        LabelTime Length
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+        
+###################
+#HBMAIN- THE BODY OF THE PLAYER (HPMain)
+###################
+
+        #LEFT SIDE   #RIGHT SIDE
+HPMain=  NBleft HPmiddle_and_right
+HPmiddle_and_right= NBmiddle VPSidebar2
+
+
+
+
+
+############################
+# NBleft
+############################
+
+#the left pain "tabs"
+#name   item 1 item 2     item3 
+NBleft = (hidetabs=1) VPfp PluginLyrics  HPfpmosiac VPfplibrary VPfpgen VPfpfolder VPfpque VPfpstatic VPfptime
+
+
+VPfp= HPfilterpanes _VBleft_songtree
+VBleft_songtree= HBleft_bar _SongTree1
+HPfilterpanes= FilterPane1(nb=1,pages=artist,hidebb=1) FilterPane2(nb=2,pages=album,hidebb=1)
+# just a few example buttons :
+HBleft_bar= FilterLock9 Refresh9 PlayFilter9  _SimpleSearch9
+
+
+
+
+HPfpmosiac=FilterPane3(nb=1,pages=album,hidebb=1)
+
+
+VPfplibrary=HPfilterpanes9 _VBleft_songtree9
+VBleft_songtree9= HBleft_bar9 _SongTree19
+HPfilterpanes9= FilterPane19(nb=1,pages=artist,hidebb=1) FilterPane29(nb=2,pages=album,hidebb=1)
+# just a few example buttons :
+HBleft_bar9= FilterLock8 Refresh8 PlayFilter8  _SimpleSearch8
+
+
+
+
+
+VPfpgen=HPfilterpanes923 _VBleft_songtree923
+VBleft_songtree923= HBleft_bar923 _SongTree1923
+HPfilterpanes923= FilterPane1923(nb=1,pages=artist,hidebb=1) FilterPane2923(nb=2,pages=album,hidebb=1)
+# just a few example buttons :
+HBleft_bar923= FilterLock7 Refresh7 PlayFilter7  _SimpleSearch7
+
+
+
+
+
+
+
+
+VPfpfolder= FilterPane32(nb=1,pages=filesys,hidebb=1) 
+
+
+VPfpque=HPfilterpanes924 _VBleft_songtree924
+VBleft_songtree924= HBleft_bar924 _SongTree1924
+HPfilterpanes924= FilterPane1924(nb=1,pages=artist,hidebb=1) FilterPane2924(nb=2,pages=album,hidebb=1)
+# just a few example buttons :
+HBleft_bar924= FilterLock6 Refresh6 PlayFilter6  _SimpleSearch6
+
+
+
+
+
+
+VPfpstatic=  TabbedLists
+
+
+VPfptime=HPfilterpanes92 _VBleft_songtree92
+VBleft_songtree92= HBleft_bar92 _SongTree192
+HPfilterpanes92= FilterPane192(nb=1,hidebb=1) FilterPane292(nb=2,hidebb=1)
+# just a few example buttons :
+HBleft_bar92= FilterLock5 Refresh5 PlayFilter5  _SimpleSearch5
+
+
+
+
+
+############################
+# Middle
+############################
+
+#the left pain "tabs"
+#name   item 1 item 2     item3 
+NBmiddle= (hidetabs=1) VPcov HistoryStats PluginAlbuminfo PluginArtistinfo Context
+
+
+VPcov= _Cover(minsize=10,click3=RunPerlCode(::ChooseAAPicture))  _ArtistPic(minsize=10,click3=RunPerlCode(::GetPicture))
+
+
+
+
+                        
+############################
+# Right
+############################
+
+VPSidebar2= _VBSongtree QueueList2(songtree=1)
+ VBSongtree =  _SongTree2(activate2=addplay, songypad=1, group=Play:artist)  HBright_bar
+
+
+
+
+
+        
+## BOTTOM STATUS BAR
+VBbot   = HBbot
+
+        HBbot=     HBToggle  350HBToggle_mid -HBupper -Pref(icon=gtk-preferences,size=small-toolbar)  -Fullscreen(stock=gtk-fullscreen,size=small-toolbar) -Button33(stock=gmb-layout-switch,size=small-toolbar,click1=SetPlayerLayout(Z_Editor))  -BMSettings  
+
+        #left  pane
+        
+        HBToggle        = \
+
+        Button1(stock=gmb-eye,size=small-toolbar,activate=SetFocusOn(VPfp))\
+        Button2(stock=gmb-lyrics,size=small-toolbar,activate=SetFocusOn(PluginLyrics))\
+        Button3(stock=gmb-mosaic,size=small-toolbar,activate=SetFocusOn(HPfpmosiac))\
+        Button4(stock=gmb-mlib,size=small-toolbar,activate=SetFocusOn(VPfplibrary))\
+        Button10(stock=gmb-genre,size=small-toolbar,activate=SetFocusOn(VPfpgen))\
+        Button11(stock=gmb-home,size=small-toolbar,activate=SetFocusOn(VPfpfolder))\
+        Button17(stock=gmb-qn,size=small-toolbar,activate=SetFocusOn(VPfpque))
+        Button18(stock=gmb-playlist,size=small-toolbar,activate=SetFocusOn(VPfpstatic))
+        Button19(stock=gmb-time,size=small-toolbar,activate=SetFocusOn(VPfptime))
+
+
+
+        #middle pane
+        HBToggle_mid =\
+
+        Button5(stock=gmb-picture,size=small-toolbar,activate=SetFocusOn(VPcov))\
+        Button6(stock=gmb-info-stat,size=small-toolbar,activate=SetFocusOn(HistoryStats))\
+        Button7(stock=gmb-info-album,size=small-toolbar,activate=SetFocusOn(PluginAlbuminfo))\
+        Button8(stock=gmb-info-artist,size=small-toolbar,activate=SetFocusOn(PluginArtistinfo))\
+        Button9(stock=gmb-globe,size=small-toolbar,activate=SetFocusOn(Context))
+
+ 
+        
+                BMSettings = (icon=gmb-menu,size=small-toolbar) \
+                SMLibrary \
+                LayoutItem \
+                PlayItem \
+                HistItem \
+                LSortItem \
+                SeparatorMenuItem02 \
+                MenuItem03(click1=OpenCustom(Equalizer),label=_"Equalizer",icon=gmb-equalizer) \
+                SeparatorMenuItem03 \
+                MenuItem04(command=OpenPref,label=_"Settings",icon="gtk-preferences")
+                SMLibrary = (label=_"Library") \
+                MenuItem10(command="RunPerlCode(::ChooseAddPath(0,1))",label=_"Add Music",icon="gtk-add") \
+                MenuItem11(command="RunPerlCode(::IdleScan)",label=_"Scan Collection",icon="gtk-refresh") \
+                MenuItem12(command="RunPerlCode(::IdleCheck)",label=_"Check Collection",icon="gtk-zoom-in")
+
+                
+                #volume bar needs work  
+                HBupper       = _Vol VolSlider 
+        
+
+

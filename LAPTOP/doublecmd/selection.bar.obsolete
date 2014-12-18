@@ -1,0 +1,23 @@
+[Buttonbar]
+Buttoncount=7
+button1=/home/zeltak/MLT/programs/dc/Icons/mark_all.png
+cmd1=cm_MarkPlus
+menu1=Select a Group...
+button2=/home/zeltak/MLT/programs/dc/Icons/unselect_group.png
+cmd2=cm_MarkMinus
+menu2=Unselect a Group...
+button3=/home/zeltak/MLT/programs/dc/Icons/select_all.png
+cmd3=cm_MarkMarkAll
+menu3=Select All
+button4=/home/zeltak/MLT/programs/dc/Icons/unselect_all.png
+cmd4=cm_MarkUnmarkAll
+menu4=Unselect All
+button5=/home/zeltak/MLT/programs/dc/Icons/select_reverse.png
+cmd5=cm_MarkInvert
+menu5=Invert Selection
+button6=/home/zeltak/MLT/programs/dc/Icons/select_group.png
+cmd6=cm_MarkCurrentExtension
+menu6=Select All with the Same Extension
+button7=/home/zeltak/MLT/programs/dc/Icons/unselect_group.png
+cmd7=cm_UnmarkCurrentExtension
+menu7=Unselect All with the Same Extension

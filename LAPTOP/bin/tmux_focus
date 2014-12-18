@@ -1,0 +1,4 @@
+#!/bin/sh
+while :; do sleep 60; tmux select-window -t tmux_mpd:1 \; selectp -t tmux_mpd:1.1; done &
+
+while :; do sleep 160; tmux select-window -t tmux_office:1; done

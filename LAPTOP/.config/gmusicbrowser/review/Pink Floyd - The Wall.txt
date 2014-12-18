@@ -1,0 +1,12 @@
+<amgid>r2297998</amgid>
+<author></author>
+<genre>Pop/Rock</genre>
+<label>EMI Music Distribution</label>
+<mood>Acerbic, Angry, Bitter, Brooding, Cynical/Sarcastic, Epic, Ominous, Theatrical, Aggressive, Angst-Ridden, Atmospheric, Autumnal, Bittersweet, Bleak, Confrontational, Detached, Dramatic, Druggy, Eerie, Gloomy</mood>
+<rating>90</rating>
+<review></review>
+<rls_date>Nov 30, 1979</rls_date>
+<style>Album Rock, Prog-Rock, Art Rock, Hard Rock</style>
+<theme>Jealousy, School, The Creative Side, Reflection, Late Night, Feeling Blue, Introspection, Loss/Grief, Regret</theme>
+<time>80:46</time>
+<url>http://allmusic.com/album/the-wall-r2297998/review</url>

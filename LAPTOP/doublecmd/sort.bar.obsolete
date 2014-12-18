@@ -1,0 +1,17 @@
+[Buttonbar]
+Buttoncount=5
+button1=/home/zeltak/MLT/programs/dc/Icons/sort_name.png
+cmd1=cm_SortByName
+menu1=Sort by Name
+button2=/home/zeltak/MLT/programs/dc/Icons/sort_date.png
+cmd2=cm_SortByDate
+menu2=Sort by Date
+button3=/home/zeltak/MLT/programs/dc/Icons/sort_extension.png
+cmd3=cm_SortByExt
+menu3=Sort by Extension
+button4=/home/zeltak/MLT/programs/dc/Icons/sort_size.png
+cmd4=cm_SortBySize
+menu4=Sort by Size
+button5=/home/zeltak/MLT/programs/dc/Icons/refresh.png
+cmd5=cm_ReverseOrder
+menu5=Reverse Order

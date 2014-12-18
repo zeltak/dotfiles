@@ -1,0 +1,10 @@
+[$Version]
+update_info=okular.upd:sep_settings
+
+[Main View]
+ShowLeftPanel=false
+SplitterSizes=90,1409
+
+[PageView]
+MouseMode=TextSelect
+ViewContinuous=false

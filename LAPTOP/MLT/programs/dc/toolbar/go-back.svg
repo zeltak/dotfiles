@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/lapo/Icone/cvs/gnome-icon-theme/scalable/actions"
+   sodipodi:docname="go-back.svg"
+   inkscape:export-filename="/home/jimmac/src/cvs/gnome/gnome-icon-theme/16x16/actions/go-previous.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9712">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop9714" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0;"
+         offset="1"
+         id="stop9716" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9712"
+       id="linearGradient9718"
+       x1="24.499399"
+       y1="8.5"
+       x2="24.544201"
+       y2="35.526161"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666"
+     borderopacity="0.17254902"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="24.209803"
+     inkscape:cy="28.759595"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     inkscape:window-width="808"
+     inkscape:window-height="722"
+     inkscape:window-x="442"
+     inkscape:window-y="50" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Go previous</dc:title>
+        <dc:date>August 2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:source>http://www.gnome.org</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>previous</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>go</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;color:black;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999958000000000;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 24.504161,9.4999998 L 5.5000172,26.006024 L 24.504161,42.429315 L 24.504161,34.55948 L 39.5,34.55948 L 39.5,17.504348 L 24.504161,17.504348 L 24.504161,9.4999998 z "
+       id="path4348"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:url(#XMLID_6_)"
+       d="M -127.30849,-50.556882 C -129.51449,-50.556882 -131.30849,-48.762882 -131.30849,-46.556882 L -131.30849,65.443118 C -131.30849,67.648118 -129.51449,69.443118 -127.30849,69.443118 L -15.30249,69.443118 C -13.09749,69.443118 -11.30249,67.648118 -11.30249,65.443118 L -11.30249,-46.556882 C -11.30249,-48.762882 -13.09749,-50.556882 -15.30249,-50.556882 L -127.30849,-50.556882 z"
+       id="path9618" />
+    <path
+       style="fill:url(#XMLID_7_)"
+       d="M -12.30249,65.443118 C -12.30249,67.093118 -13.65249,68.443118 -15.30249,68.443118 L -127.30849,68.443118 C -128.95849,68.443118 -130.30849,67.093118 -130.30849,65.443118 L -130.30849,-46.556882 C -130.30849,-48.206882 -128.95849,-49.556882 -127.30849,-49.556882 L -15.30249,-49.556882 C -13.65249,-49.556882 -12.30249,-48.206882 -12.30249,-46.556882 L -12.30249,65.443118 z"
+       id="path9625" />
+    <path
+       style="fill:url(#XMLID_8_)"
+       d="M -13.30249,-48.773882 L -13.30249,65.043118 C -13.30249,66.693118 -14.65249,67.442118 -16.30249,67.442118 L -126.30849,67.442118 C -127.95949,67.442118 -129.30849,67.360118 -129.30849,64.642118 L -129.30849,-48.773882 C -129.91749,-48.223882 -130.30849,-47.436882 -130.30849,-46.556882 L -130.30849,65.443118 C -130.30849,67.093118 -128.95849,68.443118 -127.30849,68.443118 L -15.30249,68.443118 C -13.65249,68.443118 -12.30249,67.093118 -12.30249,65.443118 L -12.30249,-46.556882 C -12.30249,-47.436882 -12.69349,-48.223882 -13.30249,-48.773882 z"
+       id="path9638" />
+    <path
+       sodipodi:nodetypes="csssccc"
+       id="path9702"
+       d="M 25.000489,8.4999998 L 4.625017,25.996384 C 4.5521405,26.058963 10.948122,31.473663 11.097801,31.270589 C 17.409846,22.70688 32.093012,21.502081 39.657514,21.748271 C 40.161416,21.764671 39.782514,17.048992 39.782514,17.048992 L 25.000489,16.923992 L 25.000489,8.4999998 z"
+       style="opacity:1;fill:url(#linearGradient9718);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999958000000000;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+  </g>
+</svg>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/dobey/Projects/gnome-icon-theme/scalable/actions"
+   sodipodi:docname="gtk-justify-left.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/lapo/Desktop/format-text.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3257">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3259" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3261" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3257"
+       id="linearGradient3263"
+       x1="18"
+       y1="3.5"
+       x2="17.75"
+       y2="43.328125"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8c86cb"
+     bordercolor="#afafaf"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="34.460681"
+     inkscape:cy="27.956253"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1023"
+     inkscape:window-height="749"
+     inkscape:window-x="77"
+     inkscape:window-y="24"
+     showgrid="false"
+     showborder="true"
+     showguides="false"
+     inkscape:guide-bbox="false"
+     inkscape:grid-points="true"
+     inkscape:grid-bbox="false">
+    <sodipodi:guide
+       orientation="vertical"
+       position="10"
+       id="guide3217" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="39.125"
+       id="guide3219" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="23.997436"
+       id="guide3221" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="4.125"
+       id="guide3544" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="5"
+       id="guide4317" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="3"
+       id="guide4887" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="44.989669"
+       id="guide4889" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="28"
+       id="guide3281" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="24.96875"
+       id="guide3361" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="20.948038"
+       id="guide3363" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="9"
+       id="guide4351" />
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display: inline;">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4968"
+       width="24"
+       height="3"
+       x="3.5"
+       y="3.5"
+       rx="1.5045455"
+       ry="1.25" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4970"
+       width="39"
+       height="3"
+       x="3.5"
+       y="10.5"
+       rx="1.5045455"
+       ry="1.4732955" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4972"
+       width="30"
+       height="3"
+       x="3.5"
+       y="17.5"
+       rx="1.5045455"
+       ry="1.25" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4974"
+       width="34"
+       height="3"
+       x="3.5"
+       y="24.5"
+       rx="1.5045455"
+       ry="1.25" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="rect4976"
+       width="17"
+       height="3"
+       x="3.5"
+       y="31.5"
+       rx="1.5045455"
+       ry="1.25" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 39.5,39.5 L 6.5,39.5 L 6.5,37.5 L 2.5,41 L 6.5,44.5 L 6.5,42.5 L 39.5,42.5"
+       id="path4988"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:url(#linearGradient3263);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 5,3.5 C 4.166482,3.5 3.5,4.0575 3.5,4.75 L 3.5,5.25 C 3.5,5.9425 4.16648,6.5 5,6.5 L 26,6.5 C 26.833518,6.5 27.5,5.9425 27.5,5.25 L 27.5,4.75 C 27.5,4.0575 26.833518,3.5 26,3.5 L 5,3.5 z M 5,10.5 C 4.166482,10.5 3.5,11.152545 3.5,11.96875 L 3.5,12.03125 C 3.5,12.847456 4.16648,13.5 5,13.5 L 23.0625,13.5 C 24.390561,12.444954 25.763833,11.447717 27.1875,10.5 L 5,10.5 z M 5,17.5 C 4.166482,17.5 3.5,18.0575 3.5,18.75 L 3.5,19.25 C 3.5,19.9425 4.16648,20.5 5,20.5 L 15.625,20.5 C 16.561661,19.457822 17.535019,18.46855 18.53125,17.5 L 5,17.5 z M 5,24.5 C 4.166482,24.5 3.5,25.0575 3.5,25.75 L 3.5,26.25 C 3.5,26.9425 4.16648,27.5 5,27.5 L 10.125,27.5 C 10.828613,26.46925 11.567504,25.475095 12.3125,24.5 L 5,24.5 z M 5,31.5 C 4.166482,31.5 3.5,32.0575 3.5,32.75 L 3.5,33.25 C 3.5,33.9425 4.16648,34.5 5,34.5 L 5.90625,34.5 C 6.456468,33.476598 7.012692,32.47861 7.59375,31.5 L 5,31.5 z M 2.90625,40.65625 L 2.5,41 L 2.6875,41.15625 C 2.76123,40.987646 2.831861,40.823816 2.90625,40.65625 z"
+       id="rect3240" />
+  </g>
+</svg>

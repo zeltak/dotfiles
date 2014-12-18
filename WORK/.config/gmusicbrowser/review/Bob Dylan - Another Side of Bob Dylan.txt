@@ -1,0 +1,13 @@
+<amgid>r6412</amgid>
+<author></author>
+<genre>Pop/Rock</genre>
+<label>Columbia</label>
+<mood>Literate, Reflective, Bittersweet, Poignant, Freewheeling, Intimate, Playful, Searching, Wistful, Wry, Yearning</mood>
+<rating>100</rating>
+<review></review>
+<rls_date>Aug 8, 1964</rls_date>
+<style>Contemporary Folk, Folk-Rock, Psychedelic, Singer/Songwriter, Folk Revival</style>
+<theme>Autumn, Introspection, Late Night, Reflection, Road Trip</theme>
+<time>50:44</time>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/another-side-of-bob-dylan-r6412/review</url>

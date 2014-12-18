@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# This script calls 'task ready' continuously every 3 seconds as long as
+# it is running, so that you can see your currently doable tasks always.
+
+while :; do
+	clear
+	task long pro:uni
+	sleep 15
+done

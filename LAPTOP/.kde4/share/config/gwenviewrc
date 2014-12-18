@@ -1,0 +1,11 @@
+[MainWindow]
+Height 900=854
+State=AAAA/wAAAAD9AAAAAAAABjAAAAMZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1584
+
+[SideBar-BrowseMode]
+IsVisible=true
+
+[SideBar-ViewMode]
+IsVisible=true

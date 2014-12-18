@@ -1,0 +1,55 @@
+[txt]
+Name=txt
+Icon=/home/zeltak/MLT/programs/dc/Mimes/txt.png
+Open={!SHELL} nano  %f
+
+[iso]
+Name=iso
+Icon=/home/zeltak/MLT/programs/dc/Mimes/iso.png
+Open=smplayer '%p'
+
+[pdf]
+Name=pdf
+Icon=/home/zeltak/MLT/programs/dc/Mimes/application-pdf.png
+View=okular '%p'
+Edit=inkscape %f
+
+[torrent]
+Name=torrent
+Icon=/home/zeltak/MLT/programs/dc/Mimes/torrent.png
+[exe]
+Name=exe
+Icon=/home/zeltak/MLT/programs/dc/Mimes/win_exe.png
+
+[zip]
+Name=zip
+View=peazip -ext2folder '%p'
+
+[avi]
+Name=Video-Avi
+Icon=/home/zeltak/MLT/programs/dc/Mimes/video-x-generic-avi.png
+Open=smplayer %f
+View=smplayer -add-to-playlist %f
+
+[doc|docx]
+Name=doc
+Icon=/home/zeltak/MLT/programs/dc/Mimes/application-word.png
+
+[xls|xlsx]
+Name=xls
+Icon=/home/zeltak/MLT/programs/dc/Mimes/application-spreadsheet.png
+
+[xml]
+Name=xml
+Icon=/home/zeltak/MLT/programs/dc/Mimes/xml.png
+
+[.desktop]
+Name=.desktop
+Icon=/home/zeltak/MLT/programs/dc/Mimes/dot_Desktop.png
+
+[mp3|m3u]
+Name=mp3
+Icon=/home/zeltak/MLT/programs/dc/Mimes/audio-x-generic_mp3.png
+Open=smplayer %f
+View=mpg123 -n750 %f
+

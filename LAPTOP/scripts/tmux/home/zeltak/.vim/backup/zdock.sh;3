@@ -1,0 +1,13 @@
+#!/bin/sh
+tmux -2  new-session -d  -s zdock_main
+tmux new-window -t zdock_main:1 -n 'term' 'bash'
+tmux new-window -t zdock_main:2 -n 'weechat' 'weechat-curses'
+tmux select-layout tiled -t zdock_main:3 -n 'DL'
+tmux new-window -t zdock_main:4 -n 'pyload' 'PyLoadCore && PyLoadCli'
+tmux new-window -t zdock_main:4 -n 'FM' 'ranger'
+tmux new-window -t zdock_main:4 -n 'term2' '#!/bin/bash '
+tmux select-window -t zdock_main:2
+tmux -2 attach-session -t zdock_main
+~
+~
+

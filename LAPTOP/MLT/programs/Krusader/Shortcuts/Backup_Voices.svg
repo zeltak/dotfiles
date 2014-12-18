@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg7115"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Backup_Marvin.svg">
+  <defs
+     id="defs7117">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7123" />
+    <inkscape:perspective
+       id="perspective7133"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       r="57.578693"
+       fy="-44.736084"
+       fx="81.822357"
+       cy="-44.736084"
+       cx="81.822357"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient6556"
+       xlink:href="#linearGradient4065-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4065-7">
+      <stop
+         style="stop-color:#dac794;stop-opacity:0.62790698;"
+         offset="0"
+         id="stop4067-3" />
+      <stop
+         style="stop-color:#dac794;stop-opacity:1;"
+         offset="1"
+         id="stop4069-38" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4065-7"
+       id="linearGradient7676"
+       x1="24.243664"
+       y1="-44.736084"
+       x2="139.40105"
+       y2="-44.736084"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective4593"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="51.673"
+       y="101.32"
+       width="30.748"
+       height="25.85"
+       id="SVGID_15_-7">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_5_-8)"
+         id="g407-1">
+        <ellipse
+           style="fill:#f2f2f2"
+           sodipodi:ry="12.925"
+           sodipodi:rx="15.374"
+           sodipodi:cy="114.245"
+           sodipodi:cx="67.046997"
+           cx="67.046997"
+           cy="114.245"
+           rx="15.374"
+           ry="12.925"
+           id="ellipse409-5" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_5_-8"
+       filterUnits="userSpaceOnUse"
+       x="51.673"
+       y="101.32"
+       width="30.747999"
+       height="25.85">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix404-8" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="56.885"
+       y="104.951"
+       width="4.85"
+       height="4.823"
+       id="SVGID_17_-4">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_6_-4)"
+         id="g428-5">
+        <radialGradient
+           id="SVGID_18_-6"
+           cx="59.310501"
+           cy="107.3623"
+           r="3.4491999"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             style="stop-color:#FFFFFF"
+             id="stop431-5" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop433-6" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_18_-6)"
+           sodipodi:ry="3.441"
+           sodipodi:rx="3.4590001"
+           sodipodi:cy="107.361"
+           sodipodi:cx="59.310001"
+           cx="59.310001"
+           cy="107.361"
+           rx="3.4590001"
+           ry="3.441"
+           id="ellipse435-8" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_6_-4"
+       filterUnits="userSpaceOnUse"
+       x="56.884998"
+       y="104.951"
+       width="4.8499999"
+       height="4.823">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix425-8" />
+    </filter>
+    <radialGradient
+       id="radialGradient4610"
+       cx="59.310501"
+       cy="107.3623"
+       r="3.4491999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop4612" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop4614" />
+    </radialGradient>
+    <inkscape:perspective
+       id="perspective4594"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient88469"
+       id="linearGradient5469"
+       gradientUnits="userSpaceOnUse"
+       x1="42.057114"
+       y1="660.73846"
+       x2="133.98099"
+       y2="692.55829" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient88469">
+      <stop
+         style="stop-color:#d2b978;stop-opacity:1;"
+         offset="0"
+         id="stop88471" />
+      <stop
+         style="stop-color:#d2b978;stop-opacity:0;"
+         offset="1"
+         id="stop88473" />
+    </linearGradient>
+    <radialGradient
+       id="SVGID_14_-2"
+       cx="67.816399"
+       cy="102.7705"
+       r="39.471401"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#0096D9"
+         id="stop395-1" />
+      <stop
+         offset="1"
+         style="stop-color:#A3DEF9"
+         id="stop397-7" />
+    </radialGradient>
+    <radialGradient
+       id="SVGID_16_-7"
+       cx="66.640099"
+       cy="77.082497"
+       r="33.3368"
+       gradientTransform="matrix(1,0,0,0.8407,0,63.7269)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#A3DEF9"
+         id="stop412-9" />
+      <stop
+         offset="0.489"
+         style="stop-color:#0098DA"
+         id="stop414-7" />
+      <stop
+         offset="0.533"
+         style="stop-color:#0096D9"
+         id="stop416-6" />
+      <stop
+         offset="1"
+         style="stop-color:#A3DEF9"
+         id="stop418-2" />
+    </radialGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="51.673"
+       y="101.32"
+       width="30.748"
+       height="25.85"
+       id="SVGID_15_-7-1">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_5_-8-1)"
+         id="g407-1-0">
+        <ellipse
+           style="fill:#f2f2f2"
+           sodipodi:ry="12.925"
+           sodipodi:rx="15.374"
+           sodipodi:cy="114.245"
+           sodipodi:cx="67.046997"
+           cx="67.046997"
+           cy="114.245"
+           rx="15.374"
+           ry="12.925"
+           id="ellipse409-5-6" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_5_-8-1"
+       filterUnits="userSpaceOnUse"
+       x="51.673"
+       y="101.32"
+       width="30.747999"
+       height="25.85">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix404-8-5" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="56.885"
+       y="104.951"
+       width="4.85"
+       height="4.823"
+       id="SVGID_17_-4-9">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_6_-4-7)"
+         id="g428-5-4">
+        <radialGradient
+           id="SVGID_18_-6-9"
+           cx="59.310501"
+           cy="107.3623"
+           r="3.4491999"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             style="stop-color:#FFFFFF"
+             id="stop431-5-0" />
+          <stop
+             offset="1"
+             style="stop-color:#000000"
+             id="stop433-6-9" />
+        </radialGradient>
+        <ellipse
+           style="fill:url(#SVGID_18_-6-9)"
+           sodipodi:ry="3.441"
+           sodipodi:rx="3.4590001"
+           sodipodi:cy="107.361"
+           sodipodi:cx="59.310001"
+           cx="59.310001"
+           cy="107.361"
+           rx="3.4590001"
+           ry="3.441"
+           id="ellipse435-8-1" />
+      </g>
+    </mask>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="Adobe_OpacityMaskFilter_6_-4-7"
+       filterUnits="userSpaceOnUse"
+       x="56.884998"
+       y="104.951"
+       width="4.8499999"
+       height="4.823">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         id="feColorMatrix425-8-7" />
+    </filter>
+    <radialGradient
+       id="radialGradient4623"
+       cx="59.310501"
+       cy="107.3623"
+       r="3.4491999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop4625" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop4627" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="35.748377"
+     inkscape:cy="77.142857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="994"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7120">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36218)">
+    <path
+       transform="matrix(1.0749636,0,0,1.0749636,-23.956056,1036.4518)"
+       d="m 139.40105,-44.736084 c 0,31.799834 -25.77886,57.578693 -57.578693,57.578693 -31.799834,0 -57.578693,-25.778859 -57.578693,-57.578693 0,-31.799834 25.778859,-57.578696 57.578693,-57.578696 31.799833,0 57.578693,25.778862 57.578693,57.578696 z"
+       sodipodi:ry="57.578693"
+       sodipodi:rx="57.578693"
+       sodipodi:cy="-44.736084"
+       sodipodi:cx="81.822357"
+       id="path3291"
+       style="fill:url(#linearGradient7676);fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       id="g392"
+       transform="matrix(1.8253704,0,0,1.8253704,-59.789323,762.02533)"
+       style="fill:#ff2a2a;fill-opacity:1">
+      <radialGradient
+         id="radialGradient25420"
+         cx="67.816399"
+         cy="102.7705"
+         r="39.471401"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           style="stop-color:#0096D9"
+           id="stop25422" />
+        <stop
+           offset="1"
+           style="stop-color:#A3DEF9"
+           id="stop25424" />
+      </radialGradient>
+      <defs
+         id="defs401">
+        <filter
+           color-interpolation-filters="sRGB"
+           id="filter25428"
+           filterUnits="userSpaceOnUse"
+           x="51.673"
+           y="101.32"
+           width="30.747999"
+           height="25.85">
+          <feColorMatrix
+             type="matrix"
+             values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+             id="feColorMatrix25430" />
+        </filter>
+      </defs>
+      <mask
+         maskUnits="userSpaceOnUse"
+         x="51.673"
+         y="101.32"
+         width="30.748"
+         height="25.85"
+         id="mask25432">
+        <g
+           style="filter:url(#Adobe_OpacityMaskFilter_5_-8)"
+           id="g25434">
+          <ellipse
+             d="m 82.420997,114.245 c 0,7.13828 -6.883174,12.925 -15.374,12.925 -8.490825,0 -15.374,-5.78672 -15.374,-12.925 0,-7.13828 6.883175,-12.925 15.374,-12.925 8.490826,0 15.374,5.78672 15.374,12.925 z"
+             style="fill:#f2f2f2"
+             sodipodi:ry="12.925"
+             sodipodi:rx="15.374"
+             sodipodi:cy="114.245"
+             sodipodi:cx="67.046997"
+             cx="67.046997"
+             cy="114.245"
+             rx="15.374"
+             ry="12.925"
+             id="ellipse25436" />
+        </g>
+      </mask>
+      <radialGradient
+         id="radialGradient25438"
+         cx="66.640099"
+         cy="77.082497"
+         r="33.3368"
+         gradientTransform="matrix(1,0,0,0.8407,0,63.7269)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           style="stop-color:#A3DEF9"
+           id="stop25440" />
+        <stop
+           offset="0.489"
+           style="stop-color:#0098DA"
+           id="stop25442" />
+        <stop
+           offset="0.533"
+           style="stop-color:#0096D9"
+           id="stop25444" />
+        <stop
+           offset="1"
+           style="stop-color:#A3DEF9"
+           id="stop25446" />
+      </radialGradient>
+      <ellipse
+         d="m 82.420997,114.245 c 0,7.13828 -6.883174,12.925 -15.374,12.925 -8.490825,0 -15.374,-5.78672 -15.374,-12.925 0,-7.13828 6.883175,-12.925 15.374,-12.925 8.490826,0 15.374,5.78672 15.374,12.925 z"
+         style="fill:#ff2a2a"
+         sodipodi:ry="12.925"
+         sodipodi:rx="15.374"
+         sodipodi:cy="114.245"
+         sodipodi:cx="67.046997"
+         mask="url(#SVGID_15_-7)"
+         cx="67.046997"
+         cy="114.245"
+         rx="15.374"
+         ry="12.925"
+         id="ellipse420"
+         transform="translate(-77.283727,-13.108885)" />
+      <defs
+         id="defs422">
+        <filter
+           color-interpolation-filters="sRGB"
+           id="filter25450"
+           filterUnits="userSpaceOnUse"
+           x="56.884998"
+           y="104.951"
+           width="4.8499999"
+           height="4.823">
+          <feColorMatrix
+             type="matrix"
+             values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+             id="feColorMatrix25452" />
+        </filter>
+      </defs>
+      <mask
+         maskUnits="userSpaceOnUse"
+         x="56.885"
+         y="104.951"
+         width="4.85"
+         height="4.823"
+         id="mask25454">
+        <g
+           style="filter:url(#Adobe_OpacityMaskFilter_6_-4)"
+           id="g25456">
+          <radialGradient
+             id="radialGradient25458"
+             cx="59.310501"
+             cy="107.3623"
+             r="3.4491999"
+             gradientUnits="userSpaceOnUse">
+            <stop
+               offset="0"
+               style="stop-color:#FFFFFF"
+               id="stop25460" />
+            <stop
+               offset="1"
+               style="stop-color:#000000"
+               id="stop25462" />
+          </radialGradient>
+          <ellipse
+             d="m 62.769001,107.361 c 0,1.90041 -1.548647,3.441 -3.459,3.441 -1.910353,0 -3.459,-1.54059 -3.459,-3.441 0,-1.90041 1.548647,-3.441 3.459,-3.441 1.910353,0 3.459,1.54059 3.459,3.441 z"
+             style="fill:url(#SVGID_18_-6)"
+             sodipodi:ry="3.441"
+             sodipodi:rx="3.4590001"
+             sodipodi:cy="107.361"
+             sodipodi:cx="59.310001"
+             cx="59.310001"
+             cy="107.361"
+             rx="3.4590001"
+             ry="3.441"
+             id="ellipse25464" />
+        </g>
+      </mask>
+      <ellipse
+         d="m 61.735001,107.361 c 0,1.33211 -1.085709,2.412 -2.425,2.412 -1.33929,0 -2.425,-1.07989 -2.425,-2.412 0,-1.33211 1.08571,-2.412 2.425,-2.412 1.339291,0 2.425,1.07989 2.425,2.412 z"
+         style="fill:#ff2a2a"
+         sodipodi:ry="2.4119999"
+         sodipodi:rx="2.425"
+         sodipodi:cy="107.361"
+         sodipodi:cx="59.310001"
+         mask="url(#SVGID_17_-4)"
+         cx="59.310001"
+         cy="107.361"
+         rx="2.425"
+         ry="2.4119999"
+         id="ellipse437" />
+    </g>
+    <g
+       id="g392-1"
+       transform="matrix(1.8253704,0,0,1.8253704,-59.789323,762.02533)"
+       style="fill:url(#linearGradient5469);fill-opacity:1">
+      <radialGradient
+         id="radialGradient25420-1"
+         cx="67.816399"
+         cy="102.7705"
+         r="39.471401"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           style="stop-color:#0096D9"
+           id="stop25422-5" />
+        <stop
+           offset="1"
+           style="stop-color:#A3DEF9"
+           id="stop25424-9" />
+      </radialGradient>
+      <circle
+         d="m 90.673002,123.995 c 0,12.62358 -10.233427,22.857 -22.857,22.857 -12.623573,0 -22.857,-10.23342 -22.857,-22.857 0,-12.62357 10.233427,-22.857 22.857,-22.857 12.623573,0 22.857,10.23343 22.857,22.857 z"
+         style="fill:url(#SVGID_14_-2)"
+         sodipodi:ry="22.857"
+         sodipodi:rx="22.857"
+         sodipodi:cy="123.995"
+         sodipodi:cx="67.816002"
+         cx="67.816002"
+         cy="123.995"
+         r="22.857"
+         id="circle399" />
+      <defs
+         id="defs401-7">
+        <filter
+           color-interpolation-filters="sRGB"
+           id="filter25428-7"
+           filterUnits="userSpaceOnUse"
+           x="51.673"
+           y="101.32"
+           width="30.747999"
+           height="25.85">
+          <feColorMatrix
+             type="matrix"
+             values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+             id="feColorMatrix25430-6" />
+        </filter>
+      </defs>
+      <mask
+         maskUnits="userSpaceOnUse"
+         x="51.673"
+         y="101.32"
+         width="30.748"
+         height="25.85"
+         id="mask25432-7">
+        <g
+           style="filter:url(#Adobe_OpacityMaskFilter_5_-8-1)"
+           id="g25434-3">
+          <ellipse
+             d="m 82.420997,114.245 c 0,7.13828 -6.883174,12.925 -15.374,12.925 -8.490825,0 -15.374,-5.78672 -15.374,-12.925 0,-7.13828 6.883175,-12.925 15.374,-12.925 8.490826,0 15.374,5.78672 15.374,12.925 z"
+             style="fill:#f2f2f2"
+             sodipodi:ry="12.925"
+             sodipodi:rx="15.374"
+             sodipodi:cy="114.245"
+             sodipodi:cx="67.046997"
+             cx="67.046997"
+             cy="114.245"
+             rx="15.374"
+             ry="12.925"
+             id="ellipse25436-6" />
+        </g>
+      </mask>
+      <radialGradient
+         id="radialGradient25438-5"
+         cx="66.640099"
+         cy="77.082497"
+         r="33.3368"
+         gradientTransform="matrix(1,0,0,0.8407,0,63.7269)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           style="stop-color:#A3DEF9"
+           id="stop25440-6" />
+        <stop
+           offset="0.489"
+           style="stop-color:#0098DA"
+           id="stop25442-3" />
+        <stop
+           offset="0.533"
+           style="stop-color:#0096D9"
+           id="stop25444-9" />
+        <stop
+           offset="1"
+           style="stop-color:#A3DEF9"
+           id="stop25446-4" />
+      </radialGradient>
+      <ellipse
+         d="m 82.420997,114.245 c 0,7.13828 -6.883174,12.925 -15.374,12.925 -8.490825,0 -15.374,-5.78672 -15.374,-12.925 0,-7.13828 6.883175,-12.925 15.374,-12.925 8.490826,0 15.374,5.78672 15.374,12.925 z"
+         style="fill:url(#SVGID_16_-7)"
+         sodipodi:ry="12.925"
+         sodipodi:rx="15.374"
+         sodipodi:cy="114.245"
+         sodipodi:cx="67.046997"
+         mask="url(#SVGID_15_-7-1)"
+         cx="67.046997"
+         cy="114.245"
+         rx="15.374"
+         ry="12.925"
+         id="ellipse420-8" />
+      <defs
+         id="defs422-1">
+        <filter
+           color-interpolation-filters="sRGB"
+           id="filter25450-2"
+           filterUnits="userSpaceOnUse"
+           x="56.884998"
+           y="104.951"
+           width="4.8499999"
+           height="4.823">
+          <feColorMatrix
+             type="matrix"
+             values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+             id="feColorMatrix25452-9" />
+        </filter>
+      </defs>
+      <mask
+         maskUnits="userSpaceOnUse"
+         x="56.885"
+         y="104.951"
+         width="4.85"
+         height="4.823"
+         id="mask25454-3">
+        <g
+           style="filter:url(#Adobe_OpacityMaskFilter_6_-4-7)"
+           id="g25456-9">
+          <radialGradient
+             id="radialGradient25458-0"
+             cx="59.310501"
+             cy="107.3623"
+             r="3.4491999"
+             gradientUnits="userSpaceOnUse">
+            <stop
+               offset="0"
+               style="stop-color:#FFFFFF"
+               id="stop25460-8" />
+            <stop
+               offset="1"
+               style="stop-color:#000000"
+               id="stop25462-8" />
+          </radialGradient>
+          <ellipse
+             d="m 62.769001,107.361 c 0,1.90041 -1.548647,3.441 -3.459,3.441 -1.910353,0 -3.459,-1.54059 -3.459,-3.441 0,-1.90041 1.548647,-3.441 3.459,-3.441 1.910353,0 3.459,1.54059 3.459,3.441 z"
+             style="fill:url(#SVGID_18_-6-9)"
+             sodipodi:ry="3.441"
+             sodipodi:rx="3.4590001"
+             sodipodi:cy="107.361"
+             sodipodi:cx="59.310001"
+             cx="59.310001"
+             cy="107.361"
+             rx="3.4590001"
+             ry="3.441"
+             id="ellipse25464-5" />
+        </g>
+      </mask>
+      <ellipse
+         d="m 61.735001,107.361 c 0,1.33211 -1.085709,2.412 -2.425,2.412 -1.33929,0 -2.425,-1.07989 -2.425,-2.412 0,-1.33211 1.08571,-2.412 2.425,-2.412 1.339291,0 2.425,1.07989 2.425,2.412 z"
+         style="fill:#ffffff"
+         sodipodi:ry="2.4119999"
+         sodipodi:rx="2.425"
+         sodipodi:cy="107.361"
+         sodipodi:cx="59.310001"
+         mask="url(#SVGID_17_-4-9)"
+         cx="59.310001"
+         cy="107.361"
+         rx="2.425"
+         ry="2.4119999"
+         id="ellipse437-0" />
+    </g>
+    <g
+       id="g5352"
+       style="fill:#000000;fill-opacity:1;stroke:#50afc6;stroke-width:4.1392808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.71533654,0,0,0.51198265,-172.93125,636.59628)">
+      <text
+         id="text4527"
+         y="730.62903"
+         x="294.00015"
+         style="font-size:122.04807281px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#50afc6;stroke-width:4.1392808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Abandoned Bitplane Bold"
+         xml:space="preserve"><tspan
+           y="730.62903"
+           x="294.00015"
+           id="tspan4529"
+           sodipodi:role="line">V</tspan></text>
+    </g>
+  </g>
+</svg>

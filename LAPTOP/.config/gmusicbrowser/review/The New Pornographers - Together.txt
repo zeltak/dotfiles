@@ -1,0 +1,11 @@
+<amgid>r1743398</amgid>
+<author></author>
+<genre>Pop/Rock</genre>
+<label>Matador</label>
+<mood>Amiable/Good-Natured, Gleeful, Lively, Playful, Quirky, Theatrical, Bright, Cerebral, Complex, Rousing, Sophisticated, Urgent, Whimsical</mood>
+<rating>80</rating>
+<review></review>
+<rls_date>May 4, 2010</rls_date>
+<style>Indie Rock, Power Pop, Alternative Pop/Rock, Alternative/Indie Rock</style>
+<theme>Hanging Out, Road Trip, Small Gathering, Introspection, Late Night</theme>
+<url>http://allmusic.com/album/together-r1743398/review</url>

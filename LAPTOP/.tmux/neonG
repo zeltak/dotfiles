@@ -1,0 +1,17 @@
+#--------------> NeonG
+# COLORS.
+# For reference, the xterm color cube points are: 00, 5F, 87, AF, D7, FF
+# Status bar has a dim gray background
+set-option -g status-style fg=colour0,bg=colour234
+# Left shows the session name, in blue
+set-option -g status-left-style fg=colour74,bg=default
+# Right is some CPU stats, so terminal green
+set-option -g status-right-style fg=colour71,bg=default
+# Windows are medium gray; current window is white
+set-window-option -g window-status-style fg=colour244
+set-window-option -g window-status-current-style 'fg=#ffffff,bg=#000000'
+# Beeped windows get a blinding orange background
+set-window-option -g window-status-bell-style 'fg=#000000,bg=#d78700,none'
+# Trim window titles to a reasonable length
+set-window-option -g window-status-format '#[fg=yellow]#{window_flags}#{window_index}#[default] #{=32:window_name} '
+set-window-option -g window-status-current-format '#[fg=yellow] #{window_index}#[default] #{=32:window_name} '

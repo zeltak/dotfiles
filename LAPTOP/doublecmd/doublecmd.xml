@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd DCVersion="0.5.10 beta" ConfigVersion="7">
+  <Configuration Save="True">
+    <UseConfigInProgramDir>False</UseConfigInProgramDir>
+  </Configuration>
+  <Colors>
+    <FileFilters>
+      <Filter>
+        <Name>Pascal sources</Name>
+        <FileMasks>*.pas;*.pp</FileMasks>
+        <Color>32768</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Pascal binaries</Name>
+        <FileMasks>*.ppu;*.o;*.dcu</FileMasks>
+        <Color>16711680</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Specified Executables</Name>
+        <FileMasks>*</FileMasks>
+        <Color>55758</Color>
+        <Attributes>-rwxrwxr*x</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Executables</Name>
+        <FileMasks>*</FileMasks>
+        <Color>32768</Color>
+        <Attributes>-*x*</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Archives</Name>
+        <FileMasks>*.zip;*.rar;*.tar;*.tar.gz</FileMasks>
+        <Color>7279</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>hiden files</Name>
+        <FileMasks>.*</FileMasks>
+        <Color>-2147483617</Color>
+        <Attributes>*</Attributes>
+      </Filter>
+    </FileFilters>
+    <Foreground>536870912</Foreground>
+    <Background>16777215</Background>
+    <Background2>16777215</Background2>
+    <Mark>255</Mark>
+    <Cursor>65280</Cursor>
+    <CursorText>-2147483634</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>43</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
+    <FreeSpaceIndicator>
+      <ForeColor>0</ForeColor>
+      <BackColor>16777215</BackColor>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
+  </Colors>
+  <Plugins>
+    <DsxPlugins/>
+    <WcxPlugins>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>zip</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>607</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>lzma</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/lzma/lzma.wcx</Path>
+        <Flags>1</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tar</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>bz2</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>91</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tbz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>gz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>91</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tgz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>cpio</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/cpio/cpio.wcx</Path>
+        <Flags>0</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>deb</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/deb/deb.wcx</Path>
+        <Flags>4</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>rpm</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/rpm/rpm.wcx</Path>
+        <Flags>4</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>rar</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/unrar/unrar.wcx</Path>
+        <Flags>68</Flags>
+      </WcxPlugin>
+    </WcxPlugins>
+    <WdxPlugins>
+      <WdxPlugin>
+        <Name>rpm_wdx</Name>
+        <Path>%commander_path%/plugins/wdx/rpm_wdx/rpm_wdx.wdx</Path>
+        <DetectString>EXT="RPM"</DetectString>
+      </WdxPlugin>
+      <WdxPlugin>
+        <Name>deb_wdx</Name>
+        <Path>%commander_path%/plugins/wdx/deb_wdx/deb_wdx.wdx</Path>
+        <DetectString>EXT="DEB"</DetectString>
+      </WdxPlugin>
+    </WdxPlugins>
+    <WfxPlugins>
+      <WfxPlugin Enabled="True">
+        <Name>FTP</Name>
+        <Path>%commander_path%/plugins/wfx/ftp/ftp.wfx</Path>
+      </WfxPlugin>
+      <WfxPlugin Enabled="True">
+        <Name>Windows Network</Name>
+        <Path>%commander_path%/plugins/wfx/samba/samba.wfx</Path>
+      </WfxPlugin>
+    </WfxPlugins>
+    <WlxPlugins>
+      <WlxPlugin Enabled="True">
+        <Name>wlxMplayer</Name>
+        <Path>%commander_path%/plugins/wlx/WlxMplayer/wlxMplayer.wlx</Path>
+        <DetectString>(EXT="MPG")|(EXT="AVI")|(EXT="MPEG")|(EXT="FLV")</DetectString>
+      </WlxPlugin>
+    </WlxPlugins>
+  </Plugins>
+  <Language>
+    <POFileName>doublecmd.en.po</POFileName>
+  </Language>
+  <Behaviours>
+    <GoToRoot>False</GoToRoot>
+    <RunInTerminal>urxvt -name termfm -bg '#002b36' -fg  '#657b83' --color0  '#073642' --color8 '#002b36' --color1 '#dc322f' --color9       '#cb4b16' --color2 '859900' --color10 '#586e75' --color3 '#b58900' --color11 '#657b83' --color4   '#268bd2' --color12 '#839496' --color5  '#d33682' --color13 '#6c71c4' --color6  '#2aa198' --color14  '#93a1a1' --color7  '#eee8d5' --color15   '#fdf6e3'</RunInTerminal>
+    <RunTerminal>urxvt -name termfm -bg '#002b36' -fg  '#657b83' --color0  '#073642' --color8 '#002b36' --color1 '#dc322f' --color9       '#cb4b16' --color2 '859900' --color10 '#586e75' --color3 '#b58900' --color11 '#657b83' --color4   '#268bd2' --color12 '#839496' --color5  '#d33682' --color13 '#6c71c4' --color6  '#2aa198' --color14  '#93a1a1' --color7  '#eee8d5' --color15   '#fdf6e3'</RunTerminal>
+    <OnlyOneAppInstance>True</OnlyOneAppInstance>
+    <LynxLike>True</LynxLike>
+    <FileSizeFormat>0</FileSizeFormat>
+    <MinimizeToTray>False</MinimizeToTray>
+    <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
+    <Mouse>
+      <Selection Enabled="True">
+        <Button>0</Button>
+      </Selection>
+      <ScrollMode>1</ScrollMode>
+      <WheelScrollLines>3</WheelScrollLines>
+    </Mouse>
+    <AutoFillColumns>False</AutoFillColumns>
+    <AutoSizeColumn>0</AutoSizeColumn>
+    <DateTimeFormat>dd.mm.yy</DateTimeFormat>
+    <CutTextToColumnWidth>True</CutTextToColumnWidth>
+    <ShowSystemFiles>True</ShowSystemFiles>
+    <ListFilesInThread>True</ListFilesInThread>
+    <LoadIconsSeparately>True</LoadIconsSeparately>
+    <DelayLoadingTabs>True</DelayLoadingTabs>
+    <HighlightUpdatedFiles>True</HighlightUpdatedFiles>
+    <DriveBlackList/>
+    <DriveBlackListUnmounted>False</DriveBlackListUnmounted>
+  </Behaviours>
+  <Tools>
+    <Viewer Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Viewer>
+    <Editor Enabled="True">
+      <Path>emacsclient</Path>
+      <Parameters>-nc</Parameters>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Editor>
+    <Differ Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Differ>
+  </Tools>
+  <Fonts>
+    <Main>
+      <Name>Droid Sans Japanese</Name>
+      <Size>11</Size>
+      <Style>1</Style>
+    </Main>
+    <Editor>
+      <Name>Monospace</Name>
+      <Size>11</Size>
+      <Style>0</Style>
+    </Editor>
+    <Viewer>
+      <Name>Monospace</Name>
+      <Size>11</Size>
+      <Style>1</Style>
+    </Viewer>
+    <Log>
+      <Name>Monospace</Name>
+      <Size>12</Size>
+      <Style>0</Style>
+    </Log>
+    <ViewerBook>
+      <Name>default</Name>
+      <Size>12</Size>
+      <Style>1</Style>
+    </ViewerBook>
+  </Fonts>
+  <ToolTips>
+    <ShowToolTipMode>1</ShowToolTipMode>
+    <CustomFields/>
+  </ToolTips>
+  <Layout>
+    <MainMenu>True</MainMenu>
+    <ButtonBar Enabled="True">
+      <FlatIcons>True</FlatIcons>
+      <ButtonHeight>24</ButtonHeight>
+      <IconSize>22</IconSize>
+    </ButtonBar>
+    <DriveBar1>True</DriveBar1>
+    <DriveBar2>True</DriveBar2>
+    <DriveBarFlat>True</DriveBarFlat>
+    <DrivesListButton Enabled="False">
+      <ShowLabel>False</ShowLabel>
+      <ShowFileSystem>False</ShowFileSystem>
+      <ShowFreeSpace>False</ShowFreeSpace>
+    </DrivesListButton>
+    <DirectoryTabs>True</DirectoryTabs>
+    <CurrentDirectory>True</CurrentDirectory>
+    <TabHeader>True</TabHeader>
+    <StatusBar>True</StatusBar>
+    <CmdLine>True</CmdLine>
+    <LogWindow>False</LogWindow>
+    <TermWindow>False</TermWindow>
+    <KeyButtons>False</KeyButtons>
+    <InterfaceFlat>True</InterfaceFlat>
+    <DriveFreeSpace>False</DriveFreeSpace>
+    <DriveIndicator>False</DriveIndicator>
+    <ProgressInMenuBar>True</ProgressInMenuBar>
+    <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
+    <HorizontalFilePanels>False</HorizontalFilePanels>
+    <ShortFormatDriveInfo>False</ShortFormatDriveInfo>
+  </Layout>
+  <Keyboard>
+    <Typing>
+      <Actions>
+        <NoModifier>2</NoModifier>
+        <Alt>3</Alt>
+        <CtrlAlt>0</CtrlAlt>
+      </Actions>
+    </Typing>
+  </Keyboard>
+  <FileOperations>
+    <BufferSize>524288</BufferSize>
+    <UseMmapInSearch>False</UseMmapInSearch>
+    <PartialNameSearch>True</PartialNameSearch>
+    <WipePassNumber>1</WipePassNumber>
+    <DropReadOnlyFlag>True</DropReadOnlyFlag>
+    <ProcessComments>True</ProcessComments>
+    <RenameSelOnlyName>True</RenameSelOnlyName>
+    <ShowCopyTabSelectPanel>True</ShowCopyTabSelectPanel>
+    <UseTrash>False</UseTrash>
+    <SkipFileOpError>False</SkipFileOpError>
+    <ShowDialogOnDragDrop>True</ShowDialogOnDragDrop>
+    <OverwriteFolder>False</OverwriteFolder>
+    <Options>
+      <Symlink>0</Symlink>
+      <CorrectLinks>False</CorrectLinks>
+      <FileExists>0</FileExists>
+      <DirectoryExists>0</DirectoryExists>
+      <CheckFreeSpace>True</CheckFreeSpace>
+      <SetPropertyError>0</SetPropertyError>
+      <ReserveSpace>False</ReserveSpace>
+      <CopyAttributes>True</CopyAttributes>
+      <CopyTime>True</CopyTime>
+      <CopyOwnership>True</CopyOwnership>
+    </Options>
+    <ProgressKind>0</ProgressKind>
+    <Confirmations>15</Confirmations>
+  </FileOperations>
+  <Tabs>
+    <Options>1937</Options>
+    <CharacterLimit>32</CharacterLimit>
+    <Position>1</Position>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>4</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/Dropbox/</Path>
+                  <Path>/home/zeltak/Dropbox/ztmp/</Path>
+                  <Path>/home/zeltak/Dropbox/ztmp/UL/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/files_2013/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/files/Uni/</Path>
+                  <Path>/home/zeltak/org/files/Uni/Projects/</Path>
+                  <Path>/home/zeltak/org/files/Uni/Projects/code/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/.cache/cantata/</Path>
+                  <Path>/home/zeltak/.cache/cantata/library/</Path>
+                  <Path>/home/zeltak/.cache/cantata/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/.cache/cantata/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/.cache/cantata/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Dropbox/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/~code/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/~code/3.1.1.3.Code_MIA_PM_MODELSV3/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/~code/3.1.1.3.Code_MIA_PM_MODELSV3/2.Gather_data/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>11</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/mpd/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/mpd/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>11</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/mpd/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/mpd/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Uni/images/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/programs/Qfinder/</Path>
+                  <Path>/home/zeltak/programs/Qfinder/res/</Path>
+                  <Path>/home/zeltak/programs/Qfinder/</Path>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/programs/Qfinder/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/programs/Qfinder/</Path>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/images_2013/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/2008 Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/2008 Sun Giant/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/2011 Helplessness Blues/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/2008 Sun Giant/</Path>
+                  <Path>/home/zeltak/music/Fleet Foxes/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/music/Iron Maiden/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/music/Beck/</Path>
+                  <Path>/home/zeltak/music/Beck/2008 Modern Guilt/</Path>
+                  <Path>/home/zeltak/music/Beck/</Path>
+                  <Path>/home/zeltak/music/Beck/2008 Modern Guilt/</Path>
+                  <Path>/home/zeltak/music/Beck/</Path>
+                  <Path>/home/zeltak/music/Beck/2008 Modern Guilt/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/images_2014/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/files/agenda/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/worker/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/music/Riverside/</Path>
+                  <Path>/home/zeltak/music/</Path>
+                  <Path>/home/zeltak/music/Pure Reason Revolution/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/scripts/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/.kde4/share/apps/</Path>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/.kde4/share/config/</Path>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/.kde4/share/apps/</Path>
+                  <Path>/home/zeltak/.kde4/share/apps/kded/</Path>
+                  <Path>/home/zeltak/.kde4/share/apps/</Path>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/.kde4/share/config/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/mreview/</Path>
+                  <Path>/home/zeltak/mreview/Crosby&amp;Nash/</Path>
+                  <Path>/home/zeltak/mreview/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Uni/hdf/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Uni/bgu_courses/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/teiler/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Calibre Library/</Path>
+                  <Path>/home/zeltak/Calibre Library/Unknown/</Path>
+                  <Path>/home/zeltak/Calibre Library/</Path>
+                  <Path>/home/zeltak/Calibre Library/Unknown/</Path>
+                  <Path>/home/zeltak/Calibre Library/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Uni/bgu_courses/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/AUR/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/I/</Path>
+                  <Path>/home/zeltak/Zmusic/I/Iron Maiden/</Path>
+                  <Path>/home/zeltak/Zmusic/I/Iron Maiden/A Matter of Life and Death /</Path>
+                  <Path>/home/zeltak/Zmusic/I/Iron Maiden/</Path>
+                  <Path>/home/zeltak/Zmusic/I/Iron Maiden/Piece of Mind/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>3</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.config/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.color/</Path>
+                  <Path>/home/zeltak/.config/</Path>
+                  <Path>/home/zeltak/.config/cantata/</Path>
+                  <Path>/home/zeltak/.config/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.cache/</Path>
+                  <Path>/home/zeltak/.cache/cantata/</Path>
+                  <Path>/home/zeltak/Dropbox/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/F/</Path>
+                  <Path>/home/zeltak/Zmusic/F/Flight of the Conchords/</Path>
+                  <Path>/home/zeltak/Zmusic/F/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/J/</Path>
+                  <Path>/home/zeltak/Zmusic/J/Jethro Tull/</Path>
+                  <Path>/home/zeltak/Zmusic/J/Jethro Tull/Thick as a Brick - 40th Anniversary Special Edition/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/B/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/The Bee Gees 1st/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/The Bee Gees 1st/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/The Bee Gees 1st/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/The Bee Gees 1st/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/</Path>
+                  <Path>/home/zeltak/Zmusic/B/Bee Gees/</Path>
+                  <Path>/home/zeltak/Zmusic/B/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/S/</Path>
+                  <Path>/home/zeltak/Zmusic/S/Smiths/</Path>
+                  <Path>/home/zeltak/Zmusic/S/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/S/</Path>
+                  <Path>/home/zeltak/Zmusic/S/Smiths/</Path>
+                  <Path>/home/zeltak/Zmusic/S/Smiths/1984 - Hatful Of Hollow/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/zeltak/ZH_tmp/</LockPath>
+          <Title>TEMP</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>11</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/.emacs.d/src/extra/org-download/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/files/Tech/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/images/</Path>
+                  <Path>/home/zeltak/Downloads/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Zmusic/</Path>
+                  <Path>/home/zeltak/Zmusic/L/</Path>
+                  <Path>/home/zeltak/Zmusic/L/Led Zeppelin/</Path>
+                  <Path>/home/zeltak/Zmusic/L/Led Zeppelin/Led Zeppelin IV/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/files/agenda/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Dropbox/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/Courses/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/Courses/Bgu/</Path>
+                  <Path>/home/zeltak/Dropbox/uni/Courses/Bgu/kloog syllabus/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/images/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.config/</Path>
+                  <Path>/home/zeltak/.config/lyvi/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/bin/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.kde4/</Path>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/.kde4/share/config/</Path>
+                  <Path>/home/zeltak/.kde4/share/</Path>
+                  <Path>/home/zeltak/Uni/</Path>
+                  <Path>/home/zeltak/Uni/personal/</Path>
+                  <Path>/home/zeltak/Uni/personal/basel/</Path>
+                  <Path>/home/zeltak/Uni/personal/</Path>
+                  <Path>/home/zeltak/Uni/personal/900000/</Path>
+                  <Path>/home/zeltak/Uni/personal/</Path>
+                  <Path>/home/zeltak/Uni/personal/basel/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/Calibre Library/Rachel Kornak/Lesson06_Step-by-Step (9)/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/org/attach/</Path>
+                  <Path>/home/zeltak/org/attach/images_2013/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/emacsJUL13/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/emacsJUL13/</Path>
+                  <Path>/home/zeltak/BK/</Path>
+                  <Path>/home/zeltak/BK/emacs/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/org-screenshot/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/org-screenshot/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/org-download/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/.emacs.d/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/org-mode/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/</Path>
+                  <Path>/home/zeltak/.emacs.d/src/extra/org-download/</Path>
+                  <Path>/home/zeltak/bin/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/Pictures/</Path>
+                  <Path>/home/zeltak/Pictures/1.6.2013/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/zeltak/programs/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/VM/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ZH_tmp/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/bin/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/files/agenda/</Path>
+                  <Path>/home/zeltak/org/files/</Path>
+                  <Path>/home/zeltak/org/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/mounts/</Path>
+                  <Path>/home/zeltak/mounts/lraid/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.worker/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.worker/</Path>
+                  <Path>/home/zeltak/.worker/catalogs/</Path>
+                  <Path>/home/zeltak/.worker/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/.worker/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/scripts/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/bin/</Path>
+                  <Path>/home/zeltak/</Path>
+                  <Path>/home/zeltak/ThemeDB/</Path>
+                  <Path>/home/zeltak/ThemeDB/Workshop/</Path>
+                  <Path>/home/zeltak/ThemeDB/Workshop/cheatsheets/</Path>
+                  <Path>/home/zeltak/ThemeDB/Workshop/cheatsheets/org/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+  <Log Enabled="True">
+    <FileName>/home/zeltak/.config/doublecmd/doublecmd.log</FileName>
+    <Options>255</Options>
+  </Log>
+  <History>
+    <SearchReplaceHistory Save="True"/>
+    <DirHistory Save="True"/>
+    <CmdLineHistory Save="True"/>
+    <FileMaskHistory Save="True"/>
+  </History>
+  <QuickSearch>
+    <MatchBeginning>True</MatchBeginning>
+    <MatchEnding>True</MatchEnding>
+    <Case>1</Case>
+    <Items>2</Items>
+  </QuickSearch>
+  <QuickFilter>
+    <AutoHide>True</AutoHide>
+  </QuickFilter>
+  <Miscellaneous>
+    <GridVertLine>True</GridVertLine>
+    <GridHorzLine>False</GridHorzLine>
+    <ShowWarningMessages>True</ShowWarningMessages>
+    <SpaceMovesDown>False</SpaceMovesDown>
+    <DirBrackets>False</DirBrackets>
+  </Miscellaneous>
+  <AutoRefresh>
+    <Options>3</Options>
+    <ExcludeDirs/>
+    <Mode>0</Mode>
+  </AutoRefresh>
+  <Icons>
+    <ShowMode>3</ShowMode>
+    <ShowOverlays>False</ShowOverlays>
+    <Size>16</Size>
+    <CustomDriveIcons>False</CustomDriveIcons>
+    <Exclude>False</Exclude>
+    <ExcludeDirs/>
+    <ShowInMenus Enabled="True">
+      <Size>16</Size>
+    </ShowInMenus>
+  </Icons>
+  <IgnoreList Enabled="False">
+    <IgnoreListFile>/home/zeltak/.config/doublecmd/ignorelist.txt</IgnoreListFile>
+  </IgnoreList>
+  <DirectoryHotList>
+    <HotDir Name="bin" Path="/home/zeltak/bin/"/>
+    <HotDir Name="imounts" Path="/home/zeltak/mounts/"/>
+    <HotDir Name="programs" Path="/home/zeltak/programs/"/>
+    <HotDir Name="0MLT" Path="/home/zeltak/MLT/"/>
+    <HotDir Name=".config" Path="/home/zeltak/.config/"/>
+    <HotDir Name="NC" Path="/home/zeltak/NC/"/>
+    <HotDir Name="scripts" Path="/home/zeltak/scripts/"/>
+    <HotDir Name="ThemeDB" Path="/home/zeltak/ThemeDB/"/>
+    <HotDir Name="Uni" Path="/home/zeltak/Uni/"/>
+    <HotDir Name="emacs.d" Path="/home/zeltak/.emacs.d/"/>
+    <HotDir Name="music" Path="/home/zeltak/Zmusic/"/>
+    <HotDir Name="vBK-home" Path="/home/zeltak/BK/"/>
+    <HotDir Name="1media" Path="/media/"/>
+    <HotDir Name="2raid" Path="/media/raid/"/>
+    <HotDir Name="3P2P_Dl" Path="/media/raid/P2P_Dl/"/>
+    <HotDir Name="4Video" Path="/media/raid/Video/"/>
+    <HotDir Name="5Movies" Path="/media/raid/Video/Movies/"/>
+    <HotDir Name="6TV" Path="/media/raid/Video/TV/"/>
+    <HotDir Name="rmreview" Path="/home/zeltak/mreview/"/>
+    <HotDir Name="ofiles" Path="/home/zeltak/org/files/"/>
+    <HotDir Name="ZH_tmp" Path="/home/zeltak/ZH_tmp/"/>
+    <HotDir Name="]Downloads" Path="/home/zeltak/Downloads/"/>
+    <HotDir Name="\zeltak" Path="/home/zeltak/"/>
+  </DirectoryHotList>
+  <Viewer>
+    <PreviewVisible>False</PreviewVisible>
+    <SaveThumbnails>True</SaveThumbnails>
+    <ImageStretch>False</ImageStretch>
+    <CopyMovePath1/>
+    <CopyMovePath2/>
+    <CopyMovePath3/>
+    <CopyMovePath4/>
+    <CopyMovePath5/>
+    <PaintMode>Pen</PaintMode>
+    <PaintWidth>5</PaintWidth>
+    <NumberOfColumns>1</NumberOfColumns>
+    <ViewerMode>1</ViewerMode>
+    <PaintColor>255</PaintColor>
+    <BackgroundColor>0</BackgroundColor>
+    <FontColor>16777215</FontColor>
+    <TextPosition>0</TextPosition>
+  </Viewer>
+  <Lua>
+    <PathToLibrary>liblua5.1.so.0</PathToLibrary>
+  </Lua>
+  <NameShortcutFile>shortcuts.scf</NameShortcutFile>
+  <LastUsedPacker>7z</LastUsedPacker>
+  <SearchTemplates/>
+  <ColumnsSets>
+    <ColumnsSet>
+      <Name>Default</Name>
+      <CustomView>False</CustomView>
+      <CursorBorder Enabled="False">
+        <Color>0</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>Name</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>600</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Ext</Title>
+          <FuncString>[DC().GETFILEEXT{}]</FuncString>
+          <Width>80</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Size</Title>
+          <FuncString>[DC().GETFILESIZE{}]</FuncString>
+          <Width>120</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Date</Title>
+          <FuncString>[DC().GETFILETIME{}]</FuncString>
+          <Width>120</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+    <ColumnsSet>
+      <Name>Z1</Name>
+      <CustomView>False</CustomView>
+      <CursorBorder Enabled="True">
+        <Color>0</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>Name</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>600</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Ext</Title>
+          <FuncString>[DC().GETFILEEXT{}]</FuncString>
+          <Width>80</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Size</Title>
+          <FuncString>[DC().GETFILESIZE{}]</FuncString>
+          <Width>120</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Date</Title>
+          <FuncString>[DC().GETFILETIME{}]</FuncString>
+          <Width>120</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Droid Sans Japanese</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>65280</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+  </ColumnsSets>
+  <MultiRenamePresets>
+    <LastPreset>comics</LastPreset>
+    <Presets>
+      <Preset>
+        <Name>tv</Name>
+        <Filename>S01E[C]</Filename>
+        <Extension>[E]</Extension>
+        <FilenameStyle>0</FilenameStyle>
+        <ExtensionStyle>0</ExtensionStyle>
+        <Find/>
+        <Replace/>
+        <RegExp>False</RegExp>
+        <UseSubs>False</UseSubs>
+        <Counter>1</Counter>
+        <Interval>1</Interval>
+        <Width>0</Width>
+        <Log>
+          <Enabled>False</Enabled>
+          <File>/media/raid/Video/TV/$Anthony Bourdain- No Reservations/Season 4/default.log</File>
+        </Log>
+      </Preset>
+      <Preset>
+        <Name>comics</Name>
+        <Filename>Chew_[C]</Filename>
+        <Extension>[E]</Extension>
+        <FilenameStyle>0</FilenameStyle>
+        <ExtensionStyle>0</ExtensionStyle>
+        <Find/>
+        <Replace/>
+        <RegExp>False</RegExp>
+        <UseSubs>False</UseSubs>
+        <Counter>1</Counter>
+        <Interval>1</Interval>
+        <Width>0</Width>
+        <Log>
+          <Enabled>False</Enabled>
+          <File>/media/raid/Video/TV/$Anthony Bourdain- No Reservations/Season 4/default.log</File>
+        </Log>
+      </Preset>
+    </Presets>
+  </MultiRenamePresets>
+  <MainWindow>
+    <Position>
+      <Maximized>False</Maximized>
+      <Splitter>50</Splitter>
+      <Left>8</Left>
+      <Top>197</Top>
+      <Width>1584</Width>
+      <Height>854</Height>
+    </Position>
+  </MainWindow>
+  <Toolbars>
+    <MainToolbar>
+      <Row>
+        <Command>
+          <ID>{AB7AF4C6-2B29-4E7B-84CC-62BEA813BE5D}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/go-back.svg</Icon>
+          <Command>cm_ViewHistoryPrev</Command>
+        </Command>
+        <Command>
+          <ID>{0AEAA40B-E9DF-4E3A-8EF5-FF3EFCF0C2DC}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/go-forward.svg</Icon>
+          <Command>cm_ViewHistoryNext</Command>
+        </Command>
+        <Separator/>
+        <Menu>
+          <ID>{52667ED7-977F-47F4-AA22-329174C4D024}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_menu.svg</Icon>
+          <Hint>Show button menu</Hint>
+          <MenuItems>
+            <Command>
+              <ID>{DFC7D4B6-96B8-4A0E-8A12-2AF60719A2A3}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_all.svg</Icon>
+              <Command>cm_MarkMarkAll</Command>
+            </Command>
+            <Command>
+              <ID>{589BCA68-67B7-4022-B6E4-189680F242BB}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_group.svg</Icon>
+              <Command>cm_MarkPlus</Command>
+            </Command>
+            <Command>
+              <ID>{A4BBFAA3-3724-4D2A-B8D2-4F31B2CF1F45}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_extension.svg</Icon>
+              <Command>cm_MarkCurrentExtension</Command>
+            </Command>
+            <Command>
+              <ID>{39E4E237-6DBB-4735-A29E-7E5A5A59D4BC}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/unselect_all.svg</Icon>
+              <Command>cm_MarkUnmarkAll</Command>
+            </Command>
+            <Command>
+              <ID>{962F51E2-7B4D-433E-8A8C-8DAE160C27BB}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/unselect_group.svg</Icon>
+              <Command>cm_MarkMinus</Command>
+            </Command>
+            <Command>
+              <ID>{4FEA82DD-221D-4EF4-ADAB-576FDFAE14AA}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/unselect_extension.svg</Icon>
+              <Command>cm_UnmarkCurrentExtension</Command>
+            </Command>
+            <Command>
+              <ID>{493A6A05-D913-4257-B44C-3AA670A5BB82}</ID>
+              <Icon>/home/zeltak/Dropbox/multisync/MLT/programs/dc/toolbar/invert_select.svg</Icon>
+              <Command>cm_MarkInvert</Command>
+            </Command>
+          </MenuItems>
+        </Menu>
+        <Command>
+          <ID>{3C8328D3-51F9-412B-9FD8-8FC37E218827}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_all.svg</Icon>
+          <Command>cm_MarkMarkAll</Command>
+        </Command>
+        <Command>
+          <ID>{862C9449-C6E2-48F7-B732-2CB570A3C0E4}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/unselect_all.svg</Icon>
+          <Command>cm_MarkUnmarkAll</Command>
+        </Command>
+        <Command>
+          <ID>{9AA488D4-676A-4EA0-BCD8-B46FB6AC724B}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/select_group.svg</Icon>
+          <Command>cm_MarkPlus</Command>
+        </Command>
+        <Separator/>
+        <Menu>
+          <ID>{7F7C0A0F-C55F-47F0-91F0-47B5C7548C07}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_date.svg</Icon>
+          <Hint>Show button menu</Hint>
+          <MenuItems>
+            <Command>
+              <ID>{79C9BBAE-B789-4C22-A2A0-6F3857F75530}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_name.svg</Icon>
+              <Command>cm_SortByName</Command>
+            </Command>
+            <Command>
+              <ID>{5D05BC2F-E0FB-4A15-84A4-C75930008C29}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_date.svg</Icon>
+              <Command>cm_SortByDate</Command>
+            </Command>
+            <Command>
+              <ID>{A324CDF6-8852-46E7-8CFB-62D539E3CA62}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_extension.svg</Icon>
+              <Command>cm_SortByExt</Command>
+            </Command>
+            <Command>
+              <ID>{E2ED8785-0DA2-47E0-A964-E93F27DF3401}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_size.svg</Icon>
+              <Command>cm_SortBySize</Command>
+            </Command>
+            <Command>
+              <ID>{CC416964-4591-45F5-A7EF-357C3940728A}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/sort_reverse.svg</Icon>
+              <Command>cm_ReverseOrder</Command>
+            </Command>
+          </MenuItems>
+        </Menu>
+        <Separator/>
+        <Program>
+          <ID>{BA83872F-2656-417A-8483-538B6840C288}</ID>
+          <Command>cm +x </Command>
+          <Params>%f</Params>
+        </Program>
+        <Command>
+          <ID>{4D6D54D7-85F8-4898-AF6C-C27641F671A1}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/attrib.svg</Icon>
+          <Command>cm_SetFileProperties</Command>
+        </Command>
+        <Command>
+          <ID>{CBA693A3-B313-42F2-8183-26E6D9CA744D}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/link.svg</Icon>
+          <Command>cm_SymLink</Command>
+        </Command>
+        <Command>
+          <ID>{D144A57B-7EC3-4521-90CF-C4DD2CE4E773}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/search.svg</Icon>
+          <Hint>Search</Hint>
+          <Command>cm_Search</Command>
+        </Command>
+        <Command>
+          <ID>{1985FB04-26A0-4D35-A902-F759890E29E0}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/space_calc.svg</Icon>
+          <Command>cm_CountDirContent</Command>
+        </Command>
+        <Menu>
+          <ID>{3AB506D3-2DC7-4096-9971-8E7D0F69957D}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/profile.svg</Icon>
+          <Hint>Show button menu</Hint>
+          <MenuItems>
+            <Program>
+              <ID>{B63B614B-1CA0-44C8-A605-1A9A020464BB}</ID>
+              <Icon>/home/zeltak/MLT/programs/Krusader/Toolbar/gmb-eye.svg</Icon>
+              <Hint>imdb</Hint>
+              <Command>{!SHELL} imdb-mf </Command>
+              <Params>-t %F</Params>
+            </Program>
+          </MenuItems>
+        </Menu>
+        <Separator/>
+        <Menu>
+          <ID>{0F37A5F5-10D4-4A90-A636-92E8CD87A708}</ID>
+          <Icon>/home/zeltak/ThemeDB/Workshop/spacefm/network.svg</Icon>
+          <Hint>ssh</Hint>
+          <MenuItems>
+            <Program>
+              <ID>{D75FA4B2-4625-42F1-BC16-AFB28214A14B}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Icons/ssh_33.png</Icon>
+              <Command>sshfs</Command>
+              <Params>zeltak@192.168.0.33:/ /home/zeltak/mounts/ztpc/</Params>
+            </Program>
+            <Command>
+              <ID>{013E3026-7E07-49A2-B54F-CF7E63FB96B1}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Toolbar/term_ssh.png</Icon>
+              <Command>cm_NetworkConnect</Command>
+            </Command>
+            <Command>
+              <ID>{D56959D9-D5A4-44B4-B005-17615E6B73A8}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Toolbar/term_ssh.png</Icon>
+              <Command>cm_NetworkConnect</Command>
+            </Command>
+          </MenuItems>
+        </Menu>
+        <Separator/>
+        <Command>
+          <ID>{8FD19B85-433A-43C0-BE5E-E2B87C1A03E4}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/clip_file.svg</Icon>
+          <Command>cm_CopyNamesToClip</Command>
+        </Command>
+        <Command>
+          <ID>{79FEB30F-C8C0-4780-8FC2-A4B0EC964C7F}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/clip_folder.svg</Icon>
+          <Command>cm_CopyFullNamesToClip</Command>
+        </Command>
+        <Command>
+          <ID>{0A1E6FAB-180D-46FC-9641-396EF48BC0FC}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/clip_selected.svg</Icon>
+          <Command>cm_SaveSelectionToFile</Command>
+        </Command>
+        <Separator/>
+        <Menu>
+          <ID>{CD54F44B-164D-4334-84DF-DB7B097F80AF}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/edit.svg</Icon>
+          <Hint>Editing</Hint>
+          <MenuItems>
+            <Command>
+              <ID>{A88092C0-9449-427B-89AB-5620A14F4FCF}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/editcut.svg</Icon>
+              <Command>cm_CutToClipboard</Command>
+            </Command>
+            <Command>
+              <ID>{39665841-117F-4704-9E42-FF9E9324064A}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Toolbar/editpaste.png</Icon>
+              <Command>cm_PasteFromClipboard</Command>
+            </Command>
+            <Command>
+              <ID>{BAF078A7-50D8-4AE1-A4C4-3C21AC6049D3}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Toolbar/new_note_aqua.png</Icon>
+              <Command>cm_CopySamePanel</Command>
+            </Command>
+            <Command>
+              <ID>{98CE8879-4B56-4ABB-B75C-66283BB103BE}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Toolbar/level1.png</Icon>
+              <Command>cm_CopyToClipboard</Command>
+            </Command>
+            <Program>
+              <ID>{E9D20E69-8F1E-4837-99F5-C082FC4ED825}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Icons/edit_root.png</Icon>
+              <Hint>edit_root</Hint>
+              <Command>gksudo</Command>
+              <Params>gvim  %f</Params>
+            </Program>
+            <Command>
+              <ID>{63750E67-6800-4F2C-A122-ADB105352D94}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/Icons/$Template_Dot.png</Icon>
+              <Command>cm_EditNew</Command>
+            </Command>
+          </MenuItems>
+        </Menu>
+        <Command>
+          <ID>{063832B6-051A-4019-8EB1-ADE238917F09}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/edit_comment.svg</Icon>
+          <Command>cm_EditComment</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{85F50652-C887-468D-BC9A-DFD7DCBED992}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/Pack.svg</Icon>
+          <Command>cm_PackFiles</Command>
+        </Command>
+        <Command>
+          <ID>{730947AD-2391-4E73-9331-E3B5AFDFF8F9}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/extract.svg</Icon>
+          <Command>cm_ExtractFiles</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{47642F7D-9107-4D1A-875F-A1DFECCD510C}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/winleft.svg</Icon>
+          <Command>cm_TransferLeft</Command>
+        </Command>
+        <Command>
+          <ID>{176E017B-03AE-4795-8F0E-21345DA8444A}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/winright.svg</Icon>
+          <Command>cm_TransferRight</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{D22D9F02-A2FD-4FC9-A547-290D45D394D9}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/Rename.svg</Icon>
+          <Command>cm_MultiRename</Command>
+        </Command>
+        <Menu>
+          <ID>{8A90D8BB-4700-4DFE-8CAD-974F97358F82}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/Rename_menu.svg</Icon>
+          <MenuItems>
+            <Program>
+              <ID>{5849E813-B884-4617-8488-D183A0FFA578}</ID>
+              <Hint>metamorphose</Hint>
+              <Command>metamorphose2</Command>
+              <Params>%f</Params>
+            </Program>
+            <Program>
+              <ID>{A4CD1879-31DC-46CE-9E6E-7295E0BFA9BF}</ID>
+              <Hint>krename</Hint>
+              <Command>krename</Command>
+              <Params>%f</Params>
+            </Program>
+          </MenuItems>
+        </Menu>
+        <Separator/>
+        <Command>
+          <ID>{9D7A19E1-83A2-4F31-BDFF-A0D4684DCB61}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/quickview.svg</Icon>
+          <Command>cm_QuickView</Command>
+        </Command>
+        <Command>
+          <ID>{047A54F1-84CE-4F7F-864C-1AFDEDAE7E30}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/quick_filter.svg</Icon>
+          <Command>cm_QuickFilter</Command>
+        </Command>
+        <Separator/>
+        <Menu>
+          <ID>{7EF4D05A-24A0-4C63-AB9B-C1A8E374A4AA}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/tab_normal.svg</Icon>
+          <Hint>Rename Tab</Hint>
+          <MenuItems>
+            <Command>
+              <ID>{7B589F77-A868-452C-A830-9414F3F59B07}</ID>
+              <Icon>cm_settaboptionnormal</Icon>
+              <Command>cm_SetTabOptionNormal</Command>
+            </Command>
+            <Command>
+              <ID>{3A30E799-63CC-4518-8FDC-3125EC829C9B}</ID>
+              <Icon>/home/zeltak/MLT/programs/dc/toolbar/tab rename.svg</Icon>
+              <Command>cm_RenameTab</Command>
+            </Command>
+            <Command>
+              <ID>{C15769A6-2739-4881-BB81-D507927D2982}</ID>
+              <Icon>cm_settaboptionpathresets</Icon>
+              <Command>cm_SetTabOptionPathResets</Command>
+            </Command>
+            <Command>
+              <ID>{FD8F3D71-FC7A-4104-A762-5C472FA1D71E}</ID>
+              <Icon>cm_settaboptionpathlocked</Icon>
+              <Command>cm_SetTabOptionPathLocked</Command>
+            </Command>
+          </MenuItems>
+        </Menu>
+        <Separator/>
+        <Program>
+          <ID>{A7B394F8-9DA6-423E-A2A2-7A1DE48BBCBB}</ID>
+          <Icon>/home/zeltak/MLT/programs/SpaceFM/fb.png</Icon>
+          <Command>fb</Command>
+          <Params>%f</Params>
+        </Program>
+        <Program>
+          <ID>{9D922853-B4C1-4510-B74A-77F854975290}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/NcDu.svg</Icon>
+          <Hint>ncdu</Hint>
+          <Command>ncdu</Command>
+          <Params>%f</Params>
+        </Program>
+        <Program>
+          <ID>{FF575129-BB9D-4BD2-8DB1-A7FA9ECEA644}</ID>
+          <Icon>/home/zeltak/MLT/programs/dc/toolbar/mpd.svg</Icon>
+          <Hint>mpd</Hint>
+          <Command>/home/zeltak/scripts/mpd/add_NL_songs.sh  </Command>
+        </Program>
+      </Row>
+    </MainToolbar>
+  </Toolbars>
+  <FilesViews>
+    <Sorting>
+      <CaseSensitivity>0</CaseSensitivity>
+      <NaturalSorting>True</NaturalSorting>
+      <SortFolderMode>0</SortFolderMode>
+      <NewFilesPosition>2</NewFilesPosition>
+      <UpdatedFilesPosition>2</UpdatedFilesPosition>
+    </Sorting>
+  </FilesViews>
+  <UseShellForFileOperations>False</UseShellForFileOperations>
+  <Thumbnails Save="True">
+    <Width>128</Width>
+    <Height>128</Height>
+  </Thumbnails>
+</doublecmd>

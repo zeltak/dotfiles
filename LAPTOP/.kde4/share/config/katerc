@@ -1,0 +1,396 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/ZH_tmp/grep.txt
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/btsyncindicator.tar.gz
+
+[Document 10]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/staples.pdf
+
+[Document 11]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/DATA.rar
+
+[Document 12]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/L1_he.pdf
+
+[Document 13]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/expo.zip
+
+[Document 14]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/ex_l1.1.org
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/ex_l2.1.pdf
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/Lesson06_Step-by-Step.pdf
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/cad_esri.pdf
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/Editing_Tutorial.pdf
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/editing-parcel-fabrics-tutorial.pdf
+
+[Document 7]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/10-25-2013.pdf
+
+[Document 8]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/IK_Correctionv2.docx
+
+[Document 9]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///home/zeltak/Downloads/CAH_MainGame.pdf
+
+[General]
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+
+[KFileDialog Settings]
+Height 1440=720
+Recent Files[$e]=$HOME/ZH_tmp/grep.txt,$HOME/ZH_tmp/grep.txt
+Recent URLs[$e]=$HOME/ZH_tmp/
+Width 2560=1280
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=false
+Search Dir Config Depth=9
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=8
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=true
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletemplates=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+katemailfilesplugin=false
+kateopenheaderplugin=false
+katepateplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=false
+katetabifyplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Fold First Line=false
+Folding Bar=true
+Icon Bar=false
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=8{,10{
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=4{,5{,temporal,spatial
+Search/Replace Flags=140
+Show Scrollbars=0
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 1440=875
+Height 900=854
+State=AAAA/wAAAAD9AAAAAAAABjgAAAMuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1584
+Width 2560=1592
+
+[MainWindow0]
+Characters Count Visible=false
+Cursor Position Visible=true
+Document Name Visible=true
+Encoding Visible=true
+Height 1440=875
+Height 900=854
+Insertion Mode Visible=true
+Kate-MDI-H-Splitter=200,1570,200
+Kate-MDI-Sidebar-0-Splitter=0,0
+Kate-MDI-Sidebar-3-Splitter=0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,790,200
+Selection Mode Visible=true
+State=AAAA/wAAAAD9AAAAAAAABjgAAAMuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1600=1584
+Width 2560=1592
+
+[MainWindow0 Settings]
+Height 1440=875
+Height 900=854
+State=AAAA/wAAAAD9AAAAAAAABjgAAAMuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1600=1584
+Width 2560=1592
+WindowState=8
+
+[MainWindow0-Splitter 0]
+Sizes=1570
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/zeltak/ZH_tmp/grep.txt
+Count=1
+View 0=file:///home/zeltak/ZH_tmp/grep.txt
+View 1=file:///home/zeltak/Downloads/ex_l1.1.org
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/Downloads/LPM_add.r]
+CursorColumn=19
+CursorLine=20
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/Downloads/cn0020_m3_2003.r]
+CursorColumn=0
+CursorLine=133
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/Downloads/ex_l1.1.org]
+CursorColumn=89
+CursorLine=36
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/Downloads/itay.pdf]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/Downloads/rafi_git_instructions.txt]
+CursorColumn=0
+CursorLine=1
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/ZH_tmp/cimp/final]
+CursorColumn=14
+CursorLine=4
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/zeltak/ZH_tmp/grep.txt]
+CursorColumn=18
+CursorLine=124
+JumpList=
+ViMarks=
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katecloseexceptplugin:menu]
+ShowConfirmation=true
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/ZH_tmp/grep.txt
+Name1[$e]=grep.txt
+
+[filetree]
+editShade=210,181,216
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=185,178,206

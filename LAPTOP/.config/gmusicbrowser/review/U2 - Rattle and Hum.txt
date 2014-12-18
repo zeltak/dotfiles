@@ -1,0 +1,12 @@
+<amgid>r87719</amgid>
+<author>Heather Phares</author>
+<genre>Pop/Rock</genre>
+<label>Paramount Records</label>
+<mood>Reflective, Bittersweet, Intimate, Literate, Plaintive, Confident, Stylish, Ambitious, Cathartic, Earnest, Passionate, Rousing, Aggressive, Brash, Confrontational, Intense, Searching, Sensual, Somber</mood>
+<rating>80</rating>
+<review>The video of Phil Joanou's ambitious documentary/concert film Rattle & Hum features Dolby Digital Surround Sound, stereo audio tracks, and a theatrical trailer. Joanou follows the group on their landmark Joshua Tree tour as they soak in the culture and sounds of Harlem, San Francisco, and Graceland, and collaborate with B.B. King on "When Love Comes to Town." Though some of the documentary footage is uneven, U2's performances are mostly gripping, particularly "Silver and Gold," "Sunday Bloody Sunday," "Pride (In the Name of Love)," and "With or Without You." Though some additional features would have been welcome for the DVD format, Rattle & Hum remains one of the most distinctive chapters in U2's career, as well as one of the most distinctive rockumentaries. </review>
+<rls_date>1988</rls_date>
+<style>Alternative Pop/Rock, Alternative/Indie Rock, Contemporary Pop/Rock, Adult Alternative Pop/Rock</style>
+<theme>Affirmation, Empowering</theme>
+<type>Video/DVD</type>
+<url>http://allmusic.com/album/rattle-and-hum-video-r87719/review</url>

@@ -1,0 +1,45 @@
+[iso]
+Name=iso
+Icon=/home/zeltak/MLT/programs/dc/Mimes/iso.png
+Open=smplayer '%p'
+
+[torrent]
+Name=torrent
+Icon=/home/zeltak/MLT/programs/dc/Mimes/torrent.png
+[zip]
+Name=zip
+View=peazip -ext2folder '%p'
+
+[doc|docx]
+Name=doc
+Icon=/home/zeltak/MLT/programs/dc/Mimes/application-word.png
+
+[xml]
+Name=xml
+Icon=/home/zeltak/MLT/programs/dc/Mimes/xml.png
+
+[mp3|m3u]
+Name=mp3
+Icon=/home/zeltak/MLT/programs/dc/Mimes/audio-x-generic_mp3.png
+Open=smplayer %f
+View=mpg123 -n750 %f
+
+[folder]
+Name=dir
+
+[jpg|jpeg|PNG]
+Name=jpg
+Open=feh %f
+
+[mkv|mp4|avi|divx|mpeg|mpg]
+Name=video
+Open=vlc %f
+
+[cbr|cbz]
+Name=cbr
+Open=okular %f
+
+[org|el]
+Name=org
+Edit=gvim %f
+

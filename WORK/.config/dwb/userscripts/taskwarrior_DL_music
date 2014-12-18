@@ -1,0 +1,4 @@
+#!/bin/bash
+# dwb: xtm
+task add pro:dl +music $DWB_TITLE $DWB_URI ; notify-send -u low "Task warrior" "added $DWB_TITLE"
+

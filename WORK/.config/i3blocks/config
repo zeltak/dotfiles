@@ -1,0 +1,49 @@
+[MPD]
+command=$HOME/.config/i3blocks/mpc.sh
+color=#F92672
+interval=1
+
+# [vol]
+# command= $HOME/.config/i3blocks/volume.sh
+# color=#4E82AA
+# interval=10
+
+[mpdrate]
+#command=$HOME/.config/i3blocks/rating.sh
+command=echo "★:$(mpc sticker "" find  rating | grep "$(basename "$(mpc current -f '%file%')")" | awk -F '=' '{print $NF}' )"
+color=#FF0000
+interval=3
+
+[scrobbling]
+command=$HOME/.config/i3blocks/lastfm.sh
+color=#FF0000
+interval=3
+
+
+[mem]
+command= echo ":$($HOME/.config/i3blocks/mem_rasi.sh)%"
+color=#4E82AA
+interval=10
+
+[cpu]
+command=echo "CPU:$(mpstat | awk '$3 ~ /CPU/ { for(i=1;i<=NF;i++) { if ($i ~ /%idle/) field=i } } $3 ~ /all/ { print 100 - $field }')%"
+color=#FD971F
+interval=10
+
+[batt]
+command= echo ":$($HOME/.config/i3blocks/battery.sh)"
+#command= echo "BATT: $(acpi | awk '{print $NF}')"
+color=#efe62e
+interval=10
+
+[klayout]
+#depends on xkblayout-state 
+command=xkblayout-state print "%s"
+color=#OOFF00
+interval=3
+
+[time2]
+command=date +'%d-%h %H:%M'
+color=#OOBBED
+interval=10
+

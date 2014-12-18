@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/home/zeltak/ThemeDB/Workshop/cheatsheets/org/</Item>
+      <Item>/home/zeltak/ThemeDB/Workshop/cheatsheets/</Item>
+      <Item>/home/zeltak/ThemeDB/Workshop/</Item>
+      <Item>/home/zeltak/ThemeDB/</Item>
+      <Item>/home/zeltak/Downloads/</Item>
+      <Item>/home/zeltak/</Item>
+      <Item>/home/zeltak/scripts/</Item>
+      <Item>/home/zeltak/music/Pure Reason Revolution/</Item>
+      <Item>/home/zeltak/music/Riverside/</Item>
+      <Item>/home/zeltak/.worker/catalogs/</Item>
+      <Item>/home/zeltak/.worker/</Item>
+      <Item>/home/zeltak/BK/worker/</Item>
+      <Item>/home/zeltak/BK/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/TV/Action/Ashes to Ashes/Season 1/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/TV/Action/Ashes to Ashes/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/TV/Action/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/TV/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/1_Video/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/Videos/</Item>
+      <Item>/home/zeltak/mounts/lraid/raid/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/Gravity.2013.1080p.BluRay.x264-SPARKS [PublicHD]/</Item>
+      <Item>/home/zeltak/org/attach/images_2014/</Item>
+      <Item>/home/zeltak/org/attach/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/Various Artists - Greatest Hits Of The Millennium (1999)/VA - Greatest Hits Of The Millennium 50's CD1/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/T6070/tmp/flacon.4819/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/T6070/tmp/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/T6070/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/American Hustle (2013) [1080p]/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/Nymphomaniac 2013 Volume I  &amp; II UNRATED WEBRip XviD MP3-RARBG/</Item>
+      <Item>/home/zeltak/ZH_tmp/mmm3/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/Various Artists - Greatest Hits Of The Millennium (1999)/</Item>
+      <Item>/home/zeltak/ZH_tmp/mmm2/</Item>
+      <Item>/home/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/completed/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/transmission/</Item>
+      <Item>/home/zeltak/mounts/lraid/Download/</Item>
+      <Item>/home/zeltak/org/</Item>
+      <Item>/home/zeltak/org/files/agenda/</Item>
+      <Item>/home/zeltak/org/files/</Item>
+      <Item>/home/zeltak/.emacs.d/</Item>
+      <Item>/home/zeltak/mounts/lraid/</Item>
+      <Item>/home/zeltak/mounts/</Item>
+      <Item>/home/zeltak/ZH_tmp/</Item>
+      <Item>/home/zeltak/music/Pink Floyd/1979 The Wall/</Item>
+      <Item>/home/zeltak/music/Pink Floyd/</Item>
+      <Item>/home/zeltak/music/New Model Army/1989 Thunder and Consolation/</Item>
+      <Item>/home/zeltak/music/New Model Army/2009 Today Is a Good Day/</Item>
+      <Item>/home/zeltak/music/New Model Army/2007 High/</Item>
+      <Item>/home/zeltak/music/New Model Army/2006 BD3 EP/</Item>
+      <Item>/home/zeltak/music/New Model Army/2005 Carnival/</Item>
+    </Navigation>
+    <CommandLine>
+      <Item>cd ~</Item>
+      <Item>cd /home/zeltak/</Item>
+    </CommandLine>
+    <FileMask>
+      <Item>everybody knows</Item>
+      <Item>tower</Item>
+      <Item>*.iso</Item>
+      <Item>*.app</Item>
+      <Item>*.txt</Item>
+      <Item>*.ini</Item>
+      <Item>*.*</Item>
+      <Item>*.svg</Item>
+    </FileMask>
+    <SearchText>
+      <Item>avi</Item>
+      <Item>scrot</Item>
+      <Item>shot</Item>
+      <Item>screens</Item>
+    </SearchText>
+    <ReplaceText/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

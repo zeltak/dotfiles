@@ -1,0 +1,13 @@
+<amgid>r180</amgid>
+<author>John Franck & Ed Rivadavia</author>
+<genre>Pop/Rock</genre>
+<label>Geffen</label>
+<mood>Campy, Cynical/Sarcastic, Dramatic, Humorous, Irreverent, Outrageous, Playful, Quirky, Silly, Brassy, Energetic, Exuberant, Fun, Rollicking, Rousing, Rowdy</mood>
+<rating>80</rating>
+<review>The much-ballyhooed reunion of the original Aerosmith lineup had pretty much fallen flat on its face after 1985's hit-and-miss Done With Mirrors. Realizing that the band simply couldn't do it alone, A&R guru John Kalodner capitalized on the runaway success of Run-D.M.C.'s cover of "Walk This Way" and decided to draft in the day's top hired hands, including knob-twiddler extraordinaire Bruce Fairbairn and career-revitalizing song doctors Desmond Child and Jim Vallance. Together, they would help craft Permanent Vacation, the album which would reinvent Aerosmith as '80s and '90s superstars. Yet, despite the mostly stellar songwriting, which makes it a strong effort overall, some of the album's nooks and crannies haven't aged all that well because of Fairbairn's overwrought production, featuring an exaggerated sleekness typical of most mid-'80s pop-metal albums. Furthermore, Desmond Child's pedantic writing often compromises the timeliness of even the best material. On the other hand, pre-fab radio gems like "Rag Doll" and "Dude (Looks Like a Lady)" remain largely unassailable from a "delivering the goods" perspective. But remember kids, this is Aerosmith, so that can only mean one thing: a guaranteed number of incredible tracks for any time and place. These include the earthy voodoo blues of "St. John" and the excellent hobo-harmonica fable of "Hangman Jury." And, although some of the remaining cuts lean to the filler side, both the awkwardly Caribbean title track and the cover of the Beatles' "I'm Down" are well executed. Finally, the crowd-pleasing schmaltz of "Angel" showcases the band at the peak of its power ballad cheese. A valiant effort, this album proved to be the crucial catalyst in reintroducing Aerosmith to the masses, but if you're looking for an even better example of the band's renewed strength, check out Pump first. </review>
+<rls_date>Aug 1987</rls_date>
+<style>Album Rock, Contemporary Pop/Rock, Hard Rock, Heavy Metal, Pop-Metal, Arena Rock, Hair Metal</style>
+<theme>Guys Night Out, Mischievous, Party Time</theme>
+<time>51:46</time>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/permanent-vacation-r180/review</url>

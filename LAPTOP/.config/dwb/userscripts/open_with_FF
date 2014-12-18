@@ -1,0 +1,4 @@
+#!/bin/bash
+# dwb: xof
+firefox $DWB_URI
+

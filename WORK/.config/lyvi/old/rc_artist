@@ -1,0 +1,22 @@
+ui_hidden = True
+
+bg=True
+
+bg_opacity=0.5
+
+#bg_color=#121212
+
+bg_local=True
+bg_path_cover=/home/zeltak/Zmusic/<artistinitial>/<artist>/<album>/
+bg_type=cover
+
+mpd_config_file=/home/zeltak/.mpdconf
+
+mpd_host = /home/zeltak/.mpd/socket
+mpd_port=6600
+player=mpd
+
+view=artistbio
+save_lyrics=False
+
+key_quit=Q

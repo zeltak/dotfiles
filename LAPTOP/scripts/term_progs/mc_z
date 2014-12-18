@@ -1,0 +1,2 @@
+#!/bin/bash
+ urxvt -pixmap '/home/zeltak/MLT/terminal/bt.jpg' -name mc_z +sb  -e mc -S Fire_and_Ice.ini

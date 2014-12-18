@@ -1,0 +1,6 @@
+#!/bin/bash    
+
+select sel in $(tmux ls -F '#S'); do
+    break;
+done
+tmux attach -t "$sel"

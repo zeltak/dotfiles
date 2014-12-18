@@ -1,0 +1,11 @@
+[user]
+	email = zeltak@gmail.com
+	name = zeltak
+[credential]
+	helper = cache
+[push]
+	default = simple
+[github]
+	user = zeltak
+[core]
+	editor = vim

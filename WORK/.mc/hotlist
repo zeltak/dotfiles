@@ -1,0 +1,4 @@
+ENTRY "z_dock" URL "/#sh:192.168.0.20/home/zeltak"
+ENTRY "home" URL "/home/zeltak"
+ENTRY "Cluster" URL "/#sh:ekloog@hpcc.sph.harvard.edu/usr1/home/ekloog"
+ENTRY "Zdock" URL "/#sh:192.168.0.20/home/zeltak"

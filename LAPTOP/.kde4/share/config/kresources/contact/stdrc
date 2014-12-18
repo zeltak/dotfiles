@@ -1,0 +1,12 @@
+[General]
+PassiveResourceKeys=
+ResourceKeys=ECPGDeR5L6
+Standard=ECPGDeR5L6
+
+[Resource_ECPGDeR5L6]
+FileFormat=vcard
+ResourceIdentifier=ECPGDeR5L6
+ResourceIsActive=true
+ResourceIsReadOnly=false
+ResourceName=Default Address Book
+ResourceType=file

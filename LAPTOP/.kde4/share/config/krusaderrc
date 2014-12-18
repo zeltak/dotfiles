@@ -1,0 +1,113 @@
+First Time=false
+Version=2.4.0-beta3
+
+[Archives]
+Supported Packers=tar,gzip,bzip2,lzma,xz,unzip,zip,unrar,7z
+
+[Dependencies]
+7z=/usr/bin/7z
+bzip2=/usr/bin/bzip2
+checksum utility=/usr/bin/md5sum
+diff utility=/usr/bin/kdiff3
+gzip=/usr/bin/gzip
+kdesu=/usr/lib/kde4/libexec/kdesu
+kdiff3=/usr/bin/kdiff3
+kget=/usr/bin/kget
+kmail=/usr/bin/kmail
+kompare=/usr/bin/kompare
+krename=/usr/bin/krename
+krusader=/usr/bin/krusader
+locate=/usr/bin/locate
+lzma=/usr/bin/lzma
+mailer=/usr/bin/kmail
+md5sum=/usr/bin/md5sum
+mount=/usr/bin/mount
+sha1sum=/usr/bin/sha1sum
+sha224sum=/usr/bin/sha224sum
+sha256sum=/usr/bin/sha256sum
+sha384sum=/usr/bin/sha384sum
+sha512sum=/usr/bin/sha512sum
+tar=/usr/bin/tar
+umount=/usr/bin/umount
+unrar=/usr/bin/unrar
+unzip=/usr/bin/unzip
+updatedb=/usr/bin/updatedb
+xz=/usr/bin/xz
+zip=/usr/bin/zip
+
+[Konfigurator]
+Window Height=680
+Window Maximized=false
+Window Width=900
+
+[Private]
+Maximized=false
+PopularUrls=file:///home/zeltak/mreview/Caribou - Swim /,file:///home/zeltak/mreview/,file:///home/zeltak/mreview/1994 Mother Tongue/,file:///home/zeltak/mreview/2010 Heavy Metal Fruit/,file:///home/zeltak/
+PopularUrlsRank=20,19,18,16,15
+Start Position=2240,20
+Start Size=624,1164
+cmdline history=
+
+[Protocols]
+Handled Protocols=krarc,iso,tar
+Mimes For iso=application/x-iso,application/x-cd-image,application/x-dvd-image
+Mimes For krarc=application/x-7z,application/x-7z-compressed,application/x-ace,application/x-ace-compressed,application/x-arj,application/x-arj-compressed,application/x-bzip2,application/x-cpio,application/x-deb,application/x-debian-package,application/x-gzip,application/x-jar,application/x-lha,application/x-lha-compressed,application/x-rar,application/x-rar-compressed,application/x-xz,application/x-rpm,application/zip,application/x-zip,application/x-zip-compressed
+Mimes For tar=application/x-tar,application/x-tarz,application/x-bzip-compressed-tar,application/x-compressed-tar,application/x-tbz,application/x-tgz,application/x-xz-compressed-tar
+
+[QueueManager]
+Active=0
+Queues=default
+
+[Startup]
+Left Side Is Active=false
+Splitter Sizes=309,309
+Vertical Mode=false
+
+[Startup][Left Tab Bar]
+ActiveTab=0
+
+[Startup][Left Tab Bar][Tabs][Tab0]
+Properties=0
+Type=0
+Url=/home/zeltak/mreview/Caribou - Swim\s
+
+[Startup][Left Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=07 Hannibal.mp3,Caribou - Swim ,..,1994 Mother Tongue,..,2010 Heavy Metal Fruit,mreview
+Entrys=file:///home/zeltak/mreview/Caribou%20-%20Swim%20,file:///home/zeltak/mreview,file:///home/zeltak/mreview/1994%20Mother%20Tongue,file:///home/zeltak/mreview,file:///home/zeltak/mreview/2010%20Heavy%20Metal%20Fruit,file:///home/zeltak/mreview,file:///home/zeltak
+
+[Startup][Left Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t®\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x013\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00~\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[Startup][Right Tab Bar]
+ActiveTab=0
+
+[Startup][Right Tab Bar][Tabs][Tab0]
+Properties=0
+Type=0
+Url=/home/zeltak
+
+[Startup][Right Tab Bar][Tabs][Tab0][History]
+CurrentIndex=0
+CurrentItems=.config
+Entrys=file:///home/zeltak
+
+[Startup][Right Tab Bar][Tabs][Tab0][View]
+AutoResizeColumns=true
+Descending Sort Order=0
+Filter=3
+FilterApplysToDirs=false
+IconSize=22
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t®\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x01n\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00R\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00~\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+ShowPreviews=false
+Sort Column=0
+
+[ViewerModule]
+FirstRun=false

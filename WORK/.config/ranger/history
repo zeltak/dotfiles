@@ -1,0 +1,45 @@
+shell -d echo -n %d/%f | xsel -i
+search ranger
+search subtle
+mkdir 
+rename OLDsubtle.rb
+rename subtle_unexist.rb
+search sub
+rename subtle.rb
+inc_search dow
+find 
+find down
+inc_search temp
+bulkrename 
+search envy
+inc_search envy
+search X
+search bi
+open_with mpler
+shell  %s
+shell -p 
+shell \
+rename aafont
+rename aafonts
+rename XXaafonts
+rename XXmain
+search the
+rename XXhelpmenu.sh
+rename helpmenu.sh
+shell 
+rename 1.svg
+search theme
+search them
+rename ranger_z
+search uni
+delete seriously? y
+open_with smplaer
+open_with vlc
+
+search down
+touch 
+change_mode 
+search BK
+search i3
+search dot
+search test

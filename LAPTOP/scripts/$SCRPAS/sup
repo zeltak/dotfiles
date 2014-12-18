@@ -1,0 +1,36 @@
+#!/bin/sh
+# delay starting after 2 failed runs
+delay_after=2
+# reset delay counter after 60 seconds
+delay_reset_after=60
+# delay for 30 seconds
+delay=30
+command="$*"
+times_ran=0
+cleanup() {
+if [ -n "$pid" ]; then
+echo "killed... $pid" >&2
+kill $pid
+fi
+exit
+}
+trap cleanup 2 15
+while :; do
+times_ran=$(($times_ran+1))
+if [ $times_ran -gt $delay_after ]; then
+echo "sleeping for $delay seconds after $(($times_ran-1)) runs in $delay_reset_after seconds" >&2
+sleep $delay
+fi
+time_started=`date +%s`
+echo -n "running... " >&2
+$command &
+pid=$!
+echo PID: $pid >&2
+wait $pid
+pid=""
+# reset counter if run long enough
+if [ $(($time_started+$delay_reset_after)) -lt `date +%s` ]; then
+times_ran=0
+fi
+done
+

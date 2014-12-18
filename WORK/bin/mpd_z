@@ -1,0 +1,5 @@
+#!/bin/bash
+urxvt -name mpd1 +sb -e ncmpcpp & 
+sleep 2 && urxvt -name mpd2 -fn "xft:Envy Code R:pixelsize=17" +sb -e lyvi &
+sleep 4 && urxvt -name mpd3 -fn "xft:Envy Code R:pixelsize=12" +sb -e lyvi -c /home/zeltak/.config/lyvi/rc_artist & 
+sleep 6 && urxvt -name mpd4 -e ncmpcpp -c /home/zeltak/.ncmpcpp/alt_config

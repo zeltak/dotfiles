@@ -1,0 +1,23 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Insert Date", 
+    "abbreviation": {
+        "ignoreCase": false, 
+        "wordChars": "[\\w]", 
+        "immediate": false, 
+        "abbreviation": null, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
+    "modes": [], 
+    "showInTrayMenu": false, 
+    "filter": null, 
+    "type": "script", 
+    "store": {}
+}

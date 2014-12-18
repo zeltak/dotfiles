@@ -1,0 +1,2 @@
+#!/bin/bash
+urxvt -fg '#b8b8b8'  -bg  '#1c1c1c'  -name mail_z  -pixmap '/home/zeltak/MLT/terminal/bt.jpg'  +sb   -e mutt

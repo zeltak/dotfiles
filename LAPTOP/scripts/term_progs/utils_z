@@ -1,0 +1,8 @@
+#!/bin/bash
+urxvt -name utils1   +sb  -e htop & 
+sleep 2 && urxvt -name utils2   -e  bash -c "df ; zsh"  &
+sleep 4 && urxvt -name utils3   +sb  -e bash -c "watch -n10 free" &
+sleep 6 && urxvt -name utils4   +sb -e bash -c "saidar"
+
+
+

@@ -1,0 +1,103 @@
+#!/bin/sh
+#----------------------------------------------------
+# Author:       Florian "Bluewind" Pritz <flo@xssn.at>
+# Contributor:  Moritz Wilhelmy
+#
+# Licensed under WTFPL v2
+#   (see COPYING for full license text)
+#
+#----------------------------------------------------
+# Dependencies: curl
+# Optional: xclip
+#----------------------------------------------------
+
+VERSION="0.6.6"
+
+DELETE=
+EXTENSION=""
+GET=
+PASTEBIN="http://paste.xinu.at"
+WARNSIZE=10485760
+USERAGENT="fb-client/$VERSION"
+CLIPBOARD=""
+
+do_upload() {
+  local EXTRA=""
+  if [ "$EXTENSION" ]; then
+    EXTRA="-F extension=$EXTENSION"
+  fi
+  TMPFILE=`mktemp "$TMPDIR/data.XXXXXX"`
+  if [ `stat -c %s "$1"` -gt "$WARNSIZE" ]; then
+    WARNSIZE=`curl -s "$PASTEBIN/file/get_max_size"`
+    if [ `stat -c %s "$1"` -gt "$WARNSIZE" ]; then
+      echo "Warning: Your upload is too big and would be rejected. Maximum size is: $WARNSIZE bytes. Skipping..." >&2
+      return
+    fi
+  fi
+  curl -# -n -L -A $USERAGENT $EXTRA -F "file=@$1" "$PASTEBIN/file/do_upload" > $TMPFILE
+  sed '$d' $TMPFILE >&2
+  URL=`tail -1 $TMPFILE`
+  echo $URL
+  CLIPBOARD="$CLIPBOARD $URL"
+}
+
+read_stdin() {
+  if tty -s; then
+    echo "^C to exit, ^D to send"
+  fi
+  cat > "$1"
+}
+
+help() {
+  cat <<!
+fb-client version $VERSION
+usage: [cat |] `basename "$0"` [switches] [file(s)|ID(s)]
+
+  Upload/nopaste file(s)/stdin to paste.xinu.at and copy URL(s) to clipboard.
+  ~/.netrc: machine paste.xinu.at password PASSWORD
+
+  Switches:
+    -e EXTENSION   extension for default highlighting (e.g. "diff")
+    -d             delete the IDs
+    -g             download the IDs and output on stdout (use with care!)
+    -h             this help
+!
+}
+
+while getopts "e:g:dh" OPTION; do
+  case $OPTION in
+    e) EXTENSION="$OPTARG";;
+    g) GET=1;;
+    d) DELETE=1;;
+    h|\?) help; exit 0;;
+  esac
+done
+
+shift `expr $OPTIND - 1`
+
+
+TMPDIR="`mktemp -d "/tmp/fb.XXXXXX"`"
+trap "rm -rf '${TMPDIR}'" EXIT TERM
+
+if [ $# -eq 0 ]; then
+  read_stdin "$TMPDIR/stdin"
+  do_upload "$TMPDIR/stdin"
+else
+  for i in "$@"; do
+    if [ "$DELETE" ]; then
+      curl -n -L -A $USERAGENT "$PASTEBIN/file/delete/$i"
+    elif [ "$GET" ]; then
+      curl -s -o - -A $USERAGENT "$PASTEBIN/$i"
+    elif echo "$i" | grep -qE "^(f|ht)tp(s)?://.+"; then
+      cd $TMPDIR
+      curl -# -A $USERAGENT -O "$i"
+      for f in *; do
+        do_upload "$f" && rm -f "$f"
+      done
+    else
+      do_upload "$i"
+    fi
+  done
+fi
+
+[ "`which xclip 2>/dev/null`" ] && echo -n $CLIPBOARD | nohup xclip >/dev/null 2>&1

@@ -1,0 +1,75 @@
+// vim:ts=4:sw=4:et
+{
+    // splitv split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "floating": "auto_off",
+            "geometry": {
+               "height": 694,
+               "width": 1264,
+               "x": 1608,
+               "y": 28
+            },
+            "name": "ZKP_2014_08.kdbx - KeePass",
+            "percent": 0.5,
+ 
+           "swallows": [
+               {
+                "class": "^KeePass2$",
+                "instance": "^keepass2$"
+               // "title": "^ZKP_2014_08\\.kdbx\\ \\-\\ KeePass$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "floating": "auto_off",
+            "geometry": {
+               "height": 362,
+               "width": 562,
+               "x": 0,
+               "y": 0
+            },
+            "name": "[mosh] tmux a -d",
+            "percent": 0.5,
+            "swallows": [
+               {
+                "class": "^Termite$",
+                "instance": "^termite$",
+               // "title": "^\\[mosh\\]\\ tmux\\ a\\ \\-d$",
+                "window_role": "^ssh_karif$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    "border": "pixel",
+    "floating": "auto_off",
+    "geometry": {
+       "height": 853,
+       "width": 1023,
+       "x": 0,
+       "y": 0
+    },
+    "name": "Cantata",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^Cantata$",
+        "instance": "^cantata$"
+       // "title": "^Cantata$"
+       }
+    ],
+    "type": "con"
+}
+

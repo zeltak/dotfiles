@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+urxvt -name ssh_home  +sb   -e sh -c "ssh zeltak@zeltak.homelinux.com" 
+
+#urxvt -fg white -bg black -urgentOnBell  -pixmap /home/zeltak/MLT/terminal/bt.jpg -name ssh_home  +sb   -e sh -c "ssh zeltak@zeltak.homelinux.com" 
+#urxvt -fg white -bg black -urgentOnBell  -pixmap /home/zeltak/MLT/terminal/bt.jpg -name ssh_home  +sb   -e sh -c "ssh zeltak@192.168.0.20" 
+

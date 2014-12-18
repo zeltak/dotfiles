@@ -1,0 +1,140 @@
+#mpd config file 1.1.2014
+
+music_directory  		"/home/zeltak/music/"
+db_file  			"/home/zeltak/.mpd/database"
+#log_file 			"syslog"
+pid_file 			"/home/zeltak/.mpd/pid"
+state_file  			"/home/zeltak/.mpd/state"
+playlist_directory  		"/home/zeltak/.mpd/playlists"
+#user 				"zeltak"
+#bind_to_address "192.168.0.20"  #uncomment if you want to access mpd from other machines
+bind_to_address  "0.0.0.0"
+bind_to_address  "/home/zeltak/.mpd/socket"
+#group                                "nogroup"
+port                                  "6600"
+log_level                            "default"
+gapless_mp3_playback                  "yes"
+#restore_paused                       "no"
+save_absolute_paths_in_playlists     "no"
+metadata_to_use                       "artist,album,title,track,name,genre,date,composer,performer,disc,albumartist,albumartistsort,comment"
+auto_update                           "yes"
+#auto_update_depth                    "3"
+#follow_outside_symlinks              "yes"
+#follow_inside_symlinks               "yes"
+#zeroconf_enabled                     "yes"
+#zeroconf_name                        "Music Player"
+
+sticker_file       "/home/zeltak/.mpd/sticker.sql"
+
+#password                             "password@read,add,control,admin"
+#default_permissions                  "read,add,control,admin"
+
+
+###### INPUT PLUGINS #####
+
+input {
+        plugin                        "curl"
+#       proxy                         "proxy.isp.com:8080"
+#       proxy_user                    "user"
+#       proxy_password                "password"
+}
+
+
+##### DECODER #####
+#
+#decoder {
+#       plugin                         "ffmpeg"
+#       enable                         "no"            #disable, because it crashes mpd, if m3u/pls files are present in music_directory
+#}
+
+
+###### OUTPUT PLUGINS #####
+
+# audio_output {
+#  type                                "alsa"
+#  name                                "Alsa Output"
+#  device                              "hw:1,0"  # optional
+  #device                              "hw:0,1"  # optional
+  #format                              "44100:16:2"  # optional
+#  mixer_type                          "software"  # optional
+#  mixer_device                      "default" # optional
+# mixer_control                       "front-pcm"   # optional
+#  mixer_index                       "0"   # optional
+# }
+
+
+#audio_output {
+# type                                "recorder"
+# name                                "My recorder"
+# encoder                             "vorbis"    # optional, vorbis or lame
+# path                                "/var/lib/mpd/recorder/mpd.ogg"
+##  quality                           "5.0"     # do not define if bitrate is defined
+# bitrate                             "128"     # do not define if quality is defined
+# format                              "44100:16:1"
+#}
+
+
+#audio_output {
+#  type                                "httpd"
+#  name                                "Internet Stream"
+#  encoder                             "vorbis"    # optional, vorbis or lame
+#  port                                "8000"
+#  bind_to_address                     "192.168.1.13"    # optional, IPv4 or IPv6
+# quality                              "5.0"     # do not define if bitrate is defined
+#  bitrate                             "128"     # do not define if quality is defined
+# format                               "44100:16:1"
+#  max_clients                         "1"     # optional 0=no limit
+#}
+
+
+audio_output {
+      type                           "pulse"
+      name                           "Pulseaudio"
+#      server                         "127.0.0.1"          # optional
+#      sink                           "remote_server_sink"    # optional
+
+ }
+
+
+# audio_output {
+#       type                           "ao"
+#       name                           "oss"
+#       driver                         "oss"
+#}
+
+
+audio_output {
+        type            "fifo"
+        name            "My FIFO"
+        path            "/tmp/mpd.fifo"
+#        format          "44100:16:1"
+ }
+
+
+##### OPTIONS
+
+#audio_output_format                    "44100:16:2"
+#samplerate_converter                  "Fastest Sinc Interpolator"
+#replaygain                             "album"
+#replaygain_preamp                      "2.7"
+#volume_normalization                  "no"
+#audio_buffer_size                     "2048"
+#buffer_before_play                    "10%"
+#connection_timeout                    "60"
+#max_connections                       "10"
+#max_playlist_length                   "16384"
+#max_command_list_size                 "2048"
+#max_output_buffer_size                "8192"
+#filesystem_charset                    "UTF-8"
+#id3v1_encoding                        "ISO-8859-1"
+
+
+##### SIDPlay decoder ######
+
+#decoder {
+# plugin                               "sidplay"
+# songlength_database                  "/media/C64Music/DOCUMENTS/Songlengths.txt"
+# default_songlength                   "120"
+# filter                               "true"
+#}
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/lapo/Icone/cvs/gnome-icon-theme/scalable/actions"
+   sodipodi:docname="view-refresh.svg"
+   inkscape:export-filename="/home/jimmac/src/cvs/gnome/gnome-icon-theme/16x16/actions/go-previous.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3216">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3218" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3220" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3207">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3209" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3211" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3207"
+       id="linearGradient3214"
+       x1="60.715897"
+       y1="13.031015"
+       x2="60.715897"
+       y2="102.1382"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3216"
+       id="linearGradient3222"
+       x1="61.35524"
+       y1="14.686083"
+       x2="60.961678"
+       y2="109.11631"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666"
+     borderopacity="0.17254902"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="38.997917"
+     inkscape:cy="13.286091"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2518"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     showgrid="false"
+     inkscape:window-width="786"
+     inkscape:window-height="722"
+     inkscape:window-x="489"
+     inkscape:window-y="46" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Go up</dc:title>
+        <dc:date>August 2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:source>http://www.gnome.org</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>up</rdf:li>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>go</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2424"
+       transform="matrix(0.3668174,0.3099156,0.3099156,-0.3668174,-126.45292,64.320666)"
+       inkscape:r_cx="true"
+       inkscape:r_cy="true"
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.12003946;stroke-opacity:1" />
+    <g
+       style="overflow:visible"
+       id="g2518"
+       transform="matrix(0.3425824,0,0,0.3425824,2.7618599,1.4330249)">
+      <g
+         style="overflow:visible"
+         id="g2606"
+         transform="matrix(0.9,0,0,0.9,2.6254053,9.4601793)">
+        <path
+           style="fill:#000000"
+           id="path2608"
+           d="M 76,13 C 75.447,13 75,13.448 75,14 L 75,48 C 75,48.404 75.244,48.769 75.617,48.924 C 75.991,49.079 76.421,48.993 76.707,48.707 C 76.707,48.707 85.507,39.907 86.619,38.795 C 95.622,45.409 101,55.872 101,67 C 101,86.299 85.398,102 66.099,102 C 65.546,102 65.099,102.447 65.099,103 L 65.099,121 C 65.099,121.553 65.546,122 66.099,122 C 96.426,122 121,97.327 121,67 C 121,50.725 113.469,34.967 100.86,24.554 C 102.153,23.261 110.707,14.707 110.707,14.707 C 110.898,14.516 111,14.26 111,14 C 111,13.871 110.975,13.741 110.924,13.617 C 110.77,13.244 110.404,13 110,13 L 76,13 z" />
+        <path
+           style="fill:#000000"
+           id="path2610"
+           d="M 54,113 C 54.553,113 55,112.553 55,112 L 55,78 C 55,77.596 54.756,77.23 54.383,77.076 C 54.009,76.922 53.579,77.008 53.293,77.293 C 53.293,77.293 44.493,86.093 43.381,87.205 C 34.378,80.591 29,70.129 29,59 C 29,39.701 44.602,24 63.901,24 C 64.454,24 64.901,23.552 64.901,23 L 64.901,5 C 64.901,4.448 64.454,4 63.901,4 C 33.574,4 9,28.673 9,59 C 9,75.275 16.531,91.033 29.14,101.446 C 27.847,102.739 19.293,111.293 19.293,111.293 C 19.102,111.484 19,111.74 19,112 C 19,112.129 19.025,112.259 19.076,112.383 C 19.23,112.756 19.596,113 20,113 L 54,113 z" />
+      </g>
+      <path
+         style="fill:url(#linearGradient3222);fill-opacity:1"
+         d="M 105.85474,46.515412 C 102.54044,40.837386 98.177981,35.779075 92.969374,31.654752 L 103.30949,21.31562 L 70.127452,21.31562 L 70.127452,54.497646 L 80.414857,44.210242 C 83.162141,46.130893 84.98325,47.4816 87.058098,50.057106 L 105.85474,46.515412 z"
+         id="path2726" />
+      <path
+         style="fill:url(#linearGradient3214);fill-opacity:1"
+         d="M 13.670077,78.754141 C 13.002468,78.85257 10.577701,66.489445 10.577701,61.42993 C 10.577701,32.750681 33.303603,13.031015 60.715897,13.031015 L 60.715897,30.368016 C 42.441643,30.368016 26.65458,46.031575 28.696847,65.558027 L 13.670077,78.754141 z"
+         id="path2768"
+         sodipodi:nodetypes="cscccc" />
+    </g>
+  </g>
+</svg>

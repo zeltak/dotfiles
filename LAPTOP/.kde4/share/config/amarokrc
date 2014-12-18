@@ -1,0 +1,76 @@
+[$Version]
+update_info=amarok.upd:1
+
+[Analyzer Applet]
+Current Analyzer=Blocky
+Height=120
+
+[Collection]
+Monitor Changes=false
+
+[Collection Browser]
+TreeCategory=3,1
+View Mode=NormalCollections
+
+[Collection Transcoding Preference]
+Encoder=INVALID
+TrackSelection=0
+
+[ConfigDialog]
+Height 900=532
+Width 1600=694
+
+[File Browser]
+Current Directory=file:///home/zeltak
+
+[General]
+Browser Path=root list/collections
+First Run=false
+HiddenOnExit=false
+
+[General Options]
+PlayFirstRunJingle=false
+
+[MainWindow]
+Height 900=864
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAYwAAADCfwBAAAAA/sAAAAkAE0AZQBkAGkAYQAgAFMAbwB1AHIAYwBlAHMAIABkAG8AYwBrAQAAAAAAAAFUAAAAyAAH///7AAAAGABDAG8AbgB0AGUAeAB0ACAAZABvAGMAawEAAAFaAAADfAAAAZAAB///+wAAABoAUABsAGEAeQBsAGkAcwB0ACAAZABvAGMAawEAAATcAAABVAAAAMgAB///AAAAAAAAAwkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYATQBhAGkAbgBUAG8AbwBsAGIAYQByAQAAAAD/////AAAAAAAAAAAAAAAYAFMAbABpAG0AIABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1600=1584
+
+[Playback]
+Master Volume=14
+
+[Playlist Search]
+MatchAlbum=true
+MatchArtist=true
+MatchTrack=true
+ShowOnlyMatches=false
+
+[Podcast View]
+Merged View=false
+
+[Podcasts]
+AutoUpdate Interval=30
+Maximum Simultaneous Downloads=4
+Maximum Simultaneous Updates=4
+
+[Recently Played]
+Display Names=allMeadow & Rob Costlow - Art Of Nations (Amarok Theme)
+Last Played Dates=2014-02-28T17:55:33
+Urls=file:///usr/share/apps/amarok/data/first_run_jingle.ogg
+
+[Saved Playlists View]
+Merged View=false
+
+[ScriptManager]
+LastUpdateCheck=1393602743
+
+[Session]
+LastPlaying=0
+
+[StatSyncing]
+checkedFields=rating,firstplay,lastplay,playcount,label
+excludedLabels=
+providerEnabledStatuses=
+providerIds=
+providerNames=

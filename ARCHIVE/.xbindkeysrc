@@ -1,0 +1,238 @@
+###########################
+# xbindkeys configuration #
+###########################
+#
+# Version: 0.1.3
+#
+# If you edit this, do not forget to uncomment any lines that you change.
+# The pound(#) symbol may be used anywhere for comments.
+#
+# A list of keys is in /usr/include/X11/keysym.h and in
+# /usr/include/X11/keysymdef.h 
+# The XK_ is not needed. 
+#
+# List of modifier (on my keyboard): 
+#   Control, Shift, Mod1 (Alt), Mod2 (NumLock), 
+#   Mod3 (CapsLock), Mod4, Mod5 (Scroll). 
+#
+# Another way to specifie a key is to use 'xev' and set the 
+# keycode with c:nnn or the modifier with m:nnn where nnn is 
+# the keycode or the state returned by xev 
+#
+# This file is created by xbindkey_config 
+# The structure is : 
+# # Remark 
+# "command" 
+# m:xxx + c:xxx 
+# Shift+... 
+
+
+
+
+keystate_numlock = enable
+keystate_scrolllock = enable
+keystate_capslock = enable
+
+
+
+#Main_Term
+"xfce4-terminal"
+    m:0x40 + c:36
+    Mod4 + Return 
+
+#launch_ssh
+"exec /home/zeltak/bin/ssh_karif"
+    m:0x48 + c:25
+    Alt+Mod4 + w 
+
+#dac +
+"ponymix --sink=0 increase 5"
+    m:0x0 + c:171
+    XF86AudioNext 
+
+#dac -
+"ponymix --sink=0 decrease 5"
+    m:0x0 + c:173
+    XF86AudioPrev 
+
+#xkill
+"xkill"
+    m:0x4c + c:53
+    Control+Alt+Mod4 + x 
+
+#Editor
+"emacs "
+    m:0x48 + c:38
+    Alt+Mod4 + a 
+
+#tmux_terms
+"termite -r tmux_terms -e tmux_terms "
+    m:0x48 + c:10
+    Alt+Mod4 + 1 
+
+#Browser
+"dwb"
+    m:0x48 + c:11
+    Alt+Mod4 + 2 
+
+#tmux_office
+"exec urxvt -name tmux_office -e tmux_office"
+    m:0x48 + c:13
+    Alt+Mod4 + 4 
+
+#FM
+"spacefm"
+    m:0x48 + c:24
+    Alt+Mod4 + q 
+
+#Notes
+"emacs -name Org /home/zeltak/Dropbox/Org/agenda/z1.org"
+    m:0x48 + c:26
+    Alt+Mod4 + e 
+
+#touchpad on/off
+"/home/zeltak/bin/trackpad-toggle.sh"
+    m:0x4c + c:28
+    Control+Alt+Mod4 + t 
+
+#lxtask
+"lxtask"
+    m:0xc + c:119
+    Control+Alt + Delete 
+
+#MPD PREV
+"mpc prev"
+    m:0x40 + c:59
+    Mod4 + comma 
+
+#MPD next
+"mpc next"
+    m:0x0 + c:107
+    Print 
+
+#MPD Play/Pause
+"mpc toggle"
+    m:0x0 + c:156
+    XF86Launch1 
+
+#Screenshot
+"/home/zeltak/bin/teiler"
+    m:0x40 + c:118
+    Mod4 + Insert 
+
+#MPD_random_album
+"albumbler"
+    m:0x48 + c:107
+    Alt+Mod4 + Print 
+
+#mpd_console
+"exec urxvt -name tmux_mpd -e tmux_mpd"
+    m:0x48 + c:12
+    Alt+Mod4 + 3 
+
+#mpd vol up
+"mpc volume +4"
+    m:0x1 + c:123
+    Shift + XF86AudioRaiseVolume 
+
+#mpd vol down
+"mpc volume -4"
+    m:0x1 + c:122
+    Shift + XF86AudioLowerVolume 
+
+#mpd_menu
+"/home/zeltak/bin/mpd_menu.sh"
+    m:0x40 + c:107
+    Mod4 + Print 
+
+#mpd_zfav
+"/home/zeltak/bin/mpd_zfav.sh"
+    m:0x4c + c:107
+    Control+Alt+Mod4 + Print 
+
+#suspend
+"systemctl suspend"
+    m:0x4c + c:39
+    Control+Alt+Mod4 + s 
+
+#vol_up
+"/home/zeltak/bin/dvol.sh -i 5"
+    m:0x0 + c:123
+    XF86AudioRaiseVolume 
+
+#vol_down
+"/home/zeltak/bin/dvol.sh -d 5"
+    m:0x0 + c:122
+    XF86AudioLowerVolume 
+
+#vol_mute
+"/home/zeltak/bin/dvol.sh -t"
+    m:0x0 + c:121
+    XF86AudioMute 
+
+#help_menu
+"/home/zeltak/bin/helpmenu.sh"
+    m:0x40 + c:67
+    Mod4 + F1 
+
+#xclip
+"lolictrl"
+    m:0x48 + c:118
+    Alt+Mod4 + Insert 
+
+#vimhelp
+"/home/zeltak/bin/vimhelp.sh"
+    m:0x40 + c:43
+    Mod4 + h 
+
+#scratchpad
+"/home/zeltak/bin/scratchpad_light"
+    m:0x48 + c:36
+    Alt+Mod4 + Return 
+
+#simpleswitch
+"simpleswitcher -i3 -zeltak -now -font "Envy Code R-13" -fg "#ffffff" -bg "#000000" -hlfg "#FFFFFF" -hlbg "#33b5e5" -o 85 "
+    m:0x8 + c:25
+    Alt + w 
+
+#Launcher
+"/home/zeltak/bin/dmenu_launch_history"
+    m:0x8 + c:24
+    Alt + q 
+
+#utils
+"termite -r tmux_utils -e tmux_utils "
+    m:0x48 + c:40
+    Alt+Mod4 + d 
+
+#skype
+"skype"
+    m:0x48 + c:54
+    Alt+Mod4 + c 
+
+#keepass global
+"keepass --auto-type & notify-send "launch""
+    m:0x4c + c:45
+    Control+Alt+Mod4 + k 
+
+#emacs
+"emacsclient -nc"
+    m:0x40 + c:21
+    Mod4 + equal 
+
+#gmpc search
+"gmpc "search database""
+    m:0x40 + c:61
+    Mod4 + slash 
+
+#emacs launch ecapture
+"urxvt -name ecapture -e  emacsclient -c -tt org-protocol://capture://something"
+    m:0x40 + c:30
+    Mod4 + u 
+
+#ssh_home
+"exec /home/zeltak/bin/ssh_home"
+   
+
+#
+# End of xbindkeys configuration

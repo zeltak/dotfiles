@@ -1,0 +1,13 @@
+<amgid>r16303</amgid>
+<author>Steve Huey</author>
+<genre>Pop/Rock</genre>
+<label>Warner Bros.</label>
+<mood>Aggressive, Boisterous, Rousing, Rowdy, Raucous, Carefree, Energetic, Exuberant, Irreverent, Confident, Fun, Playful, Cathartic, Rebellious, Silly</mood>
+<rating>100</rating>
+<review>The Red Hot Chili Peppers' best album, Blood Sugar Sex Magik benefits immensely from Rick Rubin's production -- John Frusciante's guitar is less overpoweringly noisy, leaving room for differing textures and clearer lines, while the band overall is more focused and less indulgent, even if some of the grooves drag on too long. Lyrically, Anthony Kiedis is as preoccupied with sex as ever, whether invoking it as his muse, begging for it, or boasting in great detail about his prowess, best showcased on the infectiously funky singles "Give It Away" and "Suck My Kiss." However, he tempers his testosterone with a more sensitive side, writing about the emotional side of failed relationships ("Breaking the Girl," "I Could Have Lied"), his drug addictions ("Under the Bridge" and an elegy for Hillel Slovak, "My Lovely Man"), and some hippie-ish calls for a peaceful utopia. Three of those last four songs (excluding "My Lovely Man") mark the band's first consistent embrace of lilting acoustic balladry, and while it's not what Kiedis does best as a vocalist, these are some of the album's finest moments, varying and expanding the group's musical and emotional range. Frusciante departed after the supporting tour, leaving Blood Sugar Sex Magik as probably the best album the Chili Peppers will ever make. </review>
+<rls_date>Sep 1991</rls_date>
+<style>Alternative Pop/Rock, Funk Metal, Heavy Metal, Alternative/Indie Rock, Dance-Rock</style>
+<theme>Guys Night Out, Hanging Out, Party Time, Playful, Pool Party</theme>
+<time>73:55</time>
+<type>Explicit Lyrics, Lyrics Included</type>
+<url>http://allmusic.com/album/blood-sugar-sex-magik-r16303/review</url>

@@ -1,0 +1,38 @@
+#!/bin/sh
+
+tmux has-session -t tmux_raid
+if [ $? != 0 ]
+then
+
+#create the main tmux session and detach 
+tmux new-session -s tmux_raid -n Main -d
+
+#create first window
+tmux send-keys -t tmux_raid
+#split that window vert
+tmux split-window -v -t tmux_raid
+#split the botom into 2 horizontoly 
+tmux split-window -h -t tmux_raid
+
+#create 2 window
+tmux new-window -t tmux_raid -n IRC 'weechat-curses'
+
+#create 3 window
+tmux new-window -t tmux_raid -n FM 'mc'
+
+#create 4 window
+tmux new-window -t tmux_raid -n P2P 'transmission-remote-cli'
+
+#create 5 window
+tmux new-window -t tmux_raid -n CP 
+tmux select-window -t tmux_raid:5
+tmux send-keys -t tmux_raid:5.1 'htop' C-m
+tmux split-window -v -t tmux_raid
+
+
+#select default focus
+tmux select-window -t tmux_raid:1
+
+fi
+
+tmux attach -t tmux_raid

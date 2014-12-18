@@ -1,0 +1,11 @@
+<amgid>r31037</amgid>
+<author>Robin Platts</author>
+<genre>Pop/Rock</genre>
+<label>Sony Music Distribution</label>
+<rating>80</rating>
+<review>Released in 1973, Colin Blunstone's second solo album finds him backed by the group Argent on several tracks. (As on Blunstone's first LP, One Year, production was handled by ex-Zombies Rod Argent and Chris White.) Unlike the previous album, Ennismore doesn't rely much on string arrangements, but leans toward pop/rock-style band arrangements. There was apparently a conscious effort to record songs that translated better to a live setting. Opinions differ as to which of the two is Blunstone's best album, but both One Year and Ennismore are consistently strong records and are bound to please anyone who has enjoyed Colin's work with the Zombies. The album included two British hits, "How Could We Dare to Be Wrong" and "I Don't Believe In Miracles." The latter tune was penned by Argent member Russ Ballard and suits Blunstone's voice perfectly. As always, Colin's voice is especially haunting on the quieter, more melancholy numbers, such as "Time's Running Out" and "Exclusively for Me." </review>
+<rls_date>Nov 1972</rls_date>
+<style>Contemporary Pop/Rock</style>
+<time>31:48</time>
+<type>Lyrics Included</type>
+<url>http://allmusic.com/album/ennismore-r31037/review</url>

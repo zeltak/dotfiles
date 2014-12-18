@@ -1,0 +1,2 @@
+#!/bin/bash
+ for i in $(seq 4 5); do mpc find comment "$i" | shuf -n 50 | mpc add; done

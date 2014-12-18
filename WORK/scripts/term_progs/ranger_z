@@ -1,0 +1,2 @@
+#!/bin/bash
+urxvt   -name ranger_z  -pixmap '/home/zeltak/MLT/terminal/bt.jpg'   +sb  -iconic -e ranger

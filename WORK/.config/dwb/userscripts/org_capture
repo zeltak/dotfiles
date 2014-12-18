@@ -1,0 +1,3 @@
+#!/bin/bash
+# dwb: xto
+urxvt -name ecapture -e  emacsclient -c -tt org-protocol://capture://$DWB_TITLE $DWB_URI

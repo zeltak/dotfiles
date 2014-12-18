@@ -1,0 +1,59 @@
+[Quodlibet Extended]
+Author = WovenTales
+Type = G+
+Title = "%t by %a"
+Default = Window(size=80%x80%)
+
+VBmain = HBupper _HPbrowser
+
+    HBupper = _VBleft2 -VBVol 5-Cover
+        VolumeScroll = HBupper
+
+        VBleft2 = HBmenu HBleft 3HBTime
+
+            HBmenu = MBmenu 5Sort 5Filter 5Queue 5Pos -Total
+
+                MBmenu = MainMenuItem LayoutItem PSortItem PFilterItem QueueItem
+
+            HBleft = VBButtons 5_VBText
+
+                VBButtons = HBButtons1 HBButtons2
+
+                    HBButtons1 = Prev Play Next
+
+                    HBButtons2 = OpenBrowser Stop Pref
+
+                VBText = 2HBTitle 2HBArtist 2HBAlbum
+                    HSize0 = Filler0 LockArtist LockAlbum
+                    HSize1 = -Stars -LabelsIcons -Year
+
+                    HBTitle = Filler0 _Title Stars
+
+                    HBArtist = LockArtist _Artist LabelsIcons
+                        VSize0 = 16 HBArtist
+
+                    HBAlbum = LockAlbum _Album(markup="<b>%l</b>  $discname") Year
+
+            HBTime = Time _TimeBar
+
+        VBVol = VolumeIcon _VolumeSlider(1,0)
+
+    HPbrowser = NBfilter \
+               _SongTree(follow=1)
+
+        NBfilter = (tabpos=left90,typesubmenu='PC') \
+                   VBFilterSearch0 \
+                   VBFilterSearch1 \
+                   VBFilterSearch2 \
+                   HBplaylist \
+                   QueueList(group=1,tabtitle=_"Queue")
+   
+                       VBFilterSearch0 = (tabtitle=_"Primary Filter") \
+                                         _FilterPane0(nb=1), 5SimpleSearch0(nb=1)
+                       VBFilterSearch1 = (tabtitle=_"Secondary Filter") \
+                                         _FilterPane1(nb=2), 5SimpleSearch1(nb=2)
+                       VBFilterSearch2 = (tabtitle=_"Tertiary Filter") \
+                                         _FilterPane2(nb=3), 5SimpleSearch2(nb=3)
+                       HBplaylist = (tabtitle=_"Playlist",tabicon="gmb-list") \
+                                    _SongList(playlist,group=2)
+

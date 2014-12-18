@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# set backend, valid choices: rofi, teiler
+backend=rofi
+
+

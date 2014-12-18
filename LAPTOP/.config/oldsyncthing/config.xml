@@ -1,0 +1,52 @@
+<configuration version="7">
+    <folder id="Uni" path="/home/zeltak/Uni" ro="false" rescanIntervalS="60" ignorePerms="false">
+        <device id="TFH4FOZ-O4IKZCC-W66FRHL-XFIWFRG-UTDQ77N-464LRLN-GQSZHF7-MB3Q2Q7"></device>
+        <device id="34KMVKG-3A55EXN-USZRMWN-OK3PIO3-VWDFLP7-MHQD3DM-GWCQ7P5-WVB7CQZ"></device>
+        <versioning></versioning>
+        <lenientMtimes>false</lenientMtimes>
+        <copiers>1</copiers>
+        <pullers>16</pullers>
+        <finishers>1</finishers>
+    </folder>
+    <folder id="sync" path="/home/zeltak/Sync" ro="false" rescanIntervalS="60" ignorePerms="false">
+        <device id="TFH4FOZ-O4IKZCC-W66FRHL-XFIWFRG-UTDQ77N-464LRLN-GQSZHF7-MB3Q2Q7"></device>
+        <device id="34KMVKG-3A55EXN-USZRMWN-OK3PIO3-VWDFLP7-MHQD3DM-GWCQ7P5-WVB7CQZ"></device>
+        <versioning></versioning>
+        <lenientMtimes>false</lenientMtimes>
+        <copiers>1</copiers>
+        <pullers>16</pullers>
+        <finishers>1</finishers>
+    </folder>
+    <device id="TFH4FOZ-O4IKZCC-W66FRHL-XFIWFRG-UTDQ77N-464LRLN-GQSZHF7-MB3Q2Q7" name="zuni" compression="true" introducer="true">
+        <address>dynamic</address>
+    </device>
+    <device id="34KMVKG-3A55EXN-USZRMWN-OK3PIO3-VWDFLP7-MHQD3DM-GWCQ7P5-WVB7CQZ" name="voices" compression="false" introducer="false">
+        <address>dynamic</address>
+    </device>
+    <gui enabled="true" tls="false">
+        <address>127.0.0.1:8080</address>
+    </gui>
+    <options>
+        <listenAddress>0.0.0.0:22000</listenAddress>
+        <globalAnnounceServer>udp4://announce.syncthing.net:22026</globalAnnounceServer>
+        <globalAnnounceEnabled>true</globalAnnounceEnabled>
+        <localAnnounceEnabled>true</localAnnounceEnabled>
+        <localAnnouncePort>21025</localAnnouncePort>
+        <localAnnounceMCAddr>[ff32::5222]:21026</localAnnounceMCAddr>
+        <maxSendKbps>0</maxSendKbps>
+        <maxRecvKbps>0</maxRecvKbps>
+        <reconnectionIntervalS>60</reconnectionIntervalS>
+        <startBrowser>true</startBrowser>
+        <upnpEnabled>true</upnpEnabled>
+        <upnpLeaseMinutes>0</upnpLeaseMinutes>
+        <upnpRenewalMinutes>30</upnpRenewalMinutes>
+        <urAccepted>-1</urAccepted>
+        <urUniqueID></urUniqueID>
+        <restartOnWakeup>true</restartOnWakeup>
+        <autoUpgradeIntervalH>12</autoUpgradeIntervalH>
+        <keepTemporariesH>24</keepTemporariesH>
+        <cacheIgnoredFiles>true</cacheIgnoredFiles>
+        <progressUpdateIntervalS>5</progressUpdateIntervalS>
+        <symlinksEnabled>true</symlinksEnabled>
+    </options>
+</configuration>

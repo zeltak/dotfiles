@@ -1,0 +1,51 @@
+/home/zeltak/MLT/
+/home/zeltak/programs/
+/home/zeltak/media/videos/Defiance[2008]DvDrip[Eng]-Ch4cal/
+/home/zeltak/media/videos/Ashes to ashes/Season 2/
+/home/zeltak/media/videos/Ashes to ashes/
+/home/zeltak/media/videos/
+/home/zeltak/media/mee/
+/home/zeltak/media/
+/home/zeltak/Pictures/Family/Morans Wedding/
+/home/zeltak/Pictures/Family/
+/home/zeltak/Pictures/
+/home/zeltak/.ncmpcpp/
+/home/zeltak/Documents/
+/home/zeltak/Downloads/
+/home/zeltak/.mozilla/extensions/
+/home/zeltak/.mozilla/firefox-4.0/
+/home/zeltak/.mozilla/plugins/
+/home/zeltak/.mozilla/
+/home/zeltak/scripts/term_progs/
+/home/zeltak/.kde/share/config/
+/home/zeltak/.kde/share/
+/home/zeltak/.kde/
+/home/zeltak/Dropbox/uni/projects/aod_PM_MORTALITY/
+/home/zeltak/Dropbox/uni/projects/
+/home/zeltak/Dropbox/uni/
+/home/zeltak/Dropbox/
+/
+/media/
+/home/zeltak/Uni/PostDoc/Journals/statistics/
+/home/zeltak/Uni/PostDoc/Journals/GWr/
+/home/zeltak/Uni/PostDoc/Journals/AOD study/
+/home/zeltak/Uni/PostDoc/Journals/
+/home/zeltak/Uni/PostDoc/Courses/
+/home/zeltak/Uni/PostDoc/
+/home/zeltak/Uni/
+/media/tomb/P2P_Dl/Archer Season 1/
+/media/tomb/P2P_Dl/2_session/
+/media/tomb/P2P_Dl/
+/home/
+/home/zeltak/scripts/utils/
+/home/zeltak/scripts/
+/home/zeltak/.vimperator/plugin/
+/home/zeltak/.vimperator/info/default/
+/home/zeltak/.vimperator/info/
+/home/zeltak/.vimperator/
+/home/zeltak/ZH_tmp/
+/home/zeltak/
+/home/zeltak/homeloads/
+/home/zeltak/.vim/doc/
+/home/zeltak/.vim/nerdtree_plugin/
+/home/zeltak/.vim/plugin/

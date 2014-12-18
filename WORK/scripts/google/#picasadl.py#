@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+import feedparser, os
+items = feedparser.parse("https://picasaweb.google.com/data/feed/base/user/jmadriga/albumid/5657619623023866785?alt=rss&kind=photo&hl=en_US")['items']
+for i in range(0, len(items)):
+    os.system("wget -q %s" % items[i]['media_content'][0]['url'])

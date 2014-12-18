@@ -1,0 +1,3 @@
+#!/bin/bash
+urxvt -fg black -bg white -urgentOnBell  -pixmap /home/zeltak/MLT/terminal/gworld.jpg -name ssh_home  +sb   -e sh -c "ssh -C zeltak@zeltak.homelinux.com" 
+

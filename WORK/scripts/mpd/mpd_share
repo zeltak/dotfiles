@@ -1,0 +1,24 @@
+#!/bin/bash
+OUTPUT_DIR=/home/carnager/Public
+MPD_PATH=/mnt/wasteland/firstwaste/Audio/Rips
+
+
+MPD_PATH2=$(mpc -f %file% | head -n 1)
+FILENAME=$(basename "$MPD_PATH2")
+EXT="${FILENAME##*.}"
+
+cp -f "$MPD_PATH"/"$MPD_PATH2" $OUTPUT_DIR/share.$EXT
+
+cd $OUTPUT_DIR
+if ls *.flac &>/dev/null;
+    then oggenc -q 7 share.flac && rm -f share.flac
+else
+echo " "
+fi
+cd $OUTPUT_DIR
+clear
+echo "Current mpd file serving on port 8000 - do not abort this script yet!"
+echo " "
+echo " "
+python -m http.server 8000
+rm -f share.ogg

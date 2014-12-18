@@ -1,0 +1,2 @@
+#!/bin/bash
+urxvt -fg white  -bg black  -name task_z +sb  -pixmap '/home/zeltak/MLT/terminal/bt.jpg' 

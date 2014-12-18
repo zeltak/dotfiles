@@ -1,0 +1,98 @@
+#!/bin/sh
+## muss command-line music player interface
+# Dan Brown, 2010
+# 
+# note: interactive mode depends on dmenu with
+#       patches for token style multiple search
+#       and filtermode multiple output.
+
+# modify / add your mpc options here.
+# read man mpc
+MPC="mpc -h localhost -p 6600"
+
+HELP_MESSAGE="muss version 0.1
+usage:   \"muss [options] [[not] <keyword>]...\" 
+example: \"muss elvis\"
+         \"muss elv pres not jailhouse\"
+         \"muss lion rich -a -r\"
+         \"muss\" (opens an interactive search menu)
+         \"muss -p -l\"
+         \"muss -n\"
+options:
+ -h help (also recognizes -? --help)
+ -a append to (don't clear) existing playlist
+ -q quiet. disables autoplay for the new playlist
+ -r randomize playlist order for the new playlist
+ -l list items in current playlist (don't browse)
+ -p play/pause current playlist (don't browse)
+ -s stop current playlist (don't browse)
+ -n next song in current playlist (don't browse)
+ -b back to previous song in current playlist (don't browse)
+ -u update music database (don't browse)
+"
+
+PLMARKER="__playlist__ " 
+
+PROG_ARGS=" $* "
+option_check() {
+  # look to see if the user included the option flag in the command
+  # requires one argument, the flag. eg "-a"
+  echo "$PROG_ARGS" | grep -i -E " $1 " > /dev/null
+}
+
+# print help message and usage, then exit
+echo "$PROG_ARGS" | grep -i -E '[ \t]\-{1,2}(help|h|\?)[ \t]' > /dev/null && \
+  echo "$HELP_MESSAGE" && exit
+
+# remember the number of pre-existing playlist items for later removal
+PRE_EXISTING_PLAYLIST_COUNT=`$MPC playlist | wc -l`
+
+# parse arguments for recognized options
+# all non-help (non-early-termination) arguments should be listed below
+IGNOREARGS='-a -q -r -l -p -s -n -b -u'
+NOBROWSEARGS='-l -p -s -n -b -u'
+IGNOREFILTER=" "`echo "$IGNOREARGS" | sed -e 's/ -/ \\\\| -/g'`" "
+NOBROWSEFILTER=" "`echo "$NOBROWSEARGS" | sed -e 's/ -/ \\\\| -/g'`" "
+SEARCHTERMS=`echo "$PROG_ARGS" | sed \
+  -e 's/ /  /g' \
+  -e "s/$IGNOREFILTER/ /Ig"`
+
+if [ `echo $SEARCHTERMS | wc -w` -gt 0 ]
+then
+  # quicksearch mode
+  # matching is done by (full) filepath
+  CRITERIA=`echo $SEARCHTERMS | sed \
+    -e 's/not \(\S\)/__-v__\1/Ig' \
+    -e 's/\S*/| grep -i \"&\"/g' \
+    -e 's/\"__-v__/-v \"/g' \
+    -e 's/ \"-/ \"\\\\-/g'`
+  eval "$MPC listall $CRITERIA" | $MPC add > /dev/null
+  eval "$MPC lsplaylists $CRITERIA" | $MPC load > /dev/null
+elif echo "$PROG_ARGS" | grep -i -v "$NOBROWSEFILTER" > /dev/null
+then
+  # interactive browse/search mode
+  [ -f $HOME/.dmenurc ] && . $HOME/.dmenurc || DMENU='dmenu'
+  DMENU="$DMENU -i -l 10 -f -t"
+  PLAYLISTS_AND_FILES=`$MPC lsplaylists | sed -e "s/.*/$PLMARKER&/"`"\\n"`$MPC listall`
+  ALLMATCHES=`echo "$PLAYLISTS_AND_FILES" | $DMENU`
+  FILEMATCHES=`echo "$ALLMATCHES" | grep -v "$PLMARKER"`
+  [ `echo "$FILEMATCHES" | wc -w` -gt 0 ] && echo "$FILEMATCHES" | $MPC add > /dev/null
+  PLMATCHES=`echo "$ALLMATCHES" | sed -n -e "s/$PLMARKER//p"`
+  [ `echo "$PLMATCHES" | wc -w` -gt 0 ] && echo "$PLMATCHES" | $MPC load > /dev/null
+fi
+
+# remove pre-existing items if we added items and aren't in append mode
+ADD_COUNT=$(( `$MPC playlist | wc -l` - $PRE_EXISTING_PLAYLIST_COUNT ))
+! option_check -a && [ "$ADD_COUNT" -gt 0 ] && [ "$PRE_EXISTING_PLAYLIST_COUNT" -gt 0 ] && \
+  $MPC del "1-$PRE_EXISTING_PLAYLIST_COUNT"
+
+# we need to randomize before autoplay begins
+option_check -r && $MPC shuffle > /dev/null
+option_check -n && $MPC next > /dev/null
+option_check -b && $MPC prev > /dev/null
+! option_check -q && [ "$ADD_COUNT" -gt 0 ] && $MPC play > /dev/null
+option_check -p && $MPC toggle > /dev/null
+option_check -s && $MPC stop > /dev/null
+option_check -l && $MPC playlist
+option_check -u && $MPC update > /dev/null
+

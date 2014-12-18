@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90.000000"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
+   width="48px"
+   height="48px"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/lapo/Icone/tangerine-icon-theme/scalable/actions"
+   sodipodi:docname="gtk-refresh.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3">
+    <linearGradient
+       gradientTransform="translate(-8.8388352e-2,0.3535534)"
+       gradientUnits="userSpaceOnUse"
+       y2="22.935602"
+       x2="12.9958"
+       y1="0.45450485"
+       x1="13.022655"
+       id="linearGradient3182"
+       xlink:href="#linearGradient3176"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3176"
+       inkscape:collect="always">
+      <stop
+         id="stop3178"
+         offset="0"
+         style="stop-color:#4d4d4d;stop-opacity:1;" />
+      <stop
+         id="stop3180"
+         offset="1"
+         style="stop-color:#4d4d4d;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     stroke="#c4a000"
+     fill="#fce94f"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="21.28828"
+     inkscape:cy="29.048627"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1143"
+     inkscape:window-height="749"
+     inkscape:window-x="135"
+     inkscape:window-y="24" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title>View Refresh</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>reload</rdf:li>
+            <rdf:li>refresh</rdf:li>
+            <rdf:li>view</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g2512"
+       transform="matrix(1.9350158,0,0,1.9350158,0.7240185,0.4748548)">
+      <path
+         sodipodi:nodetypes="cccccssccssccc"
+         id="path3229"
+         d="M 12.983428,0.80805825 L 18.299101,6.1237309 L 12.983428,11.439403 L 12.983428,8.25 L 11.920293,8.25 C 8.9860412,8.25 6.6046199,10.631421 6.6046199,13.565672 C 6.6046199,16.499923 8.9860412,18.881345 11.920293,18.881345 C 14.854545,18.881345 17.235966,16.499923 17.235966,13.565672 L 21.488504,13.565672 C 21.488504,18.847325 17.201946,23.133883 11.920293,23.133883 C 6.6386402,23.133883 2.3520817,18.847325 2.3520817,13.565672 C 2.3520817,8.2840203 6.6386402,3.9974618 11.920293,3.9974618 L 12.983428,3.9974618 L 12.983428,0.80805825 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccsccccccccsccsccsc"
+         id="path3309"
+         d="M 12.983428,0.80805825 L 12.983428,3.9974618 L 11.920293,3.9974618 C 6.6386402,3.9974618 2.3520817,8.2840203 2.3520817,13.565672 C 2.3520817,14.965928 2.6746336,16.286944 3.2158785,17.485981 C 3.7360479,15.715676 4.9395524,14.112394 6.6710658,12.801544 C 7.0473155,10.235011 9.2498421,8.25 11.920293,8.25 L 12.983428,8.25 L 12.983428,11.439403 L 18.299101,6.1237309 L 12.983428,0.80805825 z M 10.524929,9.5789182 C 10.377457,9.6303354 10.232613,9.6783293 10.093031,9.7450329 C 10.233924,9.6774398 10.375965,9.630965 10.524929,9.5789182 z M 1.3553931,14.66203 C 1.3937531,15.014321 1.4484014,15.351273 1.5215079,15.691941 C 1.4506595,15.346007 1.3917098,15.01928 1.3553931,14.66203 z M 1.5215079,15.691941 C 1.561368,15.877686 1.6047789,16.074747 1.6543997,16.256731 C 1.6054594,16.070473 1.5604388,15.882034 1.5215079,15.691941 z"
+         style="fill:url(#linearGradient3182);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
