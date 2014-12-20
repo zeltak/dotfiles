@@ -20,8 +20,8 @@ URxvt*underlineColor: #333333
 !URxvt*keysym.M-equal:   command:\033]710;xft:Envy Code R:pixelsize=13\007
 !URxvt*keysym.M-plus:    command:\033]710;xft:Envy Code R:pixelsize=15\007
 ! font preference
-URxvt*font:      xft:Envy Code R:pixelsize=13
-URxvt*boldFont:  xft:Envy Code R:pixelsize=13
+URxvt*font:      xft:PragmataPro:pixelsize=13
+URxvt*boldFont:  xft:PragmataPro:pixelsize=13
 !this can change dramatically the way the font looks (smoothnes, space etc) play with it -2,-1,0 to get desired look
 URxvt*letterSpace: -1
 URxvt*geometry:	150x35
@@ -32,19 +32,19 @@ URxvt*perl-lib:           /usr/lib/urxvt/perl/
 URxvt*matcher.button:     1
 URxvt.perl-ext-common:  default,url-select,matcher,keyboard-select,clipboard
 !keyboard selection
-URxvt.keysym.M-y:      perl:keyboard-select:activate
+!URxvt.keysym.M-y:      perl:keyboard-select:activate
 !clipboard options
-URxvt.keysym.M-c:   perl:clipboard:copy
-URxvt.keysym.M-v:   perl:clipboard:paste
-URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+!URxvt.keysym.M-c:   perl:clipboard:copy
+!URxvt.keysym.M-v:   perl:clipboard:paste
+!URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
 !URL stuff
 URxvt.underlineURLs:    true
 URxvt.url-select.underline: true
 URxvt.keysym.M-u:           perl:url-select:select_next
 !Search
 URxvt.keysym.M-s:           perl:keyboard-select:search
-URxvt.url-select.launcher:  dwb
-URxvt.urlLauncher:      /usr/bin/dwb
+URxvt.url-select.launcher:  chromium
+URxvt.urlLauncher:      /usr/bin/chromium
 URxvt*urgentOnBell: False
 
 

@@ -1,35 +1,80 @@
 [global_config]
-  borderless = True
   handle_size = 0
+  title_hide_sizetext = True
+  borderless = True
+  geometry_hinting = False
   tab_position = bottom
+  inactive_color_offset = 1.12
 [keybindings]
 [profiles]
   [[default]]
+    foreground_color = "#657b83"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     font = PragmataPro 11
     background_image = None
-    cursor_shape = underline
     use_system_font = False
-    cursor_color = "#13cde6"
-    foreground_color = "#657b83"
+    cursor_color = "#38ff00"
+    cursor_blink = False
     icon_bell = False
+    scrollbar_position = hidden
+    show_titlebar = False
     copy_on_selection = True
     background_color = "#fdf6e3"
     allow_bold = False
-  [[Z1]]
+  [[Zlight]]
+    scrollbar_position = hidden
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    visible_bell = True
+    background_image = None
+    urgent_bell = True
+    use_system_font = False
+    cursor_color = "#38ff00"
+    foreground_color = "#657b83"
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#fdf6e3"
+    allow_bold = False
+    audible_bell = True
+  [[Zdark]]
+    foreground_color = "#839496"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     font = PragmataPro 11
     visible_bell = True
     background_image = None
     urgent_bell = True
-    cursor_shape = underline
     use_system_font = False
-    cursor_color = "#13cde6"
-    foreground_color = "#657b83"
+    cursor_color = "#38ff00"
+    cursor_blink = False
+    scrollbar_position = hidden
+    show_titlebar = False
     copy_on_selection = True
-    background_color = "#fdf6e3"
+    background_color = "#002b36"
     allow_bold = False
     audible_bell = True
+  [[Zfm]]
+    foreground_color = "#00ff00"
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#1e90ff:#cd00cd:#00cdcd:#e5e5e5:#4c4c4c:#ff0000:#00ff00:#ffff00:#4682b4:#ff00ff:#00ffff:#ffffff"
+    visible_bell = True
+    background_image = None
+    urgent_bell = True
+    use_system_font = False
+    cursor_color = "#38ff00"
+    cursor_blink = False
+    show_titlebar = False
+    font = PragmataPro 11
+    allow_bold = False
+    audible_bell = True
+  [[Zroot]]
+    foreground_color = "#ffffff"
+    palette = "#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#f7feff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff"
+    background_image = None
+    use_system_font = False
+    cursor_color = "#38ff00"
+    cursor_blink = False
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#ff0009"
+    allow_bold = False
 [layouts]
   [[default]]
     [[[child1]]]

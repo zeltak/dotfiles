@@ -10308,7 +10308,7 @@ filetypes {
 							separateeachentry = false;
 							recursive = false;
 							start = normal;
-							com = "okular {F}";
+							com = "mcomix {F}";
 							viewstr = "";
 							inbackground = true;
 							takedirs = false;

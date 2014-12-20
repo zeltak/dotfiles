@@ -1,9 +1,9 @@
-sw_volume: 76
+sw_volume: 26
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
+state: play
 current: 0
-time: 155.000000
+time: 120.302000
 random: 0
 repeat: 0
 single: 0
@@ -12,102 +12,25 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Crosby, Stills, Nash & Young/1987 Déjà vu/09 Country Girl_ Whiskey Boot Hill - Down, Down, Down - _Country Girl_ (I Think You're Pretty).flac
-1:David Bowie/1979 Lodger/05 Red Sails.flac
-2:Randy Newman/1987 Lonely at the Top_ The Best of Randy Newman/21 I Love L.A_.mp3
-3:Belle and Sebastian/1996 If You’re Feeling Sinister/03 Me and the Major.flac
-4:Doors, The/1971 L.A. Woman/05 L.A. Woman.mp3
-5:2Soundtracks/Help!/09 It’s Only Love.flac
-6:Amanda Palmer/2008 Who Killed Amanda Palmer/07 Guitar Hero.mp3
-7:Janis Joplin/1973 Janis Joplin's Greatest Hits/01 Piece of My Heart.mp3
-8:Led Zeppelin/1975 Physical Graffiti/07 In the Light.flac
-9:Mamas & the Papas, The/1966 If You Can Believe Your Eyes and Ears/06 Go Where You Wanna Go.flac
-10:Jethro Tull/1974 War Child/06 Skating Away on the Thin Ice of the New Day.flac
-11:2Soundtracks/Magnolia/04 Deathly.flac
-12:David Bowie/1997 Earthling/08 I'm Afraid of Americans.flac
-13:Radiohead/1993 Pablo Honey/06 Anyone Can Play Guitar.mp3
-14:1Singles/Bob Dylan/2013 Bob Dylan Hits/04 Like a Rolling Stone.mp3
-15:Presidents of the United States of America, The/1995 The Presidents of the United States of America/07 Dune Buggy.mp3
-16:Crosby, Stills, Nash & Young/1992 Teach Your Children/14 Long Time Gone.mp3
-17:Led Zeppelin/1969 Led Zeppelin II/05 Heartbreaker.flac
-18:Matti Caspi/2004 מתי כספי המיטב/10 ארץ טרופית יפה.mp3
-19:Alice in Chains/1990 Facelift/02 Man in the Box.flac
-20:David Bowie/1972 The Rise and Fall of Ziggy Stardust and the Spiders From Mars/04 Starman.flac
-21:Jackson C. Frank/1996 Blues Run the Game/01 Blues Run the Game.flac
-22:Ian Anderson/2012 Thick as a Brick 2/04 Upper Sixth Loan Shark.flac
-23:Depeche Mode/1990 Violator/03 Personal Jesus.mp3
-24:Soundgarden/1991 Badmotorfinger/04 Jesus Christ Pose.flac
-25:2Soundtracks/The Blues Brothers/05 Everybody Needs Somebody to Love.mp3
-26:Alice in Chains/1992 Dirt/04 Down in a Hole.flac
-27:Neil Young/1993 Unplugged/11 Unknown Legend.mp3
-28:Jefferson Airplane/1990 Surrealistic Pillow/02 Somebody to Love.mp3
-29:Bob Dylan/1975 Blood on the Tracks/02 Simple Twist of Fate.flac
-30:Cat Stevens/1970 Tea for the Tillerman/10 Father and Son.mp3
-31:Metallica/1986 Master of Puppets/04 Welcome Home (Sanitarium).flac
-32:Radiohead/2003 Hail to the Thief/08 The Gloaming. (Softly Open Our Mouths In The Cold.).flac
-33:Arik Einstein and Shalom Hanoch/2000 אריק איינשטיין ושלום חנוך האוסף/06 קח לך אישה.mp3
-34:Pearl Jam/2000 Binaural/07 Insignificance.flac
-35:Pink Floyd/1977 Animals/05 Pigs on the Wing, Part 2.flac
-36:Zombies, The/1968 Odessey and Oracle/06 Hung Up on a Dream.flac
-37:Led Zeppelin/1982 Coda/01 We're Gonna Groove.flac
-38:Lou Reed/1972 Transformer/01 Vicious.mp3
-39:New Pornographers, The/2010 Together/03 Your Hands (Together).flac
-40:Billy Joel/1998 The Stranger/04 Scenes From an Italian Restaurant.flac
-41:Metallica/1988 …and Justice for All/05 The Shortest Straw.flac
-42:Iron Maiden/2002 Piece of Mind/02 Revelations.flac
-43:1Singles/Millennium/2013 Millennium Hits/11 Another Time.mp3
-44:Crowded House/1994 Together Alone/07 Locked Out.flac
-45:Radiohead/2011 The King of Limbs/02 Morning Mr Magpie.flac
-46:Colin Blunstone/1988 One Year/09 Let Me Come Closer to You.flac
-47:CAKE/1998 Prolonging the Magic/09 Hem of Your Garment.flac
-48:Bob Marley/2001 Hits/01 Iron Lion Zion.mp3
-49:Arik Einstein/2000 אריק איינשטיין האוסף/10 למה לי לקחת ללב.mp3
-50:Manic Street Preachers/1999 This Is My Truth Tell Me Yours/03 You Stole the Sun From My Heart.mp3
-51:Iron Maiden/1986 Somewhere in Time/01 Caught Somewhere in Time.flac
-52:Porcupine Tree/2009 The Incident/09 Time Flies.flac
-53:Rush/1983 Signals/01 Subdivisions.mp3
-54:Ben Folds Five/1999 The Unauthorized Biography of Reinhold Messner/03 Mess.flac
-55:1Singles/Kate Bush/2013 Kate Bush Hits/03 Running Up That Hill (A Deal With God).mp3
-56:Paul Simon/2006 Surprise/01 How Can You Live in the Northeast_.mp3
-57:Beach Boys, The/1986 Made in U.S.A_/05 Surfer Girl.mp3
-58:Aimee Mann/1995 I'm With Stupid/03 Sugarcoated.flac
-59:Deep Purple/1980 Deep Purple Hits/01 Burn.mp3
-60:Jethro Tull/1976 Too Old to Rock 'n' Roll_ Too Young to Die!/12 Strip Cartoon.flac
-61:Steely Dan/1976 The Royal Scam/07 Haitian Divorce.flac
-62:Cranberries, The/2002 Stars_ The Best of 1992-2002/01 Dreams.mp3
-63:Neil Young/1993 Unplugged/02 Mr. Soul.mp3
-64:1Singles/Roxy Music/2013 Roxy Music Hits/04 Oh Yeah.mp3
-65:Audioslave/2002 Audioslave/06 Set It Off.mp3
-66:Radiohead/2003 Hail to the Thief/13 Scatterbrain. (As Dead As Leaves.).flac
-67:Jethro Tull/1988 20 Years of Jethro Tull/17 March of the Mad Scientist.mp3
-68:Supertramp/1979 Breakfast in America/01 Gone Hollywood.flac
-69:CAKE/1994 Motorcade of Generosity/10 Rock 'n' Roll Lifestyle.flac
-70:Crosby, Stills, Nash & Young/1987 Déjà vu/10 Everybody I Love You.flac
-71:1Singles/Elvis Costello/2013 Elvis Costello Hits/05 I Want You.mp3
-72:Crosby, Stills & Nash/1990 CSN/01 Shadow Captain.flac
-73:Neil Young/1993 Unplugged/01 The Old Laughing Lady.mp3
-74:David Bowie/2005 David Bowie Hits/05 Ashes to Ashes.mp3
-75:Simon & Garfunkel/1997 Old Friends/41 Mrs. Robinson.flac
-76:Cat Stevens/1967 Matthew & Son/02 I Love My Dog.mp3
-77:1Singles/Dandy Warhols/2013 Dandy Warhols Hits/04 Get Off.mp3
-78:Simon & Garfunkel/1997 Old Friends/48 Why Don't You Write Me.flac
-79:Alanis Morissette/1995 Jagged Little Pill/01 All I Really Want.flac
-80:Iron Maiden/1981 Killers/01 The Ides of March.flac
-81:Crosby, Stills, Nash & Young/1992 Teach Your Children/03 Woodstock.mp3
-82:Rage Against the Machine/1999 The Battle of Los Angeles/03 Calm Like a Bomb.flac
-83:1Singles/Dire Straits/2013 Dire Straits Hits/01 Calling Elvis.mp3
-84:2Soundtracks/A Hard Day's Night/13 I’ll Be Back.flac
-85:Red Hot Chili Peppers/2002 By the Way/06 The Zephyr Song.mp3
-86:Smiths, The/1993 The World Won't Listen/14 That Joke Isn't Funny Anymore.flac
-87:Finn Brothers, The/2004 Everyone Is Here/07 A Life Between Us.flac
-88:Neil Young/1988 Decade/14 After the Gold Rush.mp3
-89:Elliott Smith/2000 Figure 8/02 Somebody That I Used to Know.flac
-90:Emerson, Lake & Palmer/1972 Trilogy/07 Trilogy.mp3
-91:Steely Dan/2000 Two Against Nature/02 What a Shame About Me.flac
-92:Bee Gees/1996 Trafalgar/02 Israel.mp3
-93:Elliott Smith/2000 Figure 8/03 Junk Bond Trader.flac
-94:Automatic, The/2006 Not Accepted Anywhere/02 Raoul.flac
-95:Manic Street Preachers/1999 This Is My Truth Tell Me Yours/02 If You Tolerate This Your Children Will Be Next.mp3
-96:Air/1998 Moon Safari/03 All I Need.flac
-97:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/16 Something So Strong.flac
+0:Yardbirds, The/2008 The Very Best of The Yardbirds/02 Heart Full of Soul.flac
+1:Yardbirds, The/2008 The Very Best of The Yardbirds/03 Good Morning Little Schoolgirl.flac
+2:Yardbirds, The/2008 The Very Best of The Yardbirds/04 Still I'm Sad.flac
+3:Yardbirds, The/2008 The Very Best of The Yardbirds/05 Evil Hearted You.flac
+4:Yardbirds, The/2008 The Very Best of The Yardbirds/06 A Certain Girl.flac
+5:Yardbirds, The/2008 The Very Best of The Yardbirds/07 Jeff's Blues.flac
+6:Yardbirds, The/2008 The Very Best of The Yardbirds/08 I Wish You Would.flac
+7:Yardbirds, The/2008 The Very Best of The Yardbirds/09 New York City.flac
+8:Yardbirds, The/2008 The Very Best of The Yardbirds/10 I'm Not Talking.flac
+9:Yardbirds, The/2008 The Very Best of The Yardbirds/11 You're a Better Man Than I.flac
+10:Yardbirds, The/2008 The Very Best of The Yardbirds/12 Shapes of Things.flac
+11:Yardbirds, The/2008 The Very Best of The Yardbirds/13 I'm a Man.flac
+12:Yardbirds, The/2008 The Very Best of The Yardbirds/14 Boom Boom.flac
+13:Yardbirds, The/2008 The Very Best of The Yardbirds/15 Smokestack Lightning (live).flac
+14:Yardbirds, The/2008 The Very Best of The Yardbirds/16 Let It Rock (live).flac
+15:Yardbirds, The/2008 The Very Best of The Yardbirds/17 You Can't Judge a Book by Its Cover.flac
+16:Yardbirds, The/2008 The Very Best of The Yardbirds/18 Who Do You Love (live).flac
+17:Yardbirds, The/2008 The Very Best of The Yardbirds/19 Too Much Monkey Business (live).flac
+18:Yardbirds, The/2008 The Very Best of The Yardbirds/20 Respectable (live).flac
+19:Yardbirds, The/2008 The Very Best of The Yardbirds/21 Pretty Girl (live).flac
+20:Yardbirds, The/2008 The Very Best of The Yardbirds/22 Stroll On.flac
 playlist_end

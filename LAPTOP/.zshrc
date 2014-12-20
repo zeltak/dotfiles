@@ -296,6 +296,3 @@ export PATH="/home/zeltak/perl5/bin:$PATH";
 alias grep="/usr/bin/grep $GREP_OPTIONS"
 unset GREP_OPTIONS
 
-#jarvis
-#source /home/zeltak/.jrc
-. /home/zeltak/.jrc

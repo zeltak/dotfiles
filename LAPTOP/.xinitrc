@@ -2,10 +2,12 @@
 
 /home/zeltak/bin/autostart.sh &
 
-xrdb -load ~/.Xdefaults &
-
 # Load language layouts and set toggler
 setxkbmap -layout us,il -option grp:caps_toggle
+
+#load Xresources
+[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+
 
 ##$NOTE$: #for xinit you need to use $1 / with startx $2
 

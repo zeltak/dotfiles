@@ -1081,7 +1081,7 @@ buttons {
 				separateeachentry = false;
 				recursive = false;
 				start = normal;
-				com = "lilyterm -u /home/zeltak/.config/lilyterm/termfm.conf -R termfm";
+				com = "terminator  -r termfm";
 				viewstr = "";
 				inbackground = true;
 				takedirs = false;
