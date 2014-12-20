@@ -336,7 +336,7 @@
 /home/zeltak/.emacs.d/.git/objects/ff
 /home/zeltak/.emacs.d/auto-save-list
 /home/zeltak/.emacs.d/backups
-/home/zeltak/.emacs.d/elpa/archives
+/home/zeltak/.emacs.d/elpa/archives/melpa
 /home/zeltak/.emacs.d/elpa/goto-chg-20131228.1459
 /home/zeltak/.emacs.d/elpa/yasnippet-20140720.1534/snippets
 /home/zeltak/.emacs.d/elpa/ace-jump-mode-20140616.115
@@ -360,6 +360,7 @@
 /home/zeltak/.emacs.d/eshell
 /home/zeltak/.emacs.d/var/pcache
 /home/zeltak/.emacs.d/abbrv
+/home/zeltak/.emacs.d/image-dired
 /home/zeltak/Downloads/SWEET TOOTH _ 40 comicsall.org.cbr
 /home/zeltak/Downloads/SWEET TOOTH _ 40 comicsall.org.cbr#urar
 /home/zeltak/Downloads/test/3kmaod
@@ -1488,6 +1489,7 @@
 /home/zeltak/BK/org/2.8.2014
 /home/zeltak/BK/org/19.10.2014
 /home/zeltak/BK/org/5.12.2014/agenda
+/home/zeltak/BK/org/leuven
 /home/zeltak/BK/worker/19.3.2014
 /home/zeltak/BK/worker/21.3.2014
 /home/zeltak/BK/worker/29.10.2014
@@ -1853,6 +1855,7 @@
 /home/zeltak/.local/share/gnome-shell/extensions/gpaste_integration@awamper.gmail.com
 /home/zeltak/.local/share/gnome-shell/extensions/transmission-daemon@patapon.info
 /home/zeltak/.local/share/clipit
+/home/zeltak/.local/share/emacs-saves
 /home/zeltak/vimperator/.vimperator/info/default
 /home/zeltak/.pentadactyl/plugins
 /home/zeltak/.pentadactyl/colors
