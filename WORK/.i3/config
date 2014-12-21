@@ -251,10 +251,10 @@ colors {
         urgent_workspace   #2f343a #900000 #ffffff
 }
 #for the conky bar part
-        status_command $HOME/bin/conky-i3bar
+#        status_command $HOME/bin/conky-i3bar
         position top
         tray_output primary
-#        mode hide
+        mode hide
 }
 
 
