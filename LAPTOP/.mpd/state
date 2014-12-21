@@ -1,9 +1,9 @@
-sw_volume: 22
+sw_volume: 96
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
+state: play
 current: 0
-time: 79.621000
+time: 120.047000
 random: 0
 repeat: 0
 single: 0
@@ -12,13 +12,83 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/07 Trout Heart Replica.flac
-1:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/08 A Grand Theft Intermission.flac
-2:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/09 Lost.flac
-3:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/10 Bottomfeeder.flac
-4:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/11 The Bed Song.flac
-5:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/12 Massachusetts Avenue.flac
-6:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/13 Melody Dean.flac
-7:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/14 Berlin.flac
-8:Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil/15 Olly Olly Oxen Free.flac
+0:Queen/1977 News of the World/02 We Are the Champions.flac
+1:Bob Marley/1984 Legend_ The Best of Bob Marley and the Wailers/13 Exodus.mp3
+2:3Compilations/2013 Judgment Night/01 Just Another Victim.mp3
+3:Cat Stevens/1971 Teaser and the Firecat/09 Moonshadow.mp3
+4:Metallica/1998 Garage Inc_/05 Die, Die My Darling.mp3
+5:Beatles, The/2009 Past Masters/25 Hey Jude.flac
+6:Jethro Tull/2011 Aqualung (40th Anniversary Special Edition)/05 Wond'ring Aloud [New Stereo Mix].flac
+7:Neil Young/1978 Comes a Time/03 Look Out for My Love.flac
+8:Billy Joel/1987 52nd Street/03 My Life.flac
+9:Rush/1989 Hemispheres/02 Circumstances.mp3
+10:Simon & Garfunkel/1997 Old Friends/37 You Don't Know Where Your Interest Lies.flac
+11:2Soundtracks/Help!/13 Yesterday.flac
+12:Rush/1997 Permanent Waves/03 Jacob's Ladder.flac
+13:Bob Marley/1984 Legend_ The Best of Bob Marley and the Wailers/02 No Woman, No Cry (live, 1975_ London).mp3
+14:Fleetwood Mac/1988 Greatest Hits/12 Little Lies.mp3
+15:Iron Maiden/1986 Somewhere in Time/02 Wasted Years.flac
+16:Guns N’ Roses/1991 Use Your Illusion II/04 Knockin' on Heaven's Door.mp3
+17:Ben Folds Five/1997 Naked Baby Photos/04 Alice Childress (live, 1995-10-16_ KCRW, Los Angeles).mp3
+18:Randy Newman/1987 Lonely at the Top_ The Best of Randy Newman/01 Love Story.mp3
+19:Billy Joel/1998 An Innocent Man/06 Uptown Girl.mp3
+20:Billy Joel/1985 Greatest Hits, Volume I & Volume II/13 Big Shot.mp3
+21:David Bowie/1979 Lodger/07 Look Back in Anger.flac
+22:Steely Dan/1980 Gaucho/03 Glamour Profession.flac
+23:New Pornographers, The/2003 Mass Romantic/11 The Mary Martin Show.flac
+24:Soundgarden/1994 Superunknown/06 Head Down.flac
+25:Beach Boys, The/1970 Sunflower/02 This Whole World.flac
+26:Weezer/2001 Weezer/01 Don't Let Go.mp3
+27:Beach Boys, The/1966 Pet Sounds/10 Here Today.flac
+28:Pink Floyd/1983 The Final Cut/02 Your Possible Pasts.flac
+29:2Soundtracks/Obscured by Clouds/09 Stay.flac
+30:Muse/2001 Origin of Symmetry/05 Plug In Baby.flac
+31:Yes/1977 Going for the One/02 Turn of the Century.flac
+32:Billy Joel/1985 Greatest Hits, Volume I & Volume II/22 Uptown Girl.mp3
+33:2Soundtracks/Help!/09 It’s Only Love.flac
+34:Jethro Tull/1993 Nightcap_ The Unreleased Masters 1973-1991/12 Audition.flac
+35:Gentle Giant/1970 Gentle Giant/05 Nothing at All.flac
+36:Presidents of the United States of America, The/1995 The Presidents of the United States of America/03 Lump.mp3
+37:Leonard Cohen/1979 Recent Songs/01 The Guests.flac
+38:Led Zeppelin/1969 Led Zeppelin II/05 Heartbreaker.flac
+39:Ben Folds Five/1995 Ben Folds Five/11 The Last Polka.flac
+40:Suede/1993 Suede/01 So Young.flac
+41:Grandaddy/2003 Sumday/01 Now It's On.mp3
+42:Neil Young/1974 On the Beach/05 Vampire Blues.flac
+43:Radiohead/1995 The Bends/07 Just.flac
+44:Neil Young/1989 Freedom/12 Rockin' in the Free World.flac
+45:Stevie Wonder/1968 For Once in My Life/01 For Once in My Life.mp3
+46:Gomez/2006 How We Operate/02 See the World.mp3
+47:Beck/1996 Odelay/08 Where It's At.mp3
+48:Air/1998 Moon Safari/06 Remember.flac
+49:Neil Young/2011 A Treasure/09 Get Back to the Country.mp3
+50:Simon & Garfunkel/1997 Old Friends/53 Cecilia.flac
+51:Crowded House/2007 Time on Earth/10 English Trees.flac
+52:U2/1991 Achtung Baby/07 The Fly.mp3
+53:Blues Traveler/1990 Blues Traveler/02 Gina.mp3
+54:Doors, The/1967 The Doors/05 Alabama Song (Whisky Bar).mp3
+55:Neil Young/1993 Unplugged/01 The Old Laughing Lady.mp3
+56:Dire Straits/1984 Alchemy_ Dire Straits Live/05 Private Investigations.flac
+57:Don McLean/1971 American Pie/01 American Pie.mp3
+58:Guns N’ Roses/1987 Appetite for Destruction/06 Paradise City.mp3
+59:Crowded House/2007 Time on Earth/05 Pour le Monde.flac
+60:Prodigy, The/1997 The Rest, The Unreleased! The Last!/07 Voodoo People.mp3
+61:Aerosmith/1993 Get a Grip/05 Livin' on the Edge.mp3
+62:Queen/1986 A Kind of Magic/09 Princes of the Universe.flac
+63:Pearl Jam/1998 Yield/07 Do the Evolution.flac
+64:Rush/1989 Hemispheres/01 Cygnus X-1, Book II_ Hemispheres_ I. Prelude _ II. Apollo_ Bringer of Wisdom _ III. Dionysus_ Bringer of Love _ IV. Armageddon_ The Battle of Heart and Mind _ V. Cygnus_ Bringer of Balance _ VI.mp3
+65:1Singles/America/2013 America Hits/02 A Horse With No Name.mp3
+66:Simon & Garfunkel/1997 Old Friends/42 Old Friends _ Bookends.flac
+67:3Compilations/2013 Eagle Vs Shark/09 I Don't Want.mp3
+68:Frank Black/1994 Teenager of the Year/03 (I Want to Live on an) Abstract Plain.mp3
+69:Beach Boys, The/1966 Pet Sounds/05 I’m Waiting for the Day.flac
+70:Crowded House/1994 Together Alone/05 Fingers of Love.flac
+71:1Singles/Alanis Morissette/2013 Alanis Morissette Hits/05 Uninvited.mp3
+72:1Singles/Beastie Boys/2013 Beastie Boys Hits/12 So What’cha Want.mp3
+73:1Singles/Gary Moore/2013 Gary Moore Hits/02 Still Got the Blues.mp3
+74:3Compilations/2013 Garden State/10 The Only Living Boy in New York.mp3
+75:Pearl Jam/2009 Backspacer/04 Johnny Guitar.mp3
+76:1Singles/Edwyn Collins/2013 Edwyn Collins Hits/02 A Girl Like You.mp3
+77:Porcupine Tree/2003 In Absentia/02 Trains.flac
+78:Led Zeppelin/1979 In Through the Out Door/04 Hot Dog.flac
 playlist_end
