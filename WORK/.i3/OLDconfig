@@ -1,0 +1,374 @@
+# zeltak i3 config file- Work debian
+#
+# Please see http://i3wm.org/docs/userguide.html for a complete reference!
+
+#set variable names
+set $mod Mod4
+
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+
+# kill focused window
+bindsym $mod+k kill
+
+# change focus
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+#weechat like go back and forth (press mod+WS key twice to go to and back again original WS)
+#workspace_auto_back_and_forth yes
+
+#set default oriantation for Workspaces
+default_orientation horizontal
+
+###########
+#alt-tabs
+############
+# 'alt-tab' like switch
+bindsym mod1+Tab workspace back_and_forth
+#alt tab for current workspace
+#bindsym $mod+u focus right
+bindsym mod1+Shift+Tab move container to workspace back_and_forth
+#You could combine the two actions so that you move a window backwards and forwards and follow it.
+#bindsym $mod+Shift+z move container to workspace back_and_forth; workspace back_and_forth
+#bindsym mod1+Tab exec home/zeltak/bin/i3/tab_windows.sh
+
+############
+#movment of windows
+###########
+
+#move windows
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# split in horizontal orientation
+bindsym $mod+h split h, exec notify-send -u low  "i3" "Layout switched to Horizontal"
+# split in vertical orientation
+bindsym $mod+v split v, exec notify-send -u low  "i3" "Layout switched to Vertical"
+
+
+# enter fullscreen mode for the focused container
+bindsym $mod+mod1+f fullscreen
+
+# change container layout (stacked, tabbed, toggle split)
+#bindsym $mod+8 layout stacking, exec notify-send -u low  "i3" "Layout switched to Stacking"
+bindsym $mod+0 layout tabbed, exec notify-send -u low  "i3" "Layout switched to Tabbing"
+bindsym $mod+9 layout toggle split, exec notify-send -u low  "i3" "Layout switched to Split"
+
+# toggle tiling / floating
+bindsym $mod+f floating toggle, exec notify-send -u low  "i3" "Floating"
+
+# change focus between tiling / floating windows
+bindsym $mod+space focus mode_toggle , exec notify-send -u low  "i3" "focus change"
+
+# focus the parent container
+#bindsym $mod+Shift+a focus parent
+# focus the child container
+#bindcode $mod+d focus child
+
+
+# switch to workspace
+bindcode $mod+49 workspace 1:H1
+bindsym $mod+1 workspace 2:Terms
+bindsym $mod+2 workspace 3:WWW
+bindsym $mod+3 workspace 4:MM
+bindsym $mod+4 workspace 5:IM
+bindsym $mod+q workspace 6:FM, layout tabbed
+bindsym $mod+w workspace 7:SSH
+bindsym $mod+e workspace 8:NC
+bindsym $mod+a workspace 9:Vim
+bindsym $mod+s workspace 10:Task
+bindsym $mod+d workspace 11:Utils
+bindsym $mod+z workspace 12:VM
+bindsym $mod+x workspace 13:Gfx
+bindsym $mod+c workspace 14:Off
+
+# move focused container to workspace
+bindsym $mod+Shift+49 move container to workspace 1:H1
+bindsym $mod+Shift+1 move container to workspace 2:Terms
+bindsym $mod+Shift+2 move container to workspace 3:WWW
+bindsym $mod+Shift+3 move container to workspace 4:MM
+bindsym $mod+Shift+4 move container to workspace 5:IM
+bindsym $mod+Shift+q move container to workspace 6:FM
+bindsym $mod+Shift+w move container to workspace 7:SSH
+bindsym $mod+Shift+e move container to workspace 8:NC
+bindsym $mod+Shift+a move container to workspace 9:Vim
+bindsym $mod+Shift+s move container to workspace 10:Task
+bindsym $mod+Shift+d move container to workspace 11:Utils
+bindsym $mod+Shift+z move container to workspace 12:VM
+bindsym $mod+Shift+x move container to workspace 13:Gfx
+bindsym $mod+Shift+c move container to workspace 14:Off
+
+##########################
+#Dual head
+#########################
+bindsym $mod+plus move workspace to output right
+#bindsym $mod+plus move workspace to output up
+
+#multi screens and workspaces
+workspace "5:IM" output DVI-I-1
+workspace "2:Terms" output DVI-I-1
+
+
+
+
+
+
+################################################
+#workspaces and windows
+################################################
+
+###move workspaces around
+
+    mode "workspaces" {
+        bindsym Right move workspace to output right
+        bindsym Left move workspace to output left
+        bindsym Up move workspace to output up
+        bindsym Down move workspace to output down
+       
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+    }
+     
+    bindsym $mod+mod1+Control+w mode "workspaces"
+
+
+# move window 
+mode "winmove" {
+
+        bindsym Right move right
+        bindsym Left move left
+        bindsym Up move up
+        bindsym Down move down
+       
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+    }
+
+bindsym $mod+shift+m mode "winmove"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        #small steps
+        bindsym h resize shrink width 1 px or 1 ppt
+        bindsym l resize grow width 1 px or 1 ppt
+        bindsym j resize grow height 1 px or 1 ppt
+        bindsym k resize shrink height 1 px or 1 ppt
+        
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 8 px or 8 ppt
+        bindsym Right resize grow width 8 px or 8 ppt
+        bindsym Down resize grow height 8 px or 8 ppt
+        bindsym Up resize shrink height 8 px or 8 ppt
+
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+r mode "resize"
+
+
+
+# Scratchpad hotkeys:
+
+# Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
+# Show the first scratchpad window
+bindsym $mod+minus scratchpad show
+
+#keepass
+#bindsym $mod+p [class="Keepassx"] scratchpad show
+#bindsym $mod+p [class="KeePass2"] scratchpad show
+#for_window [class="KeePass2"] move to scratchpad
+
+mode "scratchpad" {
+  bindsym t [class="KeePass2"] scratchpad show, mode "default"
+  bindsym e [class="emacs"] focus, mode "default"
+  bindsym f [class="aurora"] focus, mode "default"
+  bindsym Return mode "default"
+  bindsym Escape mode "default"
+}
+
+bindsym $mod+t mode "scratchpad"
+
+
+
+
+
+#######i3 system
+
+#LOOK AND FEEL
+
+#fonts
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below. ISO 10646 = Unicode
+#font xft:Source Code Pro 9
+# The font above is very space-efficient, that is, it looks good, sharp and
+# clear in small sizes. However, if you need a lot of unicode glyphs or
+# right-to-left text rendering, you should instead use pango for rendering and
+# chose an xft font, such as:
+#font xft:Source Code pro 10
+#font xft:Envy Code R 10
+font pango:Pragmata Pro 10
+
+#size of window borders
+new_window pixel 8
+
+# colors
+
+#Note that for the window decorations, the color around the child window is the background color, and the border color is only the two thin lines at the top of the window.
+#The indicator color is used for indicating where a new window will be opened. For horizontal split containers, the right border will be painted in indicator color, for vertical split containers, the bottom border. This only applies to single windows within a split container, which are otherwise indistinguishable from single windows outside of a split container.
+
+# class                 border  backgr. text    indicator
+client.focused          #33B5E5 #33B5E5 #ffffff #2e9ef4
+client.focused_inactive #CECECE #CECECE #ffffff #484e50
+client.unfocused        #292929 #292929 #888888 #292d2e
+client.urgent           #FF253E #FF253E #ffffff #900000
+
+force_display_urgency_hint 500 ms
+
+
+# Start i3bar to display a workspace bar (plus the system information i3status
+# finds out, if available)
+bar {
+colors {
+        background #000000
+        statusline #ffffff
+
+        focused_workspace  #0C73C2 #0C73C2 #ffffff #000000
+        active_workspace   #0C73C2 #0C73C2 #ffffff #000000
+        inactive_workspace #333333 #222222 #888888
+        urgent_workspace   #2f343a #900000 #ffffff
+}
+#for the conky bar part
+#        status_command $HOME/bin/conky-i3bar
+        position top
+        tray_output primary
+        mode hide
+}
+
+
+
+#same key brings back to prev position
+#workspace_auto_back_and_forth yes
+
+########################################################
+# rules
+########################################################
+
+#WORKSPACE #1
+#WORKSPACE #2 (Terms) 
+assign [Class="URxvt"] 2:Terms
+assign [Class="main_term"] 2:Terms
+assign [window_role="tmux_terms"] 2:Terms
+#WORKSPACE #3 (browsers)
+assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] 3:WWW
+#assign [Class="keepass|keepassx"] 3:WWW
+#WORKSPACE #4 (multimedia)
+assign [instance="tmux_mpd"] 4:MM
+#WORKSPACE #5 (IM)
+assign [Class="Skype"] 5:IM
+assign [Class="Pavucontrol"] 5:IM
+#WORKSPACE #6 (FM):
+assign [Class="Spacefm|net-sourceforge-filebot-Main"] 6:FM
+#assign [Class="feh"] 6:FM
+assign [instance="termfm"] 6:FM
+assign [Class="Doublecmd"] 6:FM
+#WORKSPACE #7 (ssh)
+assign [window_role="ssh_home"] 7:SSH
+assign [window_role="ssh_karif"] 7:SSH
+#WORKSPACE #8 (Notecase)
+#assign [instance="Notecase Pro"] 8:NC
+assign [instance="org"] 8:NC
+#WORKSPACE #9 (Editor)
+assign [instance="gvim"] 9:Vim
+#assign [Class="Emacs"] 9:Vim
+#WORKSPACE #10 (task)
+assign [window_role="tmux_office"]10:Task
+#WORKSPACE #11 (Utils)
+assign [instance="tmux_utils"] 11:Utils
+#WORKSPACE #12  (VM/Remote access)
+assign [instance="TeamViewer"] 12:VM
+assign [instance="vinagre"] 12:VM
+#WORKSPACE #13   (graphics)
+assign [instance="gthumb|Gthumb|Shotwell|shotwell|digikam|Digikam|gimp|inkscape"] 13:Gfx
+#WORKSPACE #14   (Office)
+
+#rest of unttaged to open on main view
+#assign [class=".*"] 1:H1
+
+#for windows
+
+#for_window [class="Xfce4-terminal"] floating enable
+#for_window [instance="float_term"] floating enable
+for_window [instance="ecapture"] floating enable
+for_window [class="Gcolor2"] floating enable
+for_window [instance="spad"] floating enable
+for_window [title="keepass"] floating enable
+
+for_window [instance="wrapper|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|<unknown>|plugin-container|synapse"] floating enable
+
+
+##jump commands
+
+bindsym $mod+Shift+g exec $HOME/bin/i3/mark
+bindsym $mod+g exec $HOME/bin/i3/goto
+
+#bindsym $mod+Control+2 exec python /home/zeltak/bin/i3/nextmatch.py'(chromium|firefox|dwb)'
+
+#bindsym $mod+e exec python ~/bin/nextfind.py
+#to mark a window for jumping back to
+#bindsym $mod+m exec ~/bin/mark
+#to use dmenu to jump back to a particular program
+#bindsym $mod+g exec ~/bin/goto
+
+
+#i3 bar mode commands
+
+# Create Log out, Reboot, Poweroff bindings
+mode "Exit (L)ogout, (X)eboot, (P)oweroff  (C)Reload (R)Restart" {
+        bindsym x exec systemctl reboot
+        bindsym l exec i3-msg exit
+        bindsym p exec systemctl poweroff
+        bindsym c reload
+        bindsym r restart
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
+bindsym $mod+mod1+Control+q mode "Exit (L)ogout, (X)eboot, (P)oweroff  (C)Reload (R)Restart"
+
+#EXAMPLE USING THE NAG BAR
+#bindsym $mod+mod1+Control+e exec "i3-nagbar -t warning -m 'Choose:' -b 'Exit i3' 'i3-msg exit' -b 'Reboot' 'i3-msg exec systemctl reboot' -b 'Poweroff' 'i3-msg exec systemctl poweroff'"
+
+# Task code
+# bindsym $mod+Shift+t   exec --no-startup-id /home/zeltak/bin/taskwarrior_dmenu.sh
+# bindsym $mod+t exec --no-startup-id x-terminal-emulator -T "task list" -e bash -c "sleep 0.4 && task && read"
+# bindsym $mod+Control+t exec x-terminal-emulator -T "task list" -e bash -c "sleep 0.4 && task shell"
+# for_window [title="task list"] floating enable; border 1pixel
+#floating_minimum_size 800 x 80
+
+
+############################################
+#marks
+for_window [class="Doublecmd"] mark dc   
+for_window [class="Pavucontrol"] mark pulse
+for_window [class="Firefox"] mark ff
+for_window [class="org"] mark org
+for_window [window_role="ssh_karif"] mark ssh
+for_window [window_role="tmux_utils"] mark utils
+for_window [class="Skype"] mark skype 
+
+
+
