@@ -6,6 +6,7 @@
   tab_position = bottom
   inactive_color_offset = 1.12
 [keybindings]
+  full_screen = None
 [profiles]
   [[default]]
     foreground_color = "#657b83"

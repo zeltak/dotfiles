@@ -237,7 +237,7 @@ super+slash
 
 #rate track 4
 super+alt+slash 
-      clerk --rate 8
+      clerk --rate instant 8
 
 #rate album
 control+super+slash
