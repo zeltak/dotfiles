@@ -1,4 +1,4 @@
-# zeltak i3 config file (v5)
+# zeltak i3 config file (v5)- work PC (zuni)
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 #==============================================================================
@@ -85,8 +85,6 @@ bindsym $mod+shift+h mode "Layout mode (T)abbed, (H)orizontal, (v)ertical  (S)pl
 bindsym $alt+Ctrl+c move absolute position center
 
 
-
-
 # enter fullscreen mode for the focused container
 bindsym $mod+mod1+f fullscreen
 # toggle tiling / floating
@@ -108,25 +106,25 @@ bindsym $mod+Shift+n exec i4-input -F 'rename workspace to %s' -P 'New name: '
 
 
 # workspace defines 
-set $w1 0:
-set $w2 1:
-set $w3 2:
-set $w4 3:
-set $w5 4:
-set $w6 q:
-set $w7 w:
-set $w8 e:
-set $w9 a:
-set $w10 s:
-set $w11 d:
-set $w12 z:
-set $w13 x:
-set $w14 c:
+set $w1 H
+set $w2 T
+set $w3 W
+set $w4 R
+set $w5 IM
+set $w6 FM
+set $w7 JR
+set $w8 A1
+set $w9 Em
+set $w10 A2 
+set $w11 A3
+set $w12 A4
+set $w13 Gx
+set $w14 A5
 
 # switch to workspace
 bindcode $mod+49 workspace $w1  
 bindsym $mod+1 workspace $w2
-bindsym $mod+2 workspace $w3, layout tabbed
+bindsym $mod+2 workspace $w3
 bindsym $mod+3 workspace $w4
 bindsym $mod+4 workspace $w5
 bindsym $mod+q workspace $w6

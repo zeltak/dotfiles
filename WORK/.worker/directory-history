@@ -1473,6 +1473,7 @@
 /home/zeltak/BK/emacs/19.10.2014
 /home/zeltak/BK/emacs/7.11.2014
 /home/zeltak/BK/emacs/19.12.2014
+/home/zeltak/BK/emacs/23.12.2014/.emacs.d/src
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1493,7 +1494,8 @@
 /home/zeltak/org/files/Uni/Projects/code/P001_NE_PM_MODELS
 /home/zeltak/org/files/Uni/Projects/code/P031.MIAC_PM/code_snips
 /home/zeltak/org/files/Uni/Projects/code/P029.BC_model
-/home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC
+/home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/archive
+/home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/CNNEW
 /home/zeltak/org/files/Uni/Projects/code/P047.BW_MAIAC
 /home/zeltak/org/files/Uni/Projects/code/P020.Temprature_NE_MIA
 /home/zeltak/org/files/Uni/Projects/code/P045.Israel_LST
@@ -1607,6 +1609,7 @@
 /home/zeltak/dotfiles/LAPTOP/.config/flacon
 /home/zeltak/dotfiles/LAPTOP/.config/htop
 /home/zeltak/dotfiles/LAPTOP/.config/kava
+/home/zeltak/dotfiles/LAPTOP/.config/terminator
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/info/default
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/colors
 /home/zeltak/dotfiles/LAPTOP/.i3
@@ -1630,7 +1633,7 @@
 /home/zeltak/dotfiles/COMMON/vimperator
 /home/zeltak/dotfiles/COMMON/bin
 /home/zeltak/dotfiles/COMMON/.fonts
-/home/zeltak/dotfiles/WORK/.config
+/home/zeltak/dotfiles/WORK/.config/terminator
 /home/zeltak/dotfiles/WORK/.colors
 /home/zeltak/dotfiles/WORK/.i3
 /home/zeltak/dotfiles/WORK/bin
@@ -1802,6 +1805,9 @@
 /home/zeltak/Uni/grants/CIG/Time sheet
 /home/zeltak/Uni/grants/EHF_Grant/revise/Collated_Review_Kloog_R1.docx#uzip
 /home/zeltak/Uni/grants/isf/Examples
+/home/zeltak/Uni/grants/antonella
+/home/zeltak/Uni/grants/antonella grant/revision
+/home/zeltak/Uni/grants/antonella grant/ready
 /home/zeltak/Uni/Presentations/BGU_GEO_2014
 /home/zeltak/Uni/Presentations/Mexico2014
 /home/zeltak/Uni/Students/behzad
@@ -1914,6 +1920,7 @@
 /home/zeltak/.putty
 /home/zeltak/.gmvault
 /home/zeltak/emacs/dotemacs
+/home/zeltak/.emacs.g
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699

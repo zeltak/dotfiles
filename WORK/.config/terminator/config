@@ -1,50 +1,80 @@
 [global_config]
-  window_state = maximise
-  enabled_plugins = CustomCommandsMenu, InactivityWatch, ActivityWatch, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, MavenPluginURLHandler, LaunchpadBugURLHandler
-  custom_url_handler = firefox
+  handle_size = 0
   title_hide_sizetext = True
-  hide_from_taskbar = True
-  use_custom_url_handler = True
-  suppress_multiple_term_dialog = True
   borderless = True
-  title_transmit_bg_color = "#00a7c5"
+  geometry_hinting = False
   tab_position = bottom
-  inactive_color_offset = 0.91
+  inactive_color_offset = 1.12
 [keybindings]
+  full_screen = None
 [profiles]
   [[default]]
-    scrollbar_position = hidden
-    palette = "#1b1d1e:#f92672:#82b414:#fd971f:#4e82aa:#8c54fe:#465457:#ccccc6:#505354:#ff5995:#b6e354:#feed6c:#0c73c2:#9e6ffe:#899ca1:#f8f8f2"
-    copy_on_selection = True
-    visible_bell = True
+    foreground_color = "#657b83"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    font = PragmataPro 11
+    background_image = None
     use_system_font = False
-    background_darkness = 0.6
-    scrollback_lines = 1500
-    background_type = image
-    active_encodings = IBM862, UTF-8, ISO-8859-1
-    cursor_color = "#14b2fa"
-    foreground_color = "#b5b1b1"
-    background_image = /home/zeltak/MLT/wallpapers/black_tiles.jpeg
+    cursor_color = "#38ff00"
+    cursor_blink = False
     icon_bell = False
-    split_to_group = True
+    scrollbar_position = hidden
     show_titlebar = False
-    font = Source Code Pro Medium 11
+    copy_on_selection = True
+    background_color = "#fdf6e3"
+    allow_bold = False
+  [[Zlight]]
+    scrollbar_position = hidden
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    visible_bell = True
+    background_image = None
+    urgent_bell = True
+    use_system_font = False
+    cursor_color = "#38ff00"
+    foreground_color = "#657b83"
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#fdf6e3"
+    allow_bold = False
+    audible_bell = True
+  [[Zdark]]
+    foreground_color = "#839496"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    font = PragmataPro 11
+    visible_bell = True
+    background_image = None
+    urgent_bell = True
+    use_system_font = False
+    cursor_color = "#38ff00"
+    cursor_blink = False
+    scrollbar_position = hidden
+    show_titlebar = False
+    copy_on_selection = True
     background_color = "#002b36"
     allow_bold = False
-    scrollback_infinite = True
-  [[root]]
+    audible_bell = True
+  [[Zfm]]
+    foreground_color = "#00ff00"
+    palette = "#000000:#cd0000:#00cd00:#cdcd00:#1e90ff:#cd00cd:#00cdcd:#e5e5e5:#4c4c4c:#ff0000:#00ff00:#ffff00:#4682b4:#ff00ff:#00ffff:#ffffff"
+    visible_bell = True
+    background_image = None
+    urgent_bell = True
     use_system_font = False
-    copy_on_selection = True
-    background_darkness = 0.78
-    background_type = image
-    background_image = /home/zeltak/MLT/wallpapers/Rainbow-stripes-abstract-wave_2560x1920.jpg
-    foreground_color = "#ff0000"
-    use_custom_command = True
-    login_shell = True
+    cursor_color = "#38ff00"
+    cursor_blink = False
     show_titlebar = False
-    custom_command = su -
-    cursor_shape = underline
-    font = Source Code Pro Medium 11
+    font = PragmataPro 11
+    allow_bold = False
+    audible_bell = True
+  [[Zroot]]
+    foreground_color = "#ffffff"
+    palette = "#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#f7feff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff:#ffffff"
+    background_image = None
+    use_system_font = False
+    cursor_color = "#38ff00"
+    cursor_blink = False
+    show_titlebar = False
+    font = PragmataPro 11
+    background_color = "#ff0009"
     allow_bold = False
 [layouts]
   [[default]]
@@ -54,63 +84,46 @@
     [[[window0]]]
       type = Window
       parent = ""
-  [[z1]]
+  [[Z1]]
     [[[child0]]]
-      position = 0:26
+      position = 0:17
       type = Window
       order = 0
       parent = ""
-      size = 794, 868
-    [[[terminal1]]]
-      profile = default
-      type = Terminal
-      order = 0
-      parent = child0
-  [[zz]]
-    [[[child0]]]
-      position = 0:0
-      type = Window
-      order = 0
-      parent = ""
-      size = 1274, 752
+      size = 1600, 883
     [[[child1]]]
-      position = 376
+      position = 441
       type = VPaned
       order = 0
       parent = child0
     [[[child2]]]
-      position = 637
+      position = 800
       type = HPaned
       order = 0
       parent = child1
     [[[child5]]]
-      position = 637
+      position = 800
       type = HPaned
       order = 1
       parent = child1
     [[[terminal3]]]
-      profile = default
+      profile = Z1
       type = Terminal
       order = 0
       parent = child2
     [[[terminal4]]]
-      profile = default
+      profile = Z1
       type = Terminal
       order = 1
       parent = child2
     [[[terminal7]]]
-      profile = default
+      profile = Z1
       type = Terminal
       order = 1
       parent = child5
     [[[terminal6]]]
-      profile = default
+      profile = Z1
       type = Terminal
       order = 0
       parent = child5
 [plugins]
-  [[CustomCommandsMenu]]
-    [[[open link]]]
-      command = "firefox "
-      enabled = True
-      name = open link

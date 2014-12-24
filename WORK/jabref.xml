@@ -59,8 +59,8 @@
             <entry key="biblatexMode" value="false"/>
             <entry key="caseSensitiveSearch" value="false"/>
             <entry key="citeCommandEmacs" value="\cite"/>
-            <entry key="columnNames" value="author;year;month;title;journal;timestamp;entrytype;bibtexkey"/>
-            <entry key="columnWidths" value="280;60;100;400;100;100;75;100"/>
+            <entry key="columnNames" value="author;year;month;title;journal;entrytype;bibtexkey;date"/>
+            <entry key="columnWidths" value="280;60;100;400;100;75;100;100"/>
             <entry key="compactRankingColumn" value="false"/>
             <entry key="confirmDelete" value="false"/>
             <entry key="ctrlClick" value="false"/>
@@ -131,8 +131,8 @@
             <entry key="importAlwaysUsePDFImportStyle" value="false"/>
             <entry key="importDefaultPDFimportStyle" value="2"/>
             <entry key="importFileNamePattern" value="\bibtexkey"/>
-            <entry key="importInspectionDialogHeight" value="650"/>
-            <entry key="importInspectionDialogWidth" value="650"/>
+            <entry key="importInspectionDialogHeight" value="879"/>
+            <entry key="importInspectionDialogWidth" value="1566"/>
             <entry key="importWorkingDirectory" value="/home/zeltak/Dropbox/ztmp"/>
             <entry key="includeEmptyFields" value="false"/>
             <entry key="incompleteEntryBackground" value="250:175:175"/>
@@ -416,7 +416,7 @@
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="previewEnabled" value="true"/>
             <entry key="previewPanelHeight" value="552"/>
-            <entry key="priDescending" value="true"/>
+            <entry key="priDescending" value="false"/>
             <entry key="priSort" value="author"/>
             <entry key="promptBeforeUsingAutosave" value="true"/>
             <entry key="proxyHostname" value="my proxy host"/>
@@ -441,7 +441,7 @@
             <entry key="searchPanelVisible" value="true"/>
             <entry key="searchReq" value="true"/>
             <entry key="secDescending" value="false"/>
-            <entry key="secSort" value=""/>
+            <entry key="secSort" value="year"/>
             <entry key="selectS" value="false"/>
             <entry key="selectedFetcherIndex" value="7"/>
             <entry key="serializeSpecialFields" value="true"/>
@@ -484,7 +484,7 @@
             <entry key="useOwner" value="true"/>
             <entry key="useProxy" value="false"/>
             <entry key="useRegExpSearch" value="false"/>
-            <entry key="useRemoteServer" value="false"/>
+            <entry key="useRemoteServer" value="true"/>
             <entry key="useTimeStamp" value="true"/>
             <entry key="useUnitFormatterOnSearch" value="true"/>
             <entry key="useXmpPrivacyFilter" value="false"/>
