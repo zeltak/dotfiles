@@ -334,6 +334,11 @@
 /home/zeltak/.emacs.d/src/ESS/lisp
 /home/zeltak/.emacs.d/.git/modules/src/extra/org-dp/refs
 /home/zeltak/.emacs.d/.git/objects/ff
+/home/zeltak/.emacs.d/.git/objects/a0
+/home/zeltak/.emacs.d/.git/branches
+/home/zeltak/.emacs.d/.git/hooks
+/home/zeltak/.emacs.d/.git/info
+/home/zeltak/.emacs.d/.git/logs
 /home/zeltak/.emacs.d/auto-save-list
 /home/zeltak/.emacs.d/backups
 /home/zeltak/.emacs.d/elpa/archives/melpa
@@ -1444,6 +1449,7 @@
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/3.10.2104
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/2.10.2104
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/22.11.2014/part2/Sent
+/home/zeltak/mounts/lraid/raid/Pictures/Family Photos/Itai/1)Itai Baby
 /home/zeltak/mounts/lraid/raid/My documents
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.emacs.d
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/music/1Singles/Hole/2013 Hole Hits
@@ -1499,6 +1505,7 @@
 /home/zeltak/BK/emacs/1.8.2014
 /home/zeltak/BK/emacs/19.10.2014
 /home/zeltak/BK/emacs/7.11.2014
+/home/zeltak/BK/emacs/23.12.2104/.emacs.d
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1948,6 +1955,7 @@
 /home/zeltak/.putty
 /home/zeltak/.gmvault
 /home/zeltak/configs
+/home/zeltak/.emacs.g/src
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699

@@ -2973,7 +2973,7 @@ buttons {
 				start = terminal;
 				com = "ncdu ";
 				viewstr = "";
-				inbackground = false;
+				inbackground = true;
 				takedirs = false;
 				dontcd = false;
 			}
