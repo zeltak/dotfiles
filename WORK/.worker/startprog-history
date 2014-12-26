@@ -1,6 +1,7 @@
+xournal
+okular
 gvim
 libreoffice
-okular
 comix
 vlc
 chromium
@@ -19,7 +20,6 @@ inkscape
 gimp
 ./
 vim
-xournal
 feh -f
 feh --scale-down -f
 feh --scale-down
