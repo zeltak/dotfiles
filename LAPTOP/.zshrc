@@ -93,6 +93,8 @@ alias ..='cd ..'
 alias sr='sudo reboot'
 alias hal='sudo halt'
 
+#Tmux
+alias tlist='tmux list-sessions'
 
 
 

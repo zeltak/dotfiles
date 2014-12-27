@@ -1,9 +1,9 @@
-sw_volume: 33
+sw_volume: 91
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
+state: play
 current: 0
-time: 263.848000
+time: 120.070000
 random: 0
 repeat: 0
 single: 0
@@ -12,89 +12,16 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Steely Dan/1976 The Royal Scam/09 The Royal Scam.flac
-1:1Singles/Corner Shop/2013 Corner Shop Hits/01 Brim Full of Asha (Fatboy Slim remix).mp3
-2:Clash, The/1979 London Calling/01 London Calling.mp3
-3:Radiohead/2003 Hail to the Thief/06 Where I End And You Begin. (The Sky Is Falling In.).flac
-4:Genesis/1972 Foxtrot/01 Watcher of the Skies.flac
-5:Alice in Chains/1994 Jar of Flies/02 Nutshell.flac
-6:2Soundtracks/Help!/02 The Night Before.flac
-7:U2/1981 October/01 Gloria.mp3
-8:Billy Joel/1998 Streetlife Serenade/06 The Entertainer.mp3
-9:Efraim Shamir/2005 אפרים שמיר הלהיטים/10 רוקד לקול הבנות.mp3
-10:T. Rex/1973 Tanx/01 Tenement Lady.mp3
-11:Yes/1972 Close to the Edge/01 Close to the Edge_ I. The Solid Time of Change _ II. Total Mass Retain _ III. I Get Up I Get Down _ IV. Seasons of Man.flac
-12:CAKE/1996 Fashion Nugget/02 The Distance.flac
-13:Smashing Pumpkins, The/1993 Siamese Dream/05 Rocket.flac
-14:Opeth/2002 Blackwater Park/05 Dirge for November.mp3
-15:1Singles/Tom Petty/2013 Tom Petty Hits/04 You Don't Know How It Feels.mp3
-16:Who, The/1969 Tommy/21 I’m Free.flac
-17:Eric Clapton/1991 24 Nights/05 Watch Yourself.flac
-18:Roy Orbison/1989 Mystery Girl/04 A Love So Beautiful.flac
-19:1Singles/Elton John/2013 Elton John Hits/07 Goodbye Yellow Brick Road.mp3
-20:Air/1998 Moon Safari/04 Kelly, Watch the Stars!.flac
-21:Neil Young/1995 Mirror Ball/01 Song X.flac
-22:Paul Simon/1991 Concert in the Park/19 Late in the Evening.mp3
-23:Pink Floyd/1975 Wish You Were Here/01 Shine On You Crazy Diamond, Parts I–V.flac
-24:2Soundtracks/Jesus Christ Superstar/13 The Last Supper.flac
-25:Beck/1998 Mutations/04 Canceled Check.mp3
-26:Bruce Springsteen/1990 The River/01 The Ties That Bind.mp3
-27:Neil Young/2010 Le Noise/02 Sign of Love.flac
-28:Korin Elal/2009 קורין אלאל האוסף/01 אנטרטיקה.mp3
-29:Pink Floyd/1983 The Final Cut/09 The Fletcher Memorial Home.flac
-30:Police, The/1992 Greatest Hits/05 Walking on the Moon.mp3
-31:1Singles/ZZ Top/2013 ZZ Top Hits/03 Sharp Dressed Man.mp3
-32:Brian Wilson/2004 SMiLE/10 Surf's Up.mp3
-33:U2/2000 U2 Hits/08 Hold Me, Thrill Me, Kiss Me, Kill Me.mp3
-34:Manu Chao/2007 La Radiolina/01 13 días.mp3
-35:2Soundtracks/Yellow Submarine/01 Yellow Submarine.flac
-36:Yes/1971 The Yes Album/04 I've Seen All Good People_ a. Your Move - b. All Good People.flac
-37:Jethro Tull/1993 Nightcap_ The Unreleased Masters 1973-1991/11 Scenario.flac
-38:Mercury Rev/1998 Deserter's Songs/02 Tonite It Shows.flac
-39:Beach Boys, The/1965 The Beach Boys Today!/08 I'm So Young.flac
-40:Queen/1978 Jazz/04 Bicycle Race.flac
-41:Bee Gees/1968 Horizontal/08 Harry Braff.mp3
-42:Rage Against the Machine/1992 Rage Against the Machine/01 Bombtrack.flac
-43:Crosby, Stills, Nash & Young/1992 Teach Your Children/08 Country Girl.mp3
-44:Pearl Jam/1994 Vitalogy/01 Last Exit.flac
-45:Van Morrison/1968 Astral Weeks/01 Astral Weeks.flac
-46:Paul Simon/1973 There Goes Rhymin' Simon/05 One Man's Ceiling Is Another Man's Floor.flac
-47:Smiths, The/1985 Hatful of Hollow/05 How Soon Is Now_.flac
-48:Prodigy, The/1997 The Rest, The Unreleased! The Last!/04 Firestarter.mp3
-49:Beatles, The/2009 Past Masters/04 She Loves You.flac
-50:Neil Young/2011 A Treasure/10 Southern Pacific.mp3
-51:Mike Oldfield/1975 Ommadawn/01 Ommadawn, Part One.flac
-52:Iron Maiden/1992 Fear Of The Dark/12 Fear Of The Dark.flac
-53:Finn Brothers, The/2004 Everyone Is Here/10 All the Colours.flac
-54:Creedence Clearwater Revival/1994 Chronicle/09 Fortunate Son.mp3
-55:Guns N’ Roses/1987 Appetite for Destruction/04 Out ta Get Me.mp3
-56:Steely Dan/1980 Gaucho/03 Glamour Profession.flac
-57:Finn Brothers, The/2004 Everyone Is Here/02 Nothing Wrong With You.flac
-58:Led Zeppelin/1969 Led Zeppelin/04 Dazed and Confused.flac
-59:1Singles/Bob Dylan/2013 Bob Dylan Hits/03 Hurricane.mp3
-60:Beach Boys, The/1972 Carl and the Passions_ _So Tough_/03 He Come Down.flac
-61:Smiths, The/1987 Louder Than Bombs/12 Heaven Knows I'm Miserable Now.flac
-62:Built to Spill/1994 There’s Nothing Wrong With Love/02 Reasons.flac
-63:1Singles/Pearl Jam/2013 Pearl Jam Hits/01 I Got Id.mp3
-64:Destroyer/2000 Thief/10 In Dreams.flac
-65:A.C. Newman/2012 Shut Down the Streets/01 I'm Not Talking.mp3
-66:Beach Boys, The/1970 Sunflower/02 This Whole World.flac
-67:1Singles/Montage/2013 Montage Hits/01 Grand Pianist.mp3
-68:Crowded House/2010 Intriguer/04 Either Side of the World.flac
-69:Cat Stevens/1971 Teaser and the Firecat/10 Peace Train.mp3
-70:Audioslave/2006 Revelations/02 One and the Same.flac
-71:Neil Young/2002 Are You Passionate_/01 You're My Girl.flac
-72:Belle and Sebastian/2006 The Life Pursuit/04 The Blues Are Still Blue.mp3
-73:Steely Dan/2000 Two Against Nature/01 Gaslighting Abbie.flac
-74:Orphaned Land/2010 The Never Ending Way of ORwarriOR/05 The Path, Part 2_ The Pilgrimage to Or Shalem.flac
-75:Dream Theater/1999 Metropolis, Part 2_ Scenes From a Memory/05 Act I_ Scene Three_ II. Fatal Tragedy.flac
-76:1Singles/Ween/2013 Ween Hits/04 The Rainbow.mp3
-77:Dream Theater/1992 Images and Words/07 Wait for Sleep.flac
-78:1Singles/Beck/2013 Beck Hits/02 Loser.mp3
-79:Iron Maiden/1988 Iron Maiden/07 Sanctuary.flac
-80:1Singles/Beastie Boys/2013 Beastie Boys Hits/13 Hey Ladies.mp3
-81:1Singles/Spain/2013 Spain Hits/01 Before It All Went Wrong.mp3
-82:New Pornographers, The/2003 Electric Version/07 All for Swinging You Around.flac
-83:Pink Floyd/1979 The Wall/22 Run Like Hell.flac
-84:2Soundtracks/This Is Spinal Tap/02 Tonight I’m Gonna Rock You Tonight.flac
+0:New Pornographers, The/2014 Brill Bruisers/02 Champions of Red Wine.flac
+1:New Pornographers, The/2014 Brill Bruisers/03 Fantasy Fools.flac
+2:New Pornographers, The/2014 Brill Bruisers/04 War On the East Coast.flac
+3:New Pornographers, The/2014 Brill Bruisers/05 Backstairs.flac
+4:New Pornographers, The/2014 Brill Bruisers/06 Marching Orders.flac
+5:New Pornographers, The/2014 Brill Bruisers/07 Another Drug Deal of the Heart.flac
+6:New Pornographers, The/2014 Brill Bruisers/08 Born With a Sound (feat. Amber Webber).flac
+7:New Pornographers, The/2014 Brill Bruisers/09 Wide Eyes.flac
+8:New Pornographers, The/2014 Brill Bruisers/10 Dancehall Domine.flac
+9:New Pornographers, The/2014 Brill Bruisers/11 Spidyr.flac
+10:New Pornographers, The/2014 Brill Bruisers/12 Hi-Rise.flac
+11:New Pornographers, The/2014 Brill Bruisers/13 You Tell Me Where.flac
 playlist_end
