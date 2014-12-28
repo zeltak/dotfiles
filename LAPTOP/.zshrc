@@ -95,9 +95,12 @@ alias hal='sudo halt'
 
 #Tmux
 alias tlist='tmux list-sessions'
+alias tnew='tmux new-session -s'
 
 
 
+
+#chmod
 alias cm='chmod +x' #change mode of exec
 
 #Apt-get
