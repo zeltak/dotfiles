@@ -115,11 +115,11 @@ set $w6 FM
 set $w7 JR
 set $w8 A1
 set $w9 Em
-set $w10 A2 
-set $w11 A3
-set $w12 A4
-set $w13 Gx
-set $w14 A5
+set $w10 Jab 
+set $w11 Qgis
+set $w12 R
+set $w13 Rstud 
+set $w14 VM
 
 # switch to workspace
 bindcode $mod+49 workspace $w1  
