@@ -1,0 +1,39 @@
+#--------------> neonG
+
+#--------------> Panes
+#active- this defines the color and width of pane separator
+#comment out to make pane thinner
+set -g  pane-active-border-bg '#008Ed1'
+set -g  pane-active-border-fg '#006F95'
+#non active
+set -g  pane-border-fg default
+set -g  pane-border-bg default
+
+#clear annoying window flags
+setw -g window-status-format " #I$ #W "
+setw -g window-status-current-format " #I$ #W"
+
+
+#--------------> Status-Bar
+set -g status-bg "#DDDDDD"
+set -g status-fg "#777777"
+set -g status-justify left # left align window list
+#set -g status-justify centre # center align window list
+
+# Current or active window in status bar
+set-window-option -g window-status-current-attr bold
+set-window-option -g window-status-current-fg white
+set-window-option -g window-status-current-bg '#0099CC'
+ 
+# Non active window in status bar
+set-window-option -g window-status-attr bold
+set-window-option -g window-status-fg '#008ED1'
+set-window-option -g window-status-bg '#002E41'
+
+ 
+
+#-------------->  command/message line colors
+set -g message-fg white
+set -g message-bg black
+set -g message-attr bright
+

@@ -1,9 +1,7 @@
-sw_volume: 86
+sw_volume: 80
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 0
-time: 119.954000
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -12,101 +10,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Pink Floyd/1979 The Wall/02 The Thin Ice.flac
-1:Stevie Wonder/1972 Talking Book/06 Superstition.mp3
-2:Matti Caspi/2004 מתי כספי המיטב/01 קול קורא הלילה.mp3
-3:Tool/1996 Ænima/05 Forty Six & 2.mp3
-4:Jethro Tull/1975 Minstrel in the Gallery/07 Grace.flac
-5:Talking Heads/1977 Talking Heads_ 77/06 No Compassion.mp3
-6:Rolling Stones, The/1971 Hot Rocks 1964-1971/21 Wild Horses.mp3
-7:Jethro Tull/1974 War Child/03 Ladies.flac
-8:Dire Straits/1984 Communiqué/03 Where Do You Think You're Going_.flac
-9:3Compilations/2013 I'm Your Fan_ The Songs of Leonard Cohen/03 I Can't Forget.mp3
-10:Iron Maiden/1984 Powerslave/07 Powerslave.flac
-11:Black Crowes, The/2001 Lions/02 Lickin'.mp3
-12:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/16 Something So Strong.flac
-13:Smashing Pumpkins, The/1991 Gish/08 Tristessa.mp3
-14:Muse/2009 The Resistance/05 Guiding Light.flac
-15:Mercury Rev/1998 Deserter's Songs/02 Tonite It Shows.flac
-16:Belle and Sebastian/1996 If You’re Feeling Sinister/04 Like Dylan in the Movies.flac
-17:Beach Boys, The/1970 Sunflower/01 Slip on Through.flac
-18:Van Morrison/1971 Tupelo Honey/01 Wild Night.mp3
-19:Jethro Tull/1988 20 Years of Jethro Tull/19 Strip Cartoon.mp3
-20:Soundgarden/1994 Superunknown/05 Superunknown.flac
-21:Sleater-Kinney/2000 All Hands on the Bad One/01 The Ballad of a Ladyman.mp3
-22:Soul Asylum/1992 Grave Dancers Union/01 Somebody to Shove.mp3
-23:Yes/1977 Going for the One/01 Going for the One.flac
-24:2Soundtracks/Obscured by Clouds/07 Childhood's End.flac
-25:Bright Eyes/2011 The People’s Key/05 Haile Selassie.flac
-26:Neil Young & Crazy Horse/1969 Everybody Knows This Is Nowhere/07 Cowgirl in the Sand.flac
-27:Billy Joel/1987 52nd Street/05 Stiletto.flac
-28:1Singles/Chris Isaak/2013 Chris Isaak Hits/01 Wicked Game.mp3
-29:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/14 The Greeting Song.mp3
-30:Weezer/2002 Maladroit/02 Dope Nose.mp3
-31:Simon & Garfunkel/1968 Bookends/05 Voices of Old People.flac
-32:Led Zeppelin/1979 In Through the Out Door/05 Carouselambra.flac
-33:Beach Boys, The/2000 Greatest Hits, Vol. 1/07 Wendy.mp3
-34:PJ Harvey/2011 Let England Shake/04 The Words That Maketh Murder.flac
-35:T. Rex/1973 Tanx/01 Tenement Lady.mp3
-36:Queen/1982 Hot Space/11 Under Pressure.flac
-37:of Montreal/1999 The Gay Parade/06 Neat Little Domestic Life.flac
-38:Simon & Garfunkel/2002 Live from New York City, 1967/14 Anji.mp3
-39:Crosby, Stills, Nash & Young/1992 Teach Your Children/14 Long Time Gone.mp3
-40:Beck/1996 Odelay/04 The New Pollution.mp3
-41:Led Zeppelin/1969 Led Zeppelin II/09 Bring It on Home.flac
-42:Nick Cave & The Bad Seeds/2003 Nocturama/04 Bring It On.mp3
-43:Beach Boys, The/1972 Carl and the Passions_ _So Tough_/03 He Come Down.flac
-44:1Singles/Soft Cell/2013 Soft Cell Hits/01 Tainted Love.mp3
-45:Beatles, The/1966 Revolver/13 Got to Get You Into My Life.flac
-46:Jethro Tull/1978 Heavy Horses/07 One Brown Mouse.flac
-47:Radiohead/2003 Hail to the Thief/10 I Will. (No Man's Land.).flac
-48:Rolling Stones, The/1971 Hot Rocks 1964-1971/15 Sympathy for the Devil.mp3
-49:Steely Dan/1972 Can’t Buy a Thrill/06 Reelin’ in the Years.flac
-50:Genesis/2005 Genesis Hits/03 Land of Confusion.mp3
-51:Ben Folds Five/1997 Naked Baby Photos/03 Emaline.mp3
-52:Amanda Palmer/2008 Who Killed Amanda Palmer/07 Guitar Hero.mp3
-53:Big Brother & The Holding Company/1968 Cheap Thrills/04 Piece of My Heart.flac
-54:Guns N’ Roses/1987 Appetite for Destruction/04 Out ta Get Me.mp3
-55:Neil Young/1988 Decade/06 Sugar Mountain.mp3
-56:Dire Straits/1987 Making Movies/04 Expresso Love.flac
-57:Chris Cornell/1999 Euphoria Morning/02 Flutter Girl.flac
-58:Pink Floyd/1973 The Dark Side of the Moon/09 Brain Damage.flac
-59:Band, The/1989 Music From Big Pink/02 To Kingdom Come.flac
-60:Knesiyat Hasekhel/1999 כנסיית השכל האוסף/01 למיה יש אקדח.mp3
-61:Mother Love Bone/1992 Mother Love Bone/17 Chloe Dancer _ Crown of Thorns.mp3
-62:Garbage/1995 Garbage/03 Only Happy When It Rains.mp3
-63:Pearl Jam/1996 No Code/04 In My Tree.flac
-64:Crowded House/1986 Crowded House/03 Now We're Getting Somewhere.flac
-65:Led Zeppelin/1971 [Led Zeppelin IV]/02 Rock and Roll.flac
-66:Billy Joel/1991 Piano Man/10 Captain Jack.flac
-67:Alice in Chains/1992 Sap/03 Right Turn.flac
-68:Midnight Oil/1990 Blue Sky Mining/06 King of the Mountain.flac
-69:Mashina/1989 גבירותי ורבותי/09 בדרך אל הים.mp3
-70:Vampire Weekend/2007 Vampire Weekend/02 Oxford Comma.mp3
-71:Stevie Wonder/2002 The Very Best of Stevie Wonder/04 For Once in My Life.mp3
-72:Built to Spill/1999 Keep It Like a Secret/01 The Plan.flac
-73:Paul Simon/2011 So Beautiful or So What/10 So Beautiful or So What.mp3
-74:Audioslave/2002 Audioslave/07 Shadow on the Sun.mp3
-75:Meir Ariel/1998 מבחר/05 ילדתי שלי- שדות גולדברג.mp3
-76:Pixies/1989 Doolittle/07 Monkey Gone to Heaven.flac
-77:Supertramp/1979 Breakfast in America/04 Breakfast in America.flac
-78:1Singles/Foo Fighters/2013 Foo Fighters Hits/06 Hey Johnny Park.mp3
-79:Mamas & the Papas, The/1966 The Mamas & the Papas/01 No Salt on Her Tail.mp3
-80:John Williams/1990 The Best Of John Williams/02 Revenge of the Sith -Duel of Fates.mp3
-81:Pearl Jam/1993 Vs_/02 Animal.flac
-82:Simon & Garfunkel/2004 Old Friends_ Live on Stage/05 At the Zoo.mp3
-83:Jethro Tull/1992 A Little Light Music/01 Someday the Sun Won't Shine for You.mp3
-84:PJ Harvey/2011 Let England Shake/01 Let England Shake.flac
-85:Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You/12 Ragtime.flac
-86:Jimi Hendrix/1993 The Ultimate Experience/07 Foxy Lady.mp3
-87:Soundgarden/1994 Superunknown/07 Black Hole Sun.flac
-88:Jethro Tull/2011 Aqualung (40th Anniversary Special Edition)/01 Aqualung [New Stereo Mix].flac
-89:Smiths, The/1987 Strangeways, Here We Come/09 Death at One’s Elbow.flac
-90:Crowded House/1994 Together Alone/03 Nails in My Feet.flac
-91:Destroyer/2001 Streethawk_ A Seduction/08 The Crossover.flac
-92:Garbage/1998 Version 2.0/07 Push It.mp3
-93:Porcupine Tree/2009 The Incident/05 Drawing the Line.flac
-94:1Singles/Peter Gabriel/2013 Peter Gabriel Hits/10 Don't Give Up.mp3
-95:Pink Floyd/1967 The Piper at the Gates of Dawn/08 The Gnome.flac
-96:Iron Maiden/1982 The Number of the Beast/04 22 Acacia Avenue.flac
 playlist_end
