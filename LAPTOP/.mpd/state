@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 56
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
+state: play
 current: 0
-time: 128.917000
+time: 105.232000
 random: 0
 repeat: 0
 single: 0
@@ -12,62 +12,70 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Aerosmith/1987 Permanent Vacation/03 Rag Doll.mp3
-1:Pixies/1991 Trompe le Monde/05 Head On.flac
-2:Porcupine Tree/2007 Fear of a Blank Planet/03 Anesthetize.flac
-3:Steely Dan/2000 Two Against Nature/01 Gaslighting Abbie.flac
-4:Rage Against the Machine/1992 Rage Against the Machine/10 Freedom.flac
-5:1Singles/Eddie brickell/2013 Eddie brickell Hits/01 What I Am.mp3
-6:Beach Boys, The/1968 Friends/04 Be Here in the Mornin'.flac
-7:Randy Newman/1987 Lonely at the Top_ The Best of Randy Newman/08 Political Science.mp3
-8:PJ Harvey/2000 Stories From the City, Stories From the Sea/04 One Line.flac
-9:Simon & Garfunkel/2004 Old Friends_ Live on Stage/17 El Condor Pasa.mp3
-10:Neil Young/1993 Unplugged/10 Transformer Man.mp3
-11:Who, The/1971 Who’s Next/07 Going Mobile.mp3
-12:Ben Folds/2005 Songs for Silverman/04 Landed.mp3
-13:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/09 Give It Away.mp3
-14:Bruce Springsteen/1990 The River/07 Out in the Street.mp3
-15:Led Zeppelin/1982 Coda/07 Bonzo's Montreux.flac
-16:Billy Joel/1985 Greatest Hits, Volume I & Volume II/03 The Entertainer.mp3
-17:Black Crowes, The/1990 Shake Your Money Maker/06 Hard to Handle.flac
-18:Frank Black/1994 Teenager of the Year/08 Sir Rockaby.mp3
-19:Neil Young/1988 Decade/24 The Needle and the Damage Done.mp3
-20:Simon & Garfunkel/1997 Old Friends/47 Baby Driver.flac
-21:Berry Sakharof/2000 ברי  סחרוף האוסף/01 חלליות.mp3
-22:CAKE/1998 Prolonging the Magic/11 Let Me Go.flac
-23:Temple of the Dog/1991 Temple of the Dog/03 Hunger Strike.flac
-24:Pearl Jam/1998 Yield/10 Low Light.flac
-25:Graham Nash/1971 Songs for Beginners/02 Better Days.flac
-26:1Singles/Skunk Anansie/2013 Skunk Anansie Hits/04 Weak.mp3
-27:Metallica/1983 Kill 'em All/07 Phantom Lord.flac
-28:Deer Tick/2007 War Elephant/05 Long Time.flac
-29:Cranberries, The/2002 Stars_ The Best of 1992-2002/01 Dreams.mp3
-30:Rage Against the Machine/1992 Rage Against the Machine/06 Know Your Enemy.flac
-31:Zombies, The/1968 Odessey and Oracle/05 Brief Candles.flac
-32:Who, The/1969 Tommy/03 1921.flac
-33:Ian Anderson/2012 Thick as a Brick 2/04 Upper Sixth Loan Shark.flac
-34:Pearl Jam/1994 Vitalogy/11 Better Man.flac
-35:Jethro Tull/1988 20 Years of Jethro Tull/07 Cold Wind to Valhalla.mp3
-36:Belle and Sebastian/2003 Dear Catastrophe Waitress/05 Asleep on a Sunbeam.mp3
-37:David Bowie/2005 David Bowie Hits/10 Be My Wife.mp3
-38:Caravan/1994 The Best of Caravan_ Canterbury Tales/08 Golf Girl.mp3
-39:R.E.M_/1991 Losing My Religion/02 Fretless.mp3
-40:Led Zeppelin/1971 [Led Zeppelin IV]/05 Misty Mountain Hop.flac
-41:Air/2001 10 000 Hz Legend/05 Radian.mp3
-42:Leonard Cohen/1984 Various Positions/02 Coming Back to You.flac
-43:Yes/1971 Fragile/09 Heart of the Sunrise.flac
-44:Colin Blunstone/1973 Ennismore/08 Andorra.mp3
-45:Destroyer/2009 Bay of Pigs/01 Bay of Pigs.mp3
-46:Pink Floyd/1973 The Dark Side of the Moon/01 Speak to Me.flac
-47:Berry Sakharof/2000 ברי  סחרוף האוסף/02 כמה יוסי.mp3
-48:Neil Young/1988 Decade/10 Cinnamon Girl.mp3
-49:INXS/1994 The Greatest Hits/05 New Sensation.mp3
-50:1Singles/Jefferson Airplane/2013 Jefferson Airplane Hits/14 Volunteers.mp3
-51:Simon & Garfunkel/2004 Old Friends_ Live on Stage/09 Hey, Schoolgirl.mp3
-52:Beatles, The/1965 Rubber Soul/06 The Word.flac
-53:CAKE/1996 Fashion Nugget/01 Frank Sinatra.flac
-54:Beatles, The/2009 Past Masters/27 Get Back.flac
-55:Pixies/1990 Bossanova/04 Allison.mp3
-56:David Bowie/1972 The Rise and Fall of Ziggy Stardust and the Spiders From Mars/08 Hang On to Yourself.flac
-57:Metallica/1988 …and Justice for All/07 The Frayed Ends of Sanity.flac
+0:Neil Young/1972 Harvest/04 Heart of Gold.flac
+1:Red Hot Chili Peppers/1989 Mother's Milk/02 Higher Ground.mp3
+2:2Soundtracks/Yellow Submarine/04 Hey Bulldog.flac
+3:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/06 I Could Have Lied.mp3
+4:Paul Simon/1986 Graceland/10 That Was Your Mother.flac
+5:Stevie Wonder/2002 The Very Best of Stevie Wonder/09 Superstition.mp3
+6:CAKE/1998 Prolonging the Magic/04 Guitar.flac
+7:Vampire Weekend/2007 Vampire Weekend/05 Boston.mp3
+8:Smiths, The/1987 Strangeways, Here We Come/09 Death at One’s Elbow.flac
+9:Crosby, Stills, Nash & Young/1992 Teach Your Children/10 Marrakesh Express.mp3
+10:Metallica/1983 Kill 'em All/09 Seek & Destroy.flac
+11:2Soundtracks/Jesus Christ Superstar/02 Heaven on Their Minds.flac
+12:Paul Simon/1975 Still Crazy After All These Years/02 My Little Town.flac
+13:Colin Blunstone/1991 Some Years_ It's the Time of Colin Blunstone/12 Wonderful.mp3
+14:Iron Maiden/1992 Fear Of The Dark/06 Wasting Love.flac
+15:Simon & Garfunkel/1982 The Concert in Central Park/07 Wake Up Little Susie.flac
+16:Beach Boys, The/1970 Sunflower/04 Got to Know the Woman.flac
+17:Jethro Tull/1968 This Was/05 Serenade to a Cuckoo.flac
+18:Steely Dan/1973 Countdown to Ecstasy/04 Your Gold Teeth.flac
+19:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/05 Don't Dream It's Over.flac
+20:Supertramp/1979 Breakfast in America/04 Breakfast in America.flac
+21:Opeth/2002 Blackwater Park/02 Bleak.mp3
+22:Apples in Stereo, The/1995 Fun Trick Noisemaker/03 High Tide.mp3
+23:Fleet Foxes/2008 Fleet Foxes/08 Your Protector.flac
+24:Billy Joel/1976 Turnstiles/04 New York State of Mind.flac
+25:Beatles, The/1963 Please Please Me/01 I Saw Her Standing There.flac
+26:1Singles/K's Choice/2013 K's Choice Hits/01 Everything for Free.mp3
+27:A.C. Newman/2009 Get Guilty/02 The Heartbreak Rides.flac
+28:Leonard Cohen/1979 Recent Songs/09 The Smokey Life.flac
+29:Simon & Garfunkel/1997 Old Friends/34 Fakin' It.flac
+30:1Singles/ZZ Top/2013 ZZ Top Hits/04 Legs.mp3
+31:Roy Orbison/2005 The Very Best Of/01 Oh Pretty Woman.flac
+32:1Singles/Dan Toren/2013 Dan Toren Hits/01 lavan al lavan.mp3
+33:Suede/1997 Coming Up/03 Lazy.mp3
+34:Kaveret/1975 צפוף באוזן/11 היא כל כך יפה.mp3
+35:PJ Harvey/2011 Let England Shake/12 The Colour of the Earth.flac
+36:Emerson, Lake & Palmer/1973 Brain Salad Surgery/05 Karn Evil 9.mp3
+37:Bruce Springsteen/1984 Born in the U.S.A_/10 Glory Days.mp3
+38:U2/1991 Achtung Baby/07 The Fly.mp3
+39:1Singles/Hayehudim/2013 Hayehudim Hits/01 mehapesh tshova.mp3
+40:Black Crowes, The/1992 The Southern Harmony and Musical Companion/01 Sting Me.flac
+41:Jethro Tull/1993 Nightcap_ The Unreleased Masters 1973-1991/03 Tiger Toon.flac
+42:Aerosmith/1986 Toys in the Attic/01 Toys in the Attic.mp3
+43:Mamas & the Papas, The/1969 16 of Their Greatest Hits/15 Creeque Alley.flac
+44:Deep Purple/1972 Machine Head/07 Space Truckin’.flac
+45:Art Garfunkel/2002 Everything Waits to Be Noticed (feat. Maia Sharp & Buddy Mondlock)/06 Young and Free.mp3
+46:Kaveret/1975 צפוף באוזן/04 טנגו צפרדעים.mp3
+47:Daniel Salomon/2002 דניאל סלומון/01 עדיף.mp3
+48:Jethro Tull/1974 War Child/07 Bungle in the Jungle.flac
+49:Graham Nash/1971 Songs for Beginners/10 Chicago.flac
+50:CAKE/2001 Comfort Eagle/07 Comfort Eagle.flac
+51:New Pornographers, The/2003 Electric Version/12 July Jones.flac
+52:Steely Dan/1976 The Royal Scam/04 Sign in Stranger.flac
+53:Simon & Garfunkel/1997 Old Friends/47 Baby Driver.flac
+54:Simon & Garfunkel/2002 Live from New York City, 1967/06 A Most Peculiar Man.mp3
+55:Big Star/1972 #1 Record/07 When My Baby’s Beside Me.mp3
+56:Neil Young/1970 After the Gold Rush/03 Only Love Can Break Your Heart.flac
+57:1Singles/Blur/2013 Blur Hits/05 Coffee & TV.mp3
+58:Iron Maiden/1982 The Number of the Beast/05 The Number of the Beast.flac
+59:Destroyer/2002 This Night/01 This Night.mp3
+60:Iron Maiden/1986 Somewhere in Time/02 Wasted Years.flac
+61:1Singles/Duran Duran/2013 Duran Duran Hits/02 View to a Kill.mp3
+62:1Singles/Aerosmith/2013 Aerosmith Hits/04 Falling in Love (Is Hard on the Knees).mp3
+63:1Singles/Dandy Warhols/2013 Dandy Warhols Hits/06 Hard On for Jesus.mp3
+64:3Compilations/2013 Eagle Vs Shark/11 Sea World.mp3
+65:CAKE/1998 Prolonging the Magic/12 Cool Blue Reason.flac
 playlist_end

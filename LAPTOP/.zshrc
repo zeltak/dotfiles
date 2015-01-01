@@ -287,6 +287,9 @@ eval $(keychain --eval --agents ssh -Q --quiet id_rsa id_rsa_github)
 # glob support
 setopt extendedglob
 
+#teamocil completions
+compctl -g '~/.teamocil/*(:t:r)' teamocil
+
 #mpd start
 if [ "$(pgrep mpd)" ]; then echo ""; else rm -f ~/.mpd/mpd && mpd; fi
 #if [ "$(pgrep mpd)" ]; then : else rm -f ~/.mpd/mpd && mpd; fi
