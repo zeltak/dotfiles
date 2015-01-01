@@ -1,17 +1,39 @@
-#--------------> NeonG
-# COLORS.
-# For reference, the xterm color cube points are: 00, 5F, 87, AF, D7, FF
-# Status bar has a dim gray background
-set-option -g status-style fg=colour0,bg=colour234
-# Left shows the session name, in blue
-set-option -g status-left-style fg=colour74,bg=default
-# Right is some CPU stats, so terminal green
-set-option -g status-right-style fg=colour71,bg=default
-# Windows are medium gray; current window is white
-set-window-option -g window-status-style fg=colour244
-set-window-option -g window-status-current-style 'fg=#ffffff,bg=#000000'
-# Beeped windows get a blinding orange background
-set-window-option -g window-status-bell-style 'fg=#000000,bg=#d78700,none'
-# Trim window titles to a reasonable length
-set-window-option -g window-status-format '#[fg=yellow]#{window_flags}#{window_index}#[default] #{=32:window_name} '
-set-window-option -g window-status-current-format '#[fg=yellow] #{window_index}#[default] #{=32:window_name} '
+#--------------> neonG
+
+#--------------> Panes
+#active- this defines the color and width of pane separator
+#comment out to make pane thinner
+set -g  pane-active-border-bg '#008Ed1'
+set -g  pane-active-border-fg '#006F95'
+#non active
+set -g  pane-border-fg default
+set -g  pane-border-bg default
+
+#clear annoying window flags
+setw -g window-status-format " #I$ #W "
+setw -g window-status-current-format " #I$ #W"
+
+
+#--------------> Status-Bar
+set -g status-bg "#DDDDDD"
+set -g status-fg "#777777"
+set -g status-justify left # left align window list
+#set -g status-justify centre # center align window list
+
+# Current or active window in status bar
+set-window-option -g window-status-current-attr bold
+set-window-option -g window-status-current-fg white
+set-window-option -g window-status-current-bg '#0099CC'
+ 
+# Non active window in status bar
+set-window-option -g window-status-attr bold
+set-window-option -g window-status-fg '#008ED1'
+set-window-option -g window-status-bg '#002E41'
+
+ 
+
+#-------------->  command/message line colors
+set -g message-fg white
+set -g message-bg black
+set -g message-attr bright
+
