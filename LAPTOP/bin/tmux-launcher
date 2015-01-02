@@ -1,11 +1,7 @@
 #!/bin/bash
 case $1 in 
-  o) tmux new-window -n imap -t 10 offlineimap.sh -o ;;
-  m) tmux new-window -n mod ncmpcpp ;;
-  w) tmux new-window -n vw vimwiki ;;
+  e) tmux new-window -n web elinks ;;
+  m) tmux new-window -n Mpd  ncmpcpp ;;
+  h) tmux new-window -n Htop htop  ;;
 esac
 
-
-#if [ $1 = "G" ]; then
-#    tmux split-window "vim +$"
-#fi

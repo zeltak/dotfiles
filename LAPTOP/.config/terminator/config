@@ -4,7 +4,7 @@
   borderless = True
   geometry_hinting = False
   tab_position = bottom
-  inactive_color_offset = 1.12
+  inactive_color_offset = 1.13
 [keybindings]
   full_screen = None
 [profiles]
