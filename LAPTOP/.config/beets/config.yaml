@@ -53,8 +53,8 @@ match:
 
 pluginpath: /home/zeltak/.beets/myplugins/
 
-plugins: play fuzzy mpdstats fetchart replaygain embedart  fromfilename web  zero scrub lyrics rewrite the  mpdupdate   duplicates info convert dates lastimport
-#unused: replaygain smartplaylist
+plugins: play fuzzy  fetchart replaygain embedart  fromfilename web  zero scrub lyrics rewrite the  mpdupdate   duplicates info convert dates lastimport
+#unused: replaygain smartplaylist mpdstats
 
 replaygain:
      backend: gstreamer
