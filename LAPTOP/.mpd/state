@@ -3,7 +3,7 @@ audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
 current: 0
-time: 24.357000
+time: 120.047000
 random: 0
 repeat: 0
 single: 0
@@ -12,16 +12,18 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Ben Folds/2008 Way to Normal/01 Hiroshima (B B B Benny Hit His Head).mp3
-1:Ben Folds/2008 Way to Normal/02 Dr. Yang.mp3
-2:Ben Folds/2008 Way to Normal/03 The Frown Song.mp3
-3:Ben Folds/2008 Way to Normal/04 You Don't Know Me.mp3
-4:Ben Folds/2008 Way to Normal/05 Before Cologne.mp3
-5:Ben Folds/2008 Way to Normal/06 Cologne.mp3
-6:Ben Folds/2008 Way to Normal/07 Errant Dog.mp3
-7:Ben Folds/2008 Way to Normal/08 Free Coffee.mp3
-8:Ben Folds/2008 Way to Normal/09 Bitch Went Nuts.mp3
-9:Ben Folds/2008 Way to Normal/10 Brainwascht.mp3
-10:Ben Folds/2008 Way to Normal/11 Effington.mp3
-11:Ben Folds/2008 Way to Normal/12 Kylie From Connecticut.mp3
+0:Arcade Fire/2010 The Suburbs/03 Modern Man.flac
+1:Arcade Fire/2010 The Suburbs/04 Rococo.flac
+2:Arcade Fire/2010 The Suburbs/05 Empty Room.flac
+3:Arcade Fire/2010 The Suburbs/06 City With No Children.flac
+4:Arcade Fire/2010 The Suburbs/07 Half Light I.flac
+5:Arcade Fire/2010 The Suburbs/08 Half Light II (No Celebration).flac
+6:Arcade Fire/2010 The Suburbs/09 Suburban War.flac
+7:Arcade Fire/2010 The Suburbs/10 Month of May.flac
+8:Arcade Fire/2010 The Suburbs/11 Wasted Hours.flac
+9:Arcade Fire/2010 The Suburbs/12 Deep Blue.flac
+10:Arcade Fire/2010 The Suburbs/13 We Used to Wait.flac
+11:Arcade Fire/2010 The Suburbs/14 Sprawl I (Flatland).flac
+12:Arcade Fire/2010 The Suburbs/15 Sprawl II (Mountains Beyond Mountains).flac
+13:Arcade Fire/2010 The Suburbs/16 The Suburbs (continued).flac
 playlist_end
