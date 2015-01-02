@@ -1,9 +1,9 @@
-sw_volume: 56
+sw_volume: 96
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
 current: 0
-time: 105.232000
+time: 120.047000
 random: 0
 repeat: 0
 single: 0
@@ -12,70 +12,25 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Neil Young/1972 Harvest/04 Heart of Gold.flac
-1:Red Hot Chili Peppers/1989 Mother's Milk/02 Higher Ground.mp3
-2:2Soundtracks/Yellow Submarine/04 Hey Bulldog.flac
-3:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/06 I Could Have Lied.mp3
-4:Paul Simon/1986 Graceland/10 That Was Your Mother.flac
-5:Stevie Wonder/2002 The Very Best of Stevie Wonder/09 Superstition.mp3
-6:CAKE/1998 Prolonging the Magic/04 Guitar.flac
-7:Vampire Weekend/2007 Vampire Weekend/05 Boston.mp3
-8:Smiths, The/1987 Strangeways, Here We Come/09 Death at One’s Elbow.flac
-9:Crosby, Stills, Nash & Young/1992 Teach Your Children/10 Marrakesh Express.mp3
-10:Metallica/1983 Kill 'em All/09 Seek & Destroy.flac
-11:2Soundtracks/Jesus Christ Superstar/02 Heaven on Their Minds.flac
-12:Paul Simon/1975 Still Crazy After All These Years/02 My Little Town.flac
-13:Colin Blunstone/1991 Some Years_ It's the Time of Colin Blunstone/12 Wonderful.mp3
-14:Iron Maiden/1992 Fear Of The Dark/06 Wasting Love.flac
-15:Simon & Garfunkel/1982 The Concert in Central Park/07 Wake Up Little Susie.flac
-16:Beach Boys, The/1970 Sunflower/04 Got to Know the Woman.flac
-17:Jethro Tull/1968 This Was/05 Serenade to a Cuckoo.flac
-18:Steely Dan/1973 Countdown to Ecstasy/04 Your Gold Teeth.flac
-19:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/05 Don't Dream It's Over.flac
-20:Supertramp/1979 Breakfast in America/04 Breakfast in America.flac
-21:Opeth/2002 Blackwater Park/02 Bleak.mp3
-22:Apples in Stereo, The/1995 Fun Trick Noisemaker/03 High Tide.mp3
-23:Fleet Foxes/2008 Fleet Foxes/08 Your Protector.flac
-24:Billy Joel/1976 Turnstiles/04 New York State of Mind.flac
-25:Beatles, The/1963 Please Please Me/01 I Saw Her Standing There.flac
-26:1Singles/K's Choice/2013 K's Choice Hits/01 Everything for Free.mp3
-27:A.C. Newman/2009 Get Guilty/02 The Heartbreak Rides.flac
-28:Leonard Cohen/1979 Recent Songs/09 The Smokey Life.flac
-29:Simon & Garfunkel/1997 Old Friends/34 Fakin' It.flac
-30:1Singles/ZZ Top/2013 ZZ Top Hits/04 Legs.mp3
-31:Roy Orbison/2005 The Very Best Of/01 Oh Pretty Woman.flac
-32:1Singles/Dan Toren/2013 Dan Toren Hits/01 lavan al lavan.mp3
-33:Suede/1997 Coming Up/03 Lazy.mp3
-34:Kaveret/1975 צפוף באוזן/11 היא כל כך יפה.mp3
-35:PJ Harvey/2011 Let England Shake/12 The Colour of the Earth.flac
-36:Emerson, Lake & Palmer/1973 Brain Salad Surgery/05 Karn Evil 9.mp3
-37:Bruce Springsteen/1984 Born in the U.S.A_/10 Glory Days.mp3
-38:U2/1991 Achtung Baby/07 The Fly.mp3
-39:1Singles/Hayehudim/2013 Hayehudim Hits/01 mehapesh tshova.mp3
-40:Black Crowes, The/1992 The Southern Harmony and Musical Companion/01 Sting Me.flac
-41:Jethro Tull/1993 Nightcap_ The Unreleased Masters 1973-1991/03 Tiger Toon.flac
-42:Aerosmith/1986 Toys in the Attic/01 Toys in the Attic.mp3
-43:Mamas & the Papas, The/1969 16 of Their Greatest Hits/15 Creeque Alley.flac
-44:Deep Purple/1972 Machine Head/07 Space Truckin’.flac
-45:Art Garfunkel/2002 Everything Waits to Be Noticed (feat. Maia Sharp & Buddy Mondlock)/06 Young and Free.mp3
-46:Kaveret/1975 צפוף באוזן/04 טנגו צפרדעים.mp3
-47:Daniel Salomon/2002 דניאל סלומון/01 עדיף.mp3
-48:Jethro Tull/1974 War Child/07 Bungle in the Jungle.flac
-49:Graham Nash/1971 Songs for Beginners/10 Chicago.flac
-50:CAKE/2001 Comfort Eagle/07 Comfort Eagle.flac
-51:New Pornographers, The/2003 Electric Version/12 July Jones.flac
-52:Steely Dan/1976 The Royal Scam/04 Sign in Stranger.flac
-53:Simon & Garfunkel/1997 Old Friends/47 Baby Driver.flac
-54:Simon & Garfunkel/2002 Live from New York City, 1967/06 A Most Peculiar Man.mp3
-55:Big Star/1972 #1 Record/07 When My Baby’s Beside Me.mp3
-56:Neil Young/1970 After the Gold Rush/03 Only Love Can Break Your Heart.flac
-57:1Singles/Blur/2013 Blur Hits/05 Coffee & TV.mp3
-58:Iron Maiden/1982 The Number of the Beast/05 The Number of the Beast.flac
-59:Destroyer/2002 This Night/01 This Night.mp3
-60:Iron Maiden/1986 Somewhere in Time/02 Wasted Years.flac
-61:1Singles/Duran Duran/2013 Duran Duran Hits/02 View to a Kill.mp3
-62:1Singles/Aerosmith/2013 Aerosmith Hits/04 Falling in Love (Is Hard on the Knees).mp3
-63:1Singles/Dandy Warhols/2013 Dandy Warhols Hits/06 Hard On for Jesus.mp3
-64:3Compilations/2013 Eagle Vs Shark/11 Sea World.mp3
-65:CAKE/1998 Prolonging the Magic/12 Cool Blue Reason.flac
+0:La’s, The/2001 The La's/08 Way Out.flac
+1:La’s, The/2001 The La's/09 I.O.U_.flac
+2:La’s, The/2001 The La's/10 Freedom Song.flac
+3:La’s, The/2001 The La's/11 Failure.flac
+4:La’s, The/2001 The La's/12 Looking Glass.flac
+5:La’s, The/2001 The La's/13 All by Myself.flac
+6:La’s, The/2001 The La's/14 Clean Prophet.flac
+7:La’s, The/2001 The La's/15 Knock Me Down.flac
+8:La’s, The/2001 The La's/16 Over (live in a Stable in Liverpool).flac
+9:La’s, The/2001 The La's/17 I.O.U. (alternative version).flac
+10:Levellers/1991 Levelling the Land/01 One Way.ogg
+11:Levellers/1991 Levelling the Land/02 The Game.ogg
+12:Levellers/1991 Levelling the Land/03 Fifteen Years.ogg
+13:Levellers/1991 Levelling the Land/04 The Boatman.ogg
+14:Levellers/1991 Levelling the Land/05 Liberty Song.ogg
+15:Levellers/1991 Levelling the Land/06 Far From Home.ogg
+16:Levellers/1991 Levelling the Land/07 Sell Out.ogg
+17:Levellers/1991 Levelling the Land/08 Another Man's Cause.ogg
+18:Levellers/1991 Levelling the Land/09 The Road.ogg
+19:Levellers/1991 Levelling the Land/10 The Riverflow.ogg
+20:Levellers/1991 Levelling the Land/11 Battle of the Beanfield.ogg
 playlist_end

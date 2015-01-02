@@ -1,12 +1,12 @@
 #### zsh environment settings
 
-export PATH=/usr/bin:/usr/local/bin:/usr/local/sbin:/home/zeltak/.gem/ruby/1.9.1/bin:/home/zeltak/bin/
+export PATH="$(ruby -e 'puts Gem.user_dir')/bin:$HOME/bin:$PATH"
 export BROWSER=firefox 
 
 #use vim in visudo
 export SUDO_EDITOR="/usr/bin/vim -p -X"
 export ALTERNATE_EDITOR=""
-export EDITOR="emacsclient"
+export EDITOR="emacsclient -nw"
 export VISUAL=$EDITOR
 
 export PERL_LOCAL_LIB_ROOT="/home/zeltak/perl5";

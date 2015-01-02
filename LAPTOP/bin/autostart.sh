@@ -20,7 +20,8 @@ exec mpdcron   &
 exec mpdscribble &
 #exec remmina -i &
 exec worker &
-exec firefox &
+#exec firefox &
+exec chromium &
 exec cantata &
 #for weechat notifications
 #exec python2 /home/zeltak/bin/weechat-remote-notify.py 4321 &
