@@ -1,9 +1,9 @@
 sw_volume: 76
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 0
-time: 120.302000
+state: pause
+current: 2
+time: 226.510000
 random: 0
 repeat: 0
 single: 0
@@ -12,25 +12,19 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:St. Vincent/2011 Strange Mercy/02 Cruel.flac
-1:St. Vincent/2011 Strange Mercy/03 Cheerleader.flac
-2:St. Vincent/2011 Strange Mercy/04 Surgeon.flac
-3:St. Vincent/2011 Strange Mercy/05 Northern Lights.flac
-4:St. Vincent/2011 Strange Mercy/06 Strange Mercy.flac
-5:St. Vincent/2011 Strange Mercy/07 Neutered Fruit.flac
-6:St. Vincent/2011 Strange Mercy/08 Champagne Year.flac
-7:St. Vincent/2011 Strange Mercy/09 Dilettante.flac
-8:St. Vincent/2011 Strange Mercy/10 Hysterical Strength.flac
-9:St. Vincent/2011 Strange Mercy/11 Year of the Tiger.flac
-10:St. Vincent/2014 St. Vincent/01 Rattlesnake.flac
-11:St. Vincent/2014 St. Vincent/02 Birth in Reverse.flac
-12:St. Vincent/2014 St. Vincent/03 Prince Johnny.flac
-13:St. Vincent/2014 St. Vincent/04 Huey Newton.flac
-14:St. Vincent/2014 St. Vincent/05 Digital Witness.flac
-15:St. Vincent/2014 St. Vincent/06 I Prefer Your Love.flac
-16:St. Vincent/2014 St. Vincent/07 Regret.flac
-17:St. Vincent/2014 St. Vincent/08 Bring Me Your Loves.flac
-18:St. Vincent/2014 St. Vincent/09 Psychopath.flac
-19:St. Vincent/2014 St. Vincent/10 Every Tear Disappears.flac
-20:St. Vincent/2014 St. Vincent/11 Severed Crossed Fingers.flac
+0:Jellyfish/1992 Bellybutton/01 The Man I Used to Be.mp3
+1:Jellyfish/1992 Bellybutton/02 That Is Why.mp3
+2:Jellyfish/1992 Bellybutton/03 The King Is Half Undressed.mp3
+3:Jellyfish/1992 Bellybutton/04 I Wanna Stay Home.mp3
+4:Jellyfish/1992 Bellybutton/05 She Still Loves Him.mp3
+5:Jellyfish/1992 Bellybutton/06 All I Want Is Everything.mp3
+6:Jellyfish/1992 Bellybutton/07 Now She Knows She's Wrong.mp3
+7:Jellyfish/1992 Bellybutton/08 Bed Spring Kiss.mp3
+8:Jellyfish/1992 Bellybutton/09 Baby's Coming Back.mp3
+9:Jellyfish/1992 Bellybutton/10 Calling Sarah.mp3
+10:Jellyfish/1992 Bellybutton/11 No Matter What (live).mp3
+11:Jellyfish/1992 Bellybutton/12 Let Em In _ That Is Why (live).mp3
+12:Jellyfish/1992 Bellybutton/13 The King Is Half Undressed (live).mp3
+13:Jellyfish/1992 Bellybutton/14 Jet (live).mp3
+14:Jellyfish/1992 Bellybutton/15 Now She Knows She's Wrong (live).mp3
 playlist_end

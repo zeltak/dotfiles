@@ -130,23 +130,13 @@ alias cm='chmod +x' #change mode of exec
 
 
 #install
- alias p='yaourt --noconfirm' #quick install 
- alias psin='yaourt' #safe install 
- alias pog='yaourt ' #safe install 
+ alias p='pacaur -S' #quick install 
  #updates
- alias pu='yaourt -Syu --devel --aur  --noconfirm' #update all Repo+AUR
- alias purepo='yaourt -Syu --noconfirm' #update only Repo
+ alias pu='pacaur -Syu' #update all Repo+AUR
  # Search repo+AUR
- alias pss='yaourt -Ss ' #seach all
- alias pclean='yaourt -Scc ' #clean all pacman cahce
  #query (local packages)
- alias pinfo='yaourt -Qi' #view info
- alias plist='yaourt -Ql' #view list of files installed with packages
- alias pls='yaourt -Qs' #search localy for packages packages
- alias plistall='yaourt -Qe' #list installed apps
  #Remove
- alias prem='yaourt -R'
- alias pclean='yaourt -Rns'
+ alias prem='pacaur -R'
 
 
 #Apt-get

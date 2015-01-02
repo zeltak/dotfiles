@@ -1,4 +1,4 @@
-#--------------> neonG
+#--------------> neonB
 
 #--------------> Panes
 #active- this defines the color and width of pane separator
@@ -10,9 +10,9 @@ set -g  pane-border-fg default
 set -g  pane-border-bg default
 
 #clear annoying window flags
-#setw -g window-status-format " #I$ #W "
-#setw -g window-status-current-format " #I$ #W"
-
+setw -g window-status-format " #I$ #W "
+setw -g window-status-current-format " #I$ #W"
+setw -g window-status-content-fg yellow
 
 #--------------> Status-Bar
 set -g status-bg "#DDDDDD"
