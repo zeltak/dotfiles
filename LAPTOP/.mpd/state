@@ -3,7 +3,7 @@ audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
 current: 0
-time: 120.047000
+time: 98.545000
 random: 0
 repeat: 0
 single: 0
@@ -12,18 +12,36 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Arcade Fire/2010 The Suburbs/03 Modern Man.flac
-1:Arcade Fire/2010 The Suburbs/04 Rococo.flac
-2:Arcade Fire/2010 The Suburbs/05 Empty Room.flac
-3:Arcade Fire/2010 The Suburbs/06 City With No Children.flac
-4:Arcade Fire/2010 The Suburbs/07 Half Light I.flac
-5:Arcade Fire/2010 The Suburbs/08 Half Light II (No Celebration).flac
-6:Arcade Fire/2010 The Suburbs/09 Suburban War.flac
-7:Arcade Fire/2010 The Suburbs/10 Month of May.flac
-8:Arcade Fire/2010 The Suburbs/11 Wasted Hours.flac
-9:Arcade Fire/2010 The Suburbs/12 Deep Blue.flac
-10:Arcade Fire/2010 The Suburbs/13 We Used to Wait.flac
-11:Arcade Fire/2010 The Suburbs/14 Sprawl I (Flatland).flac
-12:Arcade Fire/2010 The Suburbs/15 Sprawl II (Mountains Beyond Mountains).flac
-13:Arcade Fire/2010 The Suburbs/16 The Suburbs (continued).flac
+0:St. Vincent/2009 Actor/02 Save Me From What I Want.flac
+1:St. Vincent/2009 Actor/03 The Neighbors.flac
+2:St. Vincent/2009 Actor/04 Actor Out of Work.flac
+3:St. Vincent/2009 Actor/05 Black Rainbow.flac
+4:St. Vincent/2009 Actor/06 Laughing With a Mouth of Blood.flac
+5:St. Vincent/2009 Actor/07 Marrow.flac
+6:St. Vincent/2009 Actor/08 The Bed.flac
+7:St. Vincent/2009 Actor/09 The Party.flac
+8:St. Vincent/2009 Actor/10 Just the Same but Brand New.flac
+9:St. Vincent/2009 Actor/11 The Sequel.flac
+10:St. Vincent/2011 Strange Mercy/01 Chloe in the Afternoon.flac
+11:St. Vincent/2011 Strange Mercy/02 Cruel.flac
+12:St. Vincent/2011 Strange Mercy/03 Cheerleader.flac
+13:St. Vincent/2011 Strange Mercy/04 Surgeon.flac
+14:St. Vincent/2011 Strange Mercy/05 Northern Lights.flac
+15:St. Vincent/2011 Strange Mercy/06 Strange Mercy.flac
+16:St. Vincent/2011 Strange Mercy/07 Neutered Fruit.flac
+17:St. Vincent/2011 Strange Mercy/08 Champagne Year.flac
+18:St. Vincent/2011 Strange Mercy/09 Dilettante.flac
+19:St. Vincent/2011 Strange Mercy/10 Hysterical Strength.flac
+20:St. Vincent/2011 Strange Mercy/11 Year of the Tiger.flac
+21:St. Vincent/2014 St. Vincent/01 Rattlesnake.flac
+22:St. Vincent/2014 St. Vincent/02 Birth in Reverse.flac
+23:St. Vincent/2014 St. Vincent/03 Prince Johnny.flac
+24:St. Vincent/2014 St. Vincent/04 Huey Newton.flac
+25:St. Vincent/2014 St. Vincent/05 Digital Witness.flac
+26:St. Vincent/2014 St. Vincent/06 I Prefer Your Love.flac
+27:St. Vincent/2014 St. Vincent/07 Regret.flac
+28:St. Vincent/2014 St. Vincent/08 Bring Me Your Loves.flac
+29:St. Vincent/2014 St. Vincent/09 Psychopath.flac
+30:St. Vincent/2014 St. Vincent/10 Every Tear Disappears.flac
+31:St. Vincent/2014 St. Vincent/11 Severed Crossed Fingers.flac
 playlist_end
