@@ -3,7 +3,7 @@ audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
 current: 0
-time: 120.070000
+time: 24.357000
 random: 0
 repeat: 0
 single: 0
@@ -12,8 +12,16 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Oysterband/2002 Rise Above/07 Blackwaterside.flac
-1:Oysterband/2002 Rise Above/08 Rise Above.flac
-2:Oysterband/2002 Rise Above/09 Wayfaring.flac
-3:Oysterband/2002 Rise Above/10 Bright Morning Star.flac
+0:Ben Folds/2008 Way to Normal/01 Hiroshima (B B B Benny Hit His Head).mp3
+1:Ben Folds/2008 Way to Normal/02 Dr. Yang.mp3
+2:Ben Folds/2008 Way to Normal/03 The Frown Song.mp3
+3:Ben Folds/2008 Way to Normal/04 You Don't Know Me.mp3
+4:Ben Folds/2008 Way to Normal/05 Before Cologne.mp3
+5:Ben Folds/2008 Way to Normal/06 Cologne.mp3
+6:Ben Folds/2008 Way to Normal/07 Errant Dog.mp3
+7:Ben Folds/2008 Way to Normal/08 Free Coffee.mp3
+8:Ben Folds/2008 Way to Normal/09 Bitch Went Nuts.mp3
+9:Ben Folds/2008 Way to Normal/10 Brainwascht.mp3
+10:Ben Folds/2008 Way to Normal/11 Effington.mp3
+11:Ben Folds/2008 Way to Normal/12 Kylie From Connecticut.mp3
 playlist_end
