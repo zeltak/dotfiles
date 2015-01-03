@@ -3,12 +3,13 @@ left {
 	activemode = "VirtualDirMode";
 	"VirtualDirMode" {
 		hiddenfiles = show;
-		sortby = size;
+		sortby = modtime;
+		sortflag = reverse;
 		showfreespace = true;
 		updatetime = 5;
 		field_width = "LISTCOL_DEST",-1;
 		field_width = "LISTCOL_MOD",-1;
-		field_width = "LISTCOL_NAME",-1;
+		field_width = "LISTCOL_NAME",523;
 		field_width = "LISTCOL_OWNER",-1;
 		field_width = "LISTCOL_PERM",-1;
 		field_width = "LISTCOL_SIZE",-1;

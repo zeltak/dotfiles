@@ -2838,6 +2838,21 @@ buttons {
 		}
 	}
 	button {
+		position = 136;
+		title = "chmod";
+		color = 11,1;
+		shortkeys {
+		}
+		commands {
+			ChModOp {
+				onfiles = true;
+				ondirs = true;
+				recursive = true;
+				requestflags = true;
+			}
+		}
+	}
+	button {
 		position = 138;
 		title = "Fpdf";
 		color = 98,132;

@@ -10,6 +10,10 @@ set -g  pane-active-border-fg '#006F95'
 set -g  pane-border-fg default
 set -g  pane-border-bg default
 
+# pane number display
+#set-option -g display-panes-active-colour colour33 #blue
+#set-option -g display-panes-colour colour166 #orange
+
 #--------------> Status-Bar
 
 #base color

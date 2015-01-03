@@ -31,5 +31,5 @@ rsync -aRPz --delete -e ssh /home/zeltak/ThemeDB/  admin@10.0.0.2:/share/MD0_DAT
 
 
 ###final notify
-notify-send -u critical "back up for today done"
+notify-send -u normal "back up for today done"
 
