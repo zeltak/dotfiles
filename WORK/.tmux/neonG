@@ -22,13 +22,13 @@ set -g status-justify left # left align window list
 
 # Current or active window in status bar
 set-window-option -g window-status-current-attr bold
-set-window-option -g window-status-current-fg white
-set-window-option -g window-status-current-bg '#0099CC'
+set-window-option -g window-status-current-fg black
+set-window-option -g window-status-current-bg '#A5F100'
  
 # Non active window in status bar
 set-window-option -g window-status-attr bold
-set-window-option -g window-status-fg '#008ED1'
-set-window-option -g window-status-bg '#002E41'
+set-window-option -g window-status-fg 'black'
+set-window-option -g window-status-bg '#828282'
 
  
 
