@@ -2052,6 +2052,7 @@
 /media/nomachine
 /media/2.2.3-25-amd64
 /media/A8F6-2644
+/media/Debian 6.0.3 amd64 1
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /usr/share/ontology
