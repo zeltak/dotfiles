@@ -1,9 +1,9 @@
-sw_volume: 95
+sw_volume: 91
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: pause
-current: 2766
-time: 49.748000
+current: 2881
+time: 74.454000
 random: 0
 repeat: 0
 single: 0
@@ -5938,3 +5938,4 @@ playlist_begin
 5923:Hahaverim Shel Natasha/2004 Yesh Zman/01 יש זמן.mp3
 5924:Hahaverim Shel Natasha/2004 Yesh Zman/02 רוצה לחזור.mp3
 5925:Hahaverim Shel Natasha/2004 Yesh Zman/03 שיר אחר.mp3
+playlist_end
