@@ -1,6 +1,7 @@
+okular
+gimp
 gvim
 xournal
-okular
 libreoffice
 comix
 vlc
@@ -17,7 +18,6 @@ feh
 xnview
 mcomix
 inkscape
-gimp
 ./
 vim
 feh -f
