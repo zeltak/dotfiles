@@ -108,20 +108,20 @@ bindsym $mod+Shift+n exec i4-input -F 'rename workspace to %s' -P 'New name: '
 
 
 # workspace defines 
-set $w1 0:
-set $w2 1:
-set $w3 2:
-set $w4 3:
-set $w5 4:
-set $w6 q:
-set $w7 w:
-set $w8 e:
-set $w9 a:
-set $w10 s:
-set $w11 d:
-set $w12 z:
-set $w13 x:
-set $w14 c:
+set $w1 H
+set $w2 Tmx
+set $w3 WWW
+set $w4 Mm
+set $w5 IM
+set $w6 FM
+set $w7 S2
+set $w8 Em1
+set $w9 Em2
+set $w10 Em3
+set $w11 Em4
+set $w12 Tv
+set $w13 Gfx
+set $w14 VM
 
 # switch to workspace
 bindcode $mod+49 workspace $w1  
@@ -287,7 +287,8 @@ bindsym $mod+equal [class="keepass2"] scratchpad show
 # Font for window titles. Will also be used by the bar unless a different font is used in the bar {} block below. ISO 10646 = Unicode
 #font xft:Source Code pro 10, Icons 10
 #font xft:Envy Code R 10
-font pango:PragmataPro 10 , Icons 8
+#font pango:PragmataPro 10 , Icons 8
+font xft:PragmataPro 10 , Icons 8
 #font pango:Termsyn 10, Icons 8
 
 
