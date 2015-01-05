@@ -59,6 +59,8 @@
 /home/zeltak/.config/android-notifier-desktop
 /home/zeltak/.config/kava
 /home/zeltak/.config/gtk-3.0
+/home/zeltak/.config/byobu
+/home/zeltak/.config/fb-client
 /home/zeltak/bin/ecapture.sh
 /home/zeltak/bin/helpmenu.sh
 /home/zeltak/bin/.qiv-select
@@ -144,6 +146,7 @@
 /home/zeltak/ZH_tmp/mmm/out/Bigger, Better, Faster, More! (7567-92112-2)
 /home/zeltak/ZH_tmp/pacaur.tar.gz#ugz#utar
 /home/zeltak/ZH_tmp/cower.tar.gz#ugz#utar
+/home/zeltak/ZH_tmp/test
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -185,6 +188,7 @@
 /home/zeltak/music/1Singles/Sam Cooke/2013 Sam Cooke Hits
 /home/zeltak/music/1Singles/Ralph McTell/2013 Ralph McTell Hits
 /home/zeltak/music/1Singles/Therapy
+/home/zeltak/music/1Singles/Blondie/2013 Blondie Hits
 /home/zeltak/music/Byrds, The/1967 Byrds Hits
 /home/zeltak/music/Stills-Young Band, The
 /home/zeltak/music/Stephen Stills/1972 Manassas
@@ -210,6 +214,8 @@
 /home/zeltak/music/Beach Boys, The/1962 Surfin' Safari
 /home/zeltak/music/Beach Boys, The/1963 Surfin' USA
 /home/zeltak/music/Beach Boys, The/Unknown
+/home/zeltak/music/Beach Boys, The/1990 Surfin' Safari _ Surfin' U.S.A_
+/home/zeltak/music/Beach Boys, The/1976 15 Big Ones
 /home/zeltak/music/MGMT
 /home/zeltak/music/Porcupine Tree
 /home/zeltak/music/Stone Roses, The
@@ -292,6 +298,11 @@
 /home/zeltak/music/Blur
 /home/zeltak/music/Led Zeppelin/1971 [Led Zeppelin IV]
 /home/zeltak/music/Led Zeppelin/1969 Led Zeppelin
+/home/zeltak/music/HAIM/2013 Days Are Gone
+/home/zeltak/music/Guns N’ Roses
+/home/zeltak/music/Guess Who, The
+/home/zeltak/music/Green Day
+/home/zeltak/music/Blondie/2004 Blondie Hits
 /home/zeltak/Pictures/FamPics2014_p1
 /home/zeltak/Pictures/FamPics2013_p2
 /home/zeltak/Pictures/unsorted
@@ -351,6 +362,7 @@
 /home/zeltak/.emacs.d/elpa/ace-jump-mode-20140616.115
 /home/zeltak/.emacs.d/elpa/async-20140311.747
 /home/zeltak/.emacs.d/elpa/auctex-11.87.7
+/home/zeltak/.emacs.d/elpa/helm-20141227.2208
 /home/zeltak/.emacs.d/nonelpa/emacs-leuven-theme
 /home/zeltak/.emacs.d/nonelpa/i3-emacs
 /home/zeltak/.emacs.d/nonelpa/navi
@@ -1019,6 +1031,11 @@
 /home/zeltak/mounts/lraid/raid/thd/ISO/Game ISO's
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/linux
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/PC
+/home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/Wii/LEGO_Star_Wars_The_Complete_Saga_Usa_Wii
+/home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/Wii/Star Wars The Clone Wars USA Wii-VORTEX
+/home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/Wii/Super_Smash_Bros_Brawl_[NTSC]_(Wii)_[Ingles]_[wWw.EstrenosWii.CoM]
+/home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/Wii/[Wii]New_Super_Mario_Bros[PAL][FIX WORKS ON USBLOADER_DVD][WIISOS.com]
+/home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/Wii/[Wii]Mario_Kart[PAL][ESPALWII.com].rar#urar/ISO
 /home/zeltak/mounts/lraid/raid/thd/Storages and MultiOS backups/Acronis Backups/Vivid - Star Wars Xxx Porn Parody
 /home/zeltak/mounts/lraid/raid/thd/Storages and MultiOS backups/Acronis Backups/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/raid/thd/Storages and MultiOS backups/Acronis Backups/vmware_xp_testing/M/Short clips
@@ -1443,6 +1460,8 @@
 /home/zeltak/mounts/lraid/raid/Mee/Michal Music/bands
 /home/zeltak/mounts/lraid/raid/e-books/Song of Ice and Fire Split
 /home/zeltak/mounts/lraid/raid/btsync/org/attach/images_2014
+/home/zeltak/mounts/lraid/raid/btsync/org/attach/.sync/Archive
+/home/zeltak/mounts/lraid/raid/btsync/org/attach/files_2012
 /home/zeltak/mounts/lraid/raid/Comics/Sweet Tooth/sweet_tooth_18.cbr#urar
 /home/zeltak/mounts/lraid/raid/Comics/Before Watchmen/(2012) Comedian
 /home/zeltak/mounts/lraid/raid/Comics/Before Watchmen/(2012) Dr. Manhattan
@@ -1461,9 +1480,12 @@
 /home/zeltak/mounts/lraid/raid/Comics/Full Metal Alchemist /FMA Chapters 1-10/Full Metal Alchemist - Manga - Vol. 2.cbr#urar
 /home/zeltak/mounts/lraid/raid/Comics/Futurama Comics
 /home/zeltak/mounts/lraid/raid/Comics/marvel
+/home/zeltak/mounts/lraid/raid/Comics/100 Bullets (Brian Azzarello)/100 Bullets #001.cbr#urar
+/home/zeltak/mounts/lraid/raid/Comics/Astro City
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/3.10.2104
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/2.10.2104
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/22.11.2014/part2/Sent
+/home/zeltak/mounts/lraid/raid/Pictures/$Inbox/1.1.2015
 /home/zeltak/mounts/lraid/raid/Pictures/Family Photos/Itai/1)Itai Baby
 /home/zeltak/mounts/lraid/raid/My documents
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.emacs.d
@@ -1489,7 +1511,9 @@
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/dotfiles/LAPTOP/.worker
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/org/attach/files_2012
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.tmux
-/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com
+/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/2015/1
+/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/2014/1/1
+/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/catalog
 /home/zeltak/mounts/lraid/Recordings
 /home/zeltak/mounts/lraid/lost+found
 /home/zeltak/mounts/lraid/.@backup_config
@@ -1526,6 +1550,7 @@
 /home/zeltak/BK/emacs/19.10.2014
 /home/zeltak/BK/emacs/7.11.2014
 /home/zeltak/BK/emacs/23.12.2104/.emacs.d
+/home/zeltak/BK/emacs/1.1.2015
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1590,6 +1615,7 @@
 /home/zeltak/mreview/1_imp_single
 /home/zeltak/mreview/The Lord Of The Rings - The Trilogy Soundtrack/Original_OST
 /home/zeltak/mreview/4 Non Blondes - Bigger, Better, Faster, More! (1992) [EAC-FLAC]
+/home/zeltak/mreview/oysterband/deserters/1992 Deserters
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn
@@ -1665,6 +1691,7 @@
 /home/zeltak/dotfiles/LAPTOP/.config/htop
 /home/zeltak/dotfiles/LAPTOP/.config/kava
 /home/zeltak/dotfiles/LAPTOP/.config/terminator
+/home/zeltak/dotfiles/LAPTOP/.config/fb-client
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/info/default
 /home/zeltak/dotfiles/LAPTOP/.pentadactyl/colors
 /home/zeltak/dotfiles/LAPTOP/.i3
@@ -2015,15 +2042,18 @@
 /media/BLACKBERRY/DCIM/Camera
 /media/BLACKBERRY/BlackBerry
 /media/BLACKBERRY/Android
-/media/BLACKBERRY/WhatsApp/Media/WhatsApp Images
+/media/BLACKBERRY/WhatsApp/Media/WhatsApp Images/Sent
 /media/BLACKBERRY/WhatsApp/Media/WhatsApp Audio
 /media/BLACKBERRY/WhatsApp/Media/WhatsApp Video/Sent
+/media/BLACKBERRY/WhatsApp/Media/WhatsApp Voice Notes/201450
 /media/BLACKBERRY/WhatsApp/Profile Pictures
 /media/BLACKBERRY/music
 /media/BLACKBERRY/waze
 /media/EASY2BOOT/_ISO/MAINMENU
 /media/nomachine
 /media/2.2.3-25-amd64
+/media/A8F6-2644
+/media/Debian 6.0.3 amd64 1
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /usr/share/ontology
@@ -2032,6 +2062,7 @@
 /usr/share/fonts/TTF
 /usr/share/doc
 /usr/share/keepass/plugins/rpc
+/usr/share/byobu/keybindings
 /usr/bin
 /tmp
 /var/log

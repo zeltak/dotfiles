@@ -1,27 +1,40 @@
-sw_volume: 76
+sw_volume: 95
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 0
-time: 24.357000
+state: pause
+current: 12
+time: 7.337000
 random: 0
 repeat: 0
 single: 0
-consume: 1
+consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Ben Folds/2008 Way to Normal/01 Hiroshima (B B B Benny Hit His Head).mp3
-1:Ben Folds/2008 Way to Normal/02 Dr. Yang.mp3
-2:Ben Folds/2008 Way to Normal/03 The Frown Song.mp3
-3:Ben Folds/2008 Way to Normal/04 You Don't Know Me.mp3
-4:Ben Folds/2008 Way to Normal/05 Before Cologne.mp3
-5:Ben Folds/2008 Way to Normal/06 Cologne.mp3
-6:Ben Folds/2008 Way to Normal/07 Errant Dog.mp3
-7:Ben Folds/2008 Way to Normal/08 Free Coffee.mp3
-8:Ben Folds/2008 Way to Normal/09 Bitch Went Nuts.mp3
-9:Ben Folds/2008 Way to Normal/10 Brainwascht.mp3
-10:Ben Folds/2008 Way to Normal/11 Effington.mp3
-11:Ben Folds/2008 Way to Normal/12 Kylie From Connecticut.mp3
+0:1Singles/10cc/2013 10cc Hits/01 I'm Not in Love.mp3
+1:1Singles/Bush/2013 Bush Hits/02 Bomb.mp3
+2:1Singles/Bush/2013 Bush Hits/05 Superman.mp3
+3:Bush/2004 The Best of '94 - '99/01 Everything Zen.flac
+4:Bush/2004 The Best of '94 - '99/02 Little Things.flac
+5:Bush/2004 The Best of '94 - '99/03 Comedown.flac
+6:Bush/2004 The Best of '94 - '99/04 Glycerine.flac
+7:Bush/2004 The Best of '94 - '99/05 Machinehead.flac
+8:Bush/2004 The Best of '94 - '99/06 Swallowed.flac
+9:Bush/2004 The Best of '94 - '99/07 Greedy Fly.flac
+10:Bush/2004 The Best of '94 - '99/08 Warm Machine.flac
+11:Bush/2004 The Best of '94 - '99/09 The Chemicals Between Us.flac
+12:Bush/2004 The Best of '94 - '99/10 Letting the Cables Sleep.flac
+13:Bush/2004 The Best of '94 - '99/11 Everything Zen (The Lhasa Fever mix).flac
+14:Bush/2004 The Best of '94 - '99/12 Mouth (The Stingray mix).flac
+15:Bush/2004 The Best of '94 - '99/13 Swallowed (Goldie_Toasted Both Sides Please mix).flac
+16:Bush/2004 The Best of '94 - '99/14 Machinehead.flac
+17:Bush/2004 The Best of '94 - '99/15 Greedy Fly.flac
+18:Bush/2004 The Best of '94 - '99/16 Warm Machine.flac
+19:Bush/2004 The Best of '94 - '99/17 Everything Zen.flac
+20:Bush/2004 The Best of '94 - '99/18 The Chemicals Between Us.flac
+21:Bush/2004 The Best of '94 - '99/19 Glycerine.flac
+22:Bush/2004 The Best of '94 - '99/20 Swallowed.flac
+23:Bush/2004 The Best of '94 - '99/21 The One I Love.flac
+24:Bush/2004 The Best of '94 - '99/22 Little Things.flac
 playlist_end

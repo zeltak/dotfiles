@@ -10,8 +10,8 @@ set -g  pane-border-fg default
 set -g  pane-border-bg default
 
 #clear annoying window flags
-setw -g window-status-format " #I$ #W "
-setw -g window-status-current-format " #I$ #W"
+#setw -g window-status-format " #I$ #W "
+#setw -g window-status-current-format " #I$ #W"
 
 
 #--------------> Status-Bar

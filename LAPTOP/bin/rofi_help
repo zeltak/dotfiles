@@ -14,6 +14,7 @@ dplayPrompt () {
           "8 sxhkd"
           "9 CLI"
           "0  Worker"
+          "z  zsh"
           "---"
           "/  ")
 
@@ -33,6 +34,7 @@ dplayPrompt () {
         8*)  cat /home/zeltak/org/files/export/sxhkd_keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
         9*)  cliPromot;;
         0*)   cat /home/zeltak/org/files/export/worker_keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
+        z*)   cat /home/zeltak/org/files/export/zsh_keys.txt | rofi  -dmenu -width 1300 -lines 20 -p '';;
         *) exit
     esac
 }
