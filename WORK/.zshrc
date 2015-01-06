@@ -119,7 +119,7 @@ alias xx="exit"
 #Tmux
 alias tlist='tmux list-sessions'
 alias tnew='tmux new-session -s'
-alias tcm='teamocil --here lmain'
+alias tcm='teamocil --here wmain'
 
 #chmod
 alias cm='chmod +x' #change mode of exec
