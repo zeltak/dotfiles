@@ -389,6 +389,8 @@
 /home/zeltak/Downloads/test/tinymm/backup
 /home/zeltak/Downloads/test/tinymm/locale
 /home/zeltak/Downloads/test/test/OpenELEC-Generic.x86_64-3.95.2
+/home/zeltak/Downloads/test/Uni/pdf_lib
+/home/zeltak/Downloads/test/scans
 /home/zeltak/Downloads/files.zip#uzip/files/Tech
 /home/zeltak/Downloads/files.zip#uzip/files/Uni/Projects/code/P31
 /home/zeltak/Downloads/files.zip#uzip/files/Uni/papers
@@ -438,6 +440,7 @@
 /home/zeltak/Downloads/landusevariablesforlpm_southeast_2_6_14.docx#uzip
 /home/zeltak/Downloads/dplyr-tutorial
 /home/zeltak/Downloads/pulse-linux-amd64-0.1.1.tar.gz#ugz#utar/pulse-linux-amd64-0.1.1
+/home/zeltak/Downloads/git-annex-bin.tar.gz#ugz#utar/git-annex-bin
 /home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen - 2000 - Field Commander Cohen - Tour of 79
 /home/zeltak/mounts/lraid/Download/transmission/completed/Dave Brubeck Quartet - Time Out_Stig
 /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby Stills Nash - Crosby Stills Nash (2012) [Flac] {HDtracks 24-96}
@@ -934,6 +937,12 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Cowboy Bebop (1998) 720p (BrRip) DualAudio  100mb
 /home/zeltak/mounts/lraid/Download/transmission/completed/What.We.Do.In.The.Shadows.2014.HDRip.x264-COX
 /home/zeltak/mounts/lraid/Download/transmission/completed/Jogos.Vorazes.Em.Chamas.2013.1080p.BRRip.5.1.CH.x264.Dublado
+/home/zeltak/mounts/lraid/Download/transmission/completed/What.We.Do.in.the.Shadows.2014.LIMITED.BRRip.XviD.AC3-EVO
+/home/zeltak/mounts/lraid/Download/transmission/completed/Dumb And Dumber To 2014 720p HDRip x264 AAC-KiNGDOM
+/home/zeltak/mounts/lraid/Download/transmission/completed/A Walk Among the Tombstones (2014) [1080p]
+/home/zeltak/mounts/lraid/Download/transmission/completed/NTSF.SD.SUV - Season 1
+/home/zeltak/mounts/lraid/Download/transmission/completed/Fury.2014.1080p.WEB-DL.DD5.1.H264-RARBG
+/home/zeltak/mounts/lraid/Download/transmission/completed/Redirected.2014.720p.WEB-DL.DD5.1.H264-RARBG
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1028,7 +1037,9 @@
 /home/zeltak/mounts/lraid/raid/P2P_Dl/1_music_import
 /home/zeltak/mounts/lraid/raid/P2P_Dl/2_session
 /home/zeltak/mounts/lraid/raid/P2P_Dl/3_incomplete
-/home/zeltak/mounts/lraid/raid/ztmp
+/home/zeltak/mounts/lraid/raid/ztmp/cm-10.2.1-d2att.zip#uzip
+/home/zeltak/mounts/lraid/raid/ztmp/system
+/home/zeltak/mounts/lraid/raid/ztmp/META-INF/com/google/android
 /home/zeltak/mounts/lraid/raid/thd/ISO/Game ISO's
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/linux
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/PC
@@ -1566,6 +1577,18 @@
 /home/zeltak/BK/penta2
 /home/zeltak/BK/dotfiles/LAPTOP
 /home/zeltak/BK/X_resources
+/home/zeltak/BK/syncthing
+/home/zeltak/BK/sync/VT
+/home/zeltak/BK/sync/ztmp/org-download
+/home/zeltak/BK/sync/attach/images_2014
+/home/zeltak/BK/sync/scans/Manuals
+/home/zeltak/BK/sync/scans/2014/BGU_salary
+/home/zeltak/BK/sync/scans/2014/contacts
+/home/zeltak/BK/sync/scans/2014/docs
+/home/zeltak/BK/sync/scans/2014/uni
+/home/zeltak/BK/sync/scans/2014/manuals
+/home/zeltak/BK/sync/scans/2013
+/home/zeltak/BK/sync/scans/1990-2000
 /home/zeltak/org/files/agenda
 /home/zeltak/org/files/Uni/papers/bib
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
@@ -1624,6 +1647,7 @@
 /home/zeltak/AUR/gpaste
 /home/zeltak/AUR/cower
 /home/zeltak/AUR/pacaur
+/home/zeltak/AUR/git-annex-bin
 /home/zeltak/.worker/catalogs
 /home/zeltak/scripts/irc/weechat
 /home/zeltak/scripts/Audio
@@ -1882,6 +1906,7 @@
 /home/zeltak/Uni/#MY_papers/$AOD_NE_methods/EHP/Editor_comments_fix4_est.docx#uzip/word/theme
 /home/zeltak/Uni/#MY_papers/$AOD_NE_methods/atmos_env/kloog_et_al_AE_v6.docx#uzip
 /home/zeltak/Uni/#MY_papers/$MIA_Medicare/plos_one
+/home/zeltak/Uni/#MY_papers/DVT papaer/JTH
 /home/zeltak/Uni/BGU
 /home/zeltak/Uni/Courses
 /home/zeltak/Uni/grants/beterm
@@ -1936,8 +1961,15 @@
 /home/zeltak/Sync/Uni/signatures
 /home/zeltak/Sync/Uni/$CV
 /home/zeltak/Sync/Uni/passport_pic
+/home/zeltak/Sync/Uni/Uni
+/home/zeltak/Sync/Uni/attach/images_2014
+/home/zeltak/Sync/Uni/scans/Manuals
+/home/zeltak/Sync/Uni/scans/2014/BGU_salary
+/home/zeltak/Sync/Uni/scans/2014/docs
+/home/zeltak/Sync/Uni/scans/2013
 /home/zeltak/Sync/keepass
 /home/zeltak/Sync/ztmp
+/home/zeltak/Sync/.git
 /home/zeltak/media/videos/robot chicken season 5
 /home/zeltak/media/videos/robot chicken
 /home/zeltak/media/videos/rick steins india
@@ -1958,7 +1990,7 @@
 /home/zeltak/mtp/Internal storage/Movies
 /home/zeltak/mtp/Internal storage/comic/new avengers
 /home/zeltak/mtp/Internal storage/Android/data
-/home/zeltak/mtp/Internal storage/Download
+/home/zeltak/mtp/Internal storage/Download/1
 /home/zeltak/mtp/Internal storage/Music
 /home/zeltak/.mpd
 /home/zeltak/CheckPoint

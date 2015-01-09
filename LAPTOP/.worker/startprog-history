@@ -1,4 +1,5 @@
 gvim
+emacsclient
 xnview
 xournal
 vlc
@@ -8,7 +9,6 @@ okular
 comix
 libreoffice
 firefox
-emacsclient
 kate
 xarchiver
 smplayer

@@ -309,9 +309,9 @@ done=4.3plasma-desktop
 mtime=1415313418
 
 [smb4ksettings.upd]
-ctime=1412417468
+ctime=1420792077
 done=authentication1,network1,userinterface1,samba1,network2,samba2,userinterface2
-mtime=1403023175
+mtime=1420120098
 
 [yakuake.upd]
 ctime=1412678258
