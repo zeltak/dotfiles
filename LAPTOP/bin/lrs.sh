@@ -1,9 +1,7 @@
 #!/bin/bash
 
-
 #mirror music library
 rsync -aRPz --delete -e ssh /home/zeltak/music/  admin@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
-
 
 #Emacs 
 rsync -aRPz --delete  -L --exclude='.git/'  -e ssh /home/zeltak/.emacs.d/  admin@10.0.0.2:/share/MD0_DATA/Rsync/  # &> /dev/null
@@ -29,7 +27,12 @@ rsync -aRPz --delete -e ssh /home/zeltak/Pictures/  admin@10.0.0.2:/share/MD0_DA
 #ThemDB
 rsync -aRPz --delete -e ssh /home/zeltak/ThemeDB/  admin@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
 
+#sync folder
+rsync -aRPz --delete -e ssh /home/zeltak/Sync/  admin@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
+
+# uni folder 
+rsync -aRPz --delete -e ssh /home/zeltak/Uni/  admin@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
 
 ###final notify
-notify-send -u normal "back up for today done"
+#notify-send -u normal "back up for today done"
 

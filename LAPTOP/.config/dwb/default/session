@@ -150,6 +150,7 @@ g:default
 0|0 https://mail.google.com/mail/u/0/?pli=1#inbox Inbox - green.michal.n@gmail.com - Gmail
 0|0 http://smplayer.sourceforge.net/first-steps.php SMPlayer - First steps with SMPlayer
 0|0 http://endlessparentheses.com/ispell-and-abbrev-the-perfect-auto-correct.html Ispell and Abbrev, the Perfect Auto-Correct · Endless Parentheses
-0|0 http://127.0.0.1:8080/ Pulse | voices
-0|0 http://127.0.0.1:8080/ Pulse | voices
-0|0 http://127.0.0.1:8080/ Pulse | voices
+0|0 http://127.0.0.1:8080/ Syncthing | voices
+0|0 http://127.0.0.1:8080/ Syncthing | voices
+0|0 http://127.0.0.1:8080/ Syncthing | voices
+0|0 http://127.0.0.1:39876/config/repository/new/first?auth=bb4973d45e98d0a6838e6f0920428dc6727e9a28e50e311fb56598eb3737150d3052235837a6df25853b9daa069738fc6999da3dbe7506fb64678db83c4151e3 Getting started
