@@ -1523,7 +1523,9 @@
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/dotfiles/LAPTOP/.worker
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/org/attach/files_2012
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.tmux
-/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/2015/1
+/home/zeltak/mounts/lraid/Rsync/home/zeltak/Uni
+/home/zeltak/mounts/lraid/Rsync/home/zeltak/Sync/scans/2014
+/home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/2015/1/10
 /home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/2014/1/1
 /home/zeltak/mounts/lraid/Rsync/home/ikloog@gmail.com/catalog
 /home/zeltak/mounts/lraid/Recordings
@@ -2087,6 +2089,8 @@
 /home/zeltak/.emacs.g/src
 /home/zeltak/.unison
 /home/zeltak/uni
+/home/zeltak/.emacs.t/undo-files
+/home/zeltak/.emacs.t/image-dired
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699

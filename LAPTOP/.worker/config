@@ -3196,7 +3196,7 @@ buttons {
 				separateeachentry = false;
 				recursive = false;
 				start = normal;
-				com = "sshfs zeltak@10.0.0.2:/share/MD0_DATA/ /home/zeltak/mounts/lraid ; shell notify-send -u low  \"Worker\" \"mounted raid\"";
+				com = "sshfs zeltak@qnap:/share/MD0_DATA/ /home/zeltak/mounts/lraid ; shell notify-send -u low  \"Worker\" \"mounted raid\"";
 				viewstr = "";
 				inbackground = true;
 				takedirs = false;

@@ -30,7 +30,7 @@ epoxate.com	false	9223372036854775807
 irccloud.com	false	9223372036854775807
 cloudsecurityalliance.org	true	9223372036854775807
 api.recurly.com	true	9223372036854775807
-apis.google.com	false	1431684848493537
+apis.google.com	false	1431887110111519
 health.google.com	true	9223372036854775807
 www.paypal.com	false	9223372036854775807
 factor.cc	false	9223372036854775807
@@ -91,7 +91,7 @@ www.moneybookers.com	true	9223372036854775807
 stocktrade.de	true	9223372036854775807
 iop.intuit.com	true	9223372036854775807
 api.intercom.io	false	9223372036854775807
-mail.google.com	true	1431684838278477
+mail.google.com	true	1431887101984824
 login.sapo.pt	true	9223372036854775807
 history.google.com	true	9223372036854775807
 talk.google.com	true	9223372036854775807
@@ -118,7 +118,7 @@ intercom.io	false	9223372036854775807
 gmail.com	false	9223372036854775807
 accounts.google.com	true	1431691797329974
 therapynotes.com	false	9223372036854775807
-syndication.twitter.com	false	2051936960427028
+syndication.twitter.com	false	2052139290443401
 profiles.google.com	true	9223372036854775807
 app.recurly.com	true	9223372036854775807
 check.torproject.org	true	9223372036854775807
@@ -147,7 +147,6 @@ openshift.redhat.com	true	9223372036854775807
 www.dropcam.com	false	9223372036854775807
 r.twimg.com	false	2002383754069614
 crm.onlime.ch	true	9223372036854775807
-glitter-services.disqus.com	false	1420802045758067
 sunshinepress.org	true	9223372036854775807
 aladdinschools.appspot.com	false	9223372036854775807
 login.persona.org	true	9223372036854775807
