@@ -414,6 +414,12 @@
 /home/zeltak/Downloads/pulse-linux-amd64-0.1.1.tar.gz#ugz#utar
 /home/zeltak/Downloads/syncthing-linux-amd64-v0.10.12.tar.gz#ugz#utar
 /home/zeltak/Downloads/teamviewer_linux.tar.gz#ugz#utar
+/home/zeltak/Downloads/symbols.zip#uzip
+/home/zeltak/Downloads/MEX_adm.zip#uzip
+/home/zeltak/Downloads/mexwaterways.zip#uzip
+/home/zeltak/Downloads/mexroads.zip#uzip
+/home/zeltak/Downloads/bittorrent_sync_x64.tar.gz#ugz#utar
+/home/zeltak/Downloads/btsync
 /home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen - 2000 - Field Commander Cohen - Tour of 79
 /home/zeltak/mounts/lraid/Download/transmission/completed/Dave Brubeck Quartet - Time Out_Stig
 /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby Stills Nash - Crosby Stills Nash (2012) [Flac] {HDtracks 24-96}
@@ -1854,6 +1860,7 @@
 /home/zeltak/Sync/scans/2014/contacts
 /home/zeltak/Sync/scans/2014/uni
 /home/zeltak/Sync/scans/2014/manuals
+/home/zeltak/Sync/scans/2014/BGU_salary
 /home/zeltak/Sync/scans/1990-2000
 /home/zeltak/Sync/scans/2000-2012
 /home/zeltak/Sync/scans/2013/documents
@@ -1931,6 +1938,9 @@
 /home/zeltak/.gmvault
 /home/zeltak/emacs/dotemacs
 /home/zeltak/.emacs.g
+/home/zeltak/.qgis2/svg
+/home/zeltak/.qgis
+/home/zeltak/sync
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
@@ -1951,6 +1961,7 @@
 /media/NAS/Uni/org/files/Uni/Projects/code/P032.multiple_expo_jaime/archive
 /media/NAS/Uni/org/files/Uni/Projects/code/P046.Israel_MAIAC/CNNEW
 /media/NAS/Uni/org/files/Uni/Projects/code/P046.Israel_MAIAC/archive/cnnew
+/media/NAS/Uni/org/files/Uni/Projects/code/P046.Israel_MAIAC/CMNEW.YEAR
 /media/NAS/Uni/org/files/Uni/Projects/code/P031.MIAC_PM
 /media/NAS/Uni/org/files/Uni/Projects/code/$Rsnips
 /media/NAS/Uni/org/files/Uni/Projects/code/P000_TMP_PROJECTS
@@ -1964,16 +1975,21 @@
 /media/NAS/Uni/Projects/P000_TMP_PROJECTS/Joel_temp_grant
 /media/NAS/Uni/Projects/P032_multiple_expo_jaime/3.Work
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/3.Work/2.Gather_data/FN004_LU_full_dataset
+/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/archive
+/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/mod1
+/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
 /media/NAS/Uni/Data/USA/MAIAC_NEW/results_Terra_Aqua/h03v07
 /media/NAS/Uni/Data/GIS/Israel/OSM_roads_2014
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
+/media/NAS/Uni/Data/GIS/Mexicio
 /media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
 /media/NAS/Uni/ztmp/qgis
 /media/NAS/Uni/Courses/Qgis/L10-Big Data/e10
+/media/NAS/Z_backups
 /media/usb
 /media/My Book
 /media/tmp
