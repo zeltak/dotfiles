@@ -1628,6 +1628,7 @@
 /home/zeltak/dotfiles/LAPTOP/.mpdscribble
 /home/zeltak/dotfiles/LAPTOP/.mpd
 /home/zeltak/dotfiles/LAPTOP/.tmux
+/home/zeltak/dotfiles/LAPTOP/bin
 /home/zeltak/dotfiles/.git/logs/refs/heads
 /home/zeltak/dotfiles/.git/objects/0e
 /home/zeltak/dotfiles/.git/objects/6e
@@ -1911,6 +1912,7 @@
 /home/zeltak/.mpdscribble
 /home/zeltak/R/x86_64-unknown-linux-gnu-library/3.1
 /home/zeltak/R/x86_64-unknown-linux-gnu-library/3.0
+/home/zeltak/R/x86_64-pc-linux-gnu-library
 /home/zeltak/.atom/packages
 /home/zeltak/.cpan
 /home/zeltak/.docear
@@ -1942,6 +1944,12 @@
 /home/zeltak/.qgis2/svg
 /home/zeltak/.qgis
 /home/zeltak/sync
+/home/zeltak/.rstudio-desktop
+/home/zeltak/.teamocil
+/home/zeltak/.unison
+/home/zeltak/Documents/MATLAB
+/home/zeltak/Documents/NoMachine
+/home/zeltak/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2000
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
@@ -1983,6 +1991,12 @@
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
 /media/NAS/Uni/Data/USA/MAIAC_NEW/results_Terra_Aqua/h03v07
+/media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2000
+/media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2001
+/media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2003
+/media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2014
+/media/NAS/Uni/Data/USA/MOIDS ST/RAW HDF
+/media/NAS/Uni/Data/USA/nm2/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua
 /media/NAS/Uni/Data/GIS/Israel/OSM_roads_2014
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
 /media/NAS/Uni/Data/GIS/Mexicio
