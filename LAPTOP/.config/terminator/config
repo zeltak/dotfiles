@@ -9,7 +9,7 @@
   full_screen = None
 [profiles]
   [[default]]
-    foreground_color = "#657b83"
+    foreground_color = "#00ff00"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     font = PragmataPro 11
     background_image = None
@@ -17,10 +17,9 @@
     cursor_color = "#38ff00"
     cursor_blink = False
     icon_bell = False
-    scrollbar_position = hidden
     show_titlebar = False
     copy_on_selection = True
-    background_color = "#fdf6e3"
+    scrollbar_position = hidden
     allow_bold = False
   [[Zlight]]
     scrollbar_position = hidden
