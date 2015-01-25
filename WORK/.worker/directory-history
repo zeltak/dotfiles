@@ -141,6 +141,7 @@
 /home/zeltak/ZH_tmp/tmp/NEW_LAYERS_BS_261112
 /home/zeltak/ZH_tmp/RRO-8.0.1-Beta3-Ubuntu-14.04.x86_64.tar.gz#ugz#utar
 /home/zeltak/ZH_tmp/rr
+/home/zeltak/ZH_tmp/elysium_4K.zip#uzip
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1535,6 +1536,7 @@
 /home/zeltak/org/attach/images_2012
 /home/zeltak/org/attach/images_2013
 /home/zeltak/org/attach/.SyncArchive
+/home/zeltak/org/attach/images_2015
 /home/zeltak/org/.SyncArchive
 /home/zeltak/mreview/laura.tar#utar/2011 A Creature I Don't Know
 /home/zeltak/mreview/2011 A Creature I Don't Know
@@ -2005,11 +2007,16 @@
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
 /media/NAS/Uni/Data/GIS/Mexicio
 /media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
+/media/NAS/Uni/Data/Mexico
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
 /media/NAS/Uni/ztmp/qgis
 /media/NAS/Uni/Courses/Qgis/L10-Big Data/e10
 /media/NAS/Uni/Courses/stat
-/media/NAS/Z_backups
+/media/NAS/Uni/VirtualBox VMs/Windowz/tmp
+/media/NAS/Uni/VirtualBox VMs/Windowz/Snapshots
+/media/NAS/Uni/VirtualBox VMs/Windowz/Logs
+/media/NAS/Z_backups/GIS.zip#uzip
+/media/NAS/Z_backups/agebsDF.zip#uzip
 /media/usb
 /media/My Book
 /media/tmp
@@ -2036,6 +2043,7 @@
 /media/EASY2BOOT/_ISO/MAINMENU
 /media/nomachine
 /media/2.2.3-25-amd64
+/media/rsync
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /usr/share/ontology

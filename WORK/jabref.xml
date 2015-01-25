@@ -89,7 +89,7 @@
             <entry key="emailSubject" value="References"/>
             <entry key="enableSourceEditing" value="true"/>
             <entry key="enforceLegalBibtexKey" value="true"/>
-            <entry key="entryEditorHeight" value="989"/>
+            <entry key="entryEditorHeight" value="998"/>
             <entry key="exportInOriginalOrder" value="false"/>
             <entry key="exportInStandardOrder" value="false"/>
             <entry key="exportInTitleOrder" value="false"/>
@@ -105,7 +105,7 @@
             <entry key="floatMarkedEntries" value="false"/>
             <entry key="floatSearch" value="true"/>
             <entry key="fontFamily" value="Droid Sans"/>
-            <entry key="fontSize" value="14"/>
+            <entry key="fontSize" value="18"/>
             <entry key="fontStyle" value="1"/>
             <entry key="generateKeysAfterInspection" value="true"/>
             <entry key="generateKeysBeforeSaving" value="false"/>
@@ -389,7 +389,7 @@
             <entry key="markedEntryBackground4" value="51:255:51"/>
             <entry key="markedEntryBackground5" value="220:255:220"/>
             <entry key="memoryStickMode" value="true"/>
-            <entry key="menuFontSize" value="12"/>
+            <entry key="menuFontSize" value="14"/>
             <entry key="nameFormatterFormats" value=""/>
             <entry key="nameFormatterNames" value=""/>
             <entry key="namesAsIs" value="false"/>
@@ -415,9 +415,9 @@
             <entry key="preview0" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}__NEWLINE__\begin{abstract}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Abstract: &lt;/b&gt; \format[HTMLChars]{\abstract} \end{abstract}__NEWLINE__\begin{review}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Review: &lt;/b&gt; \format[HTMLChars]{\review} \end{review}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="previewEnabled" value="true"/>
-            <entry key="previewPanelHeight" value="465"/>
+            <entry key="previewPanelHeight" value="874"/>
             <entry key="priDescending" value="false"/>
-            <entry key="priSort" value="author"/>
+            <entry key="priSort" value="title"/>
             <entry key="promptBeforeUsingAutosave" value="true"/>
             <entry key="proxyHostname" value="my proxy host"/>
             <entry key="proxyPort" value="my proxy port"/>
@@ -455,8 +455,8 @@
             <entry key="showSearchInDialog" value="false"/>
             <entry key="showSource" value="true"/>
             <entry key="sidePaneWidth" value="391"/>
-            <entry key="sizeX" value="2560"/>
-            <entry key="sizeY" value="1434"/>
+            <entry key="sizeX" value="1920"/>
+            <entry key="sizeY" value="2154"/>
             <entry key="specialFieldsEnabled" value="true"/>
             <entry key="stringsPosX" value="492"/>
             <entry key="stringsPosY" value="387"/>
