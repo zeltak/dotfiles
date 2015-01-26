@@ -77,7 +77,7 @@
             <entry key="customTabName_3" value="Review"/>
             <entry key="customTabName_4" value="Misc"/>
             <entry key="customTypeName_0" value="Article"/>
-            <entry key="customTypeOpt_0" value="citenum;impact_factor;journal_rank;month;note;number;pages;q;volume"/>
+            <entry key="customTypeOpt_0" value="volume;number;pages;month;note;q;impact_factor;citenum;journal_rank"/>
             <entry key="customTypePriOpt_0" value="volume;number;pages;month;note;q;impact_factor;citenum;journal_rank"/>
             <entry key="customTypeReq_0" value="author;journal;title;year"/>
             <entry key="defaultEncoding" value="ISO8859_1"/>
@@ -145,7 +145,6 @@
             <entry key="invalidFieldBackgroundColor" value="255:0:0"/>
             <entry key="keyGenAlwaysAddLetter" value="false"/>
             <entry key="keyGenFirstLetterA" value="true"/>
-            <entry key="lastEdited" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib"/>
             <entry key="lastUsedImport" value="__all"/>
             <entry key="localcopy-auth-171ef71ef1a1456b9481ab406574172d-host" value="Y2FuY2VycmVzLmFhY3Jqb3VybmFscy5vcmc="/>
             <entry key="localcopy-auth-171ef71ef1a1456b9481ab406574172d-pass" value=""/>
@@ -430,7 +429,7 @@
             <entry key="proxyPort" value="my proxy port"/>
             <entry key="psDirectory" value=""/>
             <entry key="pushToApplication" value="Insert selected citations into LyX/Kile"/>
-            <entry key="recentFiles" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;/home/zeltak/Downloads/kloog;/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib"/>
+            <entry key="recentFiles" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib;/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib;/home/zeltak/Downloads/kloog;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib"/>
             <entry key="regExpSearch" value="true"/>
             <entry key="renamefileShow" value="false"/>
             <entry key="resolveStringsAllFields" value="false"/>

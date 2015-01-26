@@ -63,7 +63,9 @@ rofi.fixed-num-lines: true
 rofi.disable-history: false
 rofi.levenshtein-sort: fasle
 rofi.terminal: x-terminal-emulator
-       
+
+
+
 
 ! -- dmenu settings -- !
 dmenu.selforeground: #FFFFFF
