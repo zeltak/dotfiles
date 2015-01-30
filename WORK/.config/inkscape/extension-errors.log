@@ -5,9 +5,34 @@ Dependency:
   string: dia
   description: In order to import Dia files, Dia itself must be installed.  You can get Dia at http://live.gnome.org/Dia
 
+Extension "LaTeX formula" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: latex
+
+Extension "LaTeX formula" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: dvips
+
+Extension "LaTeX formula" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: pstoedit
+
 Extension "Sketch Input" failed to load because a dependency was not met.
 Dependency:
   type: executable
   location: path
   string: skconvert
+
+Extension "DXF Output" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: pstoedit
+  description: pstoedit must be installed to run; see http://www.pstoedit.net/pstoedit
 

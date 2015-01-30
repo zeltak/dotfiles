@@ -1,4 +1,4 @@
-workerconfig 3.5.2;
+workerconfig 3.6.0;
 global {
 	lang = "builtin";
 	rows = 4;
@@ -7066,6 +7066,52 @@ buttons {
 				inbackground = false;
 				takedirs = false;
 				dontcd = false;
+			}
+		}
+	}
+	button {
+		position = 320;
+		title = "Selected to vdir";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "vdir_from_selected";
+			}
+		}
+	}
+	button {
+		position = 322;
+		title = "Add from other side";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "vdir_add_selected_from_other_side";
 			}
 		}
 	}

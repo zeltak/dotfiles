@@ -140,7 +140,6 @@
             <entry key="invalidFieldBackgroundColor" value="255:0:0"/>
             <entry key="keyGenAlwaysAddLetter" value="false"/>
             <entry key="keyGenFirstLetterA" value="true"/>
-            <entry key="lastEdited" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib"/>
             <entry key="lastUsedImport" value="__all"/>
             <entry key="localcopy-auth-171ef71ef1a1456b9481ab406574172d-host" value="Y2FuY2VycmVzLmFhY3Jqb3VybmFscy5vcmc="/>
             <entry key="localcopy-auth-171ef71ef1a1456b9481ab406574172d-pass" value=""/>
@@ -409,15 +408,15 @@
             <entry key="pdfDirectory" value=""/>
             <entry key="pdfPreview" value="true"/>
             <entry key="pdf_dir" value="/home/zeltak/Dropbox/uni/zlib/pdf_lib/Fleisch_Air_2014.pdf"/>
-            <entry key="posX" value="0"/>
-            <entry key="posY" value="6"/>
+            <entry key="posX" value="53"/>
+            <entry key="posY" value="24"/>
             <entry key="preferUrlDoi" value="false"/>
             <entry key="preview0" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}__NEWLINE__\begin{abstract}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Abstract: &lt;/b&gt; \format[HTMLChars]{\abstract} \end{abstract}__NEWLINE__\begin{review}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Review: &lt;/b&gt; \format[HTMLChars]{\review} \end{review}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="previewEnabled" value="true"/>
             <entry key="previewPanelHeight" value="874"/>
             <entry key="priDescending" value="false"/>
-            <entry key="priSort" value="title"/>
+            <entry key="priSort" value="year"/>
             <entry key="promptBeforeUsingAutosave" value="true"/>
             <entry key="proxyHostname" value="my proxy host"/>
             <entry key="proxyPort" value="my proxy port"/>
@@ -441,7 +440,7 @@
             <entry key="searchPanelVisible" value="true"/>
             <entry key="searchReq" value="true"/>
             <entry key="secDescending" value="false"/>
-            <entry key="secSort" value=""/>
+            <entry key="secSort" value="month"/>
             <entry key="selectS" value="false"/>
             <entry key="selectedFetcherIndex" value="7"/>
             <entry key="serializeSpecialFields" value="true"/>
@@ -455,8 +454,8 @@
             <entry key="showSearchInDialog" value="false"/>
             <entry key="showSource" value="true"/>
             <entry key="sidePaneWidth" value="391"/>
-            <entry key="sizeX" value="1920"/>
-            <entry key="sizeY" value="2154"/>
+            <entry key="sizeX" value="2507"/>
+            <entry key="sizeY" value="1416"/>
             <entry key="specialFieldsEnabled" value="true"/>
             <entry key="stringsPosX" value="492"/>
             <entry key="stringsPosY" value="387"/>
@@ -468,7 +467,7 @@
             <entry key="tableReqFieldBackground" value="230:235:255"/>
             <entry key="tableText" value="0:0:0"/>
             <entry key="terDescending" value="false"/>
-            <entry key="terSort" value=""/>
+            <entry key="terSort" value="author"/>
             <entry key="timeStampField" value="timestamp"/>
             <entry key="timeStampFormat" value="yyyy.MM.dd"/>
             <entry key="unmarkAllEntriesBeforeImporting" value="true"/>

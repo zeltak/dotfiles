@@ -1,4 +1,4 @@
-activeside = right;
+activeside = left;
 left {
 	activemode = "VirtualDirMode";
 	"VirtualDirMode" {
@@ -6,12 +6,9 @@ left {
 		sortby = name;
 		showfreespace = true;
 		updatetime = 5;
-		field_width = "LISTCOL_DEST",-1;
 		field_width = "LISTCOL_MOD",-1;
 		field_width = "LISTCOL_NAME",-1;
-		field_width = "LISTCOL_OWNER",-1;
 		field_width = "LISTCOL_PERM",-1;
-		field_width = "LISTCOL_SIZE",-1;
 		field_width = "LISTCOL_SIZEH",-1;
 		field_width = "LISTCOL_TYPE",-1;
 	}
@@ -30,29 +27,14 @@ right {
 		sortby = name;
 		showfreespace = true;
 		updatetime = 5;
-		field_width = "LISTCOL_DEST",-1;
 		field_width = "LISTCOL_MOD",-1;
 		field_width = "LISTCOL_NAME",-1;
-		field_width = "LISTCOL_OWNER",-1;
 		field_width = "LISTCOL_PERM",-1;
-		field_width = "LISTCOL_SIZE",-1;
 		field_width = "LISTCOL_SIZEH",-1;
 		field_width = "LISTCOL_TYPE",-1;
-		filter {
-			pattern = "*.zip";
-		}
-		filter {
-			pattern = "*.avi";
-		}
-		filter {
-			pattern = "*.pdf";
-		}
-		filter {
-			pattern = "*.mp3";
-		}
 	}
 	"ShowImageMode" {
-		viewstr = "displaywrapper_worker";
+		viewstr = "xliwrapper_worker";
 	}
 	"InformationMode" {
 	}
