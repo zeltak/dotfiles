@@ -30,7 +30,7 @@ epoxate.com	false	9223372036854775807
 irccloud.com	false	9223372036854775807
 cloudsecurityalliance.org	true	9223372036854775807
 api.recurly.com	true	9223372036854775807
-apis.google.com	false	1431887110111519
+apis.google.com	false	1433588295379874
 health.google.com	true	9223372036854775807
 www.paypal.com	false	9223372036854775807
 factor.cc	false	9223372036854775807
@@ -49,6 +49,7 @@ packagist.org	false	9223372036854775807
 encrypted.google.com	true	9223372036854775807
 fatzebra.com.au	true	9223372036854775807
 my.alfresco.com	true	9223372036854775807
+www.facebook.com	false	1422788300907511
 codereview.appspot.com	true	9223372036854775807
 simon.butcher.name	true	9223372036854775807
 groups.google.com	true	9223372036854775807
@@ -118,7 +119,7 @@ intercom.io	false	9223372036854775807
 gmail.com	false	9223372036854775807
 accounts.google.com	true	1431691797329974
 therapynotes.com	false	9223372036854775807
-syndication.twitter.com	false	2052139290443401
+syndication.twitter.com	false	2053840413852025
 profiles.google.com	true	9223372036854775807
 app.recurly.com	true	9223372036854775807
 check.torproject.org	true	9223372036854775807
