@@ -77,7 +77,7 @@
             <entry key="customTabName_3" value="Review"/>
             <entry key="customTabName_4" value="Misc"/>
             <entry key="customTypeName_0" value="Article"/>
-            <entry key="customTypeOpt_0" value="citenum;impact_factor;journal_rank;month;note;number;pages;q;volume"/>
+            <entry key="customTypeOpt_0" value="volume;number;pages;month;note;q;impact_factor;citenum;journal_rank"/>
             <entry key="customTypePriOpt_0" value="volume;number;pages;month;note;q;impact_factor;citenum;journal_rank"/>
             <entry key="customTypeReq_0" value="author;journal;title;year"/>
             <entry key="defaultEncoding" value="ISO8859_1"/>
@@ -417,7 +417,7 @@
             <entry key="pdfPreview" value="true"/>
             <entry key="pdf_dir" value="/home/zeltak/Dropbox/uni/zlib/pdf_lib/Fleisch_Air_2014.pdf"/>
             <entry key="posX" value="0"/>
-            <entry key="posY" value="6"/>
+            <entry key="posY" value="17"/>
             <entry key="preferUrlDoi" value="false"/>
             <entry key="preview0" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}__NEWLINE__\begin{abstract}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Abstract: &lt;/b&gt; \format[HTMLChars]{\abstract} \end{abstract}__NEWLINE__\begin{review}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Review: &lt;/b&gt; \format[HTMLChars]{\review} \end{review}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
@@ -430,7 +430,7 @@
             <entry key="proxyPort" value="my proxy port"/>
             <entry key="psDirectory" value=""/>
             <entry key="pushToApplication" value="Insert selected citations into LyX/Kile"/>
-            <entry key="recentFiles" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;/home/zeltak/Downloads/kloog;/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib"/>
+            <entry key="recentFiles" value="/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib;/home/zeltak/Downloads/kloog;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib;/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib"/>
             <entry key="regExpSearch" value="true"/>
             <entry key="renamefileShow" value="false"/>
             <entry key="resolveStringsAllFields" value="false"/>
@@ -463,7 +463,7 @@
             <entry key="showSource" value="true"/>
             <entry key="sidePaneWidth" value="391"/>
             <entry key="sizeX" value="1600"/>
-            <entry key="sizeY" value="894"/>
+            <entry key="sizeY" value="883"/>
             <entry key="specialFieldsEnabled" value="true"/>
             <entry key="stringsPosX" value="492"/>
             <entry key="stringsPosY" value="387"/>

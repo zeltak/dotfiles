@@ -149,6 +149,7 @@
 /home/zeltak/ZH_tmp/cower.tar.gz#ugz#utar
 /home/zeltak/ZH_tmp/test
 /home/zeltak/ZH_tmp/CF-Auto-Root-shamu-shamu-nexus6.zip#uzip/tools
+/home/zeltak/ZH_tmp/teamviewer_linux (1).tar.gz#ugz#utar/teamviewer
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -306,6 +307,7 @@
 /home/zeltak/music/Green Day
 /home/zeltak/music/Blondie/2004 Blondie Hits
 /home/zeltak/music/Eagles/1987 Eagles Hits
+/home/zeltak/music/Michael Jackson/1984 Michael Jackson Hits
 /home/zeltak/Pictures/FamPics2014_p1
 /home/zeltak/Pictures/FamPics2013_p2
 /home/zeltak/Pictures/unsorted
@@ -367,6 +369,7 @@
 /home/zeltak/.emacs.d/elpa/async-20140311.747
 /home/zeltak/.emacs.d/elpa/auctex-11.87.7
 /home/zeltak/.emacs.d/elpa/helm-20141227.2208
+/home/zeltak/.emacs.d/elpa/hydra-20150129.1405
 /home/zeltak/.emacs.d/nonelpa/emacs-leuven-theme
 /home/zeltak/.emacs.d/nonelpa/i3-emacs
 /home/zeltak/.emacs.d/nonelpa/navi
@@ -950,6 +953,16 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Redirected.2014.720p.WEB-DL.DD5.1.H264-RARBG
 /home/zeltak/mounts/lraid/Download/transmission/completed/[hd-sportbits.org]NFL.2015.01.11.Cowboys.vs.Packers.540p.HDTV.30fps.x264-Reborn4HD
 /home/zeltak/mounts/lraid/Download/transmission/completed/Gossip - Music For Men - 2010 (Japan)
+/home/zeltak/mounts/lraid/Download/transmission/completed/The Avengers Earth's Mightiest Heroes - The Complete Season 2 [TVRip]
+/home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen • Popular Problems [2014] FLAC/LC PP [FLAC] 2014
+/home/zeltak/mounts/lraid/Download/transmission/completed/dl.53280.de/dan/1998 Moontower
+/home/zeltak/mounts/lraid/Download/transmission/completed/Rescue Team 4 [FINAL] 2014 (PC) Foxy Games
+/home/zeltak/mounts/lraid/Download/transmission/completed/Sleater Kinney - No Cities to Love [FLAC]
+/home/zeltak/mounts/lraid/Download/transmission/completed/Avengers.Assemble.S01E01-26.1080p.WEB-DL.DD5.1.H.264-YFN
+/home/zeltak/mounts/lraid/Download/transmission/completed/Game of Thrones S04 Season 4 Complete 720p HDTV x264 [Multi-Sub] [DexzAery]
+/home/zeltak/mounts/lraid/Download/transmission/completed/Justice.League.Throne.of.Atlantis.2015.HDRip.XviD.AC3-EVO
+/home/zeltak/mounts/lraid/Download/transmission/completed/The.Simpsons.S25E01.Family.Guy.S12E01.Xvid-AJAXEN
+/home/zeltak/mounts/lraid/Download/transmission/completed/Jellyfish-Spilt Milk-320-Abrasax
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1048,6 +1061,7 @@
 /home/zeltak/mounts/lraid/raid/ztmp/cm-10.2.1-d2att.zip#uzip
 /home/zeltak/mounts/lraid/raid/ztmp/system
 /home/zeltak/mounts/lraid/raid/ztmp/META-INF/com/google/android
+/home/zeltak/mounts/lraid/raid/ztmp/ganes
 /home/zeltak/mounts/lraid/raid/thd/ISO/Game ISO's
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/linux
 /home/zeltak/mounts/lraid/raid/thd/GAME ISO/Game ISO's/PC
@@ -1439,6 +1453,7 @@
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Avatar The Last Airbender/Book 2 - Earth
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Transformers
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/star wars rebels/season 1
+/home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Avengers - Earth's Mightiest Heroes /season 2
 /home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/Archer
 /home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/Futurama
 /home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/The Simpsons/Season 15
@@ -1573,6 +1588,7 @@
 /home/zeltak/BK/emacs/7.11.2014
 /home/zeltak/BK/emacs/23.12.2104/.emacs.d
 /home/zeltak/BK/emacs/1.1.2015
+/home/zeltak/BK/emacs/20.01.2015/.emacs.d
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1606,6 +1622,7 @@
 /home/zeltak/BK/Uni/jabref
 /home/zeltak/BK/uni/planners
 /home/zeltak/BK/Uni_agenda
+/home/zeltak/BK/emacsJUL13
 /home/zeltak/org/files/agenda
 /home/zeltak/org/files/Uni/papers/bib
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
@@ -1660,6 +1677,7 @@
 /home/zeltak/mreview/The Lord Of The Rings - The Trilogy Soundtrack/Original_OST
 /home/zeltak/mreview/4 Non Blondes - Bigger, Better, Faster, More! (1992) [EAC-FLAC]
 /home/zeltak/mreview/oysterband/deserters/1992 Deserters
+/home/zeltak/mreview/dl.53280.de/dan/1998 Moontower
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn
@@ -1809,6 +1827,7 @@
 /home/zeltak/Dropbox/uni/Courses/Bgu/kloog syllabus
 /home/zeltak/Dropbox/uni/recipets
 /home/zeltak/Dropbox/Myers CO2 UCDavis HSPH/NATURE DATA
+/home/zeltak/Dropbox/MobileOrg
 /home/zeltak/.e/e
 /home/zeltak/.tmux/plugins
 /home/zeltak/.zsh
@@ -1874,6 +1893,7 @@
 /home/zeltak/programs/jarvis2
 /home/zeltak/programs/Qfinder
 /home/zeltak/programs/pulse-linux-amd64-0.1.1
+/home/zeltak/programs/teamviewer
 /home/zeltak/.marks/s/android
 /home/zeltak/.marks/c
 /home/zeltak/.cache/cantata
@@ -2004,6 +2024,8 @@
 /home/zeltak/Sync/scans/2014/BGU/BGU_salary
 /home/zeltak/Sync/scans/2014/BGU/uni
 /home/zeltak/Sync/scans/2014/BGU/general
+/home/zeltak/Sync/scans/2014/family
+/home/zeltak/Sync/scans/2014/receipts
 /home/zeltak/Sync/scans/1990-2000
 /home/zeltak/Sync/scans/2000-2012
 /home/zeltak/Sync/scans/2013/documents
@@ -2152,6 +2174,11 @@
 /media/2.2.3-25-amd64
 /media/A8F6-2644
 /media/Debian 6.0.3 amd64 1
+/media/4C8E-0715
+/media/Debian testing amd64 1
+/media/ARCH_201212/arch
+/media/ARCH_201212/isolinux
+/media/ARCH_201212/loader
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /etc/ssh
