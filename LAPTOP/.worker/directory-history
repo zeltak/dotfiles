@@ -150,6 +150,7 @@
 /home/zeltak/ZH_tmp/test
 /home/zeltak/ZH_tmp/CF-Auto-Root-shamu-shamu-nexus6.zip#uzip/tools
 /home/zeltak/ZH_tmp/teamviewer_linux (1).tar.gz#ugz#utar/teamviewer
+/home/zeltak/ZH_tmp/rachel
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -963,6 +964,10 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Justice.League.Throne.of.Atlantis.2015.HDRip.XviD.AC3-EVO
 /home/zeltak/mounts/lraid/Download/transmission/completed/The.Simpsons.S25E01.Family.Guy.S12E01.Xvid-AJAXEN
 /home/zeltak/mounts/lraid/Download/transmission/completed/Jellyfish-Spilt Milk-320-Abrasax
+/home/zeltak/mounts/lraid/Download/transmission/completed/AVx/Core mini
+/home/zeltak/mounts/lraid/Download/transmission/completed/AVx/Other
+/home/zeltak/mounts/lraid/Download/transmission/completed/Samurai Champloo Complete Series [1-26] [720p Dual Audio] L@mBerT/SC HD_Wallpapers
+/home/zeltak/mounts/lraid/Download/transmission/completed/Samurai Champloo Complete Series [1-26] [720p Dual Audio] L@mBerT/Samurai Champloo
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1493,6 +1498,7 @@
 /home/zeltak/mounts/lraid/raid/Vid_In/TV/$Jerry Seinfeld specials
 /home/zeltak/mounts/lraid/raid/Vid_In/TV/the simpsons
 /home/zeltak/mounts/lraid/raid/Mee/Michal Music/bands
+/home/zeltak/mounts/lraid/raid/Mee/games
 /home/zeltak/mounts/lraid/raid/e-books/Song of Ice and Fire Split
 /home/zeltak/mounts/lraid/raid/btsync/org/attach/images_2014
 /home/zeltak/mounts/lraid/raid/btsync/org/attach/.sync/Archive
@@ -1571,12 +1577,14 @@
 /home/zeltak/mounts/n7/Internal storage/comic
 /home/zeltak/mounts/n7/Internal storage/.estrongs
 /home/zeltak/mounts/syno
+/home/zeltak/mounts/nexus6/Sync
 /home/zeltak/BK/org/food
 /home/zeltak/BK/org/27.7.14
 /home/zeltak/BK/org/2.8.2014
 /home/zeltak/BK/org/19.10.2014
 /home/zeltak/BK/org/5.12.2014/agenda
 /home/zeltak/BK/org/leuven
+/home/zeltak/BK/org/4.2.15
 /home/zeltak/BK/worker/19.3.2014
 /home/zeltak/BK/worker/21.3.2014
 /home/zeltak/BK/worker/29.10.2014
@@ -1623,8 +1631,9 @@
 /home/zeltak/BK/uni/planners
 /home/zeltak/BK/Uni_agenda
 /home/zeltak/BK/emacsJUL13
-/home/zeltak/org/files/agenda
-/home/zeltak/org/files/Uni/papers/bib
+/home/zeltak/org/files/agenda/data/a5/c9d7f8-c010-4ce7-9ace-da3db9ce15ba
+/home/zeltak/org/files/agenda/data/84/1c7eea-b21a-4df8-8ef6-b2eb13a422d9
+/home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
 /home/zeltak/org/files/Uni/Projects/code/P031_MIAC_PM
 /home/zeltak/org/files/Uni/Projects/code/P043_BirthW_Temp_MA
@@ -1657,8 +1666,14 @@
 /home/zeltak/org/attach/images_2012
 /home/zeltak/org/attach/images_2013
 /home/zeltak/org/attach/.SyncArchive
-/home/zeltak/org/attach/files_2015
+/home/zeltak/org/attach/files_2015/CF-Auto-Root-shamu-shamu-nexus6.zip#uzip
 /home/zeltak/org/attach/images_2015
+/home/zeltak/org/attach/63/5c855e-a21d-470b-8700-5f4b4f3b3e42
+/home/zeltak/org/attach/59/07ce39-309a-4ced-bf6d-673bd6a4fb9c
+/home/zeltak/org/attach/files/ee/2f5c93-ae0a-4867-89aa-b79bfd9ca685
+/home/zeltak/org/attach/filest/ee/2f5c93-ae0a-4867-89aa-b79bfd9ca685
+/home/zeltak/org/attach/filestz/ee/2f5c93-ae0a-4867-89aa-b79bfd9ca685
+/home/zeltak/org/attach/filestx/ee/2f5c93-ae0a-4867-89aa-b79bfd9ca685
 /home/zeltak/org/.SyncArchive
 /home/zeltak/mreview/laura.tar#utar/2011 A Creature I Don't Know
 /home/zeltak/mreview/2011 A Creature I Don't Know
@@ -1678,6 +1693,7 @@
 /home/zeltak/mreview/4 Non Blondes - Bigger, Better, Faster, More! (1992) [EAC-FLAC]
 /home/zeltak/mreview/oysterband/deserters/1992 Deserters
 /home/zeltak/mreview/dl.53280.de/dan/1998 Moontower
+/home/zeltak/mreview/dl.53280.de/arlo
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn
@@ -1967,6 +1983,7 @@
 /home/zeltak/Uni/grants/CIG/Time sheet
 /home/zeltak/Uni/grants/EHF_Grant/revise/Collated_Review_Kloog_R1.docx#uzip
 /home/zeltak/Uni/grants/isf/Examples
+/home/zeltak/Uni/grants/domenichi2015
 /home/zeltak/Uni/Presentations/BGU_GEO_2014
 /home/zeltak/Uni/Presentations/Mexico2014
 /home/zeltak/Uni/Presentations/petros_Israel_2012
@@ -2122,6 +2139,7 @@
 /home/zeltak/.gmvault
 /home/zeltak/configs
 /home/zeltak/.emacs.g/src
+/home/zeltak/.emacs.g/ASynK/config
 /home/zeltak/.unison
 /home/zeltak/uni
 /home/zeltak/.emacs.t/undo-files

@@ -1,0 +1,17 @@
+*.elc
+auto-save-list
+ac-comphist.dat
+tmp
+contrib
+compile-el-files.tmp
+elpa
+init.el
+/url/cookies
+/saved-desktops/.emacs.desktop
+/image-dired/*
+*log
+eshell
+undo
+url
+oauth2.plstore
+var

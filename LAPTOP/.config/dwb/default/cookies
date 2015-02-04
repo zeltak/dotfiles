@@ -58,8 +58,8 @@
 .cnn.com	TRUE	/	FALSE	1687604126	optimizelyBuckets	%7B%7D
 .cnn.com	TRUE	/	FALSE	1687518602	optimizelyEndUserId	oeu1372158601879r0.6332790721207857
 .cnn.com	TRUE	/	FALSE	1687604126	optimizelySegments	%7B%22171657961%22%3A%22safari%22%2C%22170962340%22%3A%22false%22%2C%22172265329%22%3A%22direct%22%2C%22172148679%22%3A%22none%22%7D
-.productchart.com	TRUE	/	FALSE	1422702493	_gat	1
-.productchart.com	TRUE	/	FALSE	1485773893	_ga	GA1.2.226711487.1422017417
+.productchart.com	TRUE	/	FALSE	1422875160	_gat	1
+.productchart.com	TRUE	/	FALSE	1485946560	_ga	GA1.2.226711487.1422017417
 #HttpOnly_accounts.youtube.com	FALSE	/accounts	TRUE	1476161171	GAPS	1:61WNpB7U9AxEvUlFaIb8WscB-qIG5w:sBZ6JAdi2T_V5S-i
 ads.yahoo.com	FALSE	/	FALSE	1471236256	RMBX	6r7rsl98siuit&b=3&s=9a&t=140
 #HttpOnly_.reddit.com	TRUE	/	FALSE	1577145000	__cfduid	d77de7b4c462f7205464b83026722cdf21407860354253
@@ -70,16 +70,16 @@ ads.yahoo.com	FALSE	/	FALSE	1471236256	RMBX	6r7rsl98siuit&b=3&s=9a&t=140
 .adtech.de	TRUE	/	FALSE	1435230549	JEB2	51C9783900000E63596844ADF010E1A4
 .amgdgt.com	TRUE	/	FALSE	1688324346	ID	AAAAAQAUHkDEVbrXCP6kX8zThrWEJw58rUUCAHTNcBSCmEfqtN2kTBg1yDcAAAE_qw1M9AAAAT.rFn33AAABP6sWffc-
 .204774041.log.optimizely.com	TRUE	/	FALSE	1711909454	end_user_id	oeu1366679143526r0.4713608315214515
-.aliexpress.com	TRUE	/	FALSE	1422703692	__utmb	3375712.4.10.1422701893
-#HttpOnly_.aliexpress.com	TRUE	/	FALSE	3570185546	intl_common_forever	XnLENJKxZIb3gNRo1xnHBBT44qJA27YrNEba7hNRoJJjEUVdugvTkQ==
+.aliexpress.com	TRUE	/	FALSE	1422876355	__utmb	3375712.4.10.1422874555
+#HttpOnly_.aliexpress.com	TRUE	/	FALSE	3570358206	intl_common_forever	4EfmM7W9FuXtTYmRbkiQYZ0HM0zsqz4wkK7365CSPhiXkZ3qwNzudg==
 .aliexpress.com	TRUE	/	FALSE	1736360739	cna	GGnsCiY7iy4CAV2tByolNQgk
 .aliexpress.com	TRUE	/	FALSE	1736360738	ali_beacon_id	46.116.27.227.1421000727680.720639.6
-.aliexpress.com	TRUE	/	FALSE	1438469892	__utmz	3375712.1421000738.1.1.utmcsr=gofirstrow.eu|utmccn=(referral)|utmcmd=referral|utmcct=/watch/311864/1/watch-green-bay-packers-vs-dallas-cowboys.html
-.aliexpress.com	TRUE	/	FALSE	1485773892	__utma	3375712.41863421.1421000738.1422017416.1422701893.3
+.aliexpress.com	TRUE	/	FALSE	1438642555	__utmz	3375712.1421000738.1.1.utmcsr=gofirstrow.eu|utmccn=(referral)|utmcmd=referral|utmcct=/watch/311864/1/watch-green-bay-packers-vs-dallas-cowboys.html
+.aliexpress.com	TRUE	/	FALSE	1485946555	__utma	3375712.41863421.1421000738.1422701893.1422874555.4
 #HttpOnly_.aliexpress.com	TRUE	/	FALSE	3568484374	xman_f	OnZSkMuRcF2gJekrGqIq/N/7acZd7+giSJHeb2em+gZfhMRoEaUEdgLO5KO1WJrgZ6qP7ZknPpBtxyMCwhE88Qay2koJ98sb9KGnsgLch7SdQ0h83P8QHQ==
-.aliexpress.com	TRUE	/	FALSE	3570185546	aep_usuc_f	site=glo&region=IL&b_locale=en_US&af_tid=1a51af3ec73a4f3883a0856a6c165cad&c_tp=USD
-.aliexpress.com	TRUE	/	FALSE	3570185546	xman_us_f	x_l=0&x_locale=en_US&x_as_i=%7B%22dcp%22%3A%7B%22dp%22%3A%223300640376__32334%22%7D%2C%22cn%22%3A%22%22%2C%22affiliateKey%22%3A%22UF3MV7ba%3AAqvF6EUzF%22%2C%22cpt%22%3A%221421000779455%22%2C%22vd%22%3A%2230%22%2C%22tp1%22%3A%22neverblue%22%2C%22src%22%3A%22aaf%22%2C%22cv%22%3A%222%22%2C%22af%22%3A%22171684271%22%7D
-.aliexpress.com	TRUE	/	FALSE	3570185546	ali_apache_track	
+.aliexpress.com	TRUE	/	FALSE	3570358206	aep_usuc_f	site=glo&region=IL&b_locale=en_US&af_tid=1a51af3ec73a4f3883a0856a6c165cad&c_tp=USD
+.aliexpress.com	TRUE	/	FALSE	3570358206	xman_us_f	x_l=0&x_locale=en_US&x_as_i=%7B%22dcp%22%3A%7B%22dp%22%3A%223300640376__32334%22%7D%2C%22cn%22%3A%22%22%2C%22affiliateKey%22%3A%22UF3MV7ba%3AAqvF6EUzF%22%2C%22cpt%22%3A%221421000779455%22%2C%22vd%22%3A%2230%22%2C%22tp1%22%3A%22neverblue%22%2C%22src%22%3A%22aaf%22%2C%22cv%22%3A%222%22%2C%22af%22%3A%22171684271%22%7D
+.aliexpress.com	TRUE	/	FALSE	3570358206	ali_apache_track	
 .aliexpress.com	TRUE	/	FALSE	3569501060	ali_apache_id	46.116.27.227.1421000727680.720639.6
 .slickdeals.net	TRUE	/	FALSE	1435230407	__gads	ID=7111452e2b1fc94a:T=1372158406:S=ALNI_MYBQnVn9lYGEhoLMP_UitOSnsHMyQ
 .slickdeals.net	TRUE	/	FALSE	1435316446	__utmv	17096955.|1=usertype=Guest=1
@@ -136,7 +136,7 @@ nrg.checkm8.com	FALSE	/	FALSE	2147383648	dt	99,20130625110906,OS=LINUX&FL=FL11&J
 .yandex.ru	TRUE	/	FALSE	1726741468	yandexuid	771044871411381468
 .endlessparentheses.com	TRUE	/	FALSE	1484072703	_ga	GA1.2.171848007.1414070111
 .bazekalim.com	TRUE	/	FALSE	1437269946	__utma	254483483.2079626374.1374197290.1374197290.1374197290.1
-.scholar.google.com	TRUE	/	FALSE	1459534979	GSP	ID=9d56913773ad0423:NT=1370516558:LM=1396462979:S=bUiPM0vTdRJLeS0h
+.scholar.google.com	TRUE	/	FALSE	1485946764	GSP	ID=9d56913773ad0423:NT=1370516558:LM=1422874764:S=RADibwKdTsect4zN
 morcake.blogspot.co.il	FALSE	/	FALSE	1430157219	__atuvc	1%7C17
 .b-way.co.il	TRUE	/	FALSE	1429749282	__utma	195828415.367977123.1366588680.1366588680.1366676738.2
 #HttpOnly_accounts.google.com	FALSE	/	TRUE	1479558453	LSID	cl|doritos|mail|s.IL|s.youtube|ss:DQAAAPQAAAAJ11Fls6zpo4rBwWLhIB69uS28dUagHQa2QzaOFye-gSD0K_4sd6Rq5WG_54gTDHVDqPVF0ig2ZU-pCExDS1aq51ux9-u_ZhXYrsFC3U_u5uITCT_3Mwq1gHQ0aTE8bL2omjqukRUYU5HFDYh0wtne6M6HSGW12IaSUp-kUBYWtifOn5Z-TDBWm5UmTywaBebgtgNgks3SYVooUmMwvEOjFjM5Rhf_em0mpciqY_vwzsdoZF94H26Ol_McvA5UaQwYSR9NiC70k1Lsk-H1iCZ_OXlj36GcV7NdgDTyTUj1zYS78fX8mYzC7kjZ4KFdKwiDVHbX7W-L9QVNxAGbOQLW
@@ -166,7 +166,7 @@ lyrics.wikia.com	FALSE	/	FALSE	1924898400	ads_bm_last_load_status	NOT_BLOCKING
 .lyrics.wikia.com	TRUE	/	FALSE	1476161164	__utma	176017599.1470179474.1411381454.1413086307.1413089165.5
 .suitesmart.com	TRUE	/	FALSE	1687518446	spass	1b09c0fa341dee5deac46a4d9ee279fa
 plus.google.com	FALSE	/	TRUE	1423592709	OTZ	2644945_48_48_120960_44_365700
-.mmstat.com	TRUE	/	FALSE	1738061893	atpsida	6d40781a13bfac5191332deb_1422701893
+.mmstat.com	TRUE	/	FALSE	1738234559	atpsida	1b84bd05541251f3fad247e8_1422874559
 .mmstat.com	TRUE	/	FALSE	1697742361	cna	GGnsCiY7iy4CAV2tByolNQgk
 .docear.org	TRUE	/	FALSE	1446006894	__utma	234487947.891149112.1375219375.1382859746.1382934893.3
 .beygale.co.il	TRUE	/	FALSE	2010379601	_jsuid	3719770866
@@ -291,7 +291,7 @@ rs.gwallet.com	FALSE	/	FALSE	1522591763	RA1balancer	MTAuMTAyLjIuMTkgODg4OA==
 .clickbooth.com	TRUE	/	FALSE	2147483648	__ID	2703464789d15a5555a530fc3aed0214
 .gmane.org	TRUE	/	FALSE	1734320053	blog_skin	leftmenu
 .gmane.org	TRUE	/	FALSE	1734320053	blog_lines	20
-www.aliexpress.com	FALSE	/	FALSE	1422788291	ali_intl_firstIn	n
+www.aliexpress.com	FALSE	/	FALSE	1422960954	ali_intl_firstIn	n
 .rtrgt.com	TRUE	/	FALSE	1452536772	OXREXP[253]	1452536772
 .disqus.com	TRUE	/	FALSE	1436566444	__utmz	40641725.1420798445.3.3.utmcsr=endlessparentheses.com|utmccn=(referral)|utmcmd=referral|utmcct=/ispell-and-abbrev-the-perfect-auto-correct.html
 .disqus.com	TRUE	/	FALSE	1483870444	__utma	40641725.63801733.1414070115.1416486458.1420798445.3
@@ -407,10 +407,10 @@ tap.rubiconproject.com	FALSE	/	FALSE	1439208430	dq	5|5|0|0
 .valpak.com	TRUE	/	FALSE	1527077822	ESTN	1
 .www.woot.com	TRUE	/	FALSE	1435316380	__utma	112414466.378346373.1372158457.1372158457.1372244380.2
 .whos.amung.us	TRUE	/	FALSE	2145916562	uid	CgH9JVFt/Hl8e2XfTQhmAg==
-www.syntevo.com	FALSE	/	FALSE	1422702492	__utmt	1
-www.syntevo.com	FALSE	/	FALSE	1422703692	__utmb	1.1.10.1422701892
-www.syntevo.com	FALSE	/	FALSE	1438469892	__utmz	1.1413086305.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
-www.syntevo.com	FALSE	/	FALSE	1485773892	__utma	1.1395866853.1413086305.1413089165.1422701892.3
+www.syntevo.com	FALSE	/	FALSE	1422875155	__utmt	1
+www.syntevo.com	FALSE	/	FALSE	1422876355	__utmb	1.1.10.1422874555
+www.syntevo.com	FALSE	/	FALSE	1438642555	__utmz	1.1413086305.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+www.syntevo.com	FALSE	/	FALSE	1485946555	__utma	1.1395866853.1413086305.1422701892.1422874555.4
 .livescore.co.uk	TRUE	/	FALSE	1432690768	__utma	145511977.1931185740.1369618766.1369618766.1369618766.1
 .www.weather.com	TRUE	/	FALSE	1691689872	optimizelyBuckets	%7B%7D
 .www.weather.com	TRUE	/	FALSE	1691600294	optimizelyEndUserId	oeu1376240293043r0.290266650961712
