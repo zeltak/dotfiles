@@ -27,4 +27,4 @@ done
 
 echo "-----------------------------------"
 echo "Moving to Unison syncs"
-unison android
+unison sync
