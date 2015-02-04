@@ -24,3 +24,7 @@ do
     echo ""
     echo ""
 done
+
+echo "-----------------------------------"
+echo "Moving to Unison syncs"
+unison android
