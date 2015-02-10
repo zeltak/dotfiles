@@ -552,8 +552,8 @@
        state="2"
        x="0"
        y="0"
-       w="380"
-       h="418" />
+       w="361"
+       h="432" />
     <group
        id="filtereffects" />
     <group
@@ -623,13 +623,13 @@
        default=""
        append_extension="1"
        path=""
-       x="2681"
-       y="194"
+       x="3893"
+       y="284"
        w="1600"
        h="871">
       <group
          id="exportarea"
-         value="drawing" />
+         value="page" />
       <group
          id="defaultxdpi"
          value="199.96951293945312" />
@@ -1008,7 +1008,7 @@
      org.inkscape.print.ps.cairo.resolution="90" />
   <group
      id="desktop"
-     style="fill:#b3b3b3;stroke:none;stroke-opacity:1;stroke-width:2;stroke-miterlimit:8.50000000000000000;stroke-dasharray:none;opacity:1;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;stroke-linecap:round">
+     style="fill:#b3b3b3;stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;stroke-linecap:round">
     <group
        width="2544"
        height="1385"
@@ -1016,7 +1016,7 @@
        y="47"
        fullscreen="0"
        id="geometry"
-       maximized="0" />
+       maximized="1" />
     <group
        id="XYfront" />
     <group
