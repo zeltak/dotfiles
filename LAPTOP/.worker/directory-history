@@ -151,6 +151,7 @@
 /home/zeltak/ZH_tmp/CF-Auto-Root-shamu-shamu-nexus6.zip#uzip/tools
 /home/zeltak/ZH_tmp/teamviewer_linux (1).tar.gz#ugz#utar/teamviewer
 /home/zeltak/ZH_tmp/rachel
+/home/zeltak/ZH_tmp/jj
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -383,16 +384,24 @@
 /home/zeltak/.emacs.d/snippets/text-mode/emacs-lisp-mode
 /home/zeltak/.emacs.d/snippets/text-mode/latex-mode
 /home/zeltak/.emacs.d/snippets/text-mode/org-mode
+/home/zeltak/.emacs.d/snippets/text-mode/R
+/home/zeltak/.emacs.d/snippets/text-mode/markdown-mode
+/home/zeltak/.emacs.d/snippets/text-mode/python-mode
+/home/zeltak/.emacs.d/snippets/text-mode/rst-mode
+/home/zeltak/.emacs.d/snippets/text-mode/snippet-mode
 /home/zeltak/.emacs.d/snippets/editing
+/home/zeltak/.emacs.d/snippets/global-mode
+/home/zeltak/.emacs.d/snippets/ess-mode
 /home/zeltak/.emacs.d/undo
 /home/zeltak/.emacs.d/url
 /home/zeltak/.emacs.d/eshell
 /home/zeltak/.emacs.d/var/pcache
 /home/zeltak/.emacs.d/abbrv
 /home/zeltak/.emacs.d/image-dired
-/home/zeltak/.emacs.d/el-get/el-get
+/home/zeltak/.emacs.d/el-get/el-get/recipes/emacswiki
 /home/zeltak/.emacs.d/el-get/cl-lib
 /home/zeltak/.emacs.d/el-get/hydra/.git
+/home/zeltak/.emacs.d/el-get/ace-isearch
 /home/zeltak/Downloads/SWEET TOOTH _ 40 comicsall.org.cbr
 /home/zeltak/Downloads/SWEET TOOTH _ 40 comicsall.org.cbr#urar
 /home/zeltak/Downloads/test/3kmaod
@@ -971,6 +980,7 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/AVx/Other
 /home/zeltak/mounts/lraid/Download/transmission/completed/Samurai Champloo Complete Series [1-26] [720p Dual Audio] L@mBerT/SC HD_Wallpapers
 /home/zeltak/mounts/lraid/Download/transmission/completed/Samurai Champloo Complete Series [1-26] [720p Dual Audio] L@mBerT/Samurai Champloo
+/home/zeltak/mounts/lraid/Download/transmission/completed/Chew (001 - 042 + One-Shots) (2009 - 2014) (Minutemen-Spaztastic+InnerDemons)
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1600,6 +1610,7 @@
 /home/zeltak/BK/emacs/23.12.2104/.emacs.d
 /home/zeltak/BK/emacs/1.1.2015
 /home/zeltak/BK/emacs/20.01.2015/.emacs.d
+/home/zeltak/BK/emacs/4.2.2015
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -2143,6 +2154,7 @@
 /home/zeltak/configs
 /home/zeltak/.emacs.g/src
 /home/zeltak/.emacs.g/ASynK/config
+/home/zeltak/.emacs.g/extra/org-download
 /home/zeltak/.unison
 /home/zeltak/uni
 /home/zeltak/.emacs.t/undo-files
