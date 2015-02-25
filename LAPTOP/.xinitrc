@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/home/zeltak/bin/autostart.sh &
+#/home/zeltak/bin/autostart.sh &
 
 # Load language layouts and set toggler
 setxkbmap -layout us,il -option grp:caps_toggle
@@ -40,9 +40,9 @@ if [[ $2 == "e" ]]
  elif [[ $2 == "f" ]]
  then
    exec fluxbox 
- elif [[ $2 == "s" ]]
+ elif [[ $2 == "k" ]]
  then
-   exec  subtle
+   exec  startkde
  elif [[ $2 == "a" ]]
  then
    exec  awesome

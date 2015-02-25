@@ -130,7 +130,7 @@ alias cm='chmod +x' #change mode of exec
 
 
 #install
- alias p='pacaur -S' #quick install 
+ alias p='pacaur -S --noconfirm --noedit --needed' #quick install 
  #updates
  alias pu='pacaur -Syu' #update all Repo+AUR
  # Search repo+AUR
