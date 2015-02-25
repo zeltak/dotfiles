@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="1190.718505859375"
-         height="521.70831298828125"
+         width="1177.2645263671875"
+         height="2260.238525390625"
          rx="0"
          ry="0" />
       <eventcontext
@@ -594,10 +594,10 @@
        panel_ratio="100"
        panel_mode="1"
        panel_wrap="0"
-       x="4674"
-       y="0"
-       w="442"
-       h="638" />
+       x="871"
+       y="49"
+       w="419"
+       h="651" />
     <group
        id="preferences"
        state="1"
@@ -606,9 +606,9 @@
        panel_mode="1"
        panel_wrap="0"
        page="7"
-       x="3175"
-       y="211"
-       w="323"
+       x="4845"
+       y="609"
+       w="317"
        h="100" />
     <group
        id="gradienteditor"
@@ -623,13 +623,13 @@
        default=""
        append_extension="1"
        path=""
-       x="3893"
+       x="480"
        y="284"
        w="1600"
        h="871">
       <group
          id="exportarea"
-         value="page" />
+         value="drawing" />
       <group
          id="defaultxdpi"
          value="199.96951293945312" />
@@ -639,7 +639,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/meytar_phd/maps"
+       path="/media/NAS/Uni/Projects/P046_Israel_MAIAC/4.Results/figures/f1"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -650,11 +650,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/shi/map/legends/" />
+       path="/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures/" />
     <group
        id="import"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P007.Zinc/3.1.7.6.Papers/2ndpaper/" />
+       path="/media/NAS/Uni/Projects/P046_Israel_MAIAC/4.Results/figures/final/" />
     <group
        id="debug"
        redirect="0" />
@@ -1008,7 +1008,7 @@
      org.inkscape.print.ps.cairo.resolution="90" />
   <group
      id="desktop"
-     style="fill:#b3b3b3;stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:28px;stroke-linecap:round">
+     style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px;stroke-linecap:round">
     <group
        width="2544"
        height="1385"

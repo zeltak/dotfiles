@@ -34,22 +34,22 @@
             <entry key="SameFolder" value="true"/>
             <entry key="SameName" value="false"/>
             <entry key="abbrAuthorNames" value="true"/>
-            <entry key="activeFieldEditorBackgroundColor" value="220:220:255"/>
+            <entry key="activeFieldEditorBackgroundColor" value="238:232:213"/>
             <entry key="activePreview" value="0"/>
             <entry key="allowFileAutoOpenBrowse" value="true"/>
             <entry key="allowTableEditing" value="false"/>
             <entry key="arxivColumn" value="false"/>
             <entry key="autoAssignGroup" value="true"/>
             <entry key="autoCompFF" value="false"/>
-            <entry key="autoCompFirstNameMode" value="both"/>
+            <entry key="autoCompFirstNameMode" value="fullOnly"/>
             <entry key="autoCompLF" value="false"/>
             <entry key="autoComplete" value="true"/>
             <entry key="autoCompleteFields" value="author;editor;title;journal;publisher;keywords;crossref"/>
-            <entry key="autoDoubleBraces" value="false"/>
+            <entry key="autoDoubleBraces" value="true"/>
             <entry key="autoOpenForm" value="true"/>
             <entry key="autoResizeMode" value="4"/>
             <entry key="autoSave" value="true"/>
-            <entry key="autoSaveInterval" value="3"/>
+            <entry key="autoSaveInterval" value="2"/>
             <entry key="autoSyncSpecialFieldsToKeywords" value="false"/>
             <entry key="autolinkExactKeyOnly" value="true"/>
             <entry key="avoidOverwritingKey" value="false"/>
@@ -62,7 +62,7 @@
             <entry key="columnNames" value="author;year;month;title;journal;entrytype;bibtexkey;date"/>
             <entry key="columnWidths" value="280;60;100;400;100;75;100;100"/>
             <entry key="compactRankingColumn" value="false"/>
-            <entry key="confirmDelete" value="false"/>
+            <entry key="confirmDelete" value="true"/>
             <entry key="ctrlClick" value="false"/>
             <entry key="customExportFormat0" value="kloog_CV_AB_RTF;/home/zeltak/Dropbox/uni/zlib/expolayouts/kloog exports/kloog_CV_AB_RTF.layout;.rtf"/>
             <entry key="customTabFields_0" value="author;title;jornal;year;month;bibtexkey;file"/>
@@ -75,10 +75,10 @@
             <entry key="customTabName_2" value="Abstract"/>
             <entry key="customTabName_3" value="Review"/>
             <entry key="customTabName_4" value="Misc"/>
-            <entry key="defaultEncoding" value="ISO8859_1"/>
+            <entry key="defaultEncoding" value="UTF8"/>
             <entry key="defaultLabelPattern" value="[auth]_[veryshorttitle]_[year]"/>
             <entry key="defaultOwner" value="zeltak"/>
-            <entry key="defaultShowSource" value="false"/>
+            <entry key="defaultShowSource" value="true"/>
             <entry key="dialogWarningForDuplicateKey" value="true"/>
             <entry key="dialogWarningForEmptyKey" value="true"/>
             <entry key="disableOnMultipleSelection" value="false"/>
@@ -95,7 +95,7 @@
             <entry key="exportInTitleOrder" value="false"/>
             <entry key="exportWorkingDirectory" value="/home/zeltak/Dropbox/uni/zlib/expolayouts/kloog exports"/>
             <entry key="externalFileTypes" value="PDF:pdf:application/pdf:/usr/bin/okular:pdfSmall;URL:html:text/html:firefox:www"/>
-            <entry key="fieldEditorTextColor" value="0:0:0"/>
+            <entry key="fieldEditorTextColor" value="0:43:54"/>
             <entry key="fileColumn" value="true"/>
             <entry key="fileDirectory" value="/home/zeltak/Sync/Uni/pdf_lib/"/>
             <entry key="fileWorkingDirectory" value="/home/zeltak/Sync/Uni/pdf_lib"/>
@@ -103,14 +103,14 @@
             <entry key="findUnlinkedFilesDialogSize" value="575;778"/>
             <entry key="findUnlinkedFilesWD" value="/home/zeltak/Dropbox/ztmp"/>
             <entry key="floatMarkedEntries" value="false"/>
-            <entry key="floatSearch" value="true"/>
+            <entry key="floatSearch" value="false"/>
             <entry key="fontFamily" value="Droid Sans"/>
-            <entry key="fontSize" value="18"/>
+            <entry key="fontSize" value="16"/>
             <entry key="fontStyle" value="1"/>
             <entry key="generateKeysAfterInspection" value="true"/>
             <entry key="generateKeysBeforeSaving" value="false"/>
             <entry key="grayOutNonHits" value="false"/>
-            <entry key="gridColor" value="210:210:210"/>
+            <entry key="gridColor" value="147:161:161"/>
             <entry key="groupAutoHide" value="true"/>
             <entry key="groupAutoShow" value="true"/>
             <entry key="groupEditGroupMembershipMode" value="false"/>
@@ -135,8 +135,8 @@
             <entry key="importInspectionDialogWidth" value="1566"/>
             <entry key="importWorkingDirectory" value="/home/zeltak"/>
             <entry key="includeEmptyFields" value="false"/>
-            <entry key="incompleteEntryBackground" value="250:175:175"/>
-            <entry key="incrementS" value="false"/>
+            <entry key="incompleteEntryBackground" value="255:78:95"/>
+            <entry key="incrementS" value="true"/>
             <entry key="invalidFieldBackgroundColor" value="255:0:0"/>
             <entry key="keyGenAlwaysAddLetter" value="false"/>
             <entry key="keyGenFirstLetterA" value="true"/>
@@ -409,21 +409,21 @@
             <entry key="pdfDirectory" value=""/>
             <entry key="pdfPreview" value="true"/>
             <entry key="pdf_dir" value="/home/zeltak/Dropbox/uni/zlib/pdf_lib/Fleisch_Air_2014.pdf"/>
-            <entry key="posX" value="3893"/>
+            <entry key="posX" value="53"/>
             <entry key="posY" value="24"/>
             <entry key="preferUrlDoi" value="false"/>
             <entry key="preview0" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}__NEWLINE__\begin{abstract}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Abstract: &lt;/b&gt; \format[HTMLChars]{\abstract} \end{abstract}__NEWLINE__\begin{review}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Review: &lt;/b&gt; \format[HTMLChars]{\review} \end{review}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[Authors(LastFirst,Initials,Semicolon,Amp),HTMLChars]{\editor} &lt;i&gt;(\format[IfPlural(Eds.,Ed.)]{\editor})&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="previewEnabled" value="true"/>
-            <entry key="previewPanelHeight" value="874"/>
+            <entry key="previewPanelHeight" value="551"/>
             <entry key="priDescending" value="true"/>
-            <entry key="priSort" value="author"/>
+            <entry key="priSort" value="#"/>
             <entry key="promptBeforeUsingAutosave" value="true"/>
             <entry key="proxyHostname" value="my proxy host"/>
             <entry key="proxyPort" value="my proxy port"/>
             <entry key="psDirectory" value=""/>
             <entry key="pushToApplication" value="Insert selected citations into LyX/Kile"/>
-            <entry key="recentFiles" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;/home/zeltak/Downloads/kloog;/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib"/>
+            <entry key="recentFiles" value="/home/zeltak/Dropbox/uni/zlib/kloog_2014.bib;/home/zeltak/Downloads/kloog;G:\\Dropbox\\uni\\zlib\\ZoteroOutput.bib;G:\\Dropbox\\uni\\zlib\\zlib.bib;/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib"/>
             <entry key="regExpSearch" value="true"/>
             <entry key="renamefileShow" value="false"/>
             <entry key="resolveStringsAllFields" value="false"/>
@@ -431,21 +431,21 @@
             <entry key="saveInOriginalOrder" value="false"/>
             <entry key="saveInStandardOrder" value="false"/>
             <entry key="saveInTitleOrder" value="false"/>
-            <entry key="savedSession" value="/home/zeltak/Dropbox/uni/zlib/ZoteroOutput.bib"/>
+            <entry key="savedSession" value="/home/zeltak/org/files/Uni/papers/bib/kloog_2014.bib"/>
             <entry key="searchAll" value="false"/>
             <entry key="searchAllBases" value="false"/>
             <entry key="searchDialogHeight" value="880"/>
             <entry key="searchDialogWidth" value="1518"/>
             <entry key="searchGen" value="true"/>
             <entry key="searchOpt" value="true"/>
-            <entry key="searchPanelVisible" value="true"/>
+            <entry key="searchPanelVisible" value="false"/>
             <entry key="searchReq" value="true"/>
             <entry key="secDescending" value="false"/>
             <entry key="secSort" value=""/>
             <entry key="selectS" value="false"/>
-            <entry key="selectedFetcherIndex" value="7"/>
+            <entry key="selectedFetcherIndex" value="12"/>
             <entry key="serializeSpecialFields" value="true"/>
-            <entry key="shortestToComplete" value="2"/>
+            <entry key="shortestToComplete" value="3"/>
             <entry key="showOOPanel" value="false"/>
             <entry key="showOneLetterHeadingForIconColumns" value="false"/>
             <entry key="showPriorityColumn" value="true"/>
@@ -454,19 +454,19 @@
             <entry key="showRelevanceColumn" value="false"/>
             <entry key="showSearchInDialog" value="false"/>
             <entry key="showSource" value="true"/>
-            <entry key="sidePaneWidth" value="391"/>
-            <entry key="sizeX" value="2507"/>
-            <entry key="sizeY" value="1416"/>
+            <entry key="sidePaneWidth" value="459"/>
+            <entry key="sizeX" value="3787"/>
+            <entry key="sizeY" value="2136"/>
             <entry key="specialFieldsEnabled" value="true"/>
-            <entry key="stringsPosX" value="492"/>
-            <entry key="stringsPosY" value="387"/>
+            <entry key="stringsPosX" value="4846"/>
+            <entry key="stringsPosY" value="532"/>
             <entry key="stringsSizeX" value="600"/>
             <entry key="stringsSizeY" value="400"/>
-            <entry key="tableBackground" value="255:255:255"/>
+            <entry key="tableBackground" value="253:246:227"/>
             <entry key="tableColorCodesOn" value="true"/>
-            <entry key="tableOptFieldBackground" value="230:255:230"/>
-            <entry key="tableReqFieldBackground" value="230:235:255"/>
-            <entry key="tableText" value="0:0:0"/>
+            <entry key="tableOptFieldBackground" value="253:246:227"/>
+            <entry key="tableReqFieldBackground" value="253:246:227"/>
+            <entry key="tableText" value="0:43:54"/>
             <entry key="terDescending" value="false"/>
             <entry key="terSort" value=""/>
             <entry key="timeStampField" value="timestamp"/>
@@ -481,14 +481,14 @@
             <entry key="useImportInspectionDialog" value="true"/>
             <entry key="useImportInspectionDialogForSingle" value="true"/>
             <entry key="useNativeFileDialogOnMac" value="true"/>
-            <entry key="useOwner" value="true"/>
+            <entry key="useOwner" value="false"/>
             <entry key="useProxy" value="false"/>
             <entry key="useRegExpSearch" value="false"/>
             <entry key="useRemoteServer" value="true"/>
             <entry key="useTimeStamp" value="true"/>
             <entry key="useUnitFormatterOnSearch" value="true"/>
             <entry key="useXmpPrivacyFilter" value="false"/>
-            <entry key="validFieldBackgroundColor" value="255:255:255"/>
+            <entry key="validFieldBackgroundColor" value="253:246:227"/>
             <entry key="valueDelimiters" value="1"/>
             <entry key="warnAboutDuplicatesInInspection" value="true"/>
             <entry key="warnBeforeOverwritingKey" value="false"/>
