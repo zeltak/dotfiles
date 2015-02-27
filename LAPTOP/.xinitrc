@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#/home/zeltak/bin/autostart.sh &
+/home/zeltak/bin/autostart.sh &
 
 # Load language layouts and set toggler
 setxkbmap -layout us,il -option grp:caps_toggle

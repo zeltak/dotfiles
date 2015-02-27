@@ -61,7 +61,7 @@ rofi.padding: 3
 rofi.opacity: 90
 rofi.fixed-num-lines: true
 rofi.disable-history: false
-rofi.levenshtein-sort: fasle
+rofi.levenshtein-sort: false
 rofi.terminal: x-terminal-emulator
 
 

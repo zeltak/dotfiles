@@ -1,3 +1,4 @@
+#+BEGIN_SRC sh
 ###config file
 
 
@@ -50,8 +51,8 @@ alt+super+Return
 
 #Rofi
 #rofi launcher
-alt+w 
-      rofi -zeltak -rnow   -location 8 -width 350 -lines 30 -fixed-num-lines   
+#alt+w 
+#      rofi -show run -auto-select  -location 8 -width 350 -lines 30 -fixed-num-lines   
 
 #rofi start menu
 super + Insert 
@@ -59,7 +60,7 @@ super + Insert
 
 #rofi switcher
 alt+q
-      rofi  -zeltak -now  -location 8 -width 350 -lines 30 -fixed-num-lines  
+      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
 
 
 #help menu
@@ -281,3 +282,4 @@ control+super+alt+ hebrew_finalkaph
 control+super+alt+ l
       /home/zeltak/bin/ls_hebrew.sh  
 
+#+END_SRC

@@ -1,0 +1,118 @@
+#include "/home/zeltak/.colors/bl1nk"
+
+! -- URXVT -- !
+
+!URxvt*depth:                    32
+!URxvt*background: rgba:ff22/ffff/ff11/00ff
+!URxvt*shading:			20
+!URxvt*fading:true
+!URxvt*tint:			black
+!URxvt*transparent:true
+!URxvt*InheritPixmap:true
+URxvt*highlightColor: #33B5E5
+URxvt*highlightTextColor: #FFFFFF
+URxvt.cursorColor:  #ff8939
+URxvt.cursorColor2: #151515
+URxvt.borderColor: #151515
+URxvt*underlineColor: #333333
+!to quick change font size
+!URxvt*keysym.M-minus:   command:\033]710;xft:Envy Code R:pixelsize=11\007
+!URxvt*keysym.M-equal:   command:\033]710;xft:Envy Code R:pixelsize=13\007
+!URxvt*keysym.M-plus:    command:\033]710;xft:Envy Code R:pixelsize=15\007
+! font preference
+URxvt*font:      xft:PragmataPro:pixelsize=13
+URxvt*boldFont:  xft:PragmataPro:pixelsize=13
+!this can change dramatically the way the font looks (smoothnes, space etc) play with it -2,-1,0 to get desired look
+URxvt*letterSpace: -1
+URxvt*geometry:	150x35
+URxvt*scrollBar:          false
+URxvt*secondaryScroll:    true
+!urxvt perl scripts
+URxvt*perl-lib:           /usr/lib/urxvt/perl/
+URxvt*matcher.button:     1
+XURxvt.perl-ext-common:  default,url-select,matcher,keyboard-select,clipboard
+!keyboard selection
+!URxvt.keysym.M-y:      perl:keyboard-select:activate
+!clipboard options
+!URxvt.keysym.M-c:   perl:clipboard:copy
+!URxvt.keysym.M-v:   perl:clipboard:paste
+!URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+!URL stuff
+URxvt.underlineURLs:    true
+URxvt.url-select.underline: true
+URxvt.keysym.M-u:           perl:url-select:select_next
+!Search
+URxvt.keysym.M-s:           perl:keyboard-select:search
+URxvt.url-select.launcher:  chromium
+URxvt.urlLauncher:      /usr/bin/chromium
+URxvt*urgentOnBell: False
+
+
+! -- Rofi settings -- !
+
+rofi.bordercolor: #33b5e5
+rofi.background: #000000
+rofi.borderwidth: 1
+rofi.highlightfg: #FFFFFF
+rofi.highlightbg: #33b5e5
+rofi.foreground: #FFFFFF
+rofi.font: Source Code Pro 12 
+rofi.padding: 3
+rofi.opacity: 90
+rofi.fixed-num-lines: true
+rofi.disable-history: false
+rofi.levenshtein-sort: false
+rofi.terminal: x-terminal-emulator
+
+
+
+
+! -- dmenu settings -- !
+dmenu.selforeground: #FFFFFF
+dmenu.background: #000000
+dmenu.selbackground: #0C73C2
+dmenu.foreground: #FFFFFF
+dmenu.font: "Source\Code\Pro-12" 
+
+
+! -- Dzen settings -- !
+dzen2.font:'-*-fixed-*-*-*-*-18-*-*-*-*-*-iso8859'
+dzen2.foreground:#899CA1
+dzen2.background:#1A1A1A
+
+
+
+
+
+! -- Xft settings -- !
+
+!Xft.dpi:        96
+!Xft.antialias:  true
+!Xft.rgba:       rgba
+!Xft.hinting:    true
+!Xft.hintstyle:  hintslight
+
+
+! -- MISC settings -- !
+
+
+XChoyce.mod:                    mod1
+XChoyce.action:                 F1
+XChoyce.focusedalpha:           0.75
+XChoyce.focusedcolor:           #daa520
+XChoyce.unfocusedalpha:         0.5
+XChoyce.unfocusedcolor:         #404040
+XChoyce.titlebgcolor:           #292929
+XChoyce.titlebgalpha:           0.25
+XChoyce.titlefgcolor:           #616161
+XChoyce.titlefont:              Ubuntu:bold:pixelsize=28:antialias=true
+XChoyce.subtitlefont:           Ubuntu Condensed:bold:pixelsize=18:antialias=true
+
+yeahconsole*term: urxvt
+yeahconsole*consoleHeight: 20
+yeahconsole*toggleKey: Win+F10
+yeahconsole*keyFull: Win+F11
+yeahconsole*aniDelay: 1
+yeahconsole*stepSize: 2
+yeahconsole*restart: 1
+
