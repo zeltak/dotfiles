@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <FileZilla3>
-    <Layout Builddate="2015-01-08" Buildtime="19:44:21">
+    <Layout Builddate="2015-02-02" Buildtime="10:59:22">
         <Resources>
-            <xrc file="menus.xrc" date="1420742704" />
-            <xrc file="toolbar.xrc" date="1420742704" />
-            <xrc file="settings.xrc" date="1420742704" />
-            <xrc file="dialogs.xrc" date="1420742704" />
-            <xrc file="netconfwizard.xrc" date="1420742704" />
-            <xrc file="quickconnectbar.xrc" date="1420742704" />
-            <xrc file="certificate.xrc" date="1420742704" />
-            <xrc file="update.xrc" date="1420742704" />
-            <xrc file="sitemanager.xrc" date="1420742704" />
-            <xrc file="inputdialog.xrc" date="1420742704" />
+            <xrc file="menus.xrc" date="1422871203" />
+            <xrc file="toolbar.xrc" date="1422871203" />
+            <xrc file="settings.xrc" date="1422871203" />
+            <xrc file="dialogs.xrc" date="1422871203" />
+            <xrc file="netconfwizard.xrc" date="1422871203" />
+            <xrc file="quickconnectbar.xrc" date="1422871203" />
+            <xrc file="certificate.xrc" date="1422871203" />
+            <xrc file="update.xrc" date="1422871203" />
+            <xrc file="sitemanager.xrc" date="1422871203" />
+            <xrc file="inputdialog.xrc" date="1422871203" />
         </Resources>
         <Language id="en_US" date="">
             <Font font="Verdana Bold 8" width="812" height="13" />
+            <Dialog name="Settings" width="528" />
         </Language>
     </Layout>
 </FileZilla3>
