@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="584.52166748046875"
-         height="338.96478271484375"
+         width="161.6007080078125"
+         height="30.573179244995117"
          rx="0"
          ry="0" />
       <eventcontext
@@ -632,7 +632,7 @@
          value="drawing" />
       <group
          id="defaultxdpi"
-         value="200.01287841796875" />
+         value="199.96951293945312" />
     </group>
     <group
        id="save_as"
@@ -654,7 +654,7 @@
     <group
        id="import"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P022_Temprature_France/4.results/figures/fig1/" />
+       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/meytar_phd/maps/fig2/" />
     <group
        id="debug"
        redirect="0" />
@@ -1010,13 +1010,13 @@
      id="desktop"
      style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:none;opacity:0.82239382;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:56px;stroke-linecap:round">
     <group
-       width="2544"
+       width="2507"
        height="1385"
-       x="2560"
-       y="47"
+       x="53"
+       y="27"
        fullscreen="0"
        id="geometry"
-       maximized="1" />
+       maximized="0" />
     <group
        id="XYfront" />
     <group

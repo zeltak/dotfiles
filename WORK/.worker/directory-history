@@ -2006,6 +2006,8 @@
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/mod1
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures
 /media/NAS/Uni/Projects/P010.Medicare_NE/3.1.10.1.Raw_data/SES
+/media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN002_NCDC_allyears
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/midatlantic_newengland
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
@@ -2018,6 +2020,11 @@
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h04v06/2014
 /media/NAS/Uni/Data/USA/MOIDS ST/RAW HDF
 /media/NAS/Uni/Data/USA/nm2/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua
+/media/NAS/Uni/Data/USA/EPA/NEI05_stacks
+/media/NAS/Uni/Data/USA/HPBL
+/media/NAS/Uni/Data/USA/NDVI/MODIS MIA_NE
+/media/NAS/Uni/Data/USA/NDVI/RAW MODIS MIA_NE
+/media/NAS/Uni/Data/USA/NDVI/ndvi_transposed
 /media/NAS/Uni/Data/GIS/Israel/OSM_roads_2014
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
 /media/NAS/Uni/Data/GIS/Mexicio
@@ -2026,6 +2033,10 @@
 /media/NAS/Uni/Data/Mexico
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
 /media/NAS/Uni/ztmp/qgis
+/media/NAS/Uni/ztmp/shi_data/ncdc data
+/media/NAS/Uni/ztmp/shi_data/FN001_PM_allyears
+/media/NAS/Uni/ztmp/shi_data/FN004_LU_full_dataset
+/media/NAS/Uni/ztmp/shi_data/HPBL/ORIGhpbl
 /media/NAS/Uni/Courses/Qgis/L10-Big Data/e10
 /media/NAS/Uni/Courses/stat
 /media/NAS/Uni/VirtualBox VMs/Windowz/tmp
