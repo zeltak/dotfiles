@@ -1,0 +1,6 @@
+[global]
+separator = " · "
+
+[updater]
+change_db = 1425407264
+

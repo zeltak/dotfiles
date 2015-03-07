@@ -392,7 +392,8 @@ for_window [class="KeePass2"] scratchpad show
 ######### WORK SPACES
 #WORKSPACE #1
 #WORKSPACE #2 (Terms) 
-assign [Class="URxvt"] $w2 
+
+#assign [Class="URxvt"] $w2 
 assign [Class="main_term"] $w2
 assign [window_role="tmux_terms"] $w2
 assign [window_role="rterm"] $w2
@@ -437,6 +438,7 @@ for_window [instance="ecapture"] floating enable
 for_window [class="Gcolor2"] floating enable
 for_window [instance="spad"] floating enable
 for_window [title="keepass"] floating enable
+for_window [instance="ecapture"] floating enable
 
 #general float
 for_window [instance="wrapper|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|<unknown>|plugin-container|synapse"] floating enable

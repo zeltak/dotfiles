@@ -1,4 +1,3 @@
-#+BEGIN_SRC sh
 ###config file
 
 
@@ -66,6 +65,12 @@ alt+q
 #help menu
 super+ i 
         /home/zeltak/bin/rofi_help       
+
+#Emacs capture
+super+ u
+       urxvt -name ecapture -e emacsclient -t org-protocol:/capture:/URL/TITLE/BODY
+               
+
 
 ###########################
 #WS app launcher
