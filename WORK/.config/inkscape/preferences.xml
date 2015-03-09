@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="161.6007080078125"
-         height="30.573179244995117"
+         width="2151.015869140625"
+         height="1805.30224609375"
          rx="0"
          ry="0" />
       <eventcontext
@@ -650,11 +650,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P046_Israel_MAIAC/4.Results/figures/f1/" />
+       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/meytar_phd/maps/fig2/" />
     <group
        id="import"
        enable_preview="1"
-       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/meytar_phd/maps/fig2/" />
+       path="/media/NAS/Uni/Projects/P000_TMP_PROJECTS/meytar_phd/maps/final/" />
     <group
        id="debug"
        redirect="0" />
@@ -1008,15 +1008,15 @@
      org.inkscape.print.ps.cairo.resolution="90" />
   <group
      id="desktop"
-     style="fill:#ffffff;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:none;opacity:0.82239382;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:56px;stroke-linecap:round">
+     style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:none;opacity:0.82239382000000005;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Sans Bold;font-family:Arial;font-style:normal;font-stretch:normal;font-variant:normal;font-size:56px;stroke-linecap:round">
     <group
        width="2507"
-       height="1385"
+       height="1388"
        x="53"
-       y="27"
+       y="24"
        fullscreen="0"
        id="geometry"
-       maximized="0" />
+       maximized="1" />
     <group
        id="XYfront" />
     <group
