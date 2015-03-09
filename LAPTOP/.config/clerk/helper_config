@@ -1,6 +1,6 @@
 [global]
-separator = " · "
+separator = •
 
 [updater]
-change_db = 1425407264
+change_db = 1425713772
 
