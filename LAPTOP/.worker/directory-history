@@ -159,12 +159,14 @@
 /home/zeltak/ZH_tmp/linuorg_bk_st
 /home/zeltak/ZH_tmp/Org-mode Frequently Asked Questions_files
 /home/zeltak/ZH_tmp/poster
+/home/zeltak/ZH_tmp/3d
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
 /home/zeltak/music/Supergrass/2004 Supergrass Is 10. The Best of 94-04
 /home/zeltak/music/Jimi Hendrix Experience, The/1967 Are You Experienced
 /home/zeltak/music/2Soundtracks/The Rocky Horror Picture Show
+/home/zeltak/music/2Soundtracks/A Hard Day's Night
 /home/zeltak/music/3Compilations/2013 Eagle Vs Shark
 /home/zeltak/music/Zager & Evans/1969 2525 (Exordium & Terminus) _ Zager & Evans
 /home/zeltak/music/Leonard Cohen/2000 Field Commander Cohen_ Tour of 1979
@@ -204,6 +206,7 @@
 /home/zeltak/music/1Singles/Blondie/2013 Blondie Hits
 /home/zeltak/music/1Singles/Sonic Youth/2013 Sonic Youth Hits
 /home/zeltak/music/1Singles/Red Hot Chili Peppers/2013 Red Hot Chili Peppers Hits
+/home/zeltak/music/1Singles/Eric Clapton/2013 Eric Clapton Hits
 /home/zeltak/music/Byrds, The/1967 Byrds Hits
 /home/zeltak/music/Stills-Young Band, The
 /home/zeltak/music/Stephen Stills/1972 Manassas
@@ -231,6 +234,7 @@
 /home/zeltak/music/Beach Boys, The/Unknown
 /home/zeltak/music/Beach Boys, The/1990 Surfin' Safari _ Surfin' U.S.A_
 /home/zeltak/music/Beach Boys, The/1976 15 Big Ones
+/home/zeltak/music/Beach Boys, The/1965 Summer Days (and Summer Nights!!)
 /home/zeltak/music/MGMT
 /home/zeltak/music/Porcupine Tree
 /home/zeltak/music/Stone Roses, The
@@ -244,7 +248,7 @@
 /home/zeltak/music/Destroyer/2001 Streethawk_ A Seduction
 /home/zeltak/music/Mastodon
 /home/zeltak/music/Buffalo Springfield
-/home/zeltak/music/Jethro Tull
+/home/zeltak/music/Jethro Tull/1978 Heavy Horses
 /home/zeltak/music/Paul Simon
 /home/zeltak/music/Smiths, The
 /home/zeltak/music/Air/2001 10 000 Hz Legend
@@ -284,7 +288,7 @@
 /home/zeltak/music/Men Without Hats/2013 Men Without Hats Hits
 /home/zeltak/music/U2
 /home/zeltak/music/Love
-/home/zeltak/music/Simon & Garfunkel
+/home/zeltak/music/Simon & Garfunkel/1997 Old Friends
 /home/zeltak/music/Billy Joel
 /home/zeltak/music/Mr. Bungle/1999 California
 /home/zeltak/music/Amplifier/2010 The Octopus
@@ -295,7 +299,7 @@
 /home/zeltak/music/4 Non Blondes/1992 Bigger, Better, Faster, More!
 /home/zeltak/music/7 Worlds Collide/2009 The Sun Came Out
 /home/zeltak/music/Alanis Morissette/1995 Jagged Little Pill
-/home/zeltak/music/Genesis
+/home/zeltak/music/Genesis/1973 Selling England by the Pound
 /home/zeltak/music/PJ Harvey
 /home/zeltak/music/Flaming Lips, The/1995 Clouds Taste Metallic
 /home/zeltak/music/Flaming Lips, The/1999 The Soft Bulletin
@@ -304,7 +308,8 @@
 /home/zeltak/music/Three Fish
 /home/zeltak/music/Ehud Banai/2004 אהוד בנאי האוסף
 /home/zeltak/music/Alannah Myles/2013 Alannah Myles Hits
-/home/zeltak/music/Amanda Palmer
+/home/zeltak/music/Amanda Palmer/2008 Who Killed Amanda Palmer
+/home/zeltak/music/Amanda Palmer/2011 Amanda Palmer Goes Down Under
 /home/zeltak/music/Amanda Palmer & The Grand Theft Orchestra/2012 Theatre Is Evil
 /home/zeltak/music/Amir Benayoun
 /home/zeltak/music/Brad
@@ -313,6 +318,7 @@
 /home/zeltak/music/Blur
 /home/zeltak/music/Led Zeppelin/1971 [Led Zeppelin IV]
 /home/zeltak/music/Led Zeppelin/1969 Led Zeppelin
+/home/zeltak/music/Led Zeppelin/1982 Coda
 /home/zeltak/music/HAIM/2013 Days Are Gone
 /home/zeltak/music/Guns N’ Roses
 /home/zeltak/music/Guess Who, The
@@ -334,6 +340,16 @@
 /home/zeltak/music/Sleater-Kinney/2000 All Hands on the Bad One
 /home/zeltak/music/Sleater‐Kinney
 /home/zeltak/music/Shalom Hanoch/1981 שלום חנוך האוסף
+/home/zeltak/music/Silver Jews/2005 Tanglewood Numbers
+/home/zeltak/music/Grandaddy/1997 Under the Western Freeway
+/home/zeltak/music/Grandaddy/2000 The Sophtware Slump
+/home/zeltak/music/Deep Purple/1972 Made in Japan
+/home/zeltak/music/Efraim Shamir
+/home/zeltak/music/Eddie Vedder/2007 Into the Wild
+/home/zeltak/music/Beck/1996 Odelay
+/home/zeltak/music/Dresden Dolls, The/2003 The Dresden Dolls
+/home/zeltak/music/Dresden Dolls, The/2006 Yes, Virginia.._
+/home/zeltak/music/Belle and Sebastian/1996 If You’re Feeling Sinister
 /home/zeltak/Pictures/FamPics2014_p1
 /home/zeltak/Pictures/FamPics2013_p2
 /home/zeltak/Pictures/unsorted
@@ -1595,6 +1611,7 @@
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/music/Beach Boys, The/1962 Surfin' Safari
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/music/Beach Boys, The/1963 Surfin' USA
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/music/Beach Boys, The/2011 The SMiLE Sessions
+/home/zeltak/mounts/lraid/Rsync/home/zeltak/music/Beatles, The
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.config
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/dotfiles/.config/terminator
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/dotfiles/.config/termite
@@ -1690,6 +1707,8 @@
 /home/zeltak/BK/uni/planners
 /home/zeltak/BK/Uni_agenda
 /home/zeltak/BK/emacsJUL13
+/home/zeltak/BK/mpd/10.3.2015
+/home/zeltak/BK/mpd/11.3.2015
 /home/zeltak/org/files/agenda/data/a5/c9d7f8-c010-4ce7-9ace-da3db9ce15ba
 /home/zeltak/org/files/agenda/data/84/1c7eea-b21a-4df8-8ef6-b2eb13a422d9
 /home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
@@ -1700,6 +1719,7 @@
 /home/zeltak/org/files/Uni/Projects/code/P031.MIAC_PM/code_snips
 /home/zeltak/org/files/Uni/Projects/code/P029.BC_model
 /home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/CNNEW
+/home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/final
 /home/zeltak/org/files/Uni/Projects/code/P047.BW_MAIAC
 /home/zeltak/org/files/Uni/Projects/code/P020.Temprature_NE_MIA
 /home/zeltak/org/files/Uni/Projects/code/P045.Israel_LST
@@ -1756,6 +1776,8 @@
 /home/zeltak/mreview/arlo
 /home/zeltak/mreview/moontower/dan/1998 Moontower
 /home/zeltak/mreview/cuts/dl.53280.de/2005-cuts
+/home/zeltak/mreview/Amanda Palmer - Who Killed Amanda Palmer.zip#uzip
+/home/zeltak/mreview/who killed amanda
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn

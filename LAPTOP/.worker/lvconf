@@ -3,8 +3,7 @@ left {
 	activemode = "VirtualDirMode";
 	"VirtualDirMode" {
 		hiddenfiles = show;
-		sortby = modtime;
-		sortflag = reverse;
+		sortby = name;
 		showfreespace = true;
 		updatetime = 5;
 		field_width = "LISTCOL_DEST",-1;
