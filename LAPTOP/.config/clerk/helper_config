@@ -1,5 +1,6 @@
 [global]
-separator = •
+separator = ·
+music_path = /home/zeltak/music/
 
 [updater]
 change_db = 1426100404
