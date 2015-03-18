@@ -61,6 +61,7 @@
 /home/zeltak/.config/gtk-3.0
 /home/zeltak/.config/byobu
 /home/zeltak/.config/fb-client
+/home/zeltak/.config/lighthouse
 /home/zeltak/bin/ecapture.sh
 /home/zeltak/bin/helpmenu.sh
 /home/zeltak/bin/.qiv-select
@@ -160,6 +161,7 @@
 /home/zeltak/ZH_tmp/Org-mode Frequently Asked Questions_files
 /home/zeltak/ZH_tmp/poster
 /home/zeltak/ZH_tmp/3d
+/home/zeltak/ZH_tmp/t1
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -292,7 +294,7 @@
 /home/zeltak/music/Billy Joel
 /home/zeltak/music/Mr. Bungle/1999 California
 /home/zeltak/music/Amplifier/2010 The Octopus
-/home/zeltak/music/Soundgarden
+/home/zeltak/music/Soundgarden/1996 Down on the Upside
 /home/zeltak/music/Orphaned Land/2013 All Is One
 /home/zeltak/music/Orphaned Land/2010 The Never Ending Way of ORwarriOR
 /home/zeltak/music/4 Non Blondes/2013 4 Non Blondes Hits
@@ -344,12 +346,21 @@
 /home/zeltak/music/Grandaddy/1997 Under the Western Freeway
 /home/zeltak/music/Grandaddy/2000 The Sophtware Slump
 /home/zeltak/music/Deep Purple/1972 Made in Japan
+/home/zeltak/music/Deep Purple/1971 Fireball
 /home/zeltak/music/Efraim Shamir
 /home/zeltak/music/Eddie Vedder/2007 Into the Wild
 /home/zeltak/music/Beck/1996 Odelay
 /home/zeltak/music/Dresden Dolls, The/2003 The Dresden Dolls
 /home/zeltak/music/Dresden Dolls, The/2006 Yes, Virginia.._
 /home/zeltak/music/Belle and Sebastian/1996 If You’re Feeling Sinister
+/home/zeltak/music/Suicidal Tendencies/1992 The Art of Rebellion
+/home/zeltak/music/Allman Brothers Band, The/1991 A Decade of Hits_ 1969-1979
+/home/zeltak/music/of Montreal/1999 The Gay Parade
+/home/zeltak/music/of Montreal/2001 Coquelicot Asleep in the Poppies_ A Variety of Whimsical Verse
+/home/zeltak/music/Zumpano/1995 Look What the Rookie Did
+/home/zeltak/music/Suede/1993 Suede
+/home/zeltak/music/Suede/1994 Dog Man Star
+/home/zeltak/music/Suede/1997 Coming Up
 /home/zeltak/Pictures/FamPics2014_p1
 /home/zeltak/Pictures/FamPics2013_p2
 /home/zeltak/Pictures/unsorted
@@ -369,6 +380,7 @@
 /home/zeltak/Pictures/Eli/week 1
 /home/zeltak/Pictures/kloog 2012/03.06.2012
 /home/zeltak/Pictures/15.01.2015
+/home/zeltak/Pictures/13.3.2015/whats
 /home/zeltak/ThemeDB/Workshop/cantata
 /home/zeltak/ThemeDB/Workshop/GMB
 /home/zeltak/ThemeDB/Workshop/cheatsheets/org
@@ -1030,6 +1042,11 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Ultimate Spiderman Season 2 (all 19 episodes 720p HD)
 /home/zeltak/mounts/lraid/Download/transmission/completed/Ultimate Spiderman - 118 - Out of Damage Control [Oj]
 /home/zeltak/mounts/lraid/Download/transmission/completed/Ultimate Spiderman 2012 Animated Series
+/home/zeltak/mounts/lraid/Download/transmission/completed/Deep Purple - Fireball
+/home/zeltak/mounts/lraid/Download/transmission/completed/Songs Ohia/1997 - Songs Ohia
+/home/zeltak/mounts/lraid/Download/transmission/completed/Songs Ohia/1999 - Axxess & Ace
+/home/zeltak/mounts/lraid/Download/transmission/completed/Songs_ Ohia - 2014 - Journey On Collected Singles
+/home/zeltak/mounts/lraid/Download/transmission/completed/Star.Wars.Rebels.S01E10.HDTV.x264-BATV[ettv]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1522,7 +1539,7 @@
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Avatar The Last Airbender/Season 2
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Avatar The Last Airbender/Book 2 - Earth
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Transformers
-/home/zeltak/mounts/lraid/raid/Videos/TV/Anim/star wars rebels/season 1
+/home/zeltak/mounts/lraid/raid/Videos/TV/Anim/star wars rebels/season 1/Star.Wars.Rebels.S01E08.720p.HDTV.x264-BATV[rarbg]
 /home/zeltak/mounts/lraid/raid/Videos/TV/Anim/Avengers - Earth's Mightiest Heroes /season 2
 /home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/Archer
 /home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/Futurama
@@ -1710,6 +1727,8 @@
 /home/zeltak/BK/mpd/10.3.2015
 /home/zeltak/BK/mpd/11.3.2015
 /home/zeltak/BK/mpd/12.3.2015
+/home/zeltak/BK/mpd/13.3.15
+/home/zeltak/BK/mpd/rating/down under
 /home/zeltak/org/files/agenda/data/a5/c9d7f8-c010-4ce7-9ace-da3db9ce15ba
 /home/zeltak/org/files/agenda/data/84/1c7eea-b21a-4df8-8ef6-b2eb13a422d9
 /home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
@@ -1724,6 +1743,8 @@
 /home/zeltak/org/files/Uni/Projects/code/P047.BW_MAIAC
 /home/zeltak/org/files/Uni/Projects/code/P020.Temprature_NE_MIA
 /home/zeltak/org/files/Uni/Projects/code/P045.Israel_LST
+/home/zeltak/org/files/Uni/Projects/code/P002.MIA_PM_MODELSV3
+/home/zeltak/org/files/Uni/Projects/code/P003.TEMP_MODELS
 /home/zeltak/org/files/Uni/Courses/Planners_GIS
 /home/zeltak/org/files/Uni/Guides
 /home/zeltak/org/files/.SyncArchive
@@ -1779,6 +1800,8 @@
 /home/zeltak/mreview/cuts/dl.53280.de/2005-cuts
 /home/zeltak/mreview/Amanda Palmer - Who Killed Amanda Palmer.zip#uzip
 /home/zeltak/mreview/who killed amanda
+/home/zeltak/mreview/Amanda Palmer - Amanda Palmer Goes Down Under.zip#uzip
+/home/zeltak/mreview/ama
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn
@@ -2078,6 +2101,7 @@
 /home/zeltak/Uni/Presentations/MIA_PM_model
 /home/zeltak/Uni/Presentations/Rob_Levy_modis
 /home/zeltak/Uni/Presentations/EHF_2014
+/home/zeltak/Uni/Presentations/ehf_2015_workshop
 /home/zeltak/Uni/Students/behzad
 /home/zeltak/Uni/Misc/bgu application/new_tik
 /home/zeltak/Uni/jabref
@@ -2175,10 +2199,12 @@
 /home/zeltak/mtp/Internal storage/Android/data
 /home/zeltak/mtp/Internal storage/Download/1
 /home/zeltak/mtp/Internal storage/Music
-/home/zeltak/mtp/Internal storage/DCIM
+/home/zeltak/mtp/Internal storage/DCIM/.thumbnails
+/home/zeltak/mtp/Internal storage/DCIM/Camera
 /home/zeltak/mtp/Internal storage/backups/apps
 /home/zeltak/mtp/Internal storage/rerware
 /home/zeltak/mtp/Internal storage/MLT
+/home/zeltak/mtp/Internal storage/WhatsApp/Media/WhatsApp Images
 /home/zeltak/.mpd
 /home/zeltak/CheckPoint
 /home/zeltak/SparkleShare
