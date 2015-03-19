@@ -162,6 +162,7 @@
 /home/zeltak/ZH_tmp/poster
 /home/zeltak/ZH_tmp/3d
 /home/zeltak/ZH_tmp/t1
+/home/zeltak/ZH_tmp/mu-git.tar.gz#ugz#utar
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1667,7 +1668,7 @@
 /home/zeltak/mounts/n7/Internal storage/Qfile
 /home/zeltak/mounts/n7/Internal storage/comic
 /home/zeltak/mounts/n7/Internal storage/.estrongs
-/home/zeltak/mounts/syno
+/home/zeltak/mounts/syno/home/zeltak
 /home/zeltak/mounts/nexus6/Sync
 /home/zeltak/BK/org/food
 /home/zeltak/BK/org/27.7.14
@@ -1810,6 +1811,7 @@
 /home/zeltak/AUR/cower
 /home/zeltak/AUR/pacaur
 /home/zeltak/AUR/git-annex-bin
+/home/zeltak/AUR/mu-git
 /home/zeltak/.worker/catalogs
 /home/zeltak/scripts/irc/weechat
 /home/zeltak/scripts/Audio
@@ -2316,6 +2318,9 @@
 /media/ARCH_201212/arch
 /media/ARCH_201212/isolinux
 /media/ARCH_201212/loader
+/media/C43C-65D7
+/media/ARCH_201503/EFI/archiso
+/media/ARCH_201503/EFI/boot
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /etc/ssh
