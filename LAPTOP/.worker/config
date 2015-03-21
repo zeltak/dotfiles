@@ -1,4 +1,4 @@
-workerconfig 3.6.0;
+workerconfig 3.6.1;
 global {
 	lang = "builtin";
 	rows = 4;
@@ -460,11 +460,11 @@ fonts {
 	textviewfont = "fixed";
 }
 xftfonts {
-	globalfont = "PragmataPro:pixelsize=14";
-	buttonfont = "PragmataPro:pixelsize=11";
-	leftfont = "PragmataPro:pixelsize=17";
-	rightfont = "PragmataPro:pixelsize=17";
-	textviewfont = "PragmataPro:pixelsize=13";
+	globalfont = "PragmataPro:pixelsize=16";
+	buttonfont = "PragmataPro:pixelsize=13";
+	leftfont = "PragmataPro:pixelsize=19";
+	rightfont = "PragmataPro:pixelsize=19";
+	textviewfont = "PragmataPro:pixelsize=15";
 }
 clockbarsets {
 	modus = timespace;
