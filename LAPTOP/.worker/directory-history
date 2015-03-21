@@ -163,6 +163,7 @@
 /home/zeltak/ZH_tmp/3d
 /home/zeltak/ZH_tmp/t1
 /home/zeltak/ZH_tmp/mu-git.tar.gz#ugz#utar
+/home/zeltak/ZH_tmp/aaa
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1223,6 +1224,7 @@
 /home/zeltak/mounts/lraid/raid/thd/zeltak_repository/win_software/4)Office
 /home/zeltak/mounts/lraid/raid/thd/zeltak_repository/win_software/5)Graphics
 /home/zeltak/mounts/lraid/raid/thd/zeltak_repository/win_software/7)Drivers-Codecs/Microsoft
+/home/zeltak/mounts/lraid/raid/thd/zeltak_repository/nix_software
 /home/zeltak/mounts/lraid/raid/thd/@Transcode@
 /home/zeltak/mounts/lraid/raid/thd/$tools/128x128
 /home/zeltak/mounts/lraid/raid/thd/$tools/Break-In Images
@@ -1671,6 +1673,14 @@
 /home/zeltak/mounts/n7/Internal storage/.estrongs
 /home/zeltak/mounts/syno/home/zeltak
 /home/zeltak/mounts/nexus6/Sync
+/home/zeltak/mounts/x1/home/zeltak/.config/fb-client
+/home/zeltak/mounts/x1/home/zeltak/.local/share
+/home/zeltak/mounts/x1/home/zeltak/.i3/__pycache__
+/home/zeltak/mounts/x1/home/zeltak/logs
+/home/zeltak/mounts/x1/home/zeltak/.oh-my-zsh
+/home/zeltak/mounts/x1/home/zeltak/dotfiles/ARCHIVE
+/home/zeltak/mounts/x1/home/zeltak/dotfiles/LAPTOP/.oh-my-zsh
+/home/zeltak/mounts/x1/home/zeltak/AUR
 /home/zeltak/BK/org/food
 /home/zeltak/BK/org/27.7.14
 /home/zeltak/BK/org/2.8.2014
@@ -2266,6 +2276,8 @@
 /home/zeltak/uni
 /home/zeltak/.emacs.t/undo-files
 /home/zeltak/.emacs.t/image-dired
+/home/zeltak/logs
+/home/zeltak/.oh-my-zsh
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699

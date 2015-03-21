@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 sw_volume: 28
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
 current: 35
 time: 118.723000
+=======
+sw_volume: 62
+audio_device_state:1:Pulseaudio
+audio_device_state:1:My FIFO
+state: play
+current: 1
+time: 150.070000
+>>>>>>> 20feb63eff41e9a7fce6757c8d62450c3d238ee0
 random: 0
 repeat: 0
 single: 0
@@ -12,6 +21,7 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+<<<<<<< HEAD
 0:Genesis/1972 Foxtrot/04 Can-Utility and the Coastliners.flac
 1:Pearl Jam/1993 Vs_/05 Dissident.flac
 2:Simon & Garfunkel/2002 Live from New York City, 1967/15 I Am a Rock.mp3
@@ -111,4 +121,17 @@ playlist_begin
 96:Simon & Garfunkel/1972 Greatest Hits/03 The Boxer.mp3
 97:Pink Floyd/1979 The Wall/17 Vera.flac
 98:Moody Blues, The/1969 To Our Children’s Children’s Children/02 Eyes of a Child, Part One.mp3
+=======
+0:Steven Wilson/2015 Hand. Cannot. Erase_/01 First Regret.mp3
+1:Steven Wilson/2015 Hand. Cannot. Erase_/02 3 Years Older.mp3
+2:Steven Wilson/2015 Hand. Cannot. Erase_/03 Hand Cannot Erase.mp3
+3:Steven Wilson/2015 Hand. Cannot. Erase_/04 Perfect Life.mp3
+4:Steven Wilson/2015 Hand. Cannot. Erase_/05 Routine.mp3
+5:Steven Wilson/2015 Hand. Cannot. Erase_/06 Home Invasion.mp3
+6:Steven Wilson/2015 Hand. Cannot. Erase_/07 Regret #9.mp3
+7:Steven Wilson/2015 Hand. Cannot. Erase_/08 Transience.mp3
+8:Steven Wilson/2015 Hand. Cannot. Erase_/09 Ancestral.mp3
+9:Steven Wilson/2015 Hand. Cannot. Erase_/10 Happy Returns.mp3
+10:Steven Wilson/2015 Hand. Cannot. Erase_/11 Ascendant Here On….mp3
+>>>>>>> 20feb63eff41e9a7fce6757c8d62450c3d238ee0
 playlist_end
