@@ -175,7 +175,7 @@ alt+super + Return
 #----> MM KEYS
 
 #MPD Play/Pause
-XF86Launch1 
+shift+Print 
       mpc toggle 
 
 #mpd vol up
@@ -197,7 +197,7 @@ super+Print
       clerk 
 
 #mpd queue 
-shift+Print
+shift+super+Print
       clerk --queue show
 
 
