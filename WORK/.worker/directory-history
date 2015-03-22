@@ -2008,6 +2008,25 @@
 /media/NAS/Uni/Projects/P010.Medicare_NE/3.1.10.1.Raw_data/SES
 /media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN002_NCDC_allyears
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/midatlantic_newengland
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn030_Stage 2
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn035_stage3-final
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/ARCgis
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/CN002_LST_txtfiles
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/FN015_withinkm
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/archive
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn007
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/fn007_keytables
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/GEOFLA
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/SUPPLEMENTS
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/elev
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/met data
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/data.7z#u7z
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/Monitors
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/PM/data_PM25_LCSQA.7z#u7z
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/lu_variables
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/stations
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/data_PM25_LCSQA.7z#u7z
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
@@ -2033,8 +2052,18 @@
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
 /media/NAS/Uni/Data/GIS/Mexicio
 /media/NAS/Uni/Data/GIS/world map
+/media/NAS/Uni/Data/GIS/Europe/france/border
+/media/NAS/Uni/Data/GIS/Europe/france/places
+/media/NAS/Uni/Data/GIS/Europe/france/roads
+/media/NAS/Uni/Data/GIS/Europe/france/water
 /media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
+/media/NAS/Uni/Data/Europe/NDVI/france_italy_ndvi
+/media/NAS/Uni/Data/Europe/NDVI/raw italy_france MODIS
+/media/NAS/Uni/Data/Europe/NDVI/Euro_NDVI
+/media/NAS/Uni/Data/Europe/NEW_Europe_HDF_LAT_LONG
+/media/NAS/Uni/Data/Europe/PBL_Europe
 /media/NAS/Uni/Data/Mexico
+/media/NAS/Uni/Data/world
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
 /media/NAS/Uni/ztmp/qgis
 /media/NAS/Uni/ztmp/shi_data/ncdc data
@@ -2051,6 +2080,8 @@
 /media/NAS/Z_backups/GIS.zip#uzip
 /media/NAS/Z_backups/agebsDF.zip#uzip
 /media/NAS/Adar
+/media/NAS/Shai/RAWdata
+/media/NAS/Shai/adar
 /media/usb
 /media/My Book
 /media/tmp
