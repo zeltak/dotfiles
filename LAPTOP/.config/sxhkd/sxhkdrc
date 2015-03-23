@@ -23,8 +23,8 @@ control+alt+super + s
 
 #gpaste
 shift+control+ Insert 
-        /home/zeltak/bin/rofgpaste.sh
-
+#        /home/zeltak/bin/rofgpaste.sh
+         copyq menu    
 #################################################################33
 ###### TERMIANLS
 #################################################################33
