@@ -13,33 +13,35 @@ sleep 10 &
 #exec sxhkd -s /home/zeltak/.config/sxhkd/sxhkd_socket &
 exec sxhkd &
 #exec clipit &
-exec gpaste applet &
-exec xcmenu  &
+#exec gpaste applet &
+#exec xcmenu  &
+exec copyq &
+exec devilspie2 &
 #mpd related
 exec mpdcron   &
 exec mpdscribble &
 #exec remmina -i &
-exec worker &
+#exec worker &
 #exec firefox &
-exec chromium &
-exec cantata &
+#exec chromium &
+#exec cantata &
 #for weechat notifications
 #exec python2 /home/zeltak/bin/weechat-remote-notify.py 4321 &
 #exec python2 /home/zeltak/bin/weechat-remote-notify.py 20000 &
 #exec /home/zeltak/bin/notify-client.sh & 
 
 ##compositor
-exec compton &
+#exec compton &
 #exec dropboxd &
 #exec sparkleshare start &
 ##disable trackpad
-exec /home/zeltak/bin/trackpad-toggle.sh &
+#exec /home/zeltak/bin/trackpad-toggle.sh &
 
 ##keyboard settings
-exec setxkbmap -option compose:ralt&
-exec tmux_focus &
-exec nm-applet &
-exec pasystray &
+#exec setxkbmap -option compose:ralt&
+#exec tmux_focus &
+#exec nm-applet &
+#exec pasystray &
 
 #exec loliclip &
 #exec autokey-gtk &

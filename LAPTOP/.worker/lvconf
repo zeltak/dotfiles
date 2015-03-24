@@ -1,4 +1,4 @@
-activeside = left;
+activeside = right;
 left {
 	activemode = "VirtualDirMode";
 	"VirtualDirMode" {
