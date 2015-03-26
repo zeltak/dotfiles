@@ -63,6 +63,7 @@
 /home/zeltak/.config/fb-client
 /home/zeltak/.config/lighthouse
 /home/zeltak/.config/devilspie2
+/home/zeltak/.config/copyq
 /home/zeltak/bin/ecapture.sh
 /home/zeltak/bin/helpmenu.sh
 /home/zeltak/bin/.qiv-select
@@ -1709,6 +1710,7 @@
 /home/zeltak/BK/emacs/20.01.2015/.emacs.d
 /home/zeltak/BK/emacs/4.2.2015
 /home/zeltak/BK/emacs/8.3.2015
+/home/zeltak/BK/emacs/26.3.2015
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1764,6 +1766,8 @@
 /home/zeltak/org/files/Uni/Projects/code/P045.Israel_LST
 /home/zeltak/org/files/Uni/Projects/code/P002.MIA_PM_MODELSV3
 /home/zeltak/org/files/Uni/Projects/code/P003.TEMP_MODELS
+/home/zeltak/org/files/Uni/Projects/code/P010.Medicare_NE
+/home/zeltak/org/files/Uni/Projects/code/P011.BirthW_NE
 /home/zeltak/org/files/Uni/Courses/Planners_GIS
 /home/zeltak/org/files/Uni/Guides
 /home/zeltak/org/files/.SyncArchive
@@ -2104,6 +2108,7 @@
 /home/zeltak/Uni/#MY_papers/$MIA_Medicare/plos_one
 /home/zeltak/Uni/#MY_papers/DVT papaer/JTH
 /home/zeltak/Uni/#MY_papers/mexico_maiac_p1
+/home/zeltak/Uni/#MY_papers/bw-ta/ehp/rev4
 /home/zeltak/Uni/BGU/Forms
 /home/zeltak/Uni/BGU/GIT_program/presentations
 /home/zeltak/Uni/Courses
@@ -2285,6 +2290,7 @@
 /home/zeltak/.emacs.t/image-dired
 /home/zeltak/logs
 /home/zeltak/.oh-my-zsh
+/home/zeltak/.teamocil
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
