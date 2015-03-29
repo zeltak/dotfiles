@@ -1,9 +1,9 @@
-sw_volume: 18
+sw_volume: 53
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
-current: 14409
-time: 325.822000
+state: play
+current: 13673
+time: 120.047000
 random: 0
 repeat: 0
 single: 0
@@ -13679,8 +13679,8 @@ playlist_begin
 13664:Supertramp/1979 Breakfast in America/10 Child of Vision.flac
 13665:Supremes, The/2013 The Supremes Hits/15 Baby Love.flac
 13666:Symphony X/2002 The Divine Wings of Tragedy/01 Of Sins and Shadows.flac
-13667:Symphony X/2002 The Divine Wings of Tragedy/02 Sea of Lies.flac
-13668:Symphony X/2002 The Divine Wings of Tragedy/03 Out of the Ashes.flac
+13667:Symphony X/2002 The Divine Wings of Tragedy/03 Out of the Ashes.flac
+13668:Symphony X/2002 The Divine Wings of Tragedy/02 Sea of Lies.flac
 13669:Symphony X/2002 The Divine Wings of Tragedy/04 The Accolade.flac
 13670:Symphony X/2002 The Divine Wings of Tragedy/05 Pharaoh.flac
 13671:Symphony X/2002 The Divine Wings of Tragedy/06 The Eyes of Medusa.flac
