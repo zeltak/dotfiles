@@ -49,6 +49,7 @@ alt+super+control+Return
 alt+super+Return
          terminator -l 4w 
 
+      
 
 #################################################################33
 ###### LAUNCHERS
@@ -57,7 +58,7 @@ alt+super+Return
 #Rofi
 #rofi launcher
 #alt+w 
-#      rofi -show run -auto-select  -location 8 -width 350 -lines 30 -fixed-num-lines   
+#      rofi -show run -auto-select  -location 8 -width 450 -lines 30 -fixed-num-lines   
 
 #rofi start menu
 super + Insert 
@@ -65,8 +66,8 @@ super + Insert
 
 #rofi switcher
 alt+q
-      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
-
+#      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
+       rofi -show combi -modi "combi" -combi-modi "window,run" -auto-select -location 8 -width 750 -lines 30 -fixed-num-lines
 
 #help menu
 super+ i 

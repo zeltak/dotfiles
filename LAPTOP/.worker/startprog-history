@@ -1,9 +1,11 @@
+emacsclient
+mpv
+xournal
 mplayer
 smplayer
 vlc
 gvim
 emacs
-emacsclient
 puddletag
 libreoffice
 thunar
@@ -11,7 +13,6 @@ acroread
 okular
 feh
 xnview
-xournal
 mcomix
 chromium
 comix
