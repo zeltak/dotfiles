@@ -1725,6 +1725,7 @@
 /home/zeltak/BK/emacs/4.2.2015
 /home/zeltak/BK/emacs/8.3.2015
 /home/zeltak/BK/emacs/26.3.2015
+/home/zeltak/BK/emacs/5.4.15
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -2028,7 +2029,9 @@
 /home/zeltak/.lyrics
 /home/zeltak/.lyx
 /home/zeltak/.mc
-/home/zeltak/.mail
+/home/zeltak/.mail/gmail/Boris/cur
+/home/zeltak/.mail/gmail/Boris/new
+/home/zeltak/.mail/gmail/[Gmail]/.All Mail
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/deps
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/modules
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/defaults/preferences
@@ -2067,7 +2070,7 @@
 /home/zeltak/.opera
 /home/zeltak/.vimperator/info/default
 /home/zeltak/.jabref/plugins
-/home/zeltak/Mail
+/home/zeltak/Mail/archive/sent
 /home/zeltak/FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg]
 /home/zeltak/FIFA.World.Cup.2014.Group.D.Uruguay.vs.Costa.Rica.720p.HDTV.x264-BALLS[rarbg]
 /home/zeltak/Uni/personal/900000
@@ -2317,8 +2320,11 @@
 /home/zeltak/mail/personal/archive/tmp
 /home/zeltak/Maildir/Boris
 /home/zeltak/Maildir/zeltak@gmail.com
-/home/zeltak/Maildir/INBOX
+/home/zeltak/Maildir/INBOX/new
+/home/zeltak/Maildir/INBOX/cur
+/home/zeltak/Maildir/INBOX/tmp
 /home/zeltak/Maildir/Joel
+/home/zeltak/Maildir/Drafts
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
