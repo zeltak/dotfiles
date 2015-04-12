@@ -37,7 +37,10 @@ if [[ $2 == "e" ]]
  elif [[ $2 == "h" ]]
  then
    exec  herbstluftwm
- elif [[ $2 == "f" ]]
+ elif [[ $2 == "l" ]]
+ then
+   exec startlxqt
+elif [[ $2 == "f" ]]
  then
    exec fluxbox 
  elif [[ $2 == "k" ]]

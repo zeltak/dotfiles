@@ -1072,6 +1072,8 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Dumb and Dumber To (2014)
 /home/zeltak/mounts/lraid/Download/transmission/completed/Gravity Falls - Season 1 (Complete) [WEB-DL 720p]
 /home/zeltak/mounts/lraid/Download/transmission/completed/Saga, 2012-/Comic Books Saga Image Comics issue 8 -17 (cbr)
+/home/zeltak/mounts/lraid/Download/transmission/completed/The Mule (2014)
+/home/zeltak/mounts/lraid/Download/transmission/completed/'71 (2014)
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1615,6 +1617,7 @@
 /home/zeltak/mounts/lraid/raid/Vid_In/TV/the simpsons
 /home/zeltak/mounts/lraid/raid/Mee/Michal Music/bands
 /home/zeltak/mounts/lraid/raid/Mee/games
+/home/zeltak/mounts/lraid/raid/Mee/new
 /home/zeltak/mounts/lraid/raid/e-books/Song of Ice and Fire Split
 /home/zeltak/mounts/lraid/raid/btsync/org/attach/images_2014
 /home/zeltak/mounts/lraid/raid/btsync/org/attach/.sync/Archive
@@ -2022,9 +2025,12 @@
 /home/zeltak/.git
 /home/zeltak/.icons
 /home/zeltak/.kde
-/home/zeltak/.kde4/share/config
+/home/zeltak/.kde4/share/config/kresources/contact
+/home/zeltak/.kde4/share/config/session
 /home/zeltak/.kde4/share/apps/amarok
 /home/zeltak/.kde4/share/apps/konsole
+/home/zeltak/.kde4/share/apps/kconf_update
+/home/zeltak/.kde4/share/kde4/services
 /home/zeltak/.keychain
 /home/zeltak/.lyrics
 /home/zeltak/.lyx

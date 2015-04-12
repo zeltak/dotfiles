@@ -1,10 +1,11 @@
+gvim
+gimp
 emacsclient
 mpv
 xournal
 mplayer
 smplayer
 vlc
-gvim
 emacs
 puddletag
 libreoffice
@@ -22,7 +23,6 @@ xarchiver
 peazip
 gwenviwer
 inkscape
-gimp
 ./
 vim
 feh -f
