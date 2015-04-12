@@ -144,6 +144,10 @@
 /home/zeltak/ZH_tmp/elysium_4K.zip#uzip
 /home/zeltak/ZH_tmp/groads-v1-europe-shp.zip#uzip/groads-v1-europe-shp
 /home/zeltak/ZH_tmp/HDF
+/home/zeltak/ZH_tmp/grid.zip#uzip
+/home/zeltak/ZH_tmp/borders.zip#uzip
+/home/zeltak/ZH_tmp/grid_metadata_dem_openplace_roadden.zip#uzip
+/home/zeltak/ZH_tmp/il_merge.zip#uzip
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1503,8 +1507,9 @@
 /home/zeltak/BK/.mono/registry/CurrentUser
 /home/zeltak/BK/keychain
 /home/zeltak/BK/penta2
+/home/zeltak/BK/Sync
 /home/zeltak/org/files/agenda
-/home/zeltak/org/files/Uni/papers/bib
+/home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
 /home/zeltak/org/files/Uni/Projects/code/P031_MIAC_PM
 /home/zeltak/org/files/Uni/Projects/code/P043_BirthW_Temp_MA
@@ -1771,6 +1776,7 @@
 /home/zeltak/programs/Qfinder
 /home/zeltak/programs/syncthing-linux-amd64-v0.10.12
 /home/zeltak/programs/teamviewer
+/home/zeltak/programs/jabref export filter/exports/fdat
 /home/zeltak/.marks/s/android
 /home/zeltak/.marks/c
 /home/zeltak/.cache/cantata
@@ -2007,7 +2013,14 @@
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures
 /media/NAS/Uni/Projects/P010.Medicare_NE/3.1.10.1.Raw_data/SES
 /media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN002_NCDC_allyears
+/media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN004_LU_full_dataset
+/media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/m3rds
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/midatlantic_newengland
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/landcover_urbanness
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/PM
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/gis
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/FULL_GRID
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/maiac_aod/2003
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn030_Stage 2
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn035_stage3-final
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/ARCgis
@@ -2016,7 +2029,9 @@
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/archive
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn007
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/fn007_keytables
-/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/stage1
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/Final_code
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/latlong
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/GEOFLA
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/SUPPLEMENTS
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/elev
@@ -2027,6 +2042,7 @@
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/lu_variables
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/stations
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/data_PM25_LCSQA.7z#u7z
+/media/NAS/Uni/Projects/P045_Israel_LST/RAW/grid
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
@@ -2041,6 +2057,7 @@
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2003
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2014
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h04v06/2014
+/media/NAS/Uni/Data/USA/MAIAC_NEW/northeast
 /media/NAS/Uni/Data/USA/MOIDS ST/RAW HDF
 /media/NAS/Uni/Data/USA/nm2/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua
 /media/NAS/Uni/Data/USA/EPA/NEI05_stacks
@@ -2056,6 +2073,7 @@
 /media/NAS/Uni/Data/GIS/Europe/france/places
 /media/NAS/Uni/Data/GIS/Europe/france/roads
 /media/NAS/Uni/Data/GIS/Europe/france/water
+/media/NAS/Uni/Data/GIS/USA
 /media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
 /media/NAS/Uni/Data/Europe/NDVI/france_italy_ndvi
 /media/NAS/Uni/Data/Europe/NDVI/raw italy_france MODIS
