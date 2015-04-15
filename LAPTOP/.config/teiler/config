@@ -26,7 +26,7 @@ gdbar=gdbar
 # If you don't want a local history of images/videos,
 # set archive_img/archive_vid to "0"
 # keep in mind, that imgur does not support videos
-ul=imgur
+ul=fb
 paste_ul=ix
 archive_vid=1
 archive_img=1
