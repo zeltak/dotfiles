@@ -1508,6 +1508,8 @@
 /home/zeltak/BK/keychain
 /home/zeltak/BK/penta2
 /home/zeltak/BK/Sync
+/home/zeltak/BK/.rstudio-desktop
+/home/zeltak/BK/rstudio
 /home/zeltak/org/files/agenda
 /home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
@@ -1830,7 +1832,8 @@
 /home/zeltak/Uni/#MY_papers/$MIA_Medicare/plos_one
 /home/zeltak/Uni/#MY_papers/maayan-lipids, glucose and PM10 paper
 /home/zeltak/Uni/#MY_papers/DVT papaer/JTH/proofs
-/home/zeltak/Uni/BGU
+/home/zeltak/Uni/#MY_papers/ricem
+/home/zeltak/Uni/BGU/consulting
 /home/zeltak/Uni/Courses
 /home/zeltak/Uni/grants/beterm
 /home/zeltak/Uni/grants/ESA_italy
@@ -1846,6 +1849,7 @@
 /home/zeltak/Uni/Presentations/BGU_GEO_2014
 /home/zeltak/Uni/Presentations/Mexico2014
 /home/zeltak/Uni/Students/behzad
+/home/zeltak/Uni/Students/lara
 /home/zeltak/Uni/Misc/bgu application/new_tik
 /home/zeltak/btsync/scan_inbox/.images
 /home/zeltak/btsync/scan_inbox/images
@@ -2030,6 +2034,9 @@
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn007
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/fn007_keytables
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/stage1
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/Qgis
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn099.R
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/bubles
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/Final_code
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/latlong
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/GEOFLA
@@ -2037,20 +2044,33 @@
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/elev
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/met data
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/data.7z#u7z
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/roads
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/Monitors
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/PM/data_PM25_LCSQA.7z#u7z
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/lu_variables
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/stations
+/media/NAS/Uni/Projects/P022_Temprature_France/4.results
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/data_PM25_LCSQA.7z#u7z
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/Archive2013.zip#uzip
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/Archive2000_2012.zip#uzip
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/elev/elevASC
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/elev/elevXYZ
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/population
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/ndvi
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/Qgis
 /media/NAS/Uni/Projects/P045_Israel_LST/RAW/grid
+/media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/GIS
+/media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/NDVI_IT_FRA/code
+/media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/NDVI_IT_FRA/hdf
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
-/media/NAS/Uni/Data/Israel/MAIAC_new_10_2014
+/media/NAS/Uni/Data/Israel/MAIAC_new_10_2014/h06v07/2000
 /media/NAS/Uni/Data/Israel/MODIS_LST_IL/out
 /media/NAS/Uni/Data/Israel/NDVI
 /media/NAS/Uni/Data/Israel/WU-IL/WU-IL
 /media/NAS/Uni/Data/Israel/WU-IL/all.tgz#ugz#utar
 /media/NAS/Uni/Data/Israel/WU-IL/stationsIsrael.zip#uzip
+/media/NAS/Uni/Data/Israel/MAIAC_AOD
 /media/NAS/Uni/Data/USA/MAIAC_NEW/results_Terra_Aqua/h03v07
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2000
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2001
@@ -2073,13 +2093,15 @@
 /media/NAS/Uni/Data/GIS/Europe/france/places
 /media/NAS/Uni/Data/GIS/Europe/france/roads
 /media/NAS/Uni/Data/GIS/Europe/france/water
+/media/NAS/Uni/Data/GIS/Europe/Italy
 /media/NAS/Uni/Data/GIS/USA
+/media/NAS/Uni/Data/GIS/italy
 /media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
 /media/NAS/Uni/Data/Europe/NDVI/france_italy_ndvi
 /media/NAS/Uni/Data/Europe/NDVI/raw italy_france MODIS
 /media/NAS/Uni/Data/Europe/NDVI/Euro_NDVI
 /media/NAS/Uni/Data/Europe/NEW_Europe_HDF_LAT_LONG
-/media/NAS/Uni/Data/Europe/PBL_Europe
+/media/NAS/Uni/Data/Europe/PBL_Europe/Europepbl_coord
 /media/NAS/Uni/Data/Mexico
 /media/NAS/Uni/Data/world
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
@@ -2088,13 +2110,21 @@
 /media/NAS/Uni/ztmp/shi_data/FN001_PM_allyears
 /media/NAS/Uni/ztmp/shi_data/FN004_LU_full_dataset
 /media/NAS/Uni/ztmp/shi_data/HPBL/ORIGhpbl
+/media/NAS/Uni/ztmp/mey
 /media/NAS/Uni/Courses/Qgis/L10-Big Data/e10
 /media/NAS/Uni/Courses/stat
+/media/NAS/Uni/Courses/3D_GIS/L3/t3
 /media/NAS/Uni/VirtualBox VMs/Windowz/tmp
 /media/NAS/Uni/VirtualBox VMs/Windowz/Snapshots
 /media/NAS/Uni/VirtualBox VMs/Windowz/Logs
+/media/NAS/Uni/VirtualBox VMs/Windowz/win/Logs
 /media/NAS/Uni/Backups/$Archives
 /media/NAS/Uni/Backups/old downlaoded academic papers
+/media/NAS/Uni/Backups/Virtualbox/Windowz/Snapshots
+/media/NAS/Uni/Backups/Virtualbox/.VirtualBox
+/media/NAS/Uni/xVirtualBox VMs
+/media/NAS/Uni/BKVirtualBox VMs/Windowz/Logs
+/media/NAS/Uni/BKVirtualBox VMs/Windowz/tmp
 /media/NAS/Z_backups/GIS.zip#uzip
 /media/NAS/Z_backups/agebsDF.zip#uzip
 /media/NAS/Adar
