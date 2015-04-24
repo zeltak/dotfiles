@@ -460,11 +460,11 @@ fonts {
 	textviewfont = "fixed";
 }
 xftfonts {
-	globalfont = "PragmataPro:pixelsize=16";
-	buttonfont = "PragmataPro:pixelsize=13";
-	leftfont = "PragmataPro:pixelsize=19";
-	rightfont = "PragmataPro:pixelsize=19";
-	textviewfont = "PragmataPro:pixelsize=15";
+	globalfont = "PragmataPro:pixelsize=17";
+	buttonfont = "PragmataPro:pixelsize=15";
+	leftfont = "PragmataPro:pixelsize=21";
+	rightfont = "PragmataPro:pixelsize=21";
+	textviewfont = "PragmataPro:pixelsize=17";
 }
 clockbarsets {
 	modus = timespace;
@@ -3366,6 +3366,25 @@ buttons {
 				recursive = false;
 				start = showoutputint;
 				com = "nmap -sP 192.168.0.1/24";
+				viewstr = "";
+				inbackground = true;
+				takedirs = false;
+				dontcd = false;
+			}
+		}
+	}
+	button {
+		position = 186;
+		title = "ren_BKD";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			OwnOp {
+				separateeachentry = false;
+				recursive = false;
+				start = normal;
+				com = "mv {A} backdrop.jpg";
 				viewstr = "";
 				inbackground = true;
 				takedirs = false;

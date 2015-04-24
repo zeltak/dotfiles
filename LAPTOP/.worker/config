@@ -3374,6 +3374,25 @@ buttons {
 		}
 	}
 	button {
+		position = 186;
+		title = "ren_BKD";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			OwnOp {
+				separateeachentry = false;
+				recursive = false;
+				start = normal;
+				com = "mv {A} backdrop.jpg";
+				viewstr = "";
+				inbackground = true;
+				takedirs = false;
+				dontcd = false;
+			}
+		}
+	}
+	button {
 		position = 188;
 		title = "crdelete";
 		color = 135,132;
@@ -4670,6 +4689,35 @@ buttons {
 				recursive = false;
 				start = showoutputint;
 				com = "netstat -tlnp";
+				viewstr = "";
+				inbackground = true;
+				takedirs = false;
+				dontcd = false;
+			}
+		}
+	}
+	button {
+		position = 226;
+		title = "cp+ren_BKD";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			CopyOp {
+				followsymlinks = false;
+				move = false;
+				rename = false;
+				samedir = false;
+				requestdest = false;
+				requestflags = false;
+				overwrite = normal;
+				preserveattr = true;
+			}
+			OwnOp {
+				separateeachentry = false;
+				recursive = false;
+				start = normal;
+				com = "mv {A} backdrop.jpg";
 				viewstr = "";
 				inbackground = true;
 				takedirs = false;

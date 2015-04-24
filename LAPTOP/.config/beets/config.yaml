@@ -1,7 +1,6 @@
 directory: ~/music
 library: ~/.beets/musiclibrary.blb
 
-
 paths:
     #with artist letter in middle
     #default: %left{$albumartist,1}/$albumartist/$year $album/$track $title
@@ -38,6 +37,7 @@ import:
     timid: no
     log: beetslog.txt
 
+#use original release date
 original_date: yes
 
 #to remove the folder after moving audio files 
@@ -103,7 +103,9 @@ embedart:
 lyrics:
     google_API_key: AIzaSyDooP7J5EmH77toX7PbEgNu3uqTT6XTdg 
     google_engine_ID: 009217259823014548361:lndtuqkycfu
-    fallback: 'No lyrics found'
+    fallback: ''
+
+
 zero:
     fields: month day genre comments  
     #comments: [EAC, LAME, from.+collection, 'ripped by']
@@ -121,8 +123,20 @@ ignore: .AppleDouble ._* *~ .DS_Store .txt .cue
 #name of album coverart
 art_filename: folder
 
+#Either yes or no, indicating whether the autotagger should use multiple threads.
 threaded: yes
-color: yes
+
+ui:
+    color: yes
+    colors:
+        text_success: green
+        text_warning: yellow
+        text_error: red
+        text_highlight: red
+        text_highlight_minor: lightgray
+        action_default: turquoise
+        action: blue
+
 
 smartplaylist:
     playlist_dir: ~/.mpd/playlists/

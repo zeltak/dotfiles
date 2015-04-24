@@ -116,3 +116,9 @@ yeahconsole*aniDelay: 1
 yeahconsole*stepSize: 2
 yeahconsole*restart: 1
 
+
+
+xterm*termName: xterm-256color
+XTerm*locale: true
+Xterm*saveLines: 4096
+xterm*faceName: Liberation Mono:size=17:antialias=false
