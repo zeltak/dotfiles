@@ -1,9 +1,9 @@
-sw_volume: 30
+sw_volume: 8
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
-current: 17
-time: 256.301000
+current: 12
+time: 115.484000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,54 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Waterboys, The/1988 Fisherman's Blues/01 Fisherman's Blues.m4a
-1:Kinks, The/2005 The Kinks Hits/03 Nothin’ in the World Can Stop Me Worryin’ ‘Bout.mp3
-2:U2/1987 The Joshua Tree/07 In God's Country.flac
-3:Queen/1976 A Day at the Races/01 Tie Your Mother Down.flac
-4:Air/2004 Talkie walkie/08 Alpha Beta Gaga.flac
-5:Who, The/1969 Tommy/02 It’s a Boy.flac
-6:New Pornographers, The/2003 Electric Version/09 Testament to Youth in Verse.flac
-7:Arik Einstein and Shalom Hanoch/2000 אריק איינשטיין ושלום חנוך האוסף/04 מה איתי.mp3
-8:Pink Floyd/1983 The Final Cut/04 When the Tigers Broke Free.flac
-9:Garbage/1995 Garbage/03 Only Happy When It Rains.mp3
-10:Queen/1981 Greatest Hits/02 Another One Bites The Dust.flac
-11:Cream/1983 Strange Brew_ The Very Best of Cream/06 SWLABR.mp3
-12:Led Zeppelin/1976 Presence/02 For Your Life.flac
-13:Stevie Wonder/1992 I Was Made to Love Her/01 I Was Made to Love Her.mp3
-14:ABBA/1992 Gold_ Greatest Hits/08 The Winner Takes It All.flac
-15:Billy Joel/1985 Greatest Hits, Volume I & Volume II/09 Movin' Out (Anthony's Song).mp3
-16:Finn Brothers, The/2004 Everyone Is Here/01 Won't Give In.flac
-17:Rush/1983 Moving Pictures/01 Tom Sawyer.flac
-18:CAKE/1996 Fashion Nugget/10 It's Coming Down.flac
-19:Suicidal Tendencies/1992 The Art of Rebellion/09 I'll Hate You Better.flac
-20:R.E.M_/1987 Document/06 It’s the End of the World as We Know It (and I Feel Fine).mp3
-21:Iron Maiden/1998 Virtual XI/04 The Clansman.mp3
-22:Foreigner/1992 The Very Best of Foreigner/02 Cold as Ice.mp3
-23:Beck/1999 Midnite Vultures/06 Peaches & Cream.flac
-24:Sparks/1974 Propaganda/02 At Home, at Work, at Play.mp3
-25:Metallica/1996 Load/11 Mama Said.mp3
-26:Jimi Hendrix/1993 The Ultimate Experience/07 Foxy Lady.mp3
-27:Belle and Sebastian/1996 If You’re Feeling Sinister/02 Seeing Other People.flac
-28:Opeth/2002 Blackwater Park/03 Harvest.mp3
-29:Bon Iver/2007 For Emma, Forever Ago/02 Lump Sum.mp3
-30:1Singles/Foo Fighters/2013 Foo Fighters Hits/09 Everlong.mp3
-31:Sleater‐Kinney/1997 Dig Me Out/06 Words and Guitar.flac
-32:Midnight Oil/1990 Blue Sky Mining/08 Shakers and Movers.flac
-33:Level 42/1998 The Very Best of Level 42/07 Something About You.flac
-34:Simon & Garfunkel/2002 Live from New York City, 1967/14 Anji.mp3
-35:Bob Marley/1984 Legend_ The Best of Bob Marley and the Wailers/06 Get Up, Stand Up.mp3
-36:Traveling Wilburys/1988 Traveling Wilburys, Volume 1/10 End of the Line.flac
-37:Jethro Tull/1978 Heavy Horses/01 And the Mouse Police Never Sleeps.flac
-38:Queen/1981 Greatest Hits/09 Crazy Little Thing Called Love.flac
-39:Guns N’ Roses/1987 Appetite for Destruction/03 Nightrain.mp3
-40:Simon & Garfunkel/1997 Old Friends/11 Leaves That Are Green.flac
-41:Cure, The/2001 Greatest Hits/05 The Lovecats.flac
-42:Jethro Tull/1970 Benefit/08 Inside.flac
-43:Katatonia/2006 The Great Cold Distance/03 Soil's Song.mp3
-44:Steely Dan/1980 Gaucho/04 Gaucho.flac
-45:Talking Heads/1977 Talking Heads_ 77/08 Don’t Worry About the Government.mp3
-46:Bee Gees/1967 Bee Gees' 1st/09 Cucumber Castle.flac
-47:Queen/1978 Jazz/04 Bicycle Race.flac
-48:Cheap Trick/1998 In Color/04 I Want You to Want Me.mp3
-49:Faith No More/1992 Angel Dust/03 Midlife Crisis.flac
+0:Dream Theater/1994 Awake/02 Caught in a Web.flac
+1:Jethro Tull/1988 20 Years of Jethro Tull/17 March of the Mad Scientist.mp3
+2:Buffalo Springfield/1987 Retrospective_ The Best of Buffalo Springfield/02 Mr. Soul.mp3
+3:Pearl Jam/2009 Backspacer/05 Just Breathe.mp3
+4:Audioslave/2002 Audioslave/12 Light My Way.mp3
+5:Beatles, The/1968 The Beatles/07 While My Guitar Gently Weeps.flac
+6:2Soundtracks/Magical Mystery Tour/01 Magical Mystery Tour.flac
+7:Pink Floyd/1979 The Wall/14 Hey You.flac
+8:Destroyer/2004 Your Blues/06 Your Blues.flac
+9:Neil Young/1978 Comes a Time/02 Comes a Time.flac
+10:Smiths, The/1993 The World Won't Listen/14 That Joke Isn't Funny Anymore.flac
+11:Doda/2013 Doda Hits/01 kidya halohetet.mp3
+12:Smashing Pumpkins, The/2000 MACHINA_the machines of God/01 The Everlasting Gaze.mp3
+13:Jethro Tull/1976 Too Old to Rock 'n' Roll_ Too Young to Die!/04 Taxi Grab.flac
+14:Bat for Lashes/2007 Fur and Gold/02 Trophy.mp3
+15:New Pornographers, The/2007 Challengers/09 Go Places.flac
+16:Randy Newman/1987 Lonely at the Top_ The Best of Randy Newman/01 Love Story.mp3
+17:Nirvana/1994 MTV Unplugged in New York/09 Something in the Way.mp3
+18:Placebo/1998 Without You I’m Nothing/03 You Don’t Care About Us.flac
+19:Tom Petty/2013 Tom Petty Hits/09 Learning to Fly.mp3
+20:Small Faces/1999 The Darlings of Wapping Wharf Launderette/20 Tin Soldier.mp3
+21:Simon & Garfunkel/2004 Old Friends_ Live on Stage/18 The Only Living Boy in New York.mp3
+22:Bee Gees/1996 Trafalgar/02 Israel.mp3
+23:Crowded House/1994 Together Alone/06 Pineapple Head.flac
+24:Simon & Garfunkel/2002 Live from New York City, 1967/13 A Poem on the Underground Wall.mp3
+25:Steely Dan/1976 The Royal Scam/01 Kid Charlemagne.flac
+26:Mamas & the Papas, The/1966 If You Can Believe Your Eyes and Ears/09 Somebody Groovy.flac
+27:Beach Boys, The/1986 Made in U.S.A_/05 Surfer Girl.mp3
+28:U2/1987 The Joshua Tree/01 Where the Streets Have No Name.flac
+29:Pink Floyd/1979 The Wall/23 Waiting for the Worms.flac
+30:Billy Joel/1998 The Stranger/07 She’s Always a Woman.flac
+31:Jethro Tull/1988 20 Years of Jethro Tull/21 A Stitch in Time.mp3
+32:Pixies/1990 Bossanova/01 Cecilia Ann.mp3
+33:Donald Fagen/1982 The Nightfly/07 The Goodbye Look.flac
+34:Beach Boys, The/1970 Sunflower/01 Slip on Through.flac
+35:Paul Simon/1973 There Goes Rhymin' Simon/05 One Man's Ceiling Is Another Man's Floor.flac
+36:Ben Folds Five/1997 Naked Baby Photos/03 Emaline.mp3
+37:Neil Young/1972 Harvest/08 Alabama.flac
+38:Satchel/1996 The Family/02 Without Love.flac
+39:Donald Fagen/2012 Sunken Condos/04 Weather in My Head.flac
+40:Belle and Sebastian/2015 Girls in Peacetime Want to Dance/02 Allie.flac
+41:Jeff Buckley/1994 Grace/05 So Real.flac
+42:Pink Floyd/1967 Early Singles/01 Arnold Layne.mp3
+43:Crowded House/1991 Woodface/07 Four Seasons in One Day.flac
+44:Green Day/2004 American Idiot/01 American Idiot.mp3
+45:Aerosmith/1986 Toys in the Attic/04 Walk This Way.mp3
+46:Simon & Garfunkel/1964 Wednesday Morning, 3 A.M_/03 Bleecker Street.flac
+47:Randy Newman/1999 Bad Love/02 Shame.mp3
+48:MGMT/2010 Congratulations/02 Song for Dan Treacy.flac
+49:Van Morrison/1971 Tupelo Honey/06 Tupelo Honey.mp3
 playlist_end

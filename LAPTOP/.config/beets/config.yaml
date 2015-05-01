@@ -17,9 +17,9 @@ paths:
     
     ######## Single swithces
     #normal single mode for aritsts compliations
-    #singleton: %the{$albumartist}/2013 $albumartist Hits/$track $title
+    singleton: %the{$albumartist}/$albumartist Hits/$track $title
     #Turn on when importing one/two hit wonders    
-    singleton: 1Singles/%the{$albumartist}/2013 $albumartist Hits/$track $title
+    #singleton: 1Singles/%the{$albumartist}/$albumartist Hits/$track $title
 
     #manual move
     mis:1: %the{$albumartist}/$year $album/$track $title

@@ -1,5 +1,7 @@
-gimp
+okular
+feh
 gedit
+gimp
 gvim
 emacsclient
 mpv
@@ -12,8 +14,6 @@ puddletag
 libreoffice
 thunar
 acroread
-okular
-feh
 xnview
 mcomix
 chromium

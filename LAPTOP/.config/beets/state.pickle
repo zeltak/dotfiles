@@ -21,60 +21,79 @@ p11
 (lp12
 S'/home/zeltak/Zmusic/B/Beach Boys/ Pet Sounds'
 p13
-asS'/home/zeltak/mounts/lraid/Download/transmission/completed/The Stranglers - Greatest Hits 1977-1990 (FLAC)'
+asS'/home/zeltak/Zmusic/C'
 p14
 (lp15
-g14
-asS'/home/zeltak/Zmusic/C'
-p16
-(lp17
 S'/home/zeltak/Zmusic/C/Creedence Clearwater Revival/Chronicle Volume One'
-p18
+p16
+asS'/home/zeltak/mounts/lraid/Download/transmission/completed/The Stranglers - Greatest Hits 1977-1990 (FLAC)'
+p17
+(lp18
+g17
 asS"/home/zeltak/mreview/Mastodon - Once More 'Round The Sun (2014)"
 p19
 (lp20
 g19
-asS'/home/zeltak/mounts/lraid/Download/transmission/completed/Chelsea Wolfe - Apokalypsis (2011)'
+asS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits'
 p21
 (lp22
-g21
-asS'/home/zeltak/music/Chava Alberstein'
+S'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/01 Draw the Line.mp3'
 p23
-(lp24
-S'/home/zeltak/music/Chava Alberstein/2000 \xd7\x97\xd7\x95\xd7\x95\xd7\x94 \xd7\x90\xd7\x9c\xd7\x91\xd7\xa8\xd7\xa9\xd7\x98\xd7\x99\xd7\x99\xd7\x9f \xd7\x94\xd7\x90\xd7\x95\xd7\xa1\xd7\xa3/01  \xd7\x9c\xd7\x95\xd7\xa0\xd7\x93\xd7\x95\xd7\x9f.mp3'
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/02 Same Old Song and Dance.mp3'
+p24
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/03 Lord of the Thighs.mp3'
 p25
-asS'/home/zeltak/ZMX/N'
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/04 Falling in Love (Is Hard on the Knees).mp3'
 p26
-(lp27
-S'/home/zeltak/ZMX/N/Neil Young/zuma'
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/05 Jaded.mp3'
+p27
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/06 Remember (Walking in the Sand).mp3'
 p28
-asS'/home/zeltak/Zmusic/A/Alanis Morissette'
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/07 Kings and Queens.mp3'
 p29
-(lp30
-S'/home/zeltak/Zmusic/A/Alanis Morissette/Jagged Little Pill'
+aS'/home/zeltak/music/1Singles/Aerosmith/2013 Aerosmith Hits/08 Sunshine.mp3'
+p30
+asS'/home/zeltak/mounts/lraid/Download/transmission/completed/Chelsea Wolfe - Apokalypsis (2011)'
 p31
-asS'/home/zeltak/Zmusic/I/Iron Maiden'
-p32
-(lp33
-S'/home/zeltak/Zmusic/I/Iron Maiden/Brave New World'
-p34
-asS'/home/zeltak/mreview/Shawn Smith Collection II'
+(lp32
+g31
+asS'/home/zeltak/music/Chava Alberstein'
+p33
+(lp34
+S'/home/zeltak/music/Chava Alberstein/2000 \xd7\x97\xd7\x95\xd7\x95\xd7\x94 \xd7\x90\xd7\x9c\xd7\x91\xd7\xa8\xd7\xa9\xd7\x98\xd7\x99\xd7\x99\xd7\x9f \xd7\x94\xd7\x90\xd7\x95\xd7\xa1\xd7\xa3/01  \xd7\x9c\xd7\x95\xd7\xa0\xd7\x93\xd7\x95\xd7\x9f.mp3'
 p35
-(lp36
+asS'/home/zeltak/mreview/Shawn Smith Collection II'
+p36
+(lp37
 S'/home/zeltak/mreview/Shawn Smith Collection II/2000 - Twilight as Played by the Twilight Singers'
-p37
-assVtaghistory
 p38
+asS'/home/zeltak/Zmusic/A/Alanis Morissette'
+p39
+(lp40
+S'/home/zeltak/Zmusic/A/Alanis Morissette/Jagged Little Pill'
+p41
+asS'/home/zeltak/Zmusic/I/Iron Maiden'
+p42
+(lp43
+S'/home/zeltak/Zmusic/I/Iron Maiden/Brave New World'
+p44
+asS'/home/zeltak/ZMX/N'
+p45
+(lp46
+S'/home/zeltak/ZMX/N/Neil Young/zuma'
+p47
+assVtaghistory
+p48
 c__builtin__
 set
-p39
-((lp40
+p49
+((lp50
 (S'/home/zeltak/mreview/Blondie - Atomic -The  best of'
-p41
-tp42
+p51
+tp52
 a(S'/home/zeltak/mounts/lraid/Download/transmission/completed/Deep Purple - Fireball'
-p43
-tp44
-atp45
-Rp46
+p53
+tp54
+atp55
+Rp56
 s.
