@@ -1,9 +1,9 @@
-sw_volume: 8
+sw_volume: 89
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 12
-time: 115.484000
+state: pause
+current: 25
+time: 156.920000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,54 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Dream Theater/1994 Awake/02 Caught in a Web.flac
-1:Jethro Tull/1988 20 Years of Jethro Tull/17 March of the Mad Scientist.mp3
-2:Buffalo Springfield/1987 Retrospective_ The Best of Buffalo Springfield/02 Mr. Soul.mp3
-3:Pearl Jam/2009 Backspacer/05 Just Breathe.mp3
-4:Audioslave/2002 Audioslave/12 Light My Way.mp3
-5:Beatles, The/1968 The Beatles/07 While My Guitar Gently Weeps.flac
-6:2Soundtracks/Magical Mystery Tour/01 Magical Mystery Tour.flac
-7:Pink Floyd/1979 The Wall/14 Hey You.flac
-8:Destroyer/2004 Your Blues/06 Your Blues.flac
-9:Neil Young/1978 Comes a Time/02 Comes a Time.flac
-10:Smiths, The/1993 The World Won't Listen/14 That Joke Isn't Funny Anymore.flac
-11:Doda/2013 Doda Hits/01 kidya halohetet.mp3
-12:Smashing Pumpkins, The/2000 MACHINA_the machines of God/01 The Everlasting Gaze.mp3
-13:Jethro Tull/1976 Too Old to Rock 'n' Roll_ Too Young to Die!/04 Taxi Grab.flac
-14:Bat for Lashes/2007 Fur and Gold/02 Trophy.mp3
-15:New Pornographers, The/2007 Challengers/09 Go Places.flac
-16:Randy Newman/1987 Lonely at the Top_ The Best of Randy Newman/01 Love Story.mp3
-17:Nirvana/1994 MTV Unplugged in New York/09 Something in the Way.mp3
-18:Placebo/1998 Without You I’m Nothing/03 You Don’t Care About Us.flac
-19:Tom Petty/2013 Tom Petty Hits/09 Learning to Fly.mp3
-20:Small Faces/1999 The Darlings of Wapping Wharf Launderette/20 Tin Soldier.mp3
-21:Simon & Garfunkel/2004 Old Friends_ Live on Stage/18 The Only Living Boy in New York.mp3
-22:Bee Gees/1996 Trafalgar/02 Israel.mp3
-23:Crowded House/1994 Together Alone/06 Pineapple Head.flac
-24:Simon & Garfunkel/2002 Live from New York City, 1967/13 A Poem on the Underground Wall.mp3
-25:Steely Dan/1976 The Royal Scam/01 Kid Charlemagne.flac
-26:Mamas & the Papas, The/1966 If You Can Believe Your Eyes and Ears/09 Somebody Groovy.flac
-27:Beach Boys, The/1986 Made in U.S.A_/05 Surfer Girl.mp3
-28:U2/1987 The Joshua Tree/01 Where the Streets Have No Name.flac
-29:Pink Floyd/1979 The Wall/23 Waiting for the Worms.flac
-30:Billy Joel/1998 The Stranger/07 She’s Always a Woman.flac
-31:Jethro Tull/1988 20 Years of Jethro Tull/21 A Stitch in Time.mp3
-32:Pixies/1990 Bossanova/01 Cecilia Ann.mp3
-33:Donald Fagen/1982 The Nightfly/07 The Goodbye Look.flac
-34:Beach Boys, The/1970 Sunflower/01 Slip on Through.flac
-35:Paul Simon/1973 There Goes Rhymin' Simon/05 One Man's Ceiling Is Another Man's Floor.flac
-36:Ben Folds Five/1997 Naked Baby Photos/03 Emaline.mp3
-37:Neil Young/1972 Harvest/08 Alabama.flac
-38:Satchel/1996 The Family/02 Without Love.flac
-39:Donald Fagen/2012 Sunken Condos/04 Weather in My Head.flac
-40:Belle and Sebastian/2015 Girls in Peacetime Want to Dance/02 Allie.flac
-41:Jeff Buckley/1994 Grace/05 So Real.flac
-42:Pink Floyd/1967 Early Singles/01 Arnold Layne.mp3
-43:Crowded House/1991 Woodface/07 Four Seasons in One Day.flac
-44:Green Day/2004 American Idiot/01 American Idiot.mp3
-45:Aerosmith/1986 Toys in the Attic/04 Walk This Way.mp3
-46:Simon & Garfunkel/1964 Wednesday Morning, 3 A.M_/03 Bleecker Street.flac
-47:Randy Newman/1999 Bad Love/02 Shame.mp3
-48:MGMT/2010 Congratulations/02 Song for Dan Treacy.flac
-49:Van Morrison/1971 Tupelo Honey/06 Tupelo Honey.mp3
+0:Rush/1997 Fly by Night/08 In the End.flac
+1:Jethro Tull/1971 Aqualung/10 Locomotive Breath.flac
+2:Dave Matthews Band/1998 Before These Crowded Streets/04 Don't Drink the Water.mp3
+3:Genesis/1972 Foxtrot/03 Get 'em Out by Friday.flac
+4:Crowded House/1986 Crowded House/07 Hole in the River.flac
+5:Pink Floyd/1967 The Piper at the Gates of Dawn/02 Lucifer Sam.flac
+6:Manu Chao/1998 Clandestino/05 Mentira.._.mp3
+7:Neil Young/2002 Are You Passionate_/05 Let's Roll.flac
+8:Deer Tick/2007 War Elephant/06 Nevada.flac
+9:Amanda Palmer/2008 Who Killed Amanda Palmer/07 Guitar Hero.flac
+10:Bee Gees/1969 Odessa/05 Edison.mp3
+11:Bob Dylan/1990 The Freewheelin' Bob Dylan/01 Blowin' in the Wind.mp3
+12:Muse/2009 The Resistance/07 MK Ultra.flac
+13:Opeth/2002 Deliverance/02 Deliverance.mp3
+14:Smiths, The/1993 The World Won't Listen/08 The Boy With the Thorn in His Side.flac
+15:Of Montreal/2007 Hissing Fauna, Are You the Destroyer_/04 Heimdalsgate Like a Promethean Curse.mp3
+16:Simon & Garfunkel/1968 Bookends/09 Punky's Dilemma.flac
+17:Built to Spill/1999 Keep It Like a Secret/10 Broken Chairs.flac
+18:Elliott Smith/1998 XO/11 Bottle Up and Explode!.flac
+19:Neil Young & Crazy Horse/1969 Everybody Knows This Is Nowhere/01 Cinnamon Girl.flac
+20:Yes/2000 Yes Hits/03 Something's Coming.mp3
+21:Metallica/1986 Master of Puppets/07 Orion.flac
+22:Sleater‐Kinney/2015 No Cities to Love/04 No Cities to Love.flac
+23:Eddie Vedder/2007 Into the Wild/08 Society.flac
+24:R.E.M_/1991 Losing My Religion/02 Fretless.mp3
+25:Cure, The/2001 Greatest Hits/01 Boys Don't Cry.flac
+26:New Pornographers, The/2003 Mass Romantic/06 Letter From an Occupant.flac
+27:Blink‐182/2001 Take Off Your Pants and Jacket/03 First Date.mp3
+28:Beach Boys, The/1972 Carl and the Passions_ _So Tough_/04 Marcella.flac
+29:Iron Maiden/2002 Piece of Mind/05 The Trooper.flac
+30:Neil Young/1977 American Stars 'n Bars/08 Like a Hurricane.flac
+31:Graham Nash/1971 Songs for Beginners/01 Military Madness.flac
+32:Eddie Vedder/2007 Into the Wild/01 Setting Forth.flac
+33:Pearl Jam/2013 Lightning Bolt/04 Sirens.flac
+34:Metallica/1991 Metallica/05 Wherever I May Roam.flac
+35:Pearl Jam/2013 Ten/09 Garden.mp3
+36:Jeff Wayne/1995 Jeff Wayne's Musical Version of The War of the Worlds/09 Brave New World.mp3
+37:Beach Boys, The/1967 Smiley Smile/08 Wind Chimes.flac
+38:Neil Young & Crazy Horse/1979 Rust Never Sleeps/08 Sedan Delivery.mp3
+39:Jethro Tull/1974 War Child/14 Sealion 2.flac
+40:Grandaddy/1997 Under the Western Freeway/02 A.M. 180.mp3
+41:Smiths, The/1993 The World Won't Listen/06 There Is a Light That Never Goes Out.flac
+42:Small Faces/1999 The Darlings of Wapping Wharf Launderette/27 Lazy Sunday.mp3
+43:Jeff Wayne/1995 Jeff Wayne's Musical Version of The War of the Worlds/03 The Artilleryman and the Fighting Machine.mp3
+44:Jethro Tull/1975 Minstrel in the Gallery/04 Requiem.flac
+45:Porcupine Tree/2003 In Absentia/14 Chloroform.flac
+46:Smiths, The/1987 The Smiths/09 What Difference Does It Make_.flac
+47:Faith No More/1995 King for a Day… Fool for a Lifetime/03 Evidence.flac
+48:Tom Petty/1989 Full Moon Fever/03 Love Is a Long Road.mp3
+49:Crosby, Stills, Nash & Young/1992 Teach Your Children/13 Lady of the Island.mp3
 playlist_end
