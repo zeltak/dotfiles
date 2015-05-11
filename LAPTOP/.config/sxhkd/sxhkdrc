@@ -233,7 +233,7 @@ control+super+comma
 
 #add/insert/replace track
 super+period
-      clerk --insert track
+      clerk --add  track
 
 #load rated tracks
 super+alt+ period  

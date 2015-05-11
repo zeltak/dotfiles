@@ -63,7 +63,7 @@ s3_http_paste=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/past
 
 # Screencast options
 # Resolution to change to when recording:
-res=800x600
+res=2460x1440
 
 # Ffmpeg settings
 # Possible encoder options: libav and ffmpeg
