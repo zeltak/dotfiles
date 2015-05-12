@@ -354,7 +354,7 @@ colors {
 #for the i3blocks bar part
         status_command    i3blocks -c /home/zeltak/dotfiles/LAPTOP/.config/i3blocks/config
         position top
-        tray_output primary
+        tray_output eDP1
 #        mode hide
 }
 

@@ -44,20 +44,17 @@ scrobbler=mpdas
 ssh_lastfm=1
 ssh_host=
 
-# custom keybindings
-# Adding of songs/albums
+                              
 add="Alt+1"
+addall="Alt+4"
+insertall="Alt+5"
+replaceall="Alt+6"
 insert="Alt+2"
 replace="Alt+3"
 rate="Alt+4"
-
-# playback controls
 toggle="Alt+1"
 prev="Alt+2"
 next="Alt+3"
 stop="Alt+4"
-
-# playlist menu
 play="Alt+1"
-delete="Alt+2"
-                              
+delete="Alt+2"   

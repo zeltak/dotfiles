@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: pause
-current: 32
-time: 193.979000
+current: 33
+time: 25.240000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,54 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Queen/1991 Greatest Hits II/14 Hammer to Fall.mp3
-1:Beach Boys, The/1969 20_20/10 Never Learn Not to Love.flac
-2:Frank Black/1993 Frank Black/02 I Heard Ramona Sing.mp3
-3:T. Rex/1972 The Slider/10 Baby Strange.mp3
-4:Belle and Sebastian/1996 If You’re Feeling Sinister/02 Seeing Other People.flac
-5:Neil Young & Crazy Horse/1975 Zuma/01 Don't Cry No Tears.flac
-6:Neil Young & Crazy Horse/1975 Zuma/02 Danger Bird.flac
-7:Belle and Sebastian/1996 If You’re Feeling Sinister/03 Me and the Major.flac
-8:Destroyer/2004 Your Blues/01 Notorious Lightning.flac
-9:Guns N’ Roses/1991 Use Your Illusion II/04 Knockin' on Heaven's Door.mp3
-10:Bronski Beat/2013 Bronski Beat Hits/12 Smalltown Boy.flac
-11:Built to Spill/1999 Keep It Like a Secret/01 The Plan.flac
-12:Pearl Jam/1996 No Code/10 Present Tense.flac
-13:Manu Chao/2007 La Radiolina/04 Rainin in Paradize.mp3
-14:Beach Boys, The/2000 15 Big Ones _ Love You/01 Rock and Roll Music.flac
-15:Leonard Cohen/1988 I'm Your Man/05 Take This Waltz.flac
-16:Black Sabbath/1996 Greatest Hits/05 Iron Man.mp3
-17:Pearl Jam/1994 Vitalogy/05 Nothingman.flac
-18:Mashina/1990 העמותה לחקר התמותה/03 הכוכבים דולקים על אש קטנה.mp3
-19:Simon & Garfunkel/1966 Sounds of Silence/10 We’ve Got a Groovy Thing Goin’.flac
-20:Crowded House/2007 Time on Earth/10 English Trees.flac
-21:Neil Young & Crazy Horse/1979 Live Rust/06 When You Dance I Can Really Love.flac
-22:Donna Summer/2013 Donna Summer Hits/01 I Feel Love.flac
-23:Mashina/1990 העמותה לחקר התמותה/01 העמותה לחקר התמותה.mp3
-24:Iron Maiden/1992 Fear Of The Dark/12 Fear Of The Dark.flac
-25:Colin Blunstone/1991 Some Years_ It's the Time of Colin Blunstone/17 This Is Your Captain Calling.mp3
-26:Nena/2013 Nena Hits/03 99 Luftballons.flac
-27:Alanis Morissette/1995 Jagged Little Pill/07 You Learn.flac
-28:Jam, The/1978 All Mod Cons/06 In the Crowd.flac
-29:Dee-lite/2013 Dee-lite Hits/01 Groove Is in the Heart.mp3
-30:Ben Folds/2001 Rockin' the Suburbs/03 Still Fighting It.flac
-31:Weezer/1994 Weezer/05 Undone - The Sweater Song.flac
-32:Diana Ross/2013 Diana Ross Hits/08 Upside Down.flac
-33:Mamas & the Papas, The/1966 If You Can Believe Your Eyes and Ears/06 Go Where You Wanna Go.flac
-34:Destroyer/2011 Kaputt/01 Chinatown.flac
-35:Simon & Garfunkel/1997 Old Friends/54 El Condor Pasa (If I Could).flac
-36:Jethro Tull/1974 War Child/05 Sealion.flac
-37:Simon & Garfunkel/1966 Sounds of Silence/05 Somewhere They Can’t Find Me.flac
-38:New Pornographers, The/2005 Twin Cinema/10 Broken Breads.flac
-39:Neil Young/1974 On the Beach/04 For the Turnstiles.flac
-40:Van der Graaf Generator/1971 Pawn Hearts/01 Lemmings (Including Cog).flac
-41:Simon & Garfunkel/1972 Greatest Hits/08 Homeward Bound (live).mp3
-42:Midnight Oil/1990 Blue Sky Mining/08 Shakers and Movers.flac
-43:Bob Dylan/2013 Bob Dylan Hits/17 I Shall Be Released.mp3
-44:David Bowie/1979 Lodger/05 Red Sails.flac
-45:Kate Bush/2013 Kate Bush Hits/02 Rubberband Girl.mp3
-46:Neil Young/1988 Decade/07 I Am a Child.mp3
-47:Bonnie _Prince_ Billy & Matt Sweeney/2005 Superwolf/02 Beast for Thee.flac
-48:New Pornographers, The/2007 Challengers/09 Go Places.flac
-49:Nirvana/1994 MTV Unplugged in New York/01 About a Girl.mp3
+0:Beatles, The/2009 Past Masters/25 Hey Jude.flac
+1:Ben Folds Five/1997 Whatever and Ever Amen/03 Brick.flac
+2:Placebo/1998 Without You I’m Nothing/01 Pure Morning.flac
+3:Led Zeppelin/1976 Presence/07 Tea for One.flac
+4:Counting Crows/1996 August and Everything After/05 Anna Begins.flac
+5:Neil Young/1975 Tonight’s the Night/01 Tonight’s the Night.flac
+6:Metallica/1991 Metallica/09 Of Wolf and Man.flac
+7:Porcupine Tree/1997 Insignificance/02 Hallogallo _ Signify.flac
+8:Pink Floyd/2001 Echoes_ The Best of Pink Floyd/02 See Emily Play.mp3
+9:James Brown/2013 James Brown Hits/01 I Got You (I Feel Good).mp3
+10:Rage Against the Machine/1996 Evil Empire/01 People of the Sun.flac
+11:Steely Dan/1973 Countdown to Ecstasy/06 My Old School.flac
+12:Apples in Stereo, The/1995 Fun Trick Noisemaker/02 Tidal Wave.mp3
+13:Steven Wilson/2015 Hand. Cannot. Erase_/02 3 Years Older.mp3
+14:Pearl Jam/2003 Lost Dogs/05 Hitchhiker.mp3
+15:ZZ Top/2013 ZZ Top Hits/02 Gimme All Your Lovin.mp3
+16:Smiths, The/1986 The Queen Is Dead/09 There Is a Light That Never Goes Out.flac
+17:David Bowie/1997 Earthling/01 Little Wonder.flac
+18:Jimi Hendrix/1993 The Ultimate Experience/02 Purple Haze.mp3
+19:Alanis Morissette/1995 Jagged Little Pill/04 Hand in My Pocket.flac
+20:New Pornographers, The/2005 Twin Cinema/04 The Bleeding Heart Show.flac
+21:Pink Floyd/1979 The Wall/20 The Show Must Go On.flac
+22:Jimi Hendrix/1993 The Ultimate Experience/01 All Along the Watchtower.mp3
+23:Billy Joel/1985 Greatest Hits, Volume I & Volume II/21 Tell Her About it.mp3
+24:Flight of the Conchords/2009 I Told You I Was Freaky/13 Angels.mp3
+25:John Williams/1990 The Best Of John Williams/01 Star Wars - Main Theme.mp3
+26:Deep Purple/1972 Machine Head/02 Maybe I’m a Leo.flac
+27:Genesis/1974 The Lamb Lies Down on Broadway/04 Cuckoo Cocoon.flac
+28:New Pornographers, The/2007 Challengers/10 Mutiny, I Promise You.flac
+29:Everly Brothers, The/1999 All-Time Original Hits/01 Bye Bye Love.flac
+30:Van der Graaf Generator/1976 Still Life/04 My Room (Waiting for Wonderland).flac
+31:PJ Harvey/1995 To Bring You My Love/04 C'mon Billy.flac
+32:Steely Dan/1975 Katy Lied/02 Bad Sneakers.flac
+33:King Crimson/1969 In the Court of the Crimson King/02 I Talk to the Wind.flac
+34:Dire Straits/2000 Brothers in Arms/01 So Far Away.flac
+35:Jam, The/1978 All Mod Cons/03 Mr. Clean.flac
+36:Radiohead/2001 Amnesiac/05 I Might Be Wrong.flac
+37:Beatles, The/1964 Beatles for Sale/08 Eight Days a Week.flac
+38:Metallica/1984 Ride the Lightning/02 Ride the Lightning.flac
+39:Oshik Levi/2000 האוסף/02  חוזה לך ברח.mp3
+40:Talking Heads/1992 Once in a Lifetime_ The Best Of/02 Take Me to the River.mp3
+41:Elliott Smith/1997 either_or/04 Between the Bars.flac
+42:Rami Fortis/2000 רמי פורטיס האוסף/08  שועל במנוסה.mp3
+43:Booker T. & The MG's/2013 Booker T. & The MG's Hits/01 Green Onions.mp3
+44:Beach Boys, The/1968 Friends/04 Be Here in the Mornin'.flac
+45:Pink Floyd/1979 The Wall/02 The Thin Ice.flac
+46:Pixies/1989 Doolittle/09 Crackity Jones.flac
+47:Nick Cave & The Bad Seeds/2004 Abattoir Blues _ The Lyre of Orpheus/05 There She Goes, My Beautiful World.mp3
+48:Randy Newman/1970 12 Songs/03 Mama Told Me Not to Come.flac
+49:Jimi Hendrix/1993 The Ultimate Experience/17 Fire.mp3
 playlist_end

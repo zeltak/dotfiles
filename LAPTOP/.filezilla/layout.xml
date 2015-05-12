@@ -14,7 +14,7 @@
             <xrc file="inputdialog.xrc" date="1429135332" />
         </Resources>
         <Language id="en_US" date="">
-            <Font font="Cantarell 11" width="1699" height="41" />
+            <Font font="Verdana Bold 8" width="842" height="13" />
         </Language>
     </Layout>
 </FileZilla3>
