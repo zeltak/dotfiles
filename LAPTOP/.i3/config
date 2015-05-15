@@ -288,7 +288,7 @@ bindsym $mod+equal [class="keepass2"] scratchpad show
 #font xft:Source Code pro 10, Icons 10
 #font xft:Envy Code R 10
 #font pango:PragmataPro 10 , Icons 8
-font xft:PragmataPro 10 , Icons 8
+font xft:PragmataPro 18 , Icons 12
 #font pango:Termsyn 10, Icons 8
 
 

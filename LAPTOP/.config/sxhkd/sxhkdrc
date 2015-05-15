@@ -185,13 +185,33 @@ alt+super + Return
 shift+Print 
       mpc toggle 
 
+
+#MPD next-alternate
+XF86AudioPlay 
+      mpc toggle
+
+
+#MPD next
+XF86AudioNext 
+      mpc next 
+
+
+#MPD next
+XF86AudioPrev 
+      mpc prev
+
+
 #mpd vol up
-shift+XF86AudioRaiseVolume 
+#shift+XF86AudioRaiseVolume 
+XF86AudioRaiseVolume 
      mpc volume +4 
 
 #mpd vol down
-shift+XF86AudioLowerVolume 
+#shift+XF86AudioLowerVolume 
+XF86AudioLowerVolume 
      mpc volume -4 
+
+
 
 #----> PRINT KEY (mpd/clerk)
 

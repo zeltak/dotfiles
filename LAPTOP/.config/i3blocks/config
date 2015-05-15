@@ -21,7 +21,7 @@ interval=3
 
 
 [mem]
-command= echo "༜:$($HOME/.config/i3blocks/mem_rasi.sh)%"
+command= echo "MEM:$($HOME/.config/i3blocks/mem_rasi.sh)%"
 color=#4E82AA
 interval=10
 
