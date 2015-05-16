@@ -36,4 +36,9 @@ bookmarks {
 		useparent = false;
 		category = "marked";
 	}
+	entry {
+		name = "/home/zeltak/mounts/lraid/raid/Videos/Q/2.MQ/War.of.The.Arrows.2012.720p.BRRip.AC3.x264-NFT";
+		useparent = false;
+		category = "1";
+	}
 }
