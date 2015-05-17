@@ -1,9 +1,9 @@
-sw_volume: 4
+sw_volume: 95
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
-current: 39
-time: 70.797000
+state: play
+current: 5
+time: 223.677000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,14 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Paul McCartney/2013 Paul McCartney Hits/11 Say Say Say.mp3
-1:David Bowie/1972 The Rise and Fall of Ziggy Stardust and the Spiders From Mars/03 Moonage Daydream.flac
-2:Simon & Garfunkel/1997 Old Friends/37 You Don't Know Where Your Interest Lies.flac
-3:Bonnie _Prince_ Billy & Matt Sweeney/2005 Superwolf/11 I Gave You.flac
-4:Beach Boys, The/1970 Sunflower/03 Add Some Music to Your Day.flac
-5:Jethro Tull/1978 Heavy Horses/01 And the Mouse Police Never Sleeps.flac
-6:A.C. Newman/2012 Shut Down the Streets/02 Do Your Own Time.mp3
-7:2Soundtracks/Yellow Submarine/04 Hey Bulldog.flac
-8:Pink Floyd/1977 Animals/01 Pigs on the Wing, Part 1.flac
-9:Green Day/1994 Dookie/01 Burnout.flac
-10:Bonnie _Prince_ Billy/1999 I See a Darkness/03 I See a Darkness.mp3
-11:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/11 Under the Bridge.mp3
-12:Jethro Tull/1968 This Was/05 Serenade to a Cuckoo.flac
-13:War on Drugs, The/2014 Lost in the Dream/01 Under the Pressure.flac
-14:Katatonia/2006 The Great Cold Distance/03 Soil's Song.mp3
-15:Ben Folds Five/1995 Ben Folds Five/03 Julianne.flac
-16:Jethro Tull/1974 War Child/02 Queen and Country.flac
-17:Neil Young/2011 A Treasure/08 Soul of a Woman.mp3
-18:Kula Shaker/2013 Kula Shaker Hits/02 Tattva.mp3
-19:2Soundtracks/Yellow Submarine/06 All You Need Is Love.flac
-20:Ben Folds Five/1997 Whatever and Ever Amen/12 Evaporated.flac
-21:Mashina/1987 משינה 2/03 אנחנו שניים.mp3
-22:Temple of the Dog/1991 Temple of the Dog/03 Hunger Strike.flac
-23:Radiohead/1997 OK Computer/01 Airbag.flac
-24:Donald Fagen/1993 Kamakiriad/02 Countermoon.mp3
-25:Automatic, The/2006 Not Accepted Anywhere/05 Monster.flac
-26:Audioslave/2002 Audioslave/03 Gasoline.mp3
-27:Crosby, Stills & Nash/2006 Crosby, Stills & Nash (remastered)/04 You Don’t Have to Cry.flac
-28:Leonard Cohen/2004 Dear Heather/01 The Letters.mp3
-29:Queen/1974 Sheer Heart Attack/08 Stone Cold Crazy.mp3
-30:Simon & Garfunkel/1968 Bookends/02 Save the Life of My Child.flac
-31:Billy Joel/1998 The Stranger/01 Movin’ Out (Anthony’s Song).flac
-32:Dire Straits/2013 Dire Straits Hits/01 Calling Elvis.mp3
-33:Beatles, The/1963 With The Beatles/01 It Won’t Be Long.flac
-34:Deep Purple/1969 Deep Purple/03 Lalena.flac
-35:Finn Brothers, The/2004 Everyone Is Here/04 Luckiest Man Alive.flac
-36:Grandaddy/2000 The Sophtware Slump/10 Miner at the Dial-a-View.flac
-37:Iron Maiden/1988 Seventh Son of a Seventh Son/04 The Evil That Men Do.flac
-38:Beatles, The/1967 Sgt. Pepper’s Lonely Hearts Club Band/07 Being for the Benefit of Mr. Kite!.flac
-39:Pearl Jam/1994 Vitalogy/08 Corduroy.flac
-40:Beach Boys, The/1967 Wild Honey/04 Country Air.flac
-41:Nick Cave & The Bad Seeds/1996 Murder Ballads/01 Song of Joy.flac
-42:Frank Zappa/1973 Over-Nite Sensation/01 Camarillo Brillo.flac
-43:Pixies/1988 Surfer Rosa _ Come On Pilgrim/05 Gigantic.flac
-44:Matti Caspi/2004 מתי כספי המיטב/07 שיר בדואי.mp3
-45:Rage Against the Machine/1999 The Battle of Los Angeles/02 Guerrilla Radio.flac
-46:Meir Ariel/1978 שירי חג ומועד ונופל/01 טרמינל לומינלט.mp3
-47:Doug Martsch/2002 Now You Know/01 Offer.mp3
-48:La’s, The/2001 The La's/03 Timeless Melody.flac
-49:AC_DC/1990 The Razors Edge/03 Moneytalks.mp3
+0:Faith No More/2015 Sol Invictus/01 Sol Invictus.flac
+1:Faith No More/2015 Sol Invictus/02 Superhero.flac
+2:Faith No More/2015 Sol Invictus/03 Sunny Side Up.flac
+3:Faith No More/2015 Sol Invictus/04 Separation Anxiety.flac
+4:Faith No More/2015 Sol Invictus/05 Cone of Shame.flac
+5:Faith No More/2015 Sol Invictus/06 Rise of the Fall.flac
+6:Faith No More/2015 Sol Invictus/07 Black Friday.flac
+7:Faith No More/2015 Sol Invictus/08 Motherfucker.flac
+8:Faith No More/2015 Sol Invictus/09 Matador.flac
+9:Faith No More/2015 Sol Invictus/10 From the Dead.flac
 playlist_end
