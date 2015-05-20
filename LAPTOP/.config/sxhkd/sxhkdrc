@@ -77,7 +77,8 @@ super+ i
 super+ u
        urxvt -name ecapture -e emacsclient -t org-protocol:/capture:/URL/TITLE/BODY
                
-
+super+p
+	~/bin/pass.sh
 
 ###########################
 #WS app launcher
@@ -241,11 +242,11 @@ alt+super+comma
 
 #latest library addons
 shift+super+comma
-      clerk --replace latest
+      clerk --add latest
 
 #add/insert/replace album
 control+super+comma 
-      clerk --replace album
+      clerk --add  album
 
 
 

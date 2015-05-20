@@ -184,6 +184,7 @@
 /home/zeltak/ZH_tmp/t5
 /home/zeltak/ZH_tmp/14-09111-ART-Shi-AuRev.zip#uzip
 /home/zeltak/ZH_tmp/3dt9
+/home/zeltak/ZH_tmp/emacsd.tar#utar
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1874,6 +1875,7 @@
 /home/zeltak/BK/emacs/8.3.2015
 /home/zeltak/BK/emacs/26.3.2015
 /home/zeltak/BK/emacs/5.4.15
+/home/zeltak/BK/emacs/18.5.2015/.emacs.d
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -2023,6 +2025,7 @@
 /home/zeltak/scripts/security
 /home/zeltak/scripts/conky
 /home/zeltak/scripts/dmenu
+/home/zeltak/scripts/utils
 /home/zeltak/Zmusic/A/AC-DC/Z-Hits
 /home/zeltak/Zmusic/A/amplifier
 /home/zeltak/Zmusic/A/A.C. Newman/Get Guilty
@@ -2469,7 +2472,10 @@
 /home/zeltak/.emacs.g/extra/org-dp
 /home/zeltak/.emacs.g/extra/org-ref
 /home/zeltak/.emacs.g/extra/org-screenshot
+/home/zeltak/.emacs.g/extra/edit-server
 /home/zeltak/.emacs.g/ESS
+/home/zeltak/.emacs.g/password-store
+/home/zeltak/.emacs.g/org-mode/lisp
 /home/zeltak/.unison
 /home/zeltak/uni
 /home/zeltak/.emacs.t/undo-files
@@ -2492,6 +2498,12 @@
 /home/zeltak/usr/bin
 /home/zeltak/Soulseek Downloads/complete/1986
 /home/zeltak/.elfeed/data/00
+/home/zeltak/.gnupg/private-keys-v1.d
+/home/zeltak/.gnupg/openpgp-revocs.d
+/home/zeltak/.gnupg/crls.d
+/home/zeltak/.password-store/Zpass_2014/Home and Family/Cars
+/home/zeltak/.password-store/Zpass_2014/Web/services/LAN
+/home/zeltak/.emacs.drasi
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699

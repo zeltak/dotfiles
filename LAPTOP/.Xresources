@@ -49,22 +49,13 @@ URxvt*urgentOnBell: False
 
 
 ! -- Rofi settings -- !
-
-! rofi.bordercolor: #33b5e5
-! rofi.background: #000000
-! rofi.borderwidth: 1
-! rofi.highlightfg: #FFFFFF
-! rofi.highlightbg: #33b5e5
-! rofi.foreground: #FFFFFF
-! rofi.font: Source Code Pro 12 
-! rofi.padding: 3
-! rofi.opacity: 90
-! rofi.fixed-num-lines: true
-! rofi.disable-history: false
-! rofi.levenshtein-sort: false
-! rofi.terminal: x-terminal-emulator
-! rofi.color-enabled:         true
-
+rofi.font: Source Code Pro 12 
+rofi.padding: 3
+rofi.opacity: 90
+rofi.fixed-num-lines: true
+rofi.disable-history: false
+rofi.levenshtein-sort: false
+rofi.terminal: x-terminal-emulator
 rofi.color-window:          #000000,#0C73C2
 rofi.color-normal:          #000000,#A0A0A0,#000000,#0C73C2,#FFFFFF
 rofi.color-urgent:          #000000,#FFB2B2,#000000,#0C73C2,#FFFFFF
