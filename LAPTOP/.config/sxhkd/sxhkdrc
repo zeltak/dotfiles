@@ -77,8 +77,16 @@ super+ i
 super+ u
        urxvt -name ecapture -e emacsclient -t org-protocol:/capture:/URL/TITLE/BODY
                
+
+###########################
+#WS password-store
+###########################
 super+p
-	~/bin/pass.sh
+	~/bin/pass.sh zpass 
+
+super+alt+p
+	~/bin/pass.sh zpass show_entry
+
 
 ###########################
 #WS app launcher
@@ -86,15 +94,18 @@ super+p
 
 #WS3-Browser
 alt+super + 2 
-      firefox
-
+      #firefox
+      #chromium
+      
 #WS4-mpd_console
-alt+super + 3 
-            #exec urxvt -name tmux_mpd -e tmux_mpd 
-            cantata
+alt+super + 3
+         terminator
+
+
 #WS5-volume control
 alt+super + 4 
 	  pavucontrol 
+
 
 #WS6-FM
 alt+super + q 
@@ -102,13 +113,21 @@ alt+super + q
 	 #spacefm 
 
 #WS7-SSH
+alt+super + w
+            #exec urxvt -name tmux_mpd -e tmux_mpd 
+            cantata
+
+
+
+
+#WS8-Org tech
+
+
 #launch_ssh
 alt+super+w 
 	    exec /home/zeltak/bin/ssh_karif
 
-#WS8-Org tech
-alt+super + e
-     emacsclient -c  /home/zeltak/org/files/Tech/linux.org
+
 
 #WS9-plain emacs
 alt+super+a 

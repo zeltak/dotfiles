@@ -102,4 +102,6 @@ paste_filemask=$random_string
 
 editor=pinta
 
+#always upload
+always_ul=1
 

@@ -25,7 +25,7 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 #set default oriantation for Workspaces
-default_orientation vertical
+default_orientation horizontal
 
 #alt-tabs
 # 'alt-tab' like switch
@@ -109,51 +109,53 @@ bindsym $mod+Shift+n exec i4-input -F 'rename workspace to %s' -P 'New name: '
 
 # workspace defines 
 set $w1 H
-set $w2 Tmx
-set $w3 WWW
-set $w4 Mm
-set $w5 IM
-set $w6 FM
-set $w7 S2
+set $w2 WWW
+set $w3 Tmx
+set $w4 IM
+set $w5 FM
+set $w6 MM
+set $w7 XM
 set $w8 Em1
 set $w9 Em2
 set $w10 Em3
-set $w11 Em4
-set $w12 Tv
-set $w13 Gfx
-set $w14 VM
+set $w11 Tv
+set $w12 Gfx
+set $w13 VM
+
 
 # switch to workspace
-bindcode $mod+49 workspace $w1  
-bindsym $mod+1 workspace $w2
-bindsym $mod+2 workspace $w3, layout tabbed
-bindsym $mod+3 workspace $w4
-bindsym $mod+4 workspace $w5
-bindsym $mod+q workspace $w6
-bindsym $mod+w workspace $w7
-bindsym $mod+e workspace $w8
-bindsym $mod+a workspace $w9
-bindsym $mod+s workspace $w10
-bindsym $mod+d workspace $w11
-bindsym $mod+z workspace $w12 ,layout tabbed 
-bindsym $mod+x workspace $w13
-bindsym $mod+c workspace $w14
+#below is for grave (`) symbol
+#bindcode $mod+49 workspace $w1  
+
+bindsym $mod+1 workspace $w1
+bindsym $mod+2 workspace $w2
+bindsym $mod+3 workspace $w3, layout tabbed
+bindsym $mod+4 workspace $w4
+bindsym $mod+q workspace $w5
+bindsym $mod+w workspace $w6
+bindsym $mod+e workspace $w7
+bindsym $mod+a workspace $w8
+bindsym $mod+s workspace $w9
+bindsym $mod+d workspace $w10
+bindsym $mod+z workspace $w11 ,layout tabbed 
+bindsym $mod+x workspace $w12
+bindsym $mod+c workspace $w13
 
 # move focused container to workspace
-bindsym $mod+Shift+49 move container to workspace $w1
-bindsym $mod+Shift+1 move container to workspace $w2
-bindsym $mod+Shift+2 move container to workspace $w3
-bindsym $mod+Shift+3 move container to workspace $w4
-bindsym $mod+Shift+4 move container to workspace $w5
-bindsym $mod+Shift+q move container to workspace $w6
-bindsym $mod+Shift+w move container to workspace $w7
-bindsym $mod+Shift+e move container to workspace $w8
-bindsym $mod+Shift+a move container to workspace $w9
-bindsym $mod+Shift+s move container to workspace $w10
-bindsym $mod+Shift+d move container to workspace $w11
-bindsym $mod+Shift+z move container to workspace $w12
-bindsym $mod+Shift+x move container to workspace $w13
-bindsym $mod+Shift+c move container to workspace $w14
+#bindsym $mod+Shift+49 move container to workspace $w1
+bindsym $mod+Shift+1 move container to workspace $w1
+bindsym $mod+Shift+2 move container to workspace $w2
+bindsym $mod+Shift+3 move container to workspace $w3
+bindsym $mod+Shift+4 move container to workspace $w4
+bindsym $mod+Shift+q move container to workspace $w5
+bindsym $mod+Shift+w move container to workspace $w6
+bindsym $mod+Shift+e move container to workspace $w7
+bindsym $mod+Shift+a move container to workspace $w8
+bindsym $mod+Shift+s move container to workspace $w9
+bindsym $mod+Shift+d move container to workspace $w10
+bindsym $mod+Shift+z move container to workspace $w11
+bindsym $mod+Shift+x move container to workspace $w12
+bindsym $mod+Shift+c move container to workspace $w13
 
 ##########################
 #Dual head
@@ -288,8 +290,8 @@ bindsym $mod+equal [class="keepass2"] scratchpad show
 #font xft:Source Code pro 10, Icons 10
 #font xft:Envy Code R 10
 #font pango:PragmataPro 10 , Icons 8
-font xft:PragmataPro 18 , Icons 12
-#font pango:Termsyn 10, Icons 8
+#font xft:PragmataPro 18 , Icons 12
+#font pango:Termsyn 16, Icons 12
 
 
 #size of window borders
