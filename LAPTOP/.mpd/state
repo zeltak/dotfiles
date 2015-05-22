@@ -1,9 +1,9 @@
-sw_volume: 20
+sw_volume: 56
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
-current: 34
-time: 473.710000
+current: 0
+time: 33.808000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,13 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Iron Maiden/1982 The Number of the Beast/05 The Number of the Beast.flac
-1:2Soundtracks/The Graduate/09 Scarborough Fair _ Canticle.mp3
-2:Gomez/2006 How We Operate/02 See the World.mp3
-3:New Pornographers, The/2005 Twin Cinema/02 The Bones of an Idol.flac
-4:King Crimson/1970 Lizard/02 Indoor Games.flac
-5:New Pornographers, The/2005 Twin Cinema/07 These Are the Fables.flac
-6:Genesis/1972 Foxtrot/06 Supper's Ready.flac
-7:Beach Boys, The/1986 Made in U.S.A_/18 God Only Knows.mp3
-8:Leonard Cohen/2014 Popular Problems/02 Almost Like the Blues.flac
-9:Pearl Jam/1996 No Code/02 Hail, Hail.flac
-10:Colin Blunstone/1991 Some Years_ It's the Time of Colin Blunstone/08 I Don't Believe in Miracles.mp3
-11:Queen/1991 Greatest Hits II/03 Radio Ga Ga.mp3
-12:Iron Maiden/1988 Seventh Son of a Seventh Son/04 The Evil That Men Do.flac
-13:Bruce Springsteen/1990 The River/07 Out in the Street.mp3
-14:B-52's/2013 B-52's Hits/01 Love Shack.mp3
-15:Of Montreal/1999 The Gay Parade/12 My Favorite Boxer.flac
-16:Arcade Fire/2004 Funeral/01 Neighborhood #1 (Tunnels).flac
-17:Queen/1981 Greatest Hits/17 We Are The Champions.flac
-18:New Pornographers, The/2003 Mass Romantic/03 The Slow Descent Into Alcoholism.flac
-19:Amanda Palmer/2011 Amanda Palmer Goes Down Under/08 On an Unknown Beach.flac
-20:Rolling Stones, The/1993 Jump Back_ The Best of the Rolling Stones 1971 - 1993/09 Rock and a Hard Place.mp3
-21:Mamas & the Papas, The/1969 16 of Their Greatest Hits/04 California Dreamin'.flac
-22:Pink Floyd/1975 Wish You Were Here/05 Shine On You Crazy Diamond, Parts VI–IX.flac
-23:John Lennon/1989 The John Lennon Collection/09 Imagine.mp3
-24:Simon & Garfunkel/1997 Old Friends/03 The Sun Is Burning.flac
-25:Simon & Garfunkel/1997 Old Friends/26 7 O'Clock News _ Silent Night.flac
-26:Jimi Hendrix/1993 The Ultimate Experience/17 Fire.mp3
-27:2Soundtracks/Jesus Christ Superstar/06 Hosanna.flac
-28:Metallica/1986 Master of Puppets/07 Orion.flac
-29:Hayehudim/2013 Hayehudim Hits/01 mehapesh tshova.mp3
-30:Elliott Smith/1994 Roman Candle/03 No Name #1.flac
-31:Elliott Smith/1997 either_or/03 Ballad of Big Nothing.flac
-32:2Soundtracks/A Hard Day's Night/03 If I Fell.flac
-33:Frank Zappa/1973 Over-Nite Sensation/01 Camarillo Brillo.flac
-34:Neil Young & Crazy Horse/1990 Ragged Glory/05 Love to Burn.flac
-35:Pearl Jam/2009 Backspacer/03 The Fixer.mp3
-36:Smiths, The/1985 Hatful of Hollow/07 Hand in Glove.flac
-37:Beach Boys, The/1972 Carl and the Passions_ _So Tough_/05 Hold On Dear Brother.flac
-38:Montage/2013 Montage Hits/01 Grand Pianist.mp3
-39:Gipsy Kings/2013 Gipsy Kings Hits/01 Bambaleo.mp3
-40:Led Zeppelin/1970 Led Zeppelin III/06 Gallows Pole.flac
-41:Brad/2005 Brad vs. Satchel/01 Looking Forward.flac
-42:Dave Brubeck Quartet, The/1959 Time Out/01 Blue Rondo a la Turk.flac
-43:Destroyer/2001 Streethawk_ A Seduction/08 The Crossover.flac
-44:Faith No More/1992 Angel Dust/06 Everything’s Ruined.flac
-45:Doors, The/1967 The Doors/03 The Crystal Ship.mp3
-46:Porcupine Tree/2005 Deadwing/04 Halo.flac
-47:Pink Floyd/1979 The Wall/25 The Trial.flac
-48:Yes/1974 Relayer/01 The Gates of Delirium.flac
-49:Pearl Jam/1991 Ten/10 Deep.flac
+0:Leonard Cohen/2014 Popular Problems/01 Slow.flac
+1:Leonard Cohen/2014 Popular Problems/02 Almost Like the Blues.flac
+2:Leonard Cohen/2014 Popular Problems/03 Samson in New Orleans.flac
+3:Leonard Cohen/2014 Popular Problems/04 A Street.flac
+4:Leonard Cohen/2014 Popular Problems/05 Did I Ever Love You.flac
+5:Leonard Cohen/2014 Popular Problems/06 My Oh My.flac
+6:Leonard Cohen/2014 Popular Problems/07 Nevermind.flac
+7:Leonard Cohen/2014 Popular Problems/08 Born in Chains.flac
+8:Leonard Cohen/2014 Popular Problems/09 You Got Me Singing.flac
 playlist_end

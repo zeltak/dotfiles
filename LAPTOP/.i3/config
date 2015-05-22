@@ -388,29 +388,30 @@ colors {
 #------------------------------------------------------------------------------
 
 #########SCRATCHPAD
-for_window [class="KeePass2"] move scratchpad
-for_window [class="KeePass2"] scratchpad show
+#for_window [class="KeePass2"] move scratchpad
+#for_window [class="KeePass2"] scratchpad show
 
 ######### WORK SPACES
 #WORKSPACE #1
 #WORKSPACE #2 (Terms) 
 
 #assign [Class="URxvt"] $w2 
-assign [Class="main_term"] $w2
-assign [window_role="tmux_terms"] $w2
-assign [window_role="rterm"] $w2
+assign [Class="main_term"] $w3
+assign [window_role="tmux_terms"] $w3
+assign [window_role="rterm"] $w3
 for_window [title="Terminator Preferences"] floating enable
+for_window [Class="Terminator"] $w3
 #WORKSPACE #3 (browsers)
-assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w3
+assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
 #WORKSPACE #5 (IM)
-assign [Class="Skype"] $w5
-assign [Class="Pavucontrol"] $w5
+assign [Class="Skype"] $w4
+assign [Class="Pavucontrol"] $w4
 #WORKSPACE #6 (FM):
-assign [Class="Spacefm|net-sourceforge-filebot-Main"] $w6
+assign [Class="Spacefm|net-sourceforge-filebot-Main"] $w5
 #assign [Class="feh"] 6:FM
-assign [Class="Worker"] $w6
+assign [Class="Worker"] $w5
 for_window [title="Worker Configuration"] floating enable
-assign [window_role="termfm"] $w6
+assign [window_role="termfm"] $w5
 for_window [window_role="termfm"] floating enable
 #WORKSPACE #7 (ssh)
 assign [window_role="ssh_home"] $w7
@@ -423,7 +424,7 @@ assign [instance="gvim"] $w8
 #WORKSPACE #10 (task)
 assign [window_role="tmux_office"] $w10
 #WORKSPACE #11 (Utils)
-assign [instance="tmux_utils"] $w11
+assign [instance="tmux_utils"] $w10
 #WORKSPACE #12  (VM/Remote access)
 assign [instance="TeamViewer"] $w12
 #DISABLE FLOAT
