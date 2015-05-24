@@ -17,7 +17,7 @@ rsync -aRPz --delete  --exclude='.git/' -e ssh /home/zeltak/.ssh/  zeltak@10.0.0
 
 
 #images/phtos
-rsync -aRPz --delete -e ssh /home/zeltak/Pictures/  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
+#rsync -aRPz --delete -e ssh /home/zeltak/Pictures/  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
 
 #ThemDB
 rsync -aRPz --delete -e ssh /home/zeltak/ThemeDB/  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null

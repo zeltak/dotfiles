@@ -1793,6 +1793,7 @@
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/2.10.2104
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/22.11.2014/part2/Sent
 /home/zeltak/mounts/lraid/raid/Pictures/$Inbox/1.1.2015
+/home/zeltak/mounts/lraid/raid/Pictures/$Inbox/22.5.15
 /home/zeltak/mounts/lraid/raid/Pictures/Family Photos/Itai/1)Itai Baby
 /home/zeltak/mounts/lraid/raid/My documents
 /home/zeltak/mounts/lraid/Rsync/home/zeltak/.emacs.d
@@ -1920,6 +1921,9 @@
 /home/zeltak/BK/mpd/rating /25.4.15
 /home/zeltak/BK/mpd/rating /30.4.15
 /home/zeltak/BK/mpd/rating /10.5.15/clerk
+/home/zeltak/BK/.gnupg
+/home/zeltak/BK/pass 23.5.15
+/home/zeltak/BK/password-store/23.5.15
 /home/zeltak/org/files/agenda/data/a5/c9d7f8-c010-4ce7-9ace-da3db9ce15ba
 /home/zeltak/org/files/agenda/data/84/1c7eea-b21a-4df8-8ef6-b2eb13a422d9
 /home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
@@ -2298,6 +2302,7 @@
 /home/zeltak/Uni/#MY_papers/bw-ta/ehp/REV3
 /home/zeltak/Uni/BGU/Forms
 /home/zeltak/Uni/BGU/GIT_program/presentations
+/home/zeltak/Uni/BGU/press
 /home/zeltak/Uni/Courses
 /home/zeltak/Uni/grants/beterm
 /home/zeltak/Uni/grants/ESA_italy
@@ -2346,6 +2351,7 @@
 /home/zeltak/.local/share/gnome-shell/extensions/transmission-daemon@patapon.info
 /home/zeltak/.local/share/clipit
 /home/zeltak/.local/share/emacs-saves
+/home/zeltak/.local/share/systemd/user
 /home/zeltak/vimperator/.vimperator/info/default
 /home/zeltak/.pentadactyl/plugins
 /home/zeltak/.pentadactyl/colors
@@ -2415,10 +2421,14 @@
 /home/zeltak/mtp/Internal storage/Music
 /home/zeltak/mtp/Internal storage/DCIM/.thumbnails
 /home/zeltak/mtp/Internal storage/DCIM/Camera
+/home/zeltak/mtp/Internal storage/DCIM/100ANDRO
 /home/zeltak/mtp/Internal storage/backups/apps
 /home/zeltak/mtp/Internal storage/rerware
 /home/zeltak/mtp/Internal storage/MLT
 /home/zeltak/mtp/Internal storage/WhatsApp/Media/WhatsApp Images
+/home/zeltak/mtp/SD card/DCIM/Camera
+/home/zeltak/mtp/SD card/DCIM/100ANDRO
+/home/zeltak/mtp/SD card/WhatsApp/Media/WhatsApp Images
 /home/zeltak/.mpd
 /home/zeltak/CheckPoint
 /home/zeltak/SparkleShare
@@ -2504,12 +2514,38 @@
 /home/zeltak/.gnupg/crls.d
 /home/zeltak/.password-store/Zpass_2014/Home and Family/Cars
 /home/zeltak/.password-store/Zpass_2014/Web/services/LAN
+/home/zeltak/.password-store/Zpass_2014/Web/services/Cloud Services
+/home/zeltak/.password-store/Zpass_2014/Computers/Email and IM/IM's
+/home/zeltak/.password-store/Zpass_2014/Computers/Email and IM/Main E-Mail Accounts
 /home/zeltak/.password-store/Zpass/Home and Family/Cars
 /home/zeltak/.password-store/zpass/Computers/Email and IM/Fake/Tmp Emails
+/home/zeltak/.password-store/zpass/Computers/Email and IM/IM's
+/home/zeltak/.password-store/zpass/Computers/Email and IM/Main E-Mail Accounts
+/home/zeltak/.password-store/zpass/Computers/Email and IM/Other Family Emails
+/home/zeltak/.password-store/zpass/Computers/Email and IM/hosting
+/home/zeltak/.password-store/zpass/Computers/Family comp/ISP/Etc
+/home/zeltak/.password-store/zpass/Computers/Family comp/nili
+/home/zeltak/.password-store/zpass/Computers/Special Net Sites/Related
+/home/zeltak/.password-store/zpass/Computers/Work/Harvard
+/home/zeltak/.password-store/zpass/Computers/Work/Haifa Uni Computers
+/home/zeltak/.password-store/zpass/Computers/Work/tau
+/home/zeltak/.password-store/zpass/Computers/Hardware
+/home/zeltak/.password-store/zpass/Computers/Zeltak LAN/Comp settings/Android
+/home/zeltak/.password-store/zpass/Computers/Zeltak LAN/Comp settings/Family Computers
+/home/zeltak/.password-store/zpass/Computers/Zeltak LAN/Comp settings/Laptop
+/home/zeltak/.password-store/zpass/Computers/Zeltak LAN/Comp settings/yonatan-microserver
+/home/zeltak/.password-store/zpass/Computers/michal
 /home/zeltak/.password-store/zpass/Web/Mmedia/Cooking
+/home/zeltak/.password-store/zpass/Web/Shop
+/home/zeltak/.password-store/zpass/Web/Social
+/home/zeltak/.password-store/zpass/Web/Tech
+/home/zeltak/.password-store/zpass/Web/Uni
+/home/zeltak/.password-store/zpass/Web/services
 /home/zeltak/.password-store/zpass/Home and Family/ID's/ELI ID's
 /home/zeltak/.password-store/zpass/Home and Family/ID's/Family ID's
 /home/zeltak/.password-store/zpass/Home and Family/ID's/Itai ID
+/home/zeltak/.password-store/zpass/Home and Family/Cars
+/home/zeltak/.password-store/home/zeltak/.password-store/zpass
 /home/zeltak/.emacs.drasi
 /home/zeltak/.password-storeOLD
 <<<<<<< HEAD

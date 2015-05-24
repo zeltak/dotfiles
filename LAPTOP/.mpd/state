@@ -1,9 +1,9 @@
-sw_volume: 56
+sw_volume: 4
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
-current: 0
-time: 33.808000
+current: 28
+time: 141.990000
 random: 0
 repeat: 0
 single: 0
@@ -12,13 +12,54 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Leonard Cohen/2014 Popular Problems/01 Slow.flac
-1:Leonard Cohen/2014 Popular Problems/02 Almost Like the Blues.flac
-2:Leonard Cohen/2014 Popular Problems/03 Samson in New Orleans.flac
-3:Leonard Cohen/2014 Popular Problems/04 A Street.flac
-4:Leonard Cohen/2014 Popular Problems/05 Did I Ever Love You.flac
-5:Leonard Cohen/2014 Popular Problems/06 My Oh My.flac
-6:Leonard Cohen/2014 Popular Problems/07 Nevermind.flac
-7:Leonard Cohen/2014 Popular Problems/08 Born in Chains.flac
-8:Leonard Cohen/2014 Popular Problems/09 You Got Me Singing.flac
+0:Pink Floyd/1973 The Dark Side of the Moon/09 Brain Damage.flac
+1:CAKE/2011 Showroom of Compassion/07 Sick of You.mp3
+2:Beach Boys, The/1967 Wild Honey/09 Let the Wind Blow.flac
+3:Metallica/1983 Kill 'em All/09 Seek & Destroy.flac
+4:Metallica/1984 Ride the Lightning/02 Ride the Lightning.flac
+5:Neil Young & Crazy Horse/1979 Rust Never Sleeps/01 My My, Hey Hey (Out of the Blue).mp3
+6:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/02 World Where You Live.flac
+7:Pink Floyd/1967 The Piper at the Gates of Dawn/04 Flaming.flac
+8:Band, The/1987 The Band/01 Across the Great Divide.flac
+9:Beach Boys, The/1986 Made in U.S.A_/09 Help Me Rhonda.mp3
+10:Sunrays/1966 Andrea/01 Andrea.mp3
+11:Metallica/1986 Master of Puppets/08 Damage, Inc_.flac
+12:Eifo HaYeled/2003 איפה הילד האוסף/01  אחד אלוהים.mp3
+13:Faith No More/2015 Sol Invictus/03 Sunny Side Up.flac
+14:Iron Maiden/1982 The Number of the Beast/06 Run to the Hills.flac
+15:Opeth/2002 Blackwater Park/05 Dirge for November.mp3
+16:Black Crowes, The/1999 By Your Side/01 Go Faster.mp3
+17:Dire Straits/1984 Alchemy_ Dire Straits Live/10 Solid Rock.flac
+18:Beach Boys, The/1990 Surfin' Safari _ Surfin' U.S.A_/01 Surfin' Safari.flac
+19:Queen/1991 Greatest Hits II/06 Innuendo.mp3
+20:Amir Benayoun/2000 עמיר בניון האוסף/01  ניצחת איתי הכל.mp3
+21:Neil Young/1993 Unplugged/02 Mr. Soul.mp3
+22:Zombies, The/1968 Odessey and Oracle/11 Friends of Mine.flac
+23:Beach Boys, The/2004 Smile/20 Surf's Up.mp3
+24:Pixies/1991 Trompe le Monde/01 Trompe le Monde.flac
+25:Billy Joel/1991 Piano Man/07 Stop in Nevada.flac
+26:Soundgarden/1994 Superunknown/05 Superunknown.flac
+27:Genesis/1974 The Lamb Lies Down on Broadway/02 Fly on a Windshield.flac
+28:St. Vincent/2009 Actor/06 Laughing With a Mouth of Blood.flac
+29:David Bowie/1971 Hunky Dory/05 Kooks.flac
+30:Knesiyat Hasekhel/1999 כנסיית השכל האוסף/02 ואת מתפשטת.mp3
+31:Moody Blues, The/1969 On the Threshold of a Dream/02 Lovely to See You.flac
+32:Art Garfunkel/2002 Everything Waits to Be Noticed (feat. Maia Sharp & Buddy Mondlock)/05 Everything Waits to Be Noticed.mp3
+33:Graham Coxon/2004 Happiness in Magazines/01 Spectacular.mp3
+34:Don McLean/1971 American Pie/01 American Pie.mp3
+35:Van der Graaf Generator/1970 The Least We Can Do Is Wave to Each Other/05 Out of My Book.flac
+36:Of Montreal/1999 The Gay Parade/06 Neat Little Domestic Life.flac
+37:Belle and Sebastian/1996 If You’re Feeling Sinister/03 Me and the Major.flac
+38:Ehud Banai/2004 אהוד בנאי האוסף/07  עיר מקלט.mp3
+39:Tears for Fears/1992 Tears Roll Down_ Greatest Hits 82-92/01 Sowing the Seeds of Love.mp3
+40:Beck/2014 Morning Phase/04 Say Goodbye.flac
+41:Steely Dan/1972 Can’t Buy a Thrill/04 Midnite Cruiser.flac
+42:Beatles, The/2009 Past Masters/14 I Feel Fine.flac
+43:Manu Chao/2007 La Radiolina/01 13 días.mp3
+44:Matti Caspi/2004 מתי כספי המיטב/04 ימי בנימינה.mp3
+45:Neil Young/2011 A Treasure/01 Amber Jean.mp3
+46:Amanda Palmer/2008 Who Killed Amanda Palmer/01 Astronaut_ A Short History of Nearly Nothing.flac
+47:Smiths, The/1985 Hatful of Hollow/01 William, It Was Really Nothing.flac
+48:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/10 Blood Sugar Sex Magik.mp3
+49:Beach Boys, The/1966 Pet Sounds/09 I Know There’s an Answer.flac
 playlist_end

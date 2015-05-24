@@ -82,10 +82,11 @@ super+ u
 #WS password-store
 ###########################
 super+p
-	~/bin/pass.sh zpass 
+#	~/bin/pass.sh zpass 
+	rofi-pass type
 
 super+alt+p
-	~/bin/pass.sh zpass show_entry
+	rofi-pass 
 
 
 ###########################

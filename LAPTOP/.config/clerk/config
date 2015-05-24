@@ -44,6 +44,9 @@ scrobbler=mpdas
 ssh_lastfm=1
 ssh_host=
 
+# color of the help messages
+help_color="#0C73C2"
+
                               
 add="Alt+1"
 addall="Alt+4"

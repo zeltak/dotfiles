@@ -17,6 +17,8 @@
 # * Besides the password also the fields 'UserName', 'URL' and 'Notes' (comment) will be inserted.
 # * You get a warning if an entry has no password, but it will still insert it.
 
+# Minor Modifications by Rasmus Steinke <rasi@xssn.at>
+
 import getopt, sys
 from subprocess import Popen, PIPE
 from xml.etree import ElementTree
@@ -59,7 +61,7 @@ def password_data(element, path=''):
     url = get_value(element, 'URL')
     notes = get_value(element, 'Notes')
     data = "%sUserName: %s\n" % (data, username)
-    data = "%s%s\n" % (data, url)
+    data = "%sURL: %s\n" % (data, url)
     data = "%s%s\n" % (data, notes)
     return data
 
