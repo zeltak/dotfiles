@@ -1,9 +1,9 @@
-sw_volume: 4
+sw_volume: 7
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 28
-time: 141.990000
+state: pause
+current: 10
+time: 202.919000
 random: 0
 repeat: 0
 single: 0
@@ -12,54 +12,54 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Pink Floyd/1973 The Dark Side of the Moon/09 Brain Damage.flac
-1:CAKE/2011 Showroom of Compassion/07 Sick of You.mp3
-2:Beach Boys, The/1967 Wild Honey/09 Let the Wind Blow.flac
-3:Metallica/1983 Kill 'em All/09 Seek & Destroy.flac
-4:Metallica/1984 Ride the Lightning/02 Ride the Lightning.flac
-5:Neil Young & Crazy Horse/1979 Rust Never Sleeps/01 My My, Hey Hey (Out of the Blue).mp3
-6:Crowded House/1996 Recurring Dream_ The Very Best of Crowded House/02 World Where You Live.flac
-7:Pink Floyd/1967 The Piper at the Gates of Dawn/04 Flaming.flac
-8:Band, The/1987 The Band/01 Across the Great Divide.flac
-9:Beach Boys, The/1986 Made in U.S.A_/09 Help Me Rhonda.mp3
-10:Sunrays/1966 Andrea/01 Andrea.mp3
-11:Metallica/1986 Master of Puppets/08 Damage, Inc_.flac
-12:Eifo HaYeled/2003 איפה הילד האוסף/01  אחד אלוהים.mp3
-13:Faith No More/2015 Sol Invictus/03 Sunny Side Up.flac
-14:Iron Maiden/1982 The Number of the Beast/06 Run to the Hills.flac
-15:Opeth/2002 Blackwater Park/05 Dirge for November.mp3
-16:Black Crowes, The/1999 By Your Side/01 Go Faster.mp3
-17:Dire Straits/1984 Alchemy_ Dire Straits Live/10 Solid Rock.flac
-18:Beach Boys, The/1990 Surfin' Safari _ Surfin' U.S.A_/01 Surfin' Safari.flac
-19:Queen/1991 Greatest Hits II/06 Innuendo.mp3
-20:Amir Benayoun/2000 עמיר בניון האוסף/01  ניצחת איתי הכל.mp3
-21:Neil Young/1993 Unplugged/02 Mr. Soul.mp3
-22:Zombies, The/1968 Odessey and Oracle/11 Friends of Mine.flac
-23:Beach Boys, The/2004 Smile/20 Surf's Up.mp3
-24:Pixies/1991 Trompe le Monde/01 Trompe le Monde.flac
-25:Billy Joel/1991 Piano Man/07 Stop in Nevada.flac
-26:Soundgarden/1994 Superunknown/05 Superunknown.flac
-27:Genesis/1974 The Lamb Lies Down on Broadway/02 Fly on a Windshield.flac
-28:St. Vincent/2009 Actor/06 Laughing With a Mouth of Blood.flac
-29:David Bowie/1971 Hunky Dory/05 Kooks.flac
-30:Knesiyat Hasekhel/1999 כנסיית השכל האוסף/02 ואת מתפשטת.mp3
-31:Moody Blues, The/1969 On the Threshold of a Dream/02 Lovely to See You.flac
-32:Art Garfunkel/2002 Everything Waits to Be Noticed (feat. Maia Sharp & Buddy Mondlock)/05 Everything Waits to Be Noticed.mp3
-33:Graham Coxon/2004 Happiness in Magazines/01 Spectacular.mp3
-34:Don McLean/1971 American Pie/01 American Pie.mp3
-35:Van der Graaf Generator/1970 The Least We Can Do Is Wave to Each Other/05 Out of My Book.flac
-36:Of Montreal/1999 The Gay Parade/06 Neat Little Domestic Life.flac
-37:Belle and Sebastian/1996 If You’re Feeling Sinister/03 Me and the Major.flac
-38:Ehud Banai/2004 אהוד בנאי האוסף/07  עיר מקלט.mp3
-39:Tears for Fears/1992 Tears Roll Down_ Greatest Hits 82-92/01 Sowing the Seeds of Love.mp3
-40:Beck/2014 Morning Phase/04 Say Goodbye.flac
-41:Steely Dan/1972 Can’t Buy a Thrill/04 Midnite Cruiser.flac
-42:Beatles, The/2009 Past Masters/14 I Feel Fine.flac
-43:Manu Chao/2007 La Radiolina/01 13 días.mp3
-44:Matti Caspi/2004 מתי כספי המיטב/04 ימי בנימינה.mp3
-45:Neil Young/2011 A Treasure/01 Amber Jean.mp3
-46:Amanda Palmer/2008 Who Killed Amanda Palmer/01 Astronaut_ A Short History of Nearly Nothing.flac
-47:Smiths, The/1985 Hatful of Hollow/01 William, It Was Really Nothing.flac
-48:Red Hot Chili Peppers/1991 Blood Sugar Sex Magik/10 Blood Sugar Sex Magik.mp3
-49:Beach Boys, The/1966 Pet Sounds/09 I Know There’s an Answer.flac
+0:Soundgarden/1991 Badmotorfinger/01 Rusty Cage.flac
+1:New Model Army/1990 Impurity (bonus disc)/01 Prison.flac
+2:Simon & Garfunkel/2004 Old Friends_ Live on Stage/13 Homeward Bound.mp3
+3:Sex Pistols/1985 Never Mind the Bollocks Here’s the Sex Pistols/01 Holidays in the Sun.mp3
+4:Soundgarden/2012 King Animal/01 Been Away Too Long.flac
+5:New Pornographers, The/2003 Mass Romantic/03 The Slow Descent Into Alcoholism.flac
+6:T. Rex/1972 The Slider/15 Thunderwing.mp3
+7:David Coverdale_Jimmy Page/1993 Coverdale_Page/04 Pride and Joy.mp3
+8:Beck/2013 Beck Hits/02 Loser.mp3
+9:Neil Young & Crazy Horse/1979 Rust Never Sleeps/02 Thrasher.mp3
+10:Deep Purple/1972 Made in Japan/02 Child in Time.flac
+11:Eddie Vedder/2007 Into the Wild/05 Long Nights.flac
+12:Neil Young/1968 Neil Young/04 I've Been Waiting for You.flac
+13:Kaveret/1975 צפוף באוזן/10 לך ספר לסבתא.mp3
+14:Alice in Chains/1996 MTV Unplugged/09 Heaven Beside You.flac
+15:Temple of the Dog/1991 Temple of the Dog/08 Your Saviour.flac
+16:Love/1967 Forever Changes/04 The Daily Planet.flac
+17:Flight of the Conchords/2009 TV Show Songbook 2/15 Too Many Dicks on the Dance Floor.mp3
+18:Queen/1981 Greatest Hits/08 Save Me.flac
+19:New Model Army/2013 Between Dog and Wolf/10 Between Dog and Wolf.mp3
+20:Roy Harper/1969 Folkjokeopus/01 Sgt. Sunshine.mp3
+21:Billy Joel/1998 An Innocent Man/03 The Longest Time.mp3
+22:Suede/1993 Suede/03 She’s Not Dead.flac
+23:Rage Against the Machine/2000 Renegades/08 How I Could Just Kill a Man.flac
+24:Hole/2013 Hole Hits/08 Doll Parts.mp3
+25:New Pornographers, The/2007 Challengers/04 Myriad Harbour.flac
+26:Billy Joel/1985 Greatest Hits, Volume I & Volume II/02 Captain Jack.mp3
+27:Radiohead/1997 OK Computer/02 Paranoid Android.flac
+28:Destroyer/2000 Thief/13 Thief.flac
+29:Zombies, The/1968 Odessey and Oracle/11 Friends of Mine.flac
+30:Pearl Jam/1991 Ten/11 Release _ Master_Slave.flac
+31:Jethro Tull/1977 Songs From the Wood/07 The Whistler.flac
+32:Amplifier/2010 The Octopus/03 Interglacial Spell.mp3
+33:2Soundtracks/Magical Mystery Tour/02 The Fool on the Hill.flac
+34:Neil Young/1988 Decade/28 For the Turnstiles.mp3
+35:Iron Maiden/1986 Somewhere in Time/03 Sea of Madness.flac
+36:Destroyer/2001 Streethawk_ A Seduction/02 The Bad Arts.flac
+37:Graham Nash/1971 Songs for Beginners/04 I Used to Be a King.flac
+38:Alice in Chains/1996 MTV Unplugged/02 Brother.flac
+39:Nirvana/2007 Nevermind/09 Lounge Act.mp3
+40:Eruption/2013 Eruption Hits/10 One Way Ticket.flac
+41:Knesiyat Hasekhel/1999 כנסיית השכל האוסף/03 שום דבר לא יפגע בי.mp3
+42:Beach Boys, The/1969 20_20/04 Be With Me.flac
+43:Pearl Jam/1998 Yield/11 In Hiding.flac
+44:David McWilliams/2013 David McWilliams Hits/01 Days of Pearly Spencer.mp3
+45:New Pornographers, The/2010 Together/02 Crash Years.flac
+46:Pearl Jam/1993 Vs_/05 Dissident.flac
+47:Cream/1983 Strange Brew_ The Very Best of Cream/11 Tales of Brave Ulysees.mp3
+48:Paul Simon/1972 Paul Simon/07 Peace Like a River.flac
+49:Eric Clapton/1982 Time Pieces_ The Best of Eric Clapton/05 Layla.mp3
 playlist_end

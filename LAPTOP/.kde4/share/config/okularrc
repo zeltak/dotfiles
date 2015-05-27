@@ -8,39 +8,31 @@ Recent URLs[$e]=$HOME/ZH_tmp/
 Width 1600=800
 
 [MainWindow]
-Height 1080=1049
+Height 1080=1081
 Height 1152=1153
 Height 1200=1201
 Height 1440=1441
 Height 900=901
-State=AAAA/wAAAAD9AAAAAAAABPgAAAVIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAACfgAAAU1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1600=1601
-Width 1920=1912
+Width 1920=952
 Width 2048=2049
-Width 2560=1272
+Width 2560=2552
 
 [Notification Messages]
 presentationInfo=false
 
 [Recent Files]
 File1[$e]=$HOME/Uni/grants/domenichi2015/hsphstatement_of_intent_sub.ps
-File10[$e]=$HOME/Sync/scans/2015/uni/ תודה על הזמנתך _ #3143123847727.pdf
 File2[$e]=$HOME/Uni/grants/domenichi2015/intent_IK.pdf
-File3[$e]=$HOME/ZH_tmp/python/t2.pdf
-File4[$e]=$HOME/ZH_tmp/Kloog Non_HU_FCOI_form_IK.pdf
-File5[$e]=$HOME/Sync/scans/2013/family/חשבונית עסקה מיכל נבו.pdf
-File6[$e]=$HOME/Sync/scans/2014/docs/Document_001.pdf
-File7[$e]=$HOME/ZH_tmp/t4-model_builder.pdf
-File8[$e]=$HOME/ZH_tmp/talk5/t5.pdf
-File9[$e]=$HOME/ZH_tmp/3dt9/l9.pdf
+File3[$e]=$HOME/Sync/scans/2013/family/חשבונית עסקה מיכל נבו.pdf
+File4[$e]=$HOME/Sync/scans/2014/docs/Document_001.pdf
+File5[$e]=$HOME/Sync/scans/2015/uni/ תודה על הזמנתך _ #3143123847727.pdf
+File6[$e]=$HOME/ZH_tmp/l8.git.pdf
 Name1[$e]=hsphstatement_of_intent_sub.ps
-Name10[$e]=\sתודה על הזמנתך _ #3143123847727.pdf
 Name2[$e]=intent_IK.pdf
-Name3[$e]=t2.pdf
-Name4[$e]=Kloog Non_HU_FCOI_form_IK.pdf
-Name5[$e]=חשבונית עסקה מיכל נבו.pdf
-Name6[$e]=Document_001.pdf
-Name7[$e]=t4-model_builder.pdf
-Name8[$e]=t5.pdf
-Name9[$e]=l9.pdf
+Name3[$e]=חשבונית עסקה מיכל נבו.pdf
+Name4[$e]=Document_001.pdf
+Name5[$e]=\sתודה על הזמנתך _ #3143123847727.pdf
+Name6[$e]=l8.git.pdf
