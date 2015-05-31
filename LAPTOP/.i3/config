@@ -54,15 +54,19 @@ bindsym $mod+Shift+Right move right
 #bindsym $mod+Shift+j move right 50 px
 
 ###############layouts
+#default all layouts to tabbed
+workspace_layout tabbed
 
 # split in horizontal orientation
 bindsym $mod+h split h, exec notify-send -u low  "i3" "Layout switched to Horizontal"
 # split in vertical orientation
 bindsym $mod+v split v, exec notify-send -u low  "i3" "Layout switched to Vertical"
+
+
 # change container layout (stacked, tabbed, toggle split)
-bindsym $mod+8 layout stacking, exec notify-send -u low  "i3" "Layout switched to Stacking"
-bindsym $mod+0 layout tabbed, exec notify-send -u low  "i3" "Layout switched to Tabbing"
-bindsym $mod+9 layout toggle split, exec notify-send -u low  "i3" "Layout switched to Split"
+#bindsym $mod+8 layout stacking, exec notify-send -u low  "i3" "Layout switched to Stacking"
+bindsym $mod+t layout tabbed, exec notify-send -u low  "i3" "Layout switched to Tabbing"
+bindsym $mod+y layout toggle split, exec notify-send -u low  "i3" "Layout switched to Split"
 
 # Toggle between stacking/tabbed/split
 bindsym $mod+Shift+v layout toggle, exec notify-send -u low  "i3" "Layout changed"
@@ -121,7 +125,8 @@ set $w10 Em3
 set $w11 Tv
 set $w12 Gfx
 set $w13 VM
-
+set $w20 Inf
+set $w30 MD
 
 # switch to workspace
 #below is for grave (`) symbol
@@ -160,16 +165,18 @@ bindsym $mod+Shift+c move container to workspace $w13
 ##########################
 #Dual head
 #########################
-bindsym $mod+plus move workspace to output right
+# codes 34/35 are bracketleft and bracketright on bindsyms 
+bindcode $mod+34 move workspace to output left
+bindcode $mod+35 move workspace to output right
 #bindsym $mod+plus move workspace to output up
-
-bindsym $mod+Shift+plus move container to output right 
-bindsym $mod+Ctrl+End move container to output left
-
+bindcode $mod+Shift+34 move container to output left
+bindcode $mod+Shift+35 move container to output right
 
 
 #multi screens and workspaces
 #workspace "5:IM" output VGA1
+workspace $W20 output HDMI2
+workspace $W30 output DP1
 
 
 
@@ -188,6 +195,91 @@ bindsym $mod+mod1+Control+m mode "xrandr- m(mobile)/h(home)"
 #workspace "$w1" output DFP10
 #workspace "$w2" output DFP1
 #workspace "$w3" output DFP9
+
+
+#==============================================================================
+# Rules →
+#------------------------------------------------------------------------------
+
+#########SCRATCHPAD
+#for_window [class="KeePass2"] move scratchpad
+#for_window [class="KeePass2"] scratchpad show
+
+######### WORK SPACES
+#WORKSPACE #1
+#WORKSPACE #2 (Terms) 
+
+#assign [Class="URxvt"] $w2 
+assign [Class="main_term"] $w3
+assign [window_role="tmux_terms"] $w3
+assign [window_role="rterm"] $w3
+for_window [title="Terminator Preferences"] floating enable
+for_window [Class="Terminator"] $w3
+#WORKSPACE #3 (browsers)
+assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
+#WORKSPACE #5 (IM)
+assign [Class="Skype"] $w4
+assign [Class="Pavucontrol"] $w4
+#WORKSPACE #6 (FM):
+assign [Class="Spacefm|net-sourceforge-filebot-Main"] $w5
+#assign [Class="feh"] 6:FM
+assign [Class="Worker"] $w5
+for_window [title="Worker Configuration"] floating enable
+assign [window_role="termfm"] $w5
+for_window [window_role="termfm"] floating enable
+#WORKSPACE #7 (ssh)
+assign [window_role="ssh_home"] $w7
+assign [window_role="ssh_karif"] $w7
+#WORKSPACE #8 (Notecase)
+assign [instance="org"] $w8
+#WORKSPACE #9 (Editor)
+assign [instance="gvim"] $w8
+#assign [Class="Emacs"] 9:Vim
+#WORKSPACE #10 (task)
+assign [window_role="tmux_office"] $w10
+#WORKSPACE #11 (Utils)
+assign [instance="tmux_utils"] $w10
+#WORKSPACE #12  (VM/Remote access)
+assign [instance="TeamViewer"] $w12
+#DISABLE FLOAT
+for_window [instance="TeamViewer"] floating disable
+assign [instance="vinagre"] $w12
+
+#WORKSPACE #13   (graphics)
+assign [instance="gthumb|Gthumb|Shotwell|shotwell|digikam|Digikam|gimp|inkscape"] $w13
+#WORKSPACE #14   (Office)
+#rest of unttaged to open on main view
+#assign [class=".*"] 1:H1
+
+
+
+########## FLOATING 
+#for_window [class="Xfce4-terminal"] floating enable
+#for_window [instance="float_term"] floating enable
+for_window [instance="ecapture"] floating enable
+for_window [class="Gcolor2"] floating enable
+for_window [instance="spad"] floating enable
+for_window [title="keepass"] floating enable
+for_window [instance="ecapture"] floating enable
+
+
+
+#general float
+for_window [instance="wrapper|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|<unknown>|plugin-container|synapse"] floating enable
+
+#i3 bar mode commands
+# Create Log out, Reboot, Poweroff bindings
+mode "Exit (L)ogout, (X)eboot, (P)oweroff  (C)Reload (R)Restart" {
+        bindsym x exec systemctl reboot
+        bindsym l exec i3-msg exit
+        bindsym p exec systemctl poweroff
+        bindsym c reload
+        bindsym r restart
+        # back to normal: Enter or Escape
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+}
+
 
 
 ################################################
@@ -263,15 +355,14 @@ bindsym $mod+minus scratchpad show
 #bindsym $mod+p [class="KeePass2"] scratchpad show
 #for_window [class="KeePass2"] move to scratchpad
 
-mode "scratchpad" {
-  bindsym t [class="KeePass2"] scratchpad show, mode "default"
-  bindsym e [class="emacs"] focus, mode "default"
-  bindsym f [class="aurora"] focus, mode "default"
-  bindsym Return mode "default"
-  bindsym Escape mode "default"
-}
+# mode "scratchpad" {
+#   bindsym t [class="KeePass2"] scratchpad show, mode "default"
+#   bindsym e [class="emacs"] focus, mode "default"
+#   bindsym f [class="aurora"] focus, mode "default"
+#   bindsym Return mode "default"
+#   bindsym Escape mode "default"
+# }
 
-bindsym $mod+t mode "scratchpad"
 
 
 # Scratchpad control
@@ -292,6 +383,7 @@ bindsym $mod+equal [class="keepass2"] scratchpad show
 #font pango:PragmataPro 10 , Icons 8
 #font xft:PragmataPro 18 , Icons 12
 #font pango:Termsyn 16, Icons 12
+font pango:DejaVu Sans Mono 14
 
 
 #size of window borders
@@ -383,88 +475,6 @@ colors {
 #workspace_auto_back_and_forth yes
 
 
-#==============================================================================
-# Rules →
-#------------------------------------------------------------------------------
-
-#########SCRATCHPAD
-#for_window [class="KeePass2"] move scratchpad
-#for_window [class="KeePass2"] scratchpad show
-
-######### WORK SPACES
-#WORKSPACE #1
-#WORKSPACE #2 (Terms) 
-
-#assign [Class="URxvt"] $w2 
-assign [Class="main_term"] $w3
-assign [window_role="tmux_terms"] $w3
-assign [window_role="rterm"] $w3
-for_window [title="Terminator Preferences"] floating enable
-for_window [Class="Terminator"] $w3
-#WORKSPACE #3 (browsers)
-assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
-#WORKSPACE #5 (IM)
-assign [Class="Skype"] $w4
-assign [Class="Pavucontrol"] $w4
-#WORKSPACE #6 (FM):
-assign [Class="Spacefm|net-sourceforge-filebot-Main"] $w5
-#assign [Class="feh"] 6:FM
-assign [Class="Worker"] $w5
-for_window [title="Worker Configuration"] floating enable
-assign [window_role="termfm"] $w5
-for_window [window_role="termfm"] floating enable
-#WORKSPACE #7 (ssh)
-assign [window_role="ssh_home"] $w7
-assign [window_role="ssh_karif"] $w7
-#WORKSPACE #8 (Notecase)
-assign [instance="org"] $w8
-#WORKSPACE #9 (Editor)
-assign [instance="gvim"] $w8
-#assign [Class="Emacs"] 9:Vim
-#WORKSPACE #10 (task)
-assign [window_role="tmux_office"] $w10
-#WORKSPACE #11 (Utils)
-assign [instance="tmux_utils"] $w10
-#WORKSPACE #12  (VM/Remote access)
-assign [instance="TeamViewer"] $w12
-#DISABLE FLOAT
-for_window [instance="TeamViewer"] floating disable
-assign [instance="vinagre"] $w12
-
-#WORKSPACE #13   (graphics)
-assign [instance="gthumb|Gthumb|Shotwell|shotwell|digikam|Digikam|gimp|inkscape"] $w13
-#WORKSPACE #14   (Office)
-#rest of unttaged to open on main view
-#assign [class=".*"] 1:H1
-
-
-
-########## FLOATING 
-#for_window [class="Xfce4-terminal"] floating enable
-#for_window [instance="float_term"] floating enable
-for_window [instance="ecapture"] floating enable
-for_window [class="Gcolor2"] floating enable
-for_window [instance="spad"] floating enable
-for_window [title="keepass"] floating enable
-for_window [instance="ecapture"] floating enable
-
-
-
-#general float
-for_window [instance="wrapper|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|<unknown>|plugin-container|synapse"] floating enable
-
-#i3 bar mode commands
-# Create Log out, Reboot, Poweroff bindings
-mode "Exit (L)ogout, (X)eboot, (P)oweroff  (C)Reload (R)Restart" {
-        bindsym x exec systemctl reboot
-        bindsym l exec i3-msg exit
-        bindsym p exec systemctl poweroff
-        bindsym c reload
-        bindsym r restart
-        # back to normal: Enter or Escape
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-}
 
 bindsym $mod+mod1+Control+q mode "Exit (L)ogout, (X)eboot, (P)oweroff  (C)Reload (R)Restart"
 

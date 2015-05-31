@@ -35,9 +35,9 @@ mainMenu () {
 xrandrPrompt () {
     menu=("1. laptop"
           "2. dual"
-          "3. work"
-          "4. misc"
-          "5. autochooser"
+          "3. office"
+          "4. bgu249"
+          "5. arandr"
           "0: << back to  menu")
 
     prompt() {
@@ -45,10 +45,11 @@ xrandrPrompt () {
     }
 
     case "$(prompt "${menu[@]}")" in
-        1.*) /home/zeltak/.screenlayout/home.sh   ;;
+        1.*) /home/zeltak/.screenlayout/x1.sh   ;;
         2.*) /home/zeltak/.screenlayout/dual.sh ;;
-        3.*) /home/zeltak/.screenlayout/dual.sh ;;
-        3.*) /home/zeltak/bin/dmrandr.sh ;;
+        3.*) /home/zeltak/.screenlayout/office.sh ;;
+        4.*) /home/zeltak/.screenlayout/bgu249.sh ;;
+        5.*) arandr ;;
         0.*) dplayPrompt ;;
           *) dplayPrompt
     esac
