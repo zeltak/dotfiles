@@ -21,7 +21,7 @@ cd_divider=CD
 music_path="/home/zeltak/music/"
 
 # Number of Songs to be added for "Random Tracks"
-value=50
+value=200
 
 # instantly play newly added tracks
 add_auto_play=no
