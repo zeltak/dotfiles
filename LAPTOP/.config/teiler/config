@@ -9,9 +9,9 @@ slop_border=2
 hidecursor=yes
 
 # the path where images, videos and pastes should be saved
-img_path=$HOME/ZH_tmp/Pictures/Screenshots
-paste_path=$HOME/ZH_tmp/Pictures/Paste
-vid_path=$HOME/ZH_tmp/Videos/Screencasts
+img_path=$HOME/ZH_tmp/Teiler/img/
+paste_path=$HOME/ZH_tmp/Teiler/paste/
+vid_path==$HOME/ZH_tmp/Teiler/cast/
 
 
 
@@ -105,3 +105,6 @@ editor=pinta
 #always upload
 always_ul=1
 
+help_color=#4BACFD
+viwer=feh
+player=mpv

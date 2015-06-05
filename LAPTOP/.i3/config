@@ -181,14 +181,15 @@ workspace $W30 output DP1
 
 
 #multi monitor setup
-mode "xrandr- m(mobile)/h(home)" {
-bindsym h exec /home/zeltak/.screenlayout/home.sh; mode "default"
-bindsym m exec /home/zeltak/.screenlayout/mobile.sh; mode "default"
+mode "xrandr- m(obile)/h(ome)/o(ffice)" {
+bindsym h exec /home/zeltak/.screenlayout/dual.sh; mode "default"
+bindsym m exec /home/zeltak/.screenlayout/x1.sh; mode "default"
+bindsym o exec /home/zeltak/.screenlayout/office.sh; mode "default"
 # back to normal: Enter or Escape
 bindsym Return mode "default"
 bindsym Escape mode "default"
 }
-bindsym $mod+mod1+Control+m mode "xrandr- m(mobile)/h(home)"
+bindsym $mod+mod1+Control+m mode "xrandr- m(obile)/h(ome)/o(ffice)"
 
 
 # Force workspaces to specific output monitor
@@ -202,21 +203,16 @@ bindsym $mod+mod1+Control+m mode "xrandr- m(mobile)/h(home)"
 #------------------------------------------------------------------------------
 
 #########SCRATCHPAD
-#for_window [class="KeePass2"] move scratchpad
-#for_window [class="KeePass2"] scratchpad show
-
-######### WORK SPACES
+######### WORKSPACES
 #WORKSPACE #1
-#WORKSPACE #2 (Terms) 
-
-#assign [Class="URxvt"] $w2 
+#WORKSPACE #2 (WWW) 
+assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
+#WORKSPACE #3 (browsers)
 assign [Class="main_term"] $w3
 assign [window_role="tmux_terms"] $w3
 assign [window_role="rterm"] $w3
 for_window [title="Terminator Preferences"] floating enable
 for_window [Class="Terminator"] $w3
-#WORKSPACE #3 (browsers)
-assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
 #WORKSPACE #5 (IM)
 assign [Class="Skype"] $w4
 assign [Class="Pavucontrol"] $w4
@@ -236,12 +232,10 @@ assign [instance="org"] $w8
 assign [instance="gvim"] $w8
 #assign [Class="Emacs"] 9:Vim
 #WORKSPACE #10 (task)
-assign [window_role="tmux_office"] $w10
 #WORKSPACE #11 (Utils)
-assign [instance="tmux_utils"] $w10
-#WORKSPACE #12  (VM/Remote access)
-assign [instance="TeamViewer"] $w12
 #DISABLE FLOAT
+assign [instance="TeamViewer"] $w11
+#WORKSPACE #12  (VM/Remote access)
 for_window [instance="TeamViewer"] floating disable
 assign [instance="vinagre"] $w12
 
@@ -261,11 +255,18 @@ for_window [class="Gcolor2"] floating enable
 for_window [instance="spad"] floating enable
 for_window [title="keepass"] floating enable
 for_window [instance="ecapture"] floating enable
-
-
-
 #general float
 for_window [instance="wrapper|xfce4-screenshooter|deepinScrot.py|key-mon|mplayer|vlc|lxtask|feh|vimhelp|sxiv|dialog|subtly|python|gksu|gtk.rb|display|pychrom|xev|evince|<unknown>|plugin-container|synapse"] floating enable
+
+
+
+
+
+
+
+
+
+
 
 #i3 bar mode commands
 # Create Log out, Reboot, Poweroff bindings
@@ -342,33 +343,6 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 
-
-# Scratchpad hotkeys:
-
-# Make the currently focused window a scratchpad
-bindsym $mod+Shift+minus move scratchpad
-# Show the first scratchpad window
-bindsym $mod+minus scratchpad show
-
-#keepass
-#bindsym $mod+p [class="Keepassx"] scratchpad show
-#bindsym $mod+p [class="KeePass2"] scratchpad show
-#for_window [class="KeePass2"] move to scratchpad
-
-# mode "scratchpad" {
-#   bindsym t [class="KeePass2"] scratchpad show, mode "default"
-#   bindsym e [class="emacs"] focus, mode "default"
-#   bindsym f [class="aurora"] focus, mode "default"
-#   bindsym Return mode "default"
-#   bindsym Escape mode "default"
-# }
-
-
-
-# Scratchpad control
-bindsym $alt+Ctrl+minus move scratchpad
-bindsym $alt+minus scratchpad show
-bindsym $mod+equal [class="keepass2"] scratchpad show
 
 
 
@@ -448,7 +422,7 @@ colors {
 #for the i3blocks bar part
         status_command    i3blocks -c /home/zeltak/dotfiles/LAPTOP/.config/i3blocks/config
         position top
-        tray_output eDP1
+        tray_output primary
 #        mode hide
 }
 

@@ -31,7 +31,7 @@ color=#FD971F
 interval=10
 
 [batt]
-command= echo ":$($HOME/.config/i3blocks/battery.sh)"
+command= echo "BAT:$($HOME/.config/i3blocks/battery.sh)"
 #command= echo "BATT: $(acpi | awk '{print $NF}')"
 color=#efe62e
 interval=10
