@@ -2901,6 +2901,20 @@ buttons {
 		}
 	}
 	button {
+		position = 142;
+		title = "nonorg";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			FilterSelectOp {
+				filter = "*.org";
+			}
+			InvertAllOp {
+			}
+		}
+	}
+	button {
 		position = 144;
 		title = "Type,t";
 		color = 128,132;

@@ -4697,6 +4697,35 @@ buttons {
 		}
 	}
 	button {
+		position = 226;
+		title = "cp+ren_BKD";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			CopyOp {
+				followsymlinks = false;
+				move = false;
+				rename = false;
+				samedir = false;
+				requestdest = false;
+				requestflags = false;
+				overwrite = normal;
+				preserveattr = true;
+			}
+			OwnOp {
+				separateeachentry = false;
+				recursive = false;
+				start = normal;
+				com = "mv {A} backdrop.jpg";
+				viewstr = "";
+				inbackground = true;
+				takedirs = false;
+				dontcd = false;
+			}
+		}
+	}
+	button {
 		position = 228;
 		title = "file2folder";
 		color = 135,132;

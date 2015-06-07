@@ -13,6 +13,17 @@ img_path=$HOME/ZH_tmp/Teiler/img/
 paste_path=$HOME/ZH_tmp/Teiler/paste/
 vid_path==$HOME/ZH_tmp/Teiler/cast/
 
+#naming
+random_string=$(date +'%Y-%m-%d-%H%M%S')
+img_filemask="img-$random_string"
+vid_filemask="vid-$random_string"
+paste_filemask="p-$random_string"
+
+#default apps 
+viewer=eog
+editor=pinta
+player=mpv
+
 
 
 # some distibutions rename the gdbar binary to dzen2-gdbar
@@ -26,8 +37,9 @@ gdbar=gdbar
 # If you don't want a local history of images/videos,
 # set archive_img/archive_vid to "0"
 # keep in mind, that imgur does not support videos
-ul=fb
-paste_ul=ix
+img_ul=fb
+vid_ul=fb
+paste_ul=fb
 archive_vid=1
 archive_img=1
 archive_paste=0
@@ -45,8 +57,6 @@ scp_path_paste=/path/to/pastes
 http_img=https://YOUR_DOMAIN/path/to/images
 http_vid=https://YOUR_DOMAIN/path/to/videos
 http_paste=https://YOUR_DOMAIN/path/to/pastes
-
-
 
 # s3 options
 # same as scp options. set an actual path within your bucket, where
@@ -105,6 +115,5 @@ editor=pinta
 #always upload
 always_ul=1
 
+#theme
 help_color=#4BACFD
-viwer=feh
-player=mpv

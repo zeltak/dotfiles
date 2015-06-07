@@ -76,7 +76,11 @@ super+ i
 #Emacs capture
 super+ u
        urxvt -name ecapture -e emacsclient -t org-protocol:/capture:/URL/TITLE/BODY
-               
+
+#help menu
+super+ o
+        teiler --screenshot          
+
 
 ###########################
 #WS password-store
