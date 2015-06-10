@@ -64,6 +64,7 @@
 /home/zeltak/.config/lighthouse
 /home/zeltak/.config/devilspie2
 /home/zeltak/.config/copyq
+/home/zeltak/.config/systemd/user/default.target.wants
 /home/zeltak/bin/ecapture.sh
 /home/zeltak/bin/helpmenu.sh
 /home/zeltak/bin/.qiv-select
@@ -2257,6 +2258,7 @@
 /home/zeltak/.vimperator/info/default
 /home/zeltak/.jabref/plugins
 /home/zeltak/Mail/archive/sent
+/home/zeltak/Mail/queue
 /home/zeltak/FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg]
 /home/zeltak/FIFA.World.Cup.2014.Group.D.Uruguay.vs.Costa.Rica.720p.HDTV.x264-BALLS[rarbg]
 /home/zeltak/Uni/personal/900000
@@ -2520,6 +2522,7 @@
 /home/zeltak/Maildir/INBOX/new
 /home/zeltak/Maildir/INBOX/cur
 /home/zeltak/Maildir/INBOX/tmp
+/home/zeltak/Maildir/INBOX/.nnmaildir
 /home/zeltak/Maildir/Joel
 /home/zeltak/Maildir/Drafts
 /home/zeltak/usr/bin
