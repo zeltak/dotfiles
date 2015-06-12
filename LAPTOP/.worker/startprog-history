@@ -1,3 +1,5 @@
+acroread
+libreoffice
 git rm
 emacsclient
 chromium
@@ -13,9 +15,7 @@ mplayer
 smplayer
 emacs
 puddletag
-libreoffice
 thunar
-acroread
 xnview
 mcomix
 comix
