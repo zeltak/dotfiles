@@ -1,4 +1,4 @@
-workerconfig 3.6.1;
+workerconfig 3.7.0;
 global {
 	lang = "builtin";
 	rows = 4;
@@ -909,6 +909,106 @@ hotkeys {
 				mode = current;
 				resetdirsizes = false;
 				keepfiletypes = false;
+			}
+		}
+	}
+	hotkey {
+		title = "select pagedown";
+		shortkeys {
+			normal {
+				key = "Next";
+				mod = shift;
+			}
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "selectentry pagedown";
+			}
+		}
+	}
+	hotkey {
+		title = "select pageup";
+		shortkeys {
+			normal {
+				key = "Prior";
+				mod = shift;
+			}
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "selectentry -p";
+			}
+		}
+	}
+	hotkey {
+		title = "select 1 up";
+		shortkeys {
+			normal {
+				key = "Up";
+				mod = shift;
+			}
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "selectentry -1";
+			}
+		}
+	}
+	hotkey {
+		title = "select 1 down";
+		shortkeys {
+			normal {
+				key = "Down";
+				mod = shift;
+			}
+		}
+		commands {
+			ScriptOp {
+				type = evalcommand;
+				pushuseoutput = false;
+				dodebug = false;
+				wpurecursive = false;
+				wputakedirs = false;
+				stacknr = 0;
+				wintype = leave;
+				changeprogress = false;
+				changetext = false;
+				progressuseoutput = false;
+				wintextuseoutput = false;
+				commandstring = "selectentry 1";
 			}
 		}
 	}
@@ -2908,7 +3008,7 @@ buttons {
 		}
 		commands {
 			FilterSelectOp {
-				filter = "*.org";
+				filter = "org";
 			}
 			InvertAllOp {
 			}
@@ -7189,6 +7289,45 @@ buttons {
 				progressuseoutput = false;
 				wintextuseoutput = false;
 				commandstring = "vdir_add_selected_from_other_side";
+			}
+		}
+	}
+	button {
+		position = 480;
+		title = "Change time";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			ChTimeOp {
+				onfiles = true;
+				ondirs = false;
+				recursive = false;
+				requestflags = true;
+			}
+		}
+	}
+	button {
+		position = 482;
+		title = "symlink abs";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			ChangeSymlinkOp {
+				mode = makeabsolute;
+			}
+		}
+	}
+	button {
+		position = 483;
+		title = "symlink rel";
+		color = 1,0;
+		shortkeys {
+		}
+		commands {
+			ChangeSymlinkOp {
+				mode = makerelative;
 			}
 		}
 	}

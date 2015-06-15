@@ -3008,7 +3008,7 @@ buttons {
 		}
 		commands {
 			FilterSelectOp {
-				filter = "*.org";
+				filter = "*";
 			}
 			InvertAllOp {
 			}
