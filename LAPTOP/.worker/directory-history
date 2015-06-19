@@ -197,6 +197,8 @@
 /home/zeltak/ZH_tmp/Teiler/img
 /home/zeltak/ZH_tmp/Teiler/cast
 /home/zeltak/ZH_tmp/Teiler/paste
+/home/zeltak/ZH_tmp/Academic CV.zip#uzip
+/home/zeltak/ZH_tmp/accv
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1894,6 +1896,7 @@
 /home/zeltak/BK/emacs/26.3.2015
 /home/zeltak/BK/emacs/5.4.15
 /home/zeltak/BK/emacs/18.5.2015/.emacs.d
+/home/zeltak/BK/emacs/19.6.15/.emacs.d
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -2509,6 +2512,8 @@
 /home/zeltak/.emacs.g/ESS
 /home/zeltak/.emacs.g/password-store
 /home/zeltak/.emacs.g/org-mode/lisp
+/home/zeltak/.emacs.g/org-mode/contrib/lisp
+/home/zeltak/.emacs.g/org-mode/contrib/scripts
 /home/zeltak/.emacs.g/transmission
 /home/zeltak/.emacs.g/org-ref
 /home/zeltak/.unison
