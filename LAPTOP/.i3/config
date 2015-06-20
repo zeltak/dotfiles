@@ -134,7 +134,7 @@ set $w30 MD
 
 bindsym $mod+1 workspace $w1
 bindsym $mod+2 workspace $w2
-bindsym $mod+3 workspace $w3, layout tabbed
+bindsym $mod+3 workspace $w3,layout tabbed
 bindsym $mod+4 workspace $w4
 bindsym $mod+q workspace $w5
 bindsym $mod+w workspace $w6
@@ -142,7 +142,7 @@ bindsym $mod+e workspace $w7
 bindsym $mod+a workspace $w8
 bindsym $mod+s workspace $w9
 bindsym $mod+d workspace $w10
-bindsym $mod+z workspace $w11 ,layout tabbed 
+bindsym $mod+z workspace $w11,layout tabbed 
 bindsym $mod+x workspace $w12
 bindsym $mod+c workspace $w13
 
