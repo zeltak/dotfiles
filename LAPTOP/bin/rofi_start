@@ -33,8 +33,8 @@ mainMenu () {
 
 
 xrandrPrompt () {
-    menu=("1. laptop"
-          "2. dual"
+    menu=("1. mobile"
+          "2. home"
           "3. office"
           "4. bgu249"
           "5. arandr"
@@ -45,8 +45,8 @@ xrandrPrompt () {
     }
 
     case "$(prompt "${menu[@]}")" in
-        1.*) /home/zeltak/.screenlayout/x1.sh   ;;
-        2.*) /home/zeltak/.screenlayout/dual.sh ;;
+        1.*) /home/zeltak/.screenlayout/mobile.sh   ;;
+        2.*) /home/zeltak/.screenlayout/home.sh ;;
         3.*) /home/zeltak/.screenlayout/office.sh ;;
         4.*) /home/zeltak/.screenlayout/bgu249.sh ;;
         5.*) arandr ;;
