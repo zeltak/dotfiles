@@ -561,6 +561,7 @@
 /home/zeltak/.emacs.d/snippets/editing
 /home/zeltak/.emacs.d/snippets/global-mode
 /home/zeltak/.emacs.d/snippets/ess-mode
+/home/zeltak/.emacs.d/snippets/latex-mode
 /home/zeltak/.emacs.d/undo
 /home/zeltak/.emacs.d/url
 /home/zeltak/.emacs.d/eshell
@@ -2423,6 +2424,7 @@
 /home/zeltak/Sync/Uni/scans/2014/BGU_salary
 /home/zeltak/Sync/Uni/scans/2014/docs
 /home/zeltak/Sync/Uni/scans/2013
+/home/zeltak/Sync/Uni/pdf_lib_gen
 /home/zeltak/Sync/keepass
 /home/zeltak/Sync/ztmp
 /home/zeltak/Sync/.git
