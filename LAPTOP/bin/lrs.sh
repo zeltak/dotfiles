@@ -28,6 +28,10 @@ rsync -aRPz --delete -e ssh /home/zeltak/Sync/  zeltak@10.0.0.2:/share/MD0_DATA/
 # uni folder 
 rsync -aRPz --delete -e ssh /home/zeltak/Uni/  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
 
+rsync -aRPz --delete -e ssh /home/zeltak/.password-store  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
+
+rsync -aRPz --delete -e ssh /home/zeltak/.gnupg  zeltak@10.0.0.2:/share/MD0_DATA/Rsync/ #&> /dev/null
+
 ###final notify
 #notify-send -u normal "back up for today done"
 
