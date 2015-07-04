@@ -1215,6 +1215,9 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Devin Townsend - Accelerated Evolution [2 Disc Special Edition]/Devin Townsend - Accelerated Evolution [Project EKO] (2003)
 /home/zeltak/mounts/lraid/Download/transmission/completed/Avengers Age of Ultron 2015 CAM x264 AC3 TiTAN
 /home/zeltak/mounts/lraid/Download/transmission/completed/Batman The Animated Series DvDRip x264 Complete/Volume 1 rips
+/home/zeltak/mounts/lraid/Download/transmission/completed/Batman The Animated Series DvDRip x264 Complete/Volume 2 rips
+/home/zeltak/mounts/lraid/Download/transmission/completed/Batman The Animated Series DvDRip x264 Complete/Volume 3 rips
+/home/zeltak/mounts/lraid/Download/transmission/completed/Batman The Animated Series DvDRip x264 Complete/Volume 4 rips
 /home/zeltak/mounts/lraid/Download/transmission/completed/Run.All.Night.2015.HC.HDRip.XViD.AC3-ETRG
 /home/zeltak/mounts/lraid/Download/transmission/completed/Game of Thrones S05E05 HDTV XviD-FUM[ettv]
 /home/zeltak/mounts/lraid/Download/transmission/completed/Game.of.Thrones.S05E06.720p.HDTV.x264-IMMERSE/Sample
@@ -1223,6 +1226,10 @@
 /home/zeltak/mounts/lraid/Download/transmission/completed/Chef's Table S01E01 WEBRip x264 AHMED
 /home/zeltak/mounts/lraid/Download/transmission/completed/Last Knights (2015)
 /home/zeltak/mounts/lraid/Download/transmission/completed/Mad.Max.Fury.Road.2015.1080p.WEB-DL.DD5.1.H264-RARBG
+/home/zeltak/mounts/lraid/Download/transmission/completed/Chris Squire - 1975 Fish Out Of Water (2007 Expanded Edition)
+/home/zeltak/mounts/lraid/Download/transmission/completed/Rise of the Guardians (2012)
+/home/zeltak/mounts/lraid/Download/transmission/completed/The Admiral Roaring Currents (2014) BRRiP 1080p x264 DD5.1 EN NL Subs
+/home/zeltak/mounts/lraid/Download/transmission/completed/Ex Machina 2015 720p BRRip [ChattChitto RG]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 /home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -2056,6 +2063,7 @@
 /home/zeltak/mreview/Sleater-Kinney
 /home/zeltak/mreview/CD2 Addicted Live/Addicted Live 
 /home/zeltak/mreview/FNM
+/home/zeltak/mreview/Chris Squire - 1975 Fish Out Of Water (2007 Expanded Edition)
 /home/zeltak/AUR/work_launch
 /home/zeltak/AUR/worker/src
 /home/zeltak/AUR/cantata/cantata-svn
@@ -2254,6 +2262,9 @@
 /home/zeltak/.mail/gmail/Boris/new
 /home/zeltak/.mail/gmail/[Gmail]/.All Mail/new
 /home/zeltak/.mail/gmail/[Gmail]/.All Mail/cur
+/home/zeltak/.mail/gmail/[Gmail]/.Starred/cur
+/home/zeltak/.mail/gmail/[Gmail]/.Starred/new
+/home/zeltak/.mail/gmail/[Gmail]/.Starred/tmp
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/deps
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/modules
 /home/zeltak/.mozilla/firefox/rf1ckah0.default/extensions/keefox@chris.tomlinson/defaults/preferences
@@ -2294,6 +2305,8 @@
 /home/zeltak/.jabref/plugins
 /home/zeltak/Mail/archive/sent
 /home/zeltak/Mail/queue
+/home/zeltak/Mail/lost+found
+/home/zeltak/Mail/draft
 /home/zeltak/FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg]
 /home/zeltak/FIFA.World.Cup.2014.Group.D.Uruguay.vs.Costa.Rica.720p.HDTV.x264-BALLS[rarbg]
 /home/zeltak/Uni/personal/900000
@@ -2471,6 +2484,9 @@
 /home/zeltak/media/comics
 /home/zeltak/media/emacs
 /home/zeltak/media/Fury.2014.1080p.WEB-DL.DD5.1.H264-RARBG
+/home/zeltak/media/emacs.hangout
+/home/zeltak/media/Eastbound and Down Season 4 Complete
+/home/zeltak/media/Dumb and Dumber To (2014)
 /home/zeltak/mtp/Internal storage/Movies
 /home/zeltak/mtp/Internal storage/comic/new avengers
 /home/zeltak/mtp/Internal storage/Android/data
@@ -2638,6 +2654,7 @@
 /home/zeltak/.emacs.drasi
 /home/zeltak/.password-storeOLD
 /home/zeltak/mtp2/Internal Memory/Podcasts
+/home/zeltak/.elmo
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
@@ -2708,6 +2725,10 @@
 /usr/bin
 /tmp
 /var/log
+/var/spool/anacron
+/var/spool/cron
+/var/spool/mail
+/var/spool/samba
 /mnt/boot
 /mnt/thumb/loader
 /boot/EFI/gummiboot

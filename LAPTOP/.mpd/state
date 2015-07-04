@@ -1,4 +1,4 @@
-sw_volume: 31
+sw_volume: 39
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: pause
