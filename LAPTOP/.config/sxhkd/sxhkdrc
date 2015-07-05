@@ -30,7 +30,14 @@ shift+control+ Insert
 #gpaste
 alt+shift+control+ Insert 
 #        /home/zeltak/bin/rofgpaste.sh
-         copyq show    
+         copyq show
+
+#brighntess
+XF86MonBrightnessUp
+	xbacklight -inc 10 # increase screen brightness
+
+XF86MonBrightnessDown
+	xbacklight -dec 10 # decrease screen brightness
 #################################################################33
 ###### TERMIANLS
 #################################################################33
