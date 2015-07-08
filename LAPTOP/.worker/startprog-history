@@ -1,5 +1,6 @@
-xournal
 mpv
+acroread
+xournal
 firefox
 qutebrowser
 chromium
@@ -8,7 +9,6 @@ gimp
 gedit
 libreoffice
 okular
-acroread
 vlc
 git rm
 gvim
