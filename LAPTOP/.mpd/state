@@ -1,9 +1,7 @@
-sw_volume: 45
+sw_volume: 100
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
-current: 40
-time: 274.181000
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -212,4 +210,5 @@ playlist_begin
 197:Fleetwood Mac/1988 Greatest Hits/07 You Make Loving Fun.mp3
 198:Billy Joel/1985 Greatest Hits, Volume I & Volume II/02 Captain Jack.mp3
 199:Sparks/1974 Propaganda/02 At Home, at Work, at Play.mp3
+200:Waterboys, The/1993 This Is the Sea/07 Be My Enemy.flac
 playlist_end
