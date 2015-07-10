@@ -41,7 +41,7 @@ stopaftercurrenttrack=none,none,Stop After Current Track
 stopplayback=Media Stop,Media Stop,Stop
 
 [kactivitymanagerd]
-_k_friendly_name=KDE Activity Manager
+_k_friendly_name=kactivitymanagerd
 switch-to-activity-2eccf2d2-f956-47e3-92c3-e5dd97795cbd=none,none,Switch to activity "Desktop"
 
 [kded]
@@ -115,7 +115,7 @@ Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,Reboot Witho
 _k_friendly_name=ksmserver
 
 [ktorrent]
-_k_friendly_name=ktorrent
+_k_friendly_name=KTorrent
 queue_suspend=Alt+Shift+P,Alt+Shift+P,Suspend Torrents
 show_kt=Alt+Shift+T,Alt+Shift+T,Show/Hide KTorrent
 
