@@ -93,7 +93,7 @@ ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
 DirSelectDialog Size=795,584
-History Items[$e]=file://$HOME/music
+History Items[$e]=file://$HOME/media,file://$HOME/music
 
 [General]
 ColorScheme=Breeze

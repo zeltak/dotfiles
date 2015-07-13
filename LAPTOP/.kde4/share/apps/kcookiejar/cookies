@@ -1,0 +1,5 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.maxmind.com]
+geolite.maxmind.com  ".maxmind.com"       "/"          1468085167    0 __cfduid             6    d7f67b10b08e5d5d98f7874be99aadfa51436549167
