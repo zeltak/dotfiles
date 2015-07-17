@@ -11,7 +11,7 @@ hidecursor=yes
 # the path where images, videos and pastes should be saved
 img_path=$HOME/ZH_tmp/Teiler/img/
 paste_path=$HOME/ZH_tmp/Teiler/paste/
-vid_path==$HOME/ZH_tmp/Teiler/cast/
+vid_path=$HOME/ZH_tmp/Teiler/cast/
 
 #naming
 random_string=$(date +'%Y-%m-%d-%H%M%S')
@@ -66,9 +66,9 @@ s3_bucket=
 s3_path_img=path/to/images
 s3_path_vid=path/to/videos
 s3_path_paste=path/to/pastes
-s3_http_img=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/images
-s3_http_vid=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/videos
-s3_http_paste=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/pastes
+#s3_http_img=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/images
+#s3_http_vid=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/videos
+#s3_http_paste=http://rasi-teiler.s3-website-eu-west-1.amazonaws.com/path/to/pastes
 
 
 # Screencast options
