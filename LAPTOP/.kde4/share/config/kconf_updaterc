@@ -11,12 +11,12 @@ done=1
 mtime=1376511772
 
 [devicepreference.upd]
-ctime=1435810482
+ctime=1437114270
 done=DevicesMovedToPlatformPlugin,DevicesUIDsChanged
 mtime=1434183996
 
 [drkonqi-rename-config-section.upd]
-ctime=1435810482
+ctime=1437114270
 done=kde-4.11
 mtime=1434183996
 
@@ -200,12 +200,12 @@ done=kde4.2
 mtime=1435288458
 
 [kuriikwsfilter.upd]
-ctime=1435810482
+ctime=1437114270
 done=post-kde3.1/cvs,pre-kde4.9
 mtime=1434183996
 
 [kwallet-4.13.upd]
-ctime=1435810482
+ctime=1437114270
 done=kde4.13
 mtime=1434183996
 
