@@ -145,6 +145,7 @@ bindsym $mod+d workspace $w10
 bindsym $mod+z workspace $w11,layout tabbed 
 bindsym $mod+x workspace $w12
 bindsym $mod+c workspace $w13
+bindsym $mod+6 workspace $w20
 
 # move focused container to workspace
 #bindsym $mod+Shift+49 move container to workspace $w1
@@ -166,11 +167,11 @@ bindsym $mod+Shift+c move container to workspace $w13
 #Dual head
 #########################
 # codes 34/35 are bracketleft and bracketright on bindsyms 
-bindcode $mod+34 move workspace to output left
-bindcode $mod+35 move workspace to output right
+bindcode $mod+Shift+34 move workspace to output left
+bindcode $mod+Shift+35 move workspace to output right
 #bindsym $mod+plus move workspace to output up
-bindcode $mod+Shift+34 move container to output left
-bindcode $mod+Shift+35 move container to output right
+bindcode $mod+34 move container to output left
+bindcode $mod++35 move container to output right
 
 
 #multi screens and workspaces

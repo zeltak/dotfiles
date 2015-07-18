@@ -94,10 +94,10 @@ super+ o
 ###########################
 super+p
 #	~/bin/pass.sh zpass 
-	rofi-pass type
+	rofi-pass 
 
 super+alt+p
-	rofi-pass 
+	rofi-pass --manage
 
 
 ###########################
