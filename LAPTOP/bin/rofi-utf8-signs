@@ -1,0 +1,17 @@
+#!/bin/bash
+
+main () {
+    menu_temp=$(cat $HOME/bin/signs | rofi -dmenu -format "f¬s" -filter "$filter" -select "$entry" -p "Choose Symbol > ")
+    menu="${menu_temp#*¬}"
+    sign=$(echo ${menu} | awk '{ print $1 }')
+    if [[ $menu == "" ]]; then
+        exit
+    fi
+    unset filter
+    export filter="${menu_temp%¬*}"
+    xdotool type "${sign}"
+    entry="$menu"
+    main
+}
+
+main
