@@ -120,24 +120,33 @@ alt+super + 4
 
 
 #WS6-FM
-alt+super + q 
-	 worker
+#alt+super + q 
+#	 worker
 	 #spacefm 
+
+
+
+#WS6-sunrise
+alt+super + q
+     emacsclient -c --eval "(sunrise)"
+
+
 
 #WS7-SSH
 alt+super + w
-            #exec urxvt -name tmux_mpd -e tmux_mpd 
             cantata
+
+
+#launch_ssh
+alt+super+W
+	    exec /home/zeltak/bin/ssh_karif
 
 
 
 
 #WS8-Org tech
-
-
-#launch_ssh
-alt+super+w 
-	    exec /home/zeltak/bin/ssh_karif
+alt+super+e 
+     emacsclient -c /home/zeltak/org/files/Tech/linux.org
 
 
 
@@ -153,6 +162,8 @@ alt+super+s
 #WS11-org Work
 alt+super + d
      emacsclient -c /home/zeltak/org/files/agenda/Research.org
+
+
 
 #WS13-TeamV
 alt+super + z 
