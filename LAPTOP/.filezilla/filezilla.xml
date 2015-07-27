@@ -51,7 +51,7 @@
         <Setting name="Auto Ascii dotfiles">1</Setting>
         <Setting name="Theme">opencrystal/</Setting>
         <Setting name="Language Code" />
-        <Setting name="Last Server Path"></Setting>
+        <Setting name="Last Server Path" />
         <Setting name="Concurrent download limit">0</Setting>
         <Setting name="Concurrent upload limit">0</Setting>
         <Setting name="Update Check">1</Setting>
@@ -132,7 +132,7 @@
             <Port>21</Port>
             <Protocol>0</Protocol>
             <Type>0</Type>
-            <User>zftp</User>
+            <User>europm</User>
             <Logontype>2</Logontype>
             <TimezoneOffset>0</TimezoneOffset>
             <PasvMode>MODE_DEFAULT</PasvMode>
