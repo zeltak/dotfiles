@@ -2,8 +2,8 @@ sw_volume: 32
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
-current: 24
-time: 96.455000
+current: 27
+time: 3.831000
 random: 0
 repeat: 0
 single: 0
