@@ -9,9 +9,9 @@ slop_border=2
 hidecursor=yes
 
 # the path where images, videos and pastes should be saved
-img_path=$HOME/ZH_tmp/Teiler/img/
-paste_path=$HOME/ZH_tmp/Teiler/paste/
-vid_path=$HOME/ZH_tmp/Teiler/cast/
+img_path=$HOME/ZH_tmp/Teiler/img
+paste_path=$HOME/ZH_tmp/Teiler/paste
+vid_path=$HOME/ZH_tmp/Teiler/cast
 
 #naming
 random_string=$(date +'%Y-%m-%d-%H%M%S')
@@ -106,9 +106,9 @@ INDICATOR_PIDFILE=/tmp/$USER-teiler-indicator.pid
 time=1000
 namekey=teiler
 random_string=$(date +%s | sha256sum | base64 | head -c 4 ; echo)
-img_filemask=$random_string
+img_filemask=$random_string.png
 vid_filemask=$random_string
-paste_filemask=$random_string
+paste_filemask=$random_string.txt
 
 editor=pinta
 
