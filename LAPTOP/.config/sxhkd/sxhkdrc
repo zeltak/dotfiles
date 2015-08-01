@@ -82,7 +82,8 @@ super+ i
 
 #Emacs capture
 super+ u
-       urxvt -name ecapture -e emacsclient -t org-protocol:/capture:/URL/TITLE/BODY
+       terminator --geometry=1200x900 -c ocapture -e "emacsclient -nw -e '(org-capture)'"  
+
 
 #help menu
 super+ o

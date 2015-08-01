@@ -208,7 +208,7 @@ bindsym $mod+mod1+Control+m mode "xrandr- m(obile)/h(ome)/o(ffice)"
 #WORKSPACE #1
 #WORKSPACE #2 (WWW) 
 assign [Class="dwb|Navigator|Firefox|firefox|chromium|<unknown>|plugin-container|operapluginwrapper|npviewer.bin"] $w2
-#WORKSPACE #3 (browsers)
+#WORKSPACE #3 (terms)
 assign [Class="main_term"] $w3
 assign [window_role="tmux_terms"] $w3
 assign [window_role="rterm"] $w3
@@ -253,6 +253,7 @@ assign [instance="gthumb|Gthumb|Shotwell|shotwell|digikam|Digikam|gimp|inkscape"
 #for_window [instance="float_term"] floating enable
 for_window [instance="ecapture"] floating enable
 for_window [class="Gcolor2"] floating enable
+for_window [class="ocapture"] floating enable
 for_window [instance="spad"] floating enable
 for_window [title="keepass"] floating enable
 for_window [instance="ecapture"] floating enable
