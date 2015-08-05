@@ -74,7 +74,7 @@ super + Insert
 #rofi switcher
 alt+q
 #      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
-       rofi -show combi -modi "combi" -combi-modi "window,run" -auto-select -location 8 -width 750 -lines 30 -fixed-num-lines
+       rofi -show combi -modi "combi" -combi-modi "window,run" -auto-select  -width 950 -lines 20 -fixed-num-lines
 
 #help menu
 super+ i 
@@ -98,7 +98,7 @@ super+p
 	rofi-pass 
 
 super+alt+p
-	rofi-pass --manage
+	rofi-pass --last-used
 
 
 ###########################

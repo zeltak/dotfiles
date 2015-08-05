@@ -2,6 +2,11 @@
 # set backend, valid choices: rofi, dmenu
 backend=rofi
 
+# custom rofi settings (rofi reads settings from ~/.Xresources)
+# but you can override settings here.
+rofiopts="-no-levenshtein-sort -i"
+
+
 # custom rofi settings (if needed)
 #rofiopts="-width 35 -padding 12 -lines 40 -opacity 80"
 

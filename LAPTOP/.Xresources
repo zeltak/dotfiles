@@ -71,10 +71,11 @@ rofi.borderwidth:	     1
 ! rofi.color-window:          #000000,#0C73C2
 
 !!!! Solarized light theme
-rofi.color-normal:                   argb:33fdf6e3,#002b36,#eee8d5,#586e75,#eee8d5
+rofi.color-normal:                   #fdf6e3,#002b36,#eee8d5,#586e75,#eee8d5
 rofi.color-urgent:                   #fdf6e3,#dc322f,#eee8d5,#dc322f,#fdf6e3
 rofi.color-active:                   #fdf6e3,#268bd2,#eee8d5,#268bd2,#fdf6e3
-rofi.color-window:                   argb:33002b36,#002b36
+rofi.color-window:                   #002b36,#002b36
+
 
 !!!! rasi theme
 !rofi.color-normal:          #000000,#A0A0A0,#000000,#0C73C2,#FFFFFF
@@ -85,7 +86,8 @@ rofi.color-window:                   argb:33002b36,#002b36
 
 !font
 !rofi.font:                  Pragmata Pro 14
-rofi.font:                  ubuntu mono 14
+!rofi.font:                  ubuntu mono 14
+rofi.font:                  fira mono 14
 
 
 

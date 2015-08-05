@@ -32,6 +32,10 @@ exec cantata &
 
 ##compositor
 exec compton &
+
+#for Emacs avfs sunrise support
+exec grep -q "^avfsd $HOME/.avfs " /proc/mounts || avfsd ~/.avfs -o auto_cache 
+
 #exec dropboxd &
 #exec sparkleshare start &
 ##disable trackpad
