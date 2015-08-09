@@ -64,7 +64,7 @@ alt+super+Return
 
 #Rofi
 #rofi launcher
-#alt+w 
+mm#alt+w 
 #      rofi -show run -auto-select  -location 8 -width 450 -lines 30 -fixed-num-lines   
 
 #rofi start menu
@@ -90,6 +90,10 @@ super+ o
         teiler --screenshot          
 
 
+#search menu
+super+ Scroll_Lock
+        rofi-surfraw
+
 ###########################
 #WS password-store
 ###########################
@@ -100,15 +104,21 @@ super+p
 super+alt+p
 	rofi-pass --last-used
 
+super+shift+p
+	rofi-pass --show-last
+
 
 ###########################
 #WS app launcher
 ###########################
 
+alt+super + 1
+      emacs -gnus
+
 #WS3-Browser
 alt+super + 2 
       #firefox
-      #chromium
+      chromium
       
 #WS4-mpd_console
 alt+super + 3

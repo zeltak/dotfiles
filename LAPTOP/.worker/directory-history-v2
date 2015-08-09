@@ -563,6 +563,10 @@
 1436699758:/home/zeltak/.emacs.d/elpa/company-20150624.334
 1437056842:/home/zeltak/.emacs.d/elpa/sunrise-x-modeline-2.423
 1437067314:/home/zeltak/.emacs.d/elpa/openwith-20120531.1436
+1439059487:/home/zeltak/.emacs.d/elpa/org-20150803
+1439059881:/home/zeltak/.emacs.d/elpa/org-bullets-20140918.1137
+1439060248:/home/zeltak/.emacs.d/elpa/org-20150805/etc/styles
+1439060745:/home/zeltak/.emacs.d/elpa/org-plus-contrib-20150805
 1436109780:/home/zeltak/.emacs.d/nonelpa/emacs-leuven-theme
 1436109780:/home/zeltak/.emacs.d/nonelpa/i3-emacs
 1436109780:/home/zeltak/.emacs.d/nonelpa/navi
@@ -661,6 +665,7 @@
 1438666864:/home/zeltak/Downloads/office 2010/x64/Excel.en-us
 1438666866:/home/zeltak/Downloads/office 2010/x64/Catalog
 1438773360:/home/zeltak/Downloads/file.zip#uzip
+1438960751:/home/zeltak/Downloads/org-20150803.zip#uzip
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen - 2000 - Field Commander Cohen - Tour of 79
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/completed/Dave Brubeck Quartet - Time Out_Stig
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/completed/Crosby Stills Nash - Crosby Stills Nash (2012) [Flac] {HDtracks 24-96}
@@ -1951,6 +1956,8 @@
 1436109780:/home/zeltak/BK/emacs/19.6.15/.emacs.d
 1436109780:/home/zeltak/BK/emacs/28.6.2015/.emacs.d
 1437900376:/home/zeltak/BK/emacs/26.7
+1438958069:/home/zeltak/BK/emacs/4.8.2015/.emacs.d
+1439024398:/home/zeltak/BK/emacs/8.8.2015/.emacs.d
 1436109780:/home/zeltak/BK/btsync
 1436109780:/home/zeltak/BK/i3
 1436109780:/home/zeltak/BK/teiler
@@ -2328,9 +2335,12 @@
 1436109780:/home/zeltak/.vimperator/info/default
 1436109780:/home/zeltak/.jabref/plugins
 1436109780:/home/zeltak/Mail/archive/sent
-1437728982:/home/zeltak/Mail/queue
-1437728979:/home/zeltak/Mail/lost+found
-1437728983:/home/zeltak/Mail/draft
+1439025310:/home/zeltak/Mail/queue
+1439025308:/home/zeltak/Mail/lost+found
+1439025322:/home/zeltak/Mail/draft
+1439025306:/home/zeltak/Mail/inbox
+1439025308:/home/zeltak/Mail/postq
+1439025321:/home/zeltak/Mail/drafts
 1436109780:/home/zeltak/FIFA.World.Cup.2014.Group.D.England.Vs.Italy.720p.HDTV.x264-W4F[rarbg]
 1436109780:/home/zeltak/FIFA.World.Cup.2014.Group.D.Uruguay.vs.Costa.Rica.720p.HDTV.x264-BALLS[rarbg]
 1436109780:/home/zeltak/Uni/personal/900000
@@ -2536,7 +2546,7 @@
 1436109780:/home/zeltak/mtp/Internal Memory/music
 1436109780:/home/zeltak/mtp/Internal Memory/Service
 1436109780:/home/zeltak/mtp/Internal Memory/Record
-1438773298:/home/zeltak/.mpd
+1438958033:/home/zeltak/.mpd
 1436109780:/home/zeltak/CheckPoint
 1436109780:/home/zeltak/SparkleShare
 1436109780:/home/zeltak/doublecmd
@@ -2601,20 +2611,21 @@
 1436109780:/home/zeltak/configs
 1436109780:/home/zeltak/.emacs.g/src
 1436109780:/home/zeltak/.emacs.g/ASynK/config
-1436109780:/home/zeltak/.emacs.g/extra/org-download
-1436109780:/home/zeltak/.emacs.g/extra/org-dp
+1439059659:/home/zeltak/.emacs.g/extra/org-download
+1439059697:/home/zeltak/.emacs.g/extra/org-dp
 1436109780:/home/zeltak/.emacs.g/extra/org-ref
-1436109780:/home/zeltak/.emacs.g/extra/org-screenshot
+1439059703:/home/zeltak/.emacs.g/extra/org-screenshot
 1436109780:/home/zeltak/.emacs.g/extra/edit-server
-1436109780:/home/zeltak/.emacs.g/ESS
+1439059717:/home/zeltak/.emacs.g/ESS
 1436109780:/home/zeltak/.emacs.g/password-store
 1436109780:/home/zeltak/.emacs.g/org-mode/lisp
-1436109780:/home/zeltak/.emacs.g/org-mode/contrib/lisp
+1439059765:/home/zeltak/.emacs.g/org-mode/contrib/lisp
 1436109780:/home/zeltak/.emacs.g/org-mode/contrib/scripts
 1436109780:/home/zeltak/.emacs.g/transmission
 1436109780:/home/zeltak/.emacs.g/org-ref
 1436109780:/home/zeltak/.emacs.g/tmtxt-dired-async/.git
 1436109780:/home/zeltak/.emacs.g/tmtxt-async-tasks
+1439059714:/home/zeltak/.emacs.g/company-org-headings
 1436109780:/home/zeltak/.unison
 1436109780:/home/zeltak/uni
 1436109780:/home/zeltak/.emacs.t/undo-files

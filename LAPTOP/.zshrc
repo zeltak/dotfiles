@@ -225,6 +225,8 @@ alias bl='beet list'
 #to ask for both keys at startup
 eval $(keychain --eval --agents ssh -Q --quiet id_rsa id_rsa_github)
 
+#fasd
+eval "$(fasd --init auto)"
 
 #teamocil completions
 compctl -g '~/.teamocil/*(:t:r)' teamocil
