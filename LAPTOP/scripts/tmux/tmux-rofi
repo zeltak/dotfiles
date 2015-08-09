@@ -1,0 +1,29 @@
+#!/bin/bash
+
+splitList () {
+    _windowindex=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $2 }' | awk -F '.' '{ print $1 }')
+    _paneindex=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $2 }' | awk -F '.' '{ print $2 }')
+    _windowname=$(echo "${_windowlist}" | awk -F '  ' '{ print $2 }')
+    _sessionname=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $1 }')
+}
+
+main () {
+    HELP="<span color=\"#0C73C2\">Alt+1: Switch to pane | Alt+2: A1 | Alt+3: A2</span>"
+    _windowlist=$(tmux lsp -aF'#{session_name}:#{window_index}.#{pane_index}+#{window_name}+#{pane_current_command}+"#{pane_title}"' | column -t -s "+" -o "  " | rofi -dmenu -mesg "${HELP}" -p "search > ")
+    rofi_exit=$?
+    splitList
+
+    if [[ ${rofi_exit} -eq 10 ]]; then
+        tmux select-window -t "${_sessionname}:${_windowindex}" 
+    elif [[ ${rofi_exit} -eq 11 ]]; then
+        SOME OTHER COMMAND TO RUN
+    elif [[ ${rofi_exit} -eq 12 ]]; then
+        SOME OTHER COMMAND TO RUN
+    fi
+echo "${_windowindex} ${_paneindex} ${_windowname} ${_sessionname}"
+}
+
+main
+
+# -eq 10-12 are Alt+1 - Alt+3 in default rofi configuration
+
