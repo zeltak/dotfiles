@@ -76,7 +76,7 @@ alt+q
 #      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
 #       rofi -show combi -modi "combi" -combi-modi "window,run" -auto-select  -width 950 -lines 20 -fixed-num-lines
 #with tmux support
-       rofi -show combi -modi "combi" -combi-modi "window,run,tmux:/home/zeltak/bin/tmux-rofi-modi.sh" -auto-select  -width 950 -lines 20 -fixed-num-lines
+       rofi -show combi -modi "combi" -combi-modi "window,run,tmux:/home/zeltak/bin/tmux-rofi-modi-ss.sh" -auto-select  -width 950 -lines 20 -fixed-num-lines
 
 #help menu
 super+ i 

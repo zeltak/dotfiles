@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 if [[ -z $@ ]]
 then
@@ -12,11 +12,14 @@ else
     _windowindex=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $2 }' | awk -F '.' '{ print $1 }')
     _paneindex=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $2 }' | awk -F '.' '{ print $2 }')
     _windowname=$(echo "${_windowlist}" | awk -F '  ' '{ print $2 }')
+    _appname=$(echo "${_windowlist}" | awk -F '  ' '{ print $3+NF}')
     _sessionname=$(echo "${_windowlist}" | awk -F '  ' '{ print $1 }' | awk -F ':' '{ print $1 }')
 
     if [[ -n "${_windowlist}" ]]
     then
         tmux select-window -t "${_sessionname}:${_windowindex}" 
+        WID=$(xdotool search --name "tmux - " | tail -1)
+        xdotool windowactivate --sync $WID
         killall rofi
     fi
 fi
