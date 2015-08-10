@@ -1,0 +1,3 @@
+help_color="#0C73C2"
+default=google
+BROWSER=chromium
