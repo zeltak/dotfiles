@@ -1,9 +1,9 @@
 updateInfoAdded=true
 
 [adjustlevelstool.upd]
-ctime=1420130748
+ctime=1439481658
 done=adjustlevels2.6.0
-mtime=1415789568
+mtime=1437951344
 
 [amarok.upd]
 ctime=1412417425
@@ -11,12 +11,12 @@ done=1
 mtime=1376511772
 
 [devicepreference.upd]
-ctime=1437114270
+ctime=1439532258
 done=DevicesMovedToPlatformPlugin,DevicesUIDsChanged
 mtime=1434183996
 
 [drkonqi-rename-config-section.upd]
-ctime=1437114270
+ctime=1439532258
 done=kde-4.11
 mtime=1434183996
 
@@ -200,12 +200,12 @@ done=kde4.2
 mtime=1435288458
 
 [kuriikwsfilter.upd]
-ctime=1437114270
+ctime=1439532258
 done=post-kde3.1/cvs,pre-kde4.9
 mtime=1434183996
 
 [kwallet-4.13.upd]
-ctime=1437114270
+ctime=1439532258
 done=kde4.13
 mtime=1434183996
 
@@ -265,9 +265,9 @@ done=initial-mailfilteragent-migration
 mtime=1415263547
 
 [mailtransports.upd]
-ctime=1418106496
+ctime=1439481648
 done=initial-kmail-migration,initial-knode-migration
-mtime=1415135967
+mtime=1435149794
 
 [newmailnotifier.upd]
 ctime=1418106559

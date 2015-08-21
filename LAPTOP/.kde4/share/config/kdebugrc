@@ -1,6 +1,9 @@
 [FavIcons]
 InfoOutput=4
 
+[KPasswdServer]
+InfoOutput=2
+
 [KSRandr]
 InfoOutput=4
 
@@ -98,6 +101,9 @@ InfoOutput=2
 InfoOutput=4
 
 [kio_help]
+InfoOutput=4
+
+[kio_network]
 InfoOutput=4
 
 [kio_thumbnail]
