@@ -289,7 +289,7 @@ shift+super+Print
 
 #browse library
 super+comma
-      clerk --browse artist
+      clerk --add album
 
 #load random album
 alt+super+comma 

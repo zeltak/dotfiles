@@ -225,10 +225,10 @@ for_window [title="Worker Configuration"] floating enable
 assign [window_role="termfm"] $w5
 for_window [window_role="termfm"] floating enable
 #WORKSPACE #7 (ssh)
-assign [window_role="ssh_home"] $w7
-assign [window_role="ssh_karif"] $w7
+assign [window_role="ssh_home"] $w6
+assign [window_role="ssh_karif"] $w6
 #WORKSPACE #8 (Notecase)
-assign [instance="org"] $w8
+assign [instance="org"] $w7
 #WORKSPACE #9 (Editor)
 assign [instance="gvim"] $w8
 #assign [Class="Emacs"] 9:Vim

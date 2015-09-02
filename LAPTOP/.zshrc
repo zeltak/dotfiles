@@ -160,6 +160,9 @@ alias badd='sed "s:/home/zeltak/music/::" | sed "s/ /\ /g" | mpc add'
 alias baddr='sed "s:/home/zeltak/music/::" | sed "s/ /\ /g" | mpc add'
 alias bl='beet list'
 
+#IP
+alias ipx='ip address'
+
 
 #--------------> ARCHIVED ALIASES
 # #taskwarrior

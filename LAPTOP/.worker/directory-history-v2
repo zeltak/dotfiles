@@ -66,8 +66,9 @@
 1436109780:/home/zeltak/.config/devilspie2
 1436109780:/home/zeltak/.config/copyq
 1436109780:/home/zeltak/.config/systemd/user/default.target.wants
-1439907540:/home/zeltak/.config/rofi-surfraw
+1440688891:/home/zeltak/.config/rofi-surfraw
 1440182831:/home/zeltak/.config/rofi-pass
+1441101525:/home/zeltak/.config/clerk2
 1436109780:/home/zeltak/bin/ecapture.sh
 1436109780:/home/zeltak/bin/helpmenu.sh
 1436109780:/home/zeltak/bin/.qiv-select
@@ -216,7 +217,16 @@
 1436110108:/home/zeltak/ZH_tmp/webpages
 1436626550:/home/zeltak/ZH_tmp/sunrisetst
 1439454985:/home/zeltak/ZH_tmp/download_2015-08-13_11-23-31.zip#uzip/transmission/completed/Destroyer - Poison Season (2015) l Audio l Album Track l 320Kbps l CBR l Mp3 l sn3h1t87
-1439552315:/home/zeltak/ZH_tmp/bw
+1440956573:/home/zeltak/ZH_tmp/bw/Brian Wilson - No Pier Pressure (Deluxe Edition) (2015) {FLAC} vtwin88cube
+1440742894:/home/zeltak/ZH_tmp/trav
+1440933346:/home/zeltak/ZH_tmp/IBEFRIA/clerk-tabbed.zip#uzip
+1440938027:/home/zeltak/ZH_tmp/flight
+1440956565:/home/zeltak/ZH_tmp/Orgzly _ Notes & To-Do Lists_files
+1440956566:/home/zeltak/ZH_tmp/Plain lists - The Org Manual - http___orgmode.org__files
+1440956576:/home/zeltak/ZH_tmp/Destroyer - Poison Season (2015) l Audio l Album Track l 320Kbps l CBR l Mp3 l sn3h1t87
+1440956580:/home/zeltak/ZH_tmp/pwmt.org - https___pwmt.org__files
+1440956582:/home/zeltak/ZH_tmp/org-20150805
+1440956583:/home/zeltak/ZH_tmp/takeout
 1436109780:/home/zeltak/music/Neko Case/2009 Middle Cyclone
 1436109780:/home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 1436109780:/home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1276,12 +1286,24 @@
 1440261277:/home/zeltak/mounts/lraid/raid/Videos/TV/Comedy/Archer
 1440355106:/home/zeltak/mounts/lraid/raid/Videos/TV/Travel
 1440355118:/home/zeltak/mounts/lraid/raid/Videos/TV/Food/Anthony Bourdain No Reservations/Season 7
+1441115009:/home/zeltak/mounts/lraid/raid/Pictures/$Inbox/1.9.2015
 1436109780:/home/zeltak/mounts/lr
-1439907540:/home/zeltak/.mpd
+1440688891:/home/zeltak/.mpd
 1439907540:/home/zeltak/BK/emacs/4.8.2015/.emacs.d
 1439907540:/home/zeltak/dotfiles/LAPTOP
 1440135072:/home/zeltak/Uni/#MY_papers/bw-ta/ehp/proofs
-1440264547:/home/zeltak/mreview
-1440264579:/home/zeltak/media
+1440688896:/home/zeltak/Uni/Presentations/ERSA2015
+1441092330:/home/zeltak/Uni/BGU/exposure_lab
+1441114847:/home/zeltak/mreview
+1440688891:/home/zeltak/media
 1440400415:/home/zeltak/org/files/agenda
 1440400417:/home/zeltak/org/files/archive
+1440956692:/home/zeltak/.emacs.g/gmail2bbdb
+1441103063:/home/zeltak/.password-store/home/zeltak/.password-store/Zpass_2014/Web/Uni/Journals
+1441101948:/home/zeltak/.password-store/Zpass_2014/Computers/Email and IM/IM's
+1441103100:/home/zeltak/.password-store/Zpass_2014/Web/services/Phone
+1441103110:/home/zeltak/.password-store/Zpass_2014/Web/Uni/Journals
+1441113989:/home/zeltak/mtp/SD card/DCIM/Camera
+1441114759:/home/zeltak/mtp/SD card/DCIM/100ANDRO
+1441114795:/home/zeltak/mtp/Internal storage/DCIM/Camera
+1441115557:/home/zeltak/mtp/Internal storage/DCIM/100ANDRO

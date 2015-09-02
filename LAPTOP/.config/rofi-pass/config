@@ -1,5 +1,5 @@
 # set path to password store
-basedir=~/.password-store/
+root= ~/.password-store
 
 # optional rofi parameters:
 rofiopts="-i -no-levenshtein-sort"

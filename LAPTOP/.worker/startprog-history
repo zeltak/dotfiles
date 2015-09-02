@@ -1,3 +1,4 @@
+zathura
 acroread
 xournal
 emacsclient
@@ -33,4 +34,3 @@ feh --scale-down -f
 feh --scale-down
 feh -f.
 cat
-zathura
