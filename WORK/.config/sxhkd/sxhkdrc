@@ -23,8 +23,21 @@ control+alt+super + s
 
 #gpaste
 shift+control+ Insert 
-        /home/zeltak/bin/rofgpaste.sh
+#        /home/zeltak/bin/rofgpaste.sh
+         copyq menu    
 
+
+#gpaste
+alt+shift+control+ Insert 
+#        /home/zeltak/bin/rofgpaste.sh
+         copyq show
+
+#brighntess
+XF86MonBrightnessUp
+	xbacklight -inc 10 # increase screen brightness
+
+XF86MonBrightnessDown
+	xbacklight -dec 10 # decrease screen brightness
 #################################################################33
 ###### TERMIANLS
 #################################################################33
@@ -43,6 +56,7 @@ alt+super+control+Return
 alt+super+Return
          terminator -l 4w 
 
+      
 
 #################################################################33
 ###### LAUNCHERS
@@ -50,8 +64,8 @@ alt+super+Return
 
 #Rofi
 #rofi launcher
-alt+w 
-      rofi -zeltak -rnow   -location 8 -width 350 -lines 30 -fixed-num-lines   
+mm#alt+w 
+#      rofi -show run -auto-select  -location 8 -width 450 -lines 30 -fixed-num-lines   
 
 #rofi start menu
 super + Insert 
@@ -59,46 +73,99 @@ super + Insert
 
 #rofi switcher
 alt+q
-      rofi  -zeltak -now  -location 8 -width 350 -lines 30 -fixed-num-lines  
-
+#      rofi  -modi "window,run" -show window -auto-select -location 8 -width 350 -lines 30 -fixed-num-lines  
+#       rofi -show combi -modi "combi" -combi-modi "window,run" -auto-select  -width 950 -lines 20 -fixed-num-lines
+#with tmux support
+       rofi -show combi -modi "combi" -combi-modi "window,run,tmux:/home/zeltak/bin/tmux-rofi-modi-ss.sh" -auto-select  -width 950 -lines 20 -fixed-num-lines
 
 #help menu
 super+ i 
         /home/zeltak/bin/rofi_help       
 
+#Emacs capture
+super+ u
+       terminator --geometry=1200x900 -c ocapture -e "emacsclient -nw -e '(org-capture)'"  
+
+
+#help menu
+super+ o
+        teiler --screenshot          
+
+
+#search menu
+#super+ Scroll_Lock
+        rofi-surfraw
+
+###########################
+#WS password-store
+###########################
+super+p
+#	~/bin/pass.sh zpass 
+	~/programs/rofi-pass/rofi-pass 
+
+super+alt+p
+	~/programs/rofi-pass/rofi-pass --last-used
+
+super+shift+p
+	rofi-pass --last-used  --show-last
+
+
 ###########################
 #WS app launcher
 ###########################
 
+alt+super + 1
+      emacs -gnus
+
 #WS3-Browser
 alt+super + 2 
-      firefox
-
+      #firefox
+      chromium
+      
 #WS4-mpd_console
-alt+super + 3 
-            #exec urxvt -name tmux_mpd -e tmux_mpd 
-            cantata
+alt+super + 3
+         terminator
+
+
 #WS5-volume control
 alt+super + 4 
 	  pavucontrol 
 
+
 #WS6-FM
-alt+super + q 
-	 worker
+#alt+super + q 
+#	 worker
 	 #spacefm 
 
+
+
+#WS6-sunrise
+alt+super + q
+     emacsclient -c --eval "(sunrise)"
+
+
+
 #WS7-SSH
+alt+super + w
+            cantata
+
+
 #launch_ssh
-alt+super+w 
+alt+super+W
 	    exec /home/zeltak/bin/ssh_karif
 
+
+
+
 #WS8-Org tech
-alt+super + e
-     emacsclient -c  /home/zeltak/org/files/Tech/linux.org
+alt+super+e 
+     emacsclient -c /home/zeltak/org/files/Tech/linux.org
+
+
 
 #WS9-plain emacs
 alt+super+a 
-     emacsclient -c /home/zeltak/.emacs.d/econf.org 
+     emacsclient -c /home/zeltak/.emacs.d/settings.org 
 
 #WS10-org TODO
 alt+super+s
@@ -108,6 +175,8 @@ alt+super+s
 #WS11-org Work
 alt+super + d
      emacsclient -c /home/zeltak/org/files/agenda/Research.org
+
+
 
 #WS13-TeamV
 alt+super + z 
@@ -169,16 +238,28 @@ alt+super + Return
 #----> MM KEYS
 
 #MPD Play/Pause
-XF86Launch1 
-      mpc toggle 
+XF86AudioPlay 
+       MPD_HOST=132.72.154.204 MPD_PORT=6600 mpc toggle
+
+
+#MPD next
+XF86AudioNext 
+       MPD_HOST=132.72.154.204 MPD_PORT=6600  mpc next 
+
+
+#MPD next
+XF86AudioPrev 
+       MPD_HOST=132.72.154.204 MPD_PORT=6600 mpc prev 
 
 #mpd vol up
-shift+XF86AudioRaiseVolume 
-     mpc volume +4 
+XF86AudioRaiseVolume 
+       MPD_HOST=132.72.154.204 MPD_PORT=6600 mpc volume +4 
 
 #mpd vol down
-shift+XF86AudioLowerVolume 
-     mpc volume -4 
+XF86AudioLowerVolume 
+      MPD_HOST=132.72.154.204 MPD_PORT=6600  mpc volume -4 
+
+
 
 #----> PRINT KEY (mpd/clerk)
 
@@ -191,7 +272,7 @@ super+Print
       clerk 
 
 #mpd queue 
-shift+Print
+shift+super+Print
       clerk --queue show
 
 
@@ -200,7 +281,7 @@ shift+Print
 
 #browse library
 super+comma
-      clerk --browse artist
+      clerk --add album
 
 #load random album
 alt+super+comma 
@@ -208,11 +289,11 @@ alt+super+comma
 
 #latest library addons
 shift+super+comma
-      clerk --replace latest
+      clerk --add latest
 
 #add/insert/replace album
 control+super+comma 
-      clerk --replace album
+      clerk --add  album
 
 
 
@@ -220,7 +301,7 @@ control+super+comma
 
 #add/insert/replace track
 super+period
-      clerk --insert track
+      clerk --add  track
 
 #load rated tracks
 super+alt+ period  
@@ -237,7 +318,7 @@ super+slash
 
 #rate track 4
 super+alt+slash 
-      clerk --rate 8
+      clerk --rate instant 8
 
 #rate album
 control+super+slash
@@ -281,3 +362,4 @@ control+super+alt+ hebrew_finalkaph
 control+super+alt+ l
       /home/zeltak/bin/ls_hebrew.sh  
 
+#+END_SRC

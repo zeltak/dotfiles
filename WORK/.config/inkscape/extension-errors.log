@@ -9,18 +9,6 @@ Extension "LaTeX formula" failed to load because a dependency was not met.
 Dependency:
   type: executable
   location: path
-  string: latex
-
-Extension "LaTeX formula" failed to load because a dependency was not met.
-Dependency:
-  type: executable
-  location: path
-  string: dvips
-
-Extension "LaTeX formula" failed to load because a dependency was not met.
-Dependency:
-  type: executable
-  location: path
   string: pstoedit
 
 Extension "Sketch Input" failed to load because a dependency was not met.

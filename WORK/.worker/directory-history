@@ -148,6 +148,36 @@
 /home/zeltak/ZH_tmp/borders.zip#uzip
 /home/zeltak/ZH_tmp/grid_metadata_dem_openplace_roadden.zip#uzip
 /home/zeltak/ZH_tmp/il_merge.zip#uzip
+/home/zeltak/ZH_tmp/87630719000000pp528168.zip#uzip
+/home/zeltak/ZH_tmp/030325765317171.zip#uzip/030325765317171
+/home/zeltak/ZH_tmp/bdvi
+/home/zeltak/ZH_tmp/gridID.rar#urar
+/home/zeltak/ZH_tmp/reshp.zip#uzip
+/home/zeltak/ZH_tmp/Final PM.zip#uzip
+/home/zeltak/ZH_tmp/NDVI_SWEDEN-2015-05-13.zip#uzip/NDVI_SWEDEN
+/home/zeltak/ZH_tmp/NDVI_SWEDEN-2015-05-13 (1).zip#uzip/NDVI_SWEDEN
+/home/zeltak/ZH_tmp/latlon.rar#urar
+/home/zeltak/ZH_tmp/France.zip#uzip
+/home/zeltak/ZH_tmp/France2.zip#uzip
+/home/zeltak/ZH_tmp/France
+/home/zeltak/ZH_tmp/france
+/home/zeltak/ZH_tmp/France2
+/home/zeltak/ZH_tmp/France3
+/home/zeltak/ZH_tmp/PM25_2003-2012.rar#urar
+/home/zeltak/ZH_tmp/PM10_2003-2012.rar#urar
+/home/zeltak/ZH_tmp/◊™◊û◊ï◊†◊ï◊™ ◊û◊õ◊ù.zip#uzip/öéÖêÖö éãç
+/home/zeltak/ZH_tmp/toy_example.zip#uzip
+/home/zeltak/ZH_tmp/toy
+/home/zeltak/ZH_tmp/water-polygons-split-4326.zip#uzip/water-polygons-split-4326
+/home/zeltak/ZH_tmp/shore_ne.zip#uzip
+/home/zeltak/ZH_tmp/coastlines-split-4326.zip#uzip/coastlines-split-4326
+/home/zeltak/ZH_tmp/elpa (1).zip#uzip/elpa
+/home/zeltak/ZH_tmp/emacs.g.zip#uzip/.emacs.g
+/home/zeltak/ZH_tmp/Rtmp
+/home/zeltak/ZH_tmp/data-2015-08-15.zip#uzip/data
+/home/zeltak/ZH_tmp/natural.zip#uzip
+/home/zeltak/ZH_tmp/landuse.zip#uzip
+/home/zeltak/ZH_tmp/or
 /home/zeltak/music/Neko Case/2009 Middle Cyclone
 /home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 /home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -347,6 +377,8 @@
 /home/zeltak/.emacs.d/elpa/ace-jump-mode-20140616.115
 /home/zeltak/.emacs.d/elpa/async-20140311.747
 /home/zeltak/.emacs.d/elpa/auctex-11.87.7
+/home/zeltak/.emacs.d/elpa/browse-kill-ring-20150104.1237
+/home/zeltak/.emacs.d/elpa/use-package-20150622.1044
 /home/zeltak/.emacs.d/nonelpa/emacs-leuven-theme
 /home/zeltak/.emacs.d/nonelpa/i3-emacs
 /home/zeltak/.emacs.d/nonelpa/navi
@@ -360,6 +392,7 @@
 /home/zeltak/.emacs.d/snippets/text-mode/latex-mode
 /home/zeltak/.emacs.d/snippets/text-mode/org-mode
 /home/zeltak/.emacs.d/snippets/editing
+/home/zeltak/.emacs.d/snippets/ess-mode
 /home/zeltak/.emacs.d/undo
 /home/zeltak/.emacs.d/url
 /home/zeltak/.emacs.d/eshell
@@ -431,6 +464,8 @@
 /home/zeltak/Downloads/btsync
 /home/zeltak/Downloads/SynologyAssistant-5.1-5002_x64.tar.gz#ugz#utar
 /home/zeltak/Downloads/Introduction_to_Statistics_and_Data_Analysis_Yonsei
+/home/zeltak/Downloads/SatelliteDataSeminar.zip#uzip
+/home/zeltak/Downloads/rome
 /home/zeltak/mounts/lraid/Download/transmission/completed/Leonard Cohen - 2000 - Field Commander Cohen - Tour of 79
 /home/zeltak/mounts/lraid/Download/transmission/completed/Dave Brubeck Quartet - Time Out_Stig
 /home/zeltak/mounts/lraid/Download/transmission/completed/Crosby Stills Nash - Crosby Stills Nash (2012) [Flac] {HDtracks 24-96}
@@ -1484,6 +1519,8 @@
 /home/zeltak/BK/org/27.7.14
 /home/zeltak/BK/org/2.8.2014
 /home/zeltak/BK/org/19.10.2014
+/home/zeltak/BK/org/18.7.2015
+/home/zeltak/BK/org/2.9
 /home/zeltak/BK/worker/19.3.2014
 /home/zeltak/BK/worker/21.3.2014
 /home/zeltak/BK/worker/29.10.2014
@@ -1495,6 +1532,8 @@
 /home/zeltak/BK/emacs/7.11.2014
 /home/zeltak/BK/emacs/19.12.2014
 /home/zeltak/BK/emacs/23.12.2014/.emacs.d/src
+/home/zeltak/BK/emacs/3.5.2015/.emacs.d/auto-save-list
+/home/zeltak/BK/emacs/28.6.2015/.emacs.d/snippets/org-mode
 /home/zeltak/BK/btsync
 /home/zeltak/BK/i3
 /home/zeltak/BK/teiler
@@ -1510,22 +1549,32 @@
 /home/zeltak/BK/Sync
 /home/zeltak/BK/.rstudio-desktop
 /home/zeltak/BK/rstudio
+/home/zeltak/BK/jabref.lib
+/home/zeltak/BK/bib
+/home/zeltak/BK/Uni
 /home/zeltak/org/files/agenda
 /home/zeltak/org/files/Uni/papers/bib/expolayouts/fdat files
+/home/zeltak/org/files/Uni/papers/auto
 /home/zeltak/org/files/Uni/Projects/code/P017.Medicare_MIA
 /home/zeltak/org/files/Uni/Projects/code/P031_MIAC_PM
 /home/zeltak/org/files/Uni/Projects/code/P043_BirthW_Temp_MA
 /home/zeltak/org/files/Uni/Projects/code/P001_NE_PM_MODELS
 /home/zeltak/org/files/Uni/Projects/code/P031.MIAC_PM/code_snips
+/home/zeltak/org/files/Uni/Projects/code/P031.MIAC_PM/v2.2015
 /home/zeltak/org/files/Uni/Projects/code/P029.BC_model
 /home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/archive
 /home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/CNNEW
 /home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/CMNEW.YEAR
 /home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/final
+/home/zeltak/org/files/Uni/Projects/code/P046.Israel_MAIAC/MAIAC-matlab-new
 /home/zeltak/org/files/Uni/Projects/code/P047.BW_MAIAC
 /home/zeltak/org/files/Uni/Projects/code/P020.Temprature_NE_MIA
 /home/zeltak/org/files/Uni/Projects/code/P045.Israel_LST
 /home/zeltak/org/files/Uni/Projects/code/P033.MIAC_MEXICO
+/home/zeltak/org/files/Uni/Projects/code/P031.MAIAC.France/archive
+/home/zeltak/org/files/Uni/Projects/code/P031.MAIAC.France/final
+/home/zeltak/org/files/Uni/Projects/code/C00Matlab
+/home/zeltak/org/files/Uni/Projects/code/P031.MAIAC.ITALY
 /home/zeltak/org/files/Uni/Courses/Planners_GIS
 /home/zeltak/org/files/Uni/Guides
 /home/zeltak/org/files/.SyncArchive
@@ -1713,7 +1762,8 @@
 /home/zeltak/Dropbox/uni/recipets
 /home/zeltak/Dropbox/Myers CO2 UCDavis HSPH/NATURE DATA
 /home/zeltak/.e/e
-/home/zeltak/.tmux
+/home/zeltak/.tmux/plugins/tmux-battery
+/home/zeltak/.tmux/plugins/tpm
 /home/zeltak/.zsh
 /home/zeltak/.task
 /home/zeltak/MLT/programs/worker
@@ -1833,7 +1883,14 @@
 /home/zeltak/Uni/#MY_papers/maayan-lipids, glucose and PM10 paper
 /home/zeltak/Uni/#MY_papers/DVT papaer/JTH/proofs
 /home/zeltak/Uni/#MY_papers/ricem
+/home/zeltak/Uni/#MY_papers/mexico_maiac_p1
+/home/zeltak/Uni/#MY_papers/behzad-pm paper revision/v4
+/home/zeltak/Uni/#MY_papers/France-Ta
+/home/zeltak/Uni/#MY_papers/mharis_prenatal_2016
+/home/zeltak/Uni/#MY_papers/joey2015
 /home/zeltak/Uni/BGU/consulting
+/home/zeltak/Uni/BGU/library.books.order
+/home/zeltak/Uni/BGU/Forms/abroad
 /home/zeltak/Uni/Courses
 /home/zeltak/Uni/grants/beterm
 /home/zeltak/Uni/grants/ESA_italy
@@ -1846,11 +1903,19 @@
 /home/zeltak/Uni/grants/antonella grant/revision
 /home/zeltak/Uni/grants/antonella grant/ready
 /home/zeltak/Uni/grants/EHF_Novak
+/home/zeltak/Uni/grants/mara_mexico_2015
+/home/zeltak/Uni/grants/portnov_haifa_grant/ra
+/home/zeltak/Uni/grants/hburris
 /home/zeltak/Uni/Presentations/BGU_GEO_2014
 /home/zeltak/Uni/Presentations/Mexico2014
+/home/zeltak/Uni/Presentations/HUJI_2015
 /home/zeltak/Uni/Students/behzad
 /home/zeltak/Uni/Students/lara
+/home/zeltak/Uni/Students/maayan
+/home/zeltak/Uni/Students/samya
 /home/zeltak/Uni/Misc/bgu application/new_tik
+/home/zeltak/Uni/Phd_MA
+/home/zeltak/Uni/letterheads/BGU Header grpahics
 /home/zeltak/btsync/scan_inbox/.images
 /home/zeltak/btsync/scan_inbox/images
 /home/zeltak/btsync/scan_inbox/.temp
@@ -1888,9 +1953,10 @@
 /home/zeltak/Sync/scans/2000-2012
 /home/zeltak/Sync/scans/2013/documents
 /home/zeltak/Sync/scans/Manuals
+/home/zeltak/Sync/scans/2015/uni
 /home/zeltak/Sync/Uni/pdf_lib/kloog_new.pdf
 /home/zeltak/Sync/Uni/signatures
-/home/zeltak/Sync/Uni/$CV
+/home/zeltak/Sync/Uni/$CV/2015
 /home/zeltak/Sync/Uni/passport_pic
 /home/zeltak/Sync/keepass
 /home/zeltak/Sync/ztmp
@@ -1933,7 +1999,13 @@
 /home/zeltak/.mpdscribble
 /home/zeltak/R/x86_64-unknown-linux-gnu-library/3.1
 /home/zeltak/R/x86_64-unknown-linux-gnu-library/3.0
-/home/zeltak/R/x86_64-pc-linux-gnu-library
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/readr/Meta
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/readr/R
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/readr/doc
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/readr/extdata
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/readr/html
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.2/data.table
+/home/zeltak/R/x86_64-pc-linux-gnu-library/3.1
 /home/zeltak/.atom/packages
 /home/zeltak/.cpan
 /home/zeltak/.docear
@@ -1961,7 +2033,8 @@
 /home/zeltak/.putty
 /home/zeltak/.gmvault
 /home/zeltak/emacs/dotemacs
-/home/zeltak/.emacs.g
+/home/zeltak/.emacs.g/org-mode
+/home/zeltak/.emacs.g/extra/org-dp
 /home/zeltak/.qgis2/svg
 /home/zeltak/.qgis2/ramps
 /home/zeltak/.qgis
@@ -1972,6 +2045,11 @@
 /home/zeltak/Documents/MATLAB
 /home/zeltak/Documents/NoMachine
 /home/zeltak/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2000
+/home/zeltak/VirtualBox VMs/w7/Logs
+/home/zeltak/VirtualBox VMs/tst/Logs
+/home/zeltak/.password-store/Zpass_2014/Computers/Email and IM
+/home/zeltak/.password-store/Zpass_2014/Web/Uni/Journals
+/home/zeltak/.gnupg
 <<<<<<< HEAD
 =======
 >>>>>>> 06fe653d35b1dd3f4125e2d00dc74fc7687d0699
@@ -2000,6 +2078,9 @@
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/FN000_RWORKDIR
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/$GIS/ltpm
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/FN000_RWORKDIRx/run1
+/media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/FN99_FinalPRED
+/media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/FN003_AOd_allyears/old
+/media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/2.Gather_data/FN006_NDVI_yearly
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/Archive/results
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/Archive/mod3om10
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/3.Work/Archive/model_run_pm25_lastbest
@@ -2010,25 +2091,40 @@
 /media/NAS/Uni/Projects/P046_Israel_MAIAC/0.raw/temporal MOEP
 /media/NAS/Uni/Projects/P000_TMP_PROJECTS/cambridge_harvard_heatmap/R
 /media/NAS/Uni/Projects/P000_TMP_PROJECTS/Joel_temp_grant
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/sweeden
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/yaakov
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/larano2/final_data_to_seminar-2015-05-21.zip#uzip/final data to seminar
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/larano2/fishnet
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/larano2/fishnet with spatial data
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/larano2/fishnet with temporal data
+/media/NAS/Uni/Projects/P000_TMP_PROJECTS/diddier
 /media/NAS/Uni/Projects/P032_multiple_expo_jaime/3.Work
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/3.Work/2.Gather_data/FN004_LU_full_dataset
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/archive
 /media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/mod1
-/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures
+/media/NAS/Uni/Projects/P033_MIAC_MEXICO/4.Results/figures/Final
 /media/NAS/Uni/Projects/P010.Medicare_NE/3.1.10.1.Raw_data/SES
 /media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN002_NCDC_allyears
 /media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/FN004_LU_full_dataset
 /media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/2.Gather_data/m3rds
+/media/NAS/Uni/Projects/P031_MIAC_PM/3.Work/Archive
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/midatlantic_newengland
-/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/landcover_urbanness
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/landcover_urbanness/info
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/landcover_urbanness/newengurbsmv2
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/landcover_urbanness/midatlrasters
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/PM
-/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/gis
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/gis/NEI
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/gis/aod_1km_drobo.gdb
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/gis/l200
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/FULL_GRID
 /media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/maiac_aod/2003
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/ncdc-MET
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/satellite1kmluvariables
+/media/NAS/Uni/Projects/P031_MIAC_PM/0.raw/population_density
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn030_Stage 2
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn035_stage3-final
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/ARCgis
-/media/NAS/Uni/Projects/P022_Temprature_France/3.work/CN002_LST_txtfiles
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/CN002_LST_txtfiles/output2001
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/FN015_withinkm
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/archive
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn007
@@ -2037,19 +2133,25 @@
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/Qgis
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/cn099.R
 /media/NAS/Uni/Projects/P022_Temprature_France/3.work/bubles
+/media/NAS/Uni/Projects/P022_Temprature_France/3.work/grid
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/Final_code
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/France-LST/latlong
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/GEOFLA
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/population/GEOFLA_1_1_SHP_LAMB93_000_2013_01_15.7z#u7z/GEOFLA_1-1_SHP_LAMB93_000_2013-01-15/SUPPLEMENTS
-/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/elev
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/elev/elevASC
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/met data
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/data.7z#u7z
-/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/roads
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/roads/ROUTE500_1_1_SHP_LAMB93_000_2012_11_23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/SUPPLEMENTS
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/GIS/hydrology
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/Monitors
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/PM/data_PM25_LCSQA.7z#u7z
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/lu_variables
 /media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/stations
-/media/NAS/Uni/Projects/P022_Temprature_France/4.results
+/media/NAS/Uni/Projects/P022_Temprature_France/1_Raw_data/Ta monitos
+/media/NAS/Uni/Projects/P022_Temprature_France/4.results/figures/Archive
+/media/NAS/Uni/Projects/P022_Temprature_France/4.results/figures/fig1
+/media/NAS/Uni/Projects/P022_Temprature_France/4.results/figures/final
+/media/NAS/Uni/Projects/P022_Temprature_France/4.results/r2
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/data_PM25_LCSQA.7z#u7z
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/Archive2013.zip#uzip
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/pm25monitors/Archive2000_2012.zip#uzip
@@ -2057,11 +2159,40 @@
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/elev/elevXYZ
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/population
 /media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/ndvi
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/weather2014-for_itai.zip#uzip
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/PM/old
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/met
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/LU
+/media/NAS/Uni/Projects/P031_MAIAC_France/1.RAW/climate.zones
 /media/NAS/Uni/Projects/P031_MAIAC_France/2.work/Qgis
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/lu
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/gird
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/WORKDIR
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/GIS
+/media/NAS/Uni/Projects/P031_MAIAC_France/2.work/keys
 /media/NAS/Uni/Projects/P045_Israel_LST/RAW/grid
 /media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/GIS
 /media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/NDVI_IT_FRA/code
 /media/NAS/Uni/Projects/P021_Temprature_ITALY/1_Raw_data/NDVI_IT_FRA/hdf
+/media/NAS/Uni/Projects/P011.BirthW_NE/3.1.11.1.Raw_data/Clean_00-08_MDPH_BW_Data
+/media/NAS/Uni/Projects/P011.BirthW_NE/3.1.11.1.Raw_data/original data/new 00-09
+/media/NAS/Uni/Projects/@eaDir
+/media/NAS/Uni/Projects/P003.TEMP_MODELS/3.1.1.1.Raw_data/Temp
+/media/NAS/Uni/Projects/P020_Temprature_NE_MIA/1_Raw_data
+/media/NAS/Uni/Projects/P031_MAIAC_Italy/2.work/WORKDIR
+/media/NAS/Uni/Projects/P007.Zinc/3.1.7.5.Results/maps
+/media/NAS/Uni/Projects/P007.Zinc/3.1.7.6.Papers/2ndpaper/final
+/media/NAS/Uni/Projects/P017.Medicare_MIA
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/2014_update.ZIP#uzip
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/2014_new.ZIP#uzip
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/GIS Data geo_add.zip#uzip
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/NOX_IDW_2013.zip#uzip
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/pm2.5_2013.zip#uzip
+/media/NAS/Uni/Projects/p050.Haifa/1.RAW/so2_2013.zip#uzip
+/media/NAS/Uni/Projects/p050.Haifa/3.resukts
+/media/NAS/Uni/Projects/p050.Haifa/3.results/Hila-2015-08-13.zip#uzip
+/media/NAS/Uni/Projects/p050.Haifa/3.results/Hila
+/media/NAS/Uni/Projects/P042_Medicare_DVT
 /media/NAS/Uni/Data/Israel/IPA_stations
 /media/NAS/Uni/Data/Israel/Dust
 /media/NAS/Uni/Data/Israel/MAIAC_new_10_2014/h06v07/2000
@@ -2071,6 +2202,8 @@
 /media/NAS/Uni/Data/Israel/WU-IL/all.tgz#ugz#utar
 /media/NAS/Uni/Data/Israel/WU-IL/stationsIsrael.zip#uzip
 /media/NAS/Uni/Data/Israel/MAIAC_AOD
+/media/NAS/Uni/Data/Israel/IL_LST_15
+/media/NAS/Uni/Data/Israel/IL_LST_2000_2014_terra_aqua
 /media/NAS/Uni/Data/USA/MAIAC_NEW/results_Terra_Aqua/h03v07
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2000
 /media/NAS/Uni/Data/USA/MAIAC_NEW/dataportal.nccs.nasa.gov/DataRelease/NorthAmerica/results_Terra_Aqua/h09v09/2001
@@ -2087,44 +2220,110 @@
 /media/NAS/Uni/Data/USA/NDVI/ndvi_transposed
 /media/NAS/Uni/Data/GIS/Israel/OSM_roads_2014
 /media/NAS/Uni/Data/GIS/Israel/israel_full_borders
+/media/NAS/Uni/Data/GIS/Israel/post.il/allFiles_Csv_f.zip#uzip
+/media/NAS/Uni/Data/GIS/Israel/post.il/zipCodes_Csv_f.zip#uzip
+/media/NAS/Uni/Data/GIS/Israel/stat_zone/stat_zone.zip#uzip
 /media/NAS/Uni/Data/GIS/Mexicio
 /media/NAS/Uni/Data/GIS/world map
 /media/NAS/Uni/Data/GIS/Europe/france/border
 /media/NAS/Uni/Data/GIS/Europe/france/places
 /media/NAS/Uni/Data/GIS/Europe/france/roads
 /media/NAS/Uni/Data/GIS/Europe/france/water
+/media/NAS/Uni/Data/GIS/Europe/france/detailed.roads/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/1_DONNEES_LIVRAISON_2012-11-00093/R500_1-1_SHP_LAMB93_FR-ED121/ADMINISTRATIF
+/media/NAS/Uni/Data/GIS/Europe/france/detailed.roads/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/SUPPLEMENTS
 /media/NAS/Uni/Data/GIS/Europe/Italy
-/media/NAS/Uni/Data/GIS/USA
+/media/NAS/Uni/Data/GIS/Europe/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/2_DESCRIPTIFS_PRODUIT
+/media/NAS/Uni/Data/GIS/Europe/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/3_METADONNEES_PRODUIT
+/media/NAS/Uni/Data/GIS/Europe/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/4_METADONNEES_LIVRAISON_2012-11-00093/R500_1-1_SHP_LAMB93_FR-ED121
+/media/NAS/Uni/Data/GIS/Europe/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/5_SUPPLEMENTS_LIVRAISON_2012-11-00093
+/media/NAS/Uni/Data/GIS/Europe/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23.7z#u7z/ROUTE500_1-1_SHP_LAMB93_000_2012-11-23/ROUTE500/1_DONNEES_LIVRAISON_2012-11-00093/R500_1-1_SHP_LAMB93_FR-ED121/ADMINISTRATIF
+/media/NAS/Uni/Data/GIS/Europe/corine/2006/g100_06.zip#uzip
+/media/NAS/Uni/Data/GIS/Europe/InputData.7z#u7z/InputData/Elevation
+/media/NAS/Uni/Data/GIS/USA/zipcodes_xy
 /media/NAS/Uni/Data/GIS/italy
-/media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov
+/media/NAS/Uni/Data/GIS/world /airport data
+/media/NAS/Uni/Data/GIS/world/ports/wpi.zip#uzip
+/media/NAS/Uni/Data/GIS/world/ports/WPI_Shapefile.zip#uzip
+/media/NAS/Uni/Data/GIS/world/water bodies
+/media/NAS/Uni/Data/GIS/world/shores/ne
+/media/NAS/Uni/Data/GIS/world/osm coastlines
+/media/NAS/Uni/Data/GIS/world/esri_global_water
+/media/NAS/Uni/Data/GIS/world/water_polygons
+/media/NAS/Uni/Data/Europe/MAIAC_New/dataportal.nccs.nasa.gov/DataRelease/EU1200
 /media/NAS/Uni/Data/Europe/NDVI/france_italy_ndvi
 /media/NAS/Uni/Data/Europe/NDVI/raw italy_france MODIS
 /media/NAS/Uni/Data/Europe/NDVI/Euro_NDVI
 /media/NAS/Uni/Data/Europe/NEW_Europe_HDF_LAT_LONG
 /media/NAS/Uni/Data/Europe/PBL_Europe/Europepbl_coord
+/media/NAS/Uni/Data/Europe/MV3
+/media/NAS/Uni/Data/Europe/france/pbl/France.7z#u7z
+/media/NAS/Uni/Data/Europe/france/pbl/PBL_cleaned.zip#uzip
+/media/NAS/Uni/Data/Europe/france/pbl/final_csv
+/media/NAS/Uni/Data/Europe/france/ndvi_france/latlon
+/media/NAS/Uni/Data/Europe/france/ndvi_france/out
+/media/NAS/Uni/Data/Europe/france/ndvi_france/new.ndvi
 /media/NAS/Uni/Data/Mexico
 /media/NAS/Uni/Data/world
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h00v03
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h00v00/2000
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h00v01/2008
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h00v02/2009
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h01v00
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h01v01
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h01v02/2009
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h01v03
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h02v00
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h02v01
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h02v02/2000
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h02v02/2003
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h02v03
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h03v00
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h03v01/2000
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h03v02
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h03v03
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h04v00
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h04v01
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h04v02
+/media/NAS/Uni/Data/MV3/dataportal.nccs.nasa.gov/DataRelease/Europe/h04v03
+/media/NAS/Uni/Data/MV3/Out
+/media/NAS/Uni/Data/MV3/Data.7z#u7z
+/media/NAS/Uni/Data/MV3/latlong_csv
 /media/NAS/Uni/Soft_lib/emacs_sync/t.zip#uzip
+/media/NAS/Uni/Soft_lib/hdf_EOS2_dump/test
+/media/NAS/Uni/Soft_lib/hdf_EOS2_dump/hdf_EOS2_dump.zip#uzip
 /media/NAS/Uni/ztmp/qgis
 /media/NAS/Uni/ztmp/shi_data/ncdc data
 /media/NAS/Uni/ztmp/shi_data/FN001_PM_allyears
 /media/NAS/Uni/ztmp/shi_data/FN004_LU_full_dataset
 /media/NAS/Uni/ztmp/shi_data/HPBL/ORIGhpbl
 /media/NAS/Uni/ztmp/mey
+/media/NAS/Uni/ztmp/ZH_tmp/tar1.tar.gz#ugz#utar/home/zeltak/.gnupg
 /media/NAS/Uni/Courses/Qgis/L10-Big Data/e10
 /media/NAS/Uni/Courses/stat
 /media/NAS/Uni/Courses/3D_GIS/L3/t3
+/media/NAS/Uni/Courses/3D_GIS/L5/t5
+/media/NAS/Uni/Courses/3D_GIS/y2015
+/media/NAS/Uni/Courses/Python_GIS/quiz1/quiz2005/Quiz1.gdb.rar#urar
+/media/NAS/Uni/Courses/Python_GIS/year2015/akiva
+/media/NAS/Uni/Courses/climate change/talk 2
+/media/NAS/Uni/Courses/GIS_Planners/L12-quiz/◊ë◊ï◊ó◊ü ◊ë.rar#urar/Quiz_B
+/media/NAS/Uni/Courses/GIS_Planners/Final_test
 /media/NAS/Uni/VirtualBox VMs/Windowz/tmp
 /media/NAS/Uni/VirtualBox VMs/Windowz/Snapshots
 /media/NAS/Uni/VirtualBox VMs/Windowz/Logs
 /media/NAS/Uni/VirtualBox VMs/Windowz/win/Logs
+/media/NAS/Uni/VirtualBox VMs/win7.Zuni.FRESH
+/media/NAS/Uni/VirtualBox VMs/win7.Zuni
 /media/NAS/Uni/Backups/$Archives
 /media/NAS/Uni/Backups/old downlaoded academic papers
 /media/NAS/Uni/Backups/Virtualbox/Windowz/Snapshots
+/media/NAS/Uni/Backups/Virtualbox/Windowz/win
 /media/NAS/Uni/Backups/Virtualbox/.VirtualBox
+/media/NAS/Uni/Backups/broken W7
 /media/NAS/Uni/xVirtualBox VMs
 /media/NAS/Uni/BKVirtualBox VMs/Windowz/Logs
 /media/NAS/Uni/BKVirtualBox VMs/Windowz/tmp
+/media/NAS/Uni/Documents
 /media/NAS/Z_backups/GIS.zip#uzip
 /media/NAS/Z_backups/agebsDF.zip#uzip
 /media/NAS/Adar
@@ -2157,6 +2356,7 @@
 /media/nomachine
 /media/2.2.3-25-amd64
 /media/rsync
+/media/WD
 /etc/systemd/system/multi-user.target.wants
 /etc/systemd/system/timer-hourly.target.wants
 /usr/share/ontology

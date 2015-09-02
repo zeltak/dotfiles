@@ -460,11 +460,11 @@ fonts {
 	textviewfont = "fixed";
 }
 xftfonts {
-	globalfont = "PragmataPro:pixelsize=12";
+	globalfont = "PragmataPro:pixelsize=16";
 	buttonfont = "PragmataPro:pixelsize=11";
-	leftfont = "PragmataPro:pixelsize=15";
-	rightfont = "PragmataPro:pixelsize=15";
-	textviewfont = "PragmataPro:pixelsize=12";
+	leftfont = "PragmataPro:pixelsize=18";
+	rightfont = "PragmataPro:pixelsize=18";
+	textviewfont = "PragmataPro:pixelsize=18";
 }
 clockbarsets {
 	modus = timespace;

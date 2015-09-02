@@ -225,6 +225,11 @@ alias bl='beet list'
 #to ask for both keys at startup
 eval $(keychain --eval --agents ssh -Q --quiet id_rsa id_rsa_github)
 
+#emacs
+export ALTERNATE_EDITOR=""
+export EDITOR="emacsclient -t"                  # $EDITOR should open in terminal
+export VISUAL="emacsclient -c -a emacs"         # $VISUAL opens in GUI with non-daemon as alternate
+
 
 #teamocil completions
 compctl -g '~/.teamocil/*(:t:r)' teamocil

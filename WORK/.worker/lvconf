@@ -4,6 +4,7 @@ left {
 	"VirtualDirMode" {
 		hiddenfiles = show;
 		sortby = name;
+		sortflag = reverse;
 		showfreespace = true;
 		updatetime = 5;
 		field_width = "LISTCOL_MOD",-1;
@@ -24,11 +25,12 @@ right {
 	activemode = "VirtualDirMode";
 	"VirtualDirMode" {
 		hiddenfiles = show;
-		sortby = name;
+		sortby = modtime;
+		sortflag = reverse;
 		showfreespace = true;
 		updatetime = 5;
-		field_width = "LISTCOL_MOD",-1;
-		field_width = "LISTCOL_NAME",314;
+		field_width = "LISTCOL_MOD",158;
+		field_width = "LISTCOL_NAME",-1;
 		field_width = "LISTCOL_PERM",-1;
 		field_width = "LISTCOL_SIZEH",-1;
 		field_width = "LISTCOL_TYPE",-1;
