@@ -1,9 +1,9 @@
-sw_volume: 65
+sw_volume: 38
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: pause
-current: 3
-time: 66.200000
+state: play
+current: 13
+time: 1.393000
 random: 0
 repeat: 0
 single: 0
@@ -12,16 +12,32 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Beach Boys, The/2012 That's Why God Made the Radio/01 Think About the Days.flac
-1:Beach Boys, The/2012 That's Why God Made the Radio/02 That's Why God Made the Radio.flac
-2:Beach Boys, The/2012 That's Why God Made the Radio/03 Isn't It Time.flac
-3:Beach Boys, The/2012 That's Why God Made the Radio/04 Spring Vacation.flac
-4:Beach Boys, The/2012 That's Why God Made the Radio/05 The Private Life of Bill and Sue.flac
-5:Beach Boys, The/2012 That's Why God Made the Radio/06 Shelter.flac
-6:Beach Boys, The/2012 That's Why God Made the Radio/07 Daybreak Over the Ocean.flac
-7:Beach Boys, The/2012 That's Why God Made the Radio/08 Beaches in Mind.flac
-8:Beach Boys, The/2012 That's Why God Made the Radio/09 Strange World.flac
-9:Beach Boys, The/2012 That's Why God Made the Radio/10 From There to Back Again.flac
-10:Beach Boys, The/2012 That's Why God Made the Radio/11 Pacific Coast Highway.flac
-11:Beach Boys, The/2012 That's Why God Made the Radio/12 Summer's Gone.flac
+0:Ghost/2015 Meliora/01 Spirit.mp3
+1:Ghost/2015 Meliora/02 From the Pinnacle to the Pit.mp3
+2:Ghost/2015 Meliora/03 Cirice.mp3
+3:Ghost/2015 Meliora/04 Spöksonat.mp3
+4:Ghost/2015 Meliora/05 He Is.mp3
+5:Ghost/2015 Meliora/06 Mummy Dust.mp3
+6:Ghost/2015 Meliora/07 Majesty.mp3
+7:Ghost/2015 Meliora/08 Devil Church.mp3
+8:Ghost/2015 Meliora/09 Absolution.mp3
+9:Ghost/2015 Meliora/10 Deus in Absentia.mp3
+10:Chris Squire/1975 Fish Out of Water/01 Hold Out Your Hand.flac
+11:New Pornographers, The/2014 Brill Bruisers/01 Brill Bruisers.flac
+12:New Pornographers, The/2014 Brill Bruisers/02 Champions of Red Wine.flac
+13:New Pornographers, The/2014 Brill Bruisers/03 Fantasy Fools.flac
+14:New Pornographers, The/2014 Brill Bruisers/04 War On the East Coast.flac
+15:New Pornographers, The/2014 Brill Bruisers/05 Backstairs.flac
+16:New Pornographers, The/2014 Brill Bruisers/06 Marching Orders.flac
+17:New Pornographers, The/2014 Brill Bruisers/07 Another Drug Deal of the Heart.flac
+18:New Pornographers, The/2014 Brill Bruisers/08 Born With a Sound (feat. Amber Webber).flac
+19:New Pornographers, The/2014 Brill Bruisers/09 Wide Eyes.flac
+20:New Pornographers, The/2014 Brill Bruisers/10 Dancehall Domine.flac
+21:New Pornographers, The/2014 Brill Bruisers/11 Spidyr.flac
+22:New Pornographers, The/2014 Brill Bruisers/12 Hi-Rise.flac
+23:New Pornographers, The/2014 Brill Bruisers/13 You Tell Me Where.flac
+24:Chris Squire/1975 Fish Out of Water/02 You by My Side.flac
+25:Chris Squire/1975 Fish Out of Water/03 Silently Falling.flac
+26:Chris Squire/1975 Fish Out of Water/04 Lucky Seven.flac
+27:Chris Squire/1975 Fish Out of Water/05 Safe (Canon Song).flac
 playlist_end
