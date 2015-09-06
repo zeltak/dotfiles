@@ -280,9 +280,8 @@ super+Print
       clerk 
 
 #mpd queue 
-shift+super+Print
+alt+super
       clerk --queue show
-
 
 
 #---->COMMA KEY '>' (Album/artist based)

@@ -1,0 +1,68 @@
+#!/bin/bash
+# set backend, valid choices: rofi, dmenu
+backend=rofi
+
+# custom rofi settings (rofi reads settings from ~/.Xresources)
+# but you can override settings here.
+rofiopts="-no-levenshtein-sort -i"
+
+
+# custom rofi settings (if needed)
+#rofiopts="-width 35 -padding 12 -lines 40 -opacity 80"
+
+# If you don't have physical access to your music_dir
+# set this to no
+music_dir_access=yes
+
+# mpd socket file (for local filebrowser)
+mpd_socket=/home/zeltak/.mpd/socket            
+
+
+# Change this, if you have subfolders for multi-disc albums.
+# This should match the name of your subfolders, exluding the number
+cd_divider=CD
+
+# path to your music
+music_path="/home/zeltak/music/"
+
+# Number of Songs to be added for "Random Tracks"
+value=200
+
+# instantly play newly added tracks
+add_auto_play=no
+
+# Seperator used for splitting tags - Make sure this is something most
+# likely not used in tags itself. Can be multiple characters
+separator=" · "
+
+# use artist or albumartist for album ratings, random albums.
+mpd_artist=albumartist
+
+# use artist or albumartist for random tracks
+random_artist=albumartist
+
+# scrobbler to use. possible values: mpdscribble, mpdas
+scrobbler=mpdas
+
+# Fill these if mpdscribble runs on a different host
+# set to 0 if mpdscribble runs locally
+ssh_lastfm=1
+ssh_host=
+
+# color of the help messages
+help_color="#0C73C2"
+
+                              
+add="Alt+1"
+addplay="Alt+4"
+insertall="Alt+5"
+replaceall="Alt+6"
+insert="Alt+2"
+replace="Alt+3"
+rate="Alt+7"
+toggle="Alt+1"
+prev="Alt+2"
+next="Alt+3"
+stop="Alt+4"
+play="Alt+1"
+delete="Alt+2"   
