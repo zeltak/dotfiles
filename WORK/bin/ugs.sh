@@ -1,6 +1,6 @@
 #!/bin/sh
 # Add org file changes to the repository
-REPOS="/home/zeltak/dotfiles/    /media/NAS/Uni/org/files/ "
+REPOS="/home/zeltak/dotfiles/ "
 
 for REPO in $REPOS
 do

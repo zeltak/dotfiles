@@ -269,11 +269,11 @@ Print
 
 #clerk mpd menu
 super+Print 
-      clerk 
+      ~/programs/clerk/clerk 
 
 #mpd queue 
 shift+super+Print
-      clerk --queue show
+      ~/programs/clerk/clerk --queue show
 
 
 
@@ -281,19 +281,19 @@ shift+super+Print
 
 #browse library
 super+comma
-      clerk --add album
+      ~/programs/clerk/clerk --add album
 
 #load random album
 alt+super+comma 
-      clerk --random album
+      ~/programs/clerk/clerk --random album
 
 #latest library addons
 shift+super+comma
-      clerk --add latest
+      ~/programs/clerk/clerk --add latest
 
 #add/insert/replace album
 control+super+comma 
-      clerk --add  album
+      ~/programs/clerk/clerk --add  album
 
 
 
@@ -301,11 +301,11 @@ control+super+comma
 
 #add/insert/replace track
 super+period
-      clerk --add  track
+      ~/programs/clerk/clerk --add  track
 
 #load rated tracks
 super+alt+ period  
-     clerk --rate load   
+     ~/programs/clerk/clerk --rate load   
 
 
 
@@ -314,15 +314,15 @@ super+alt+ period
 
 #rate track
 super+slash 
-      clerk --rate track
+      ~/programs/clerk/clerk --rate track
 
 #rate track 4
 super+alt+slash 
-      clerk --rate instant 8
+      ~/programs/clerk/clerk --rate instant 8
 
 #rate album
 control+super+slash
-     clerk --rate album 
+     ~/programs/clerk/clerk --rate album 
 
 
 #################################################################

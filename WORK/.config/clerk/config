@@ -1,50 +1,80 @@
-# set backend, valid choices: rofi, dmenu, slmenu
-backend=rofi
-
-# If you don't have physical access to your music_dir
-# set this to no. This setting will make sure that ratings files
-# will be copied to their associated album
-music_dir_access=yes	
-
 # custom rofi settings (rofi reads settings from ~/.Xresources)
 # but you can override settings here.
-# rofiopts="-width 35 -padding 12 -lines 40"
+rofiopts="-lines 30 -width 1500 -i -no-levenshtein-sort"
 
-# maximum rating for album ratings
-maxratings=5
-
-# path to your music
-music_path="/home/zeltak/music/"
+# custom mpd host
+mpd_host=132.72.154.204 
+mpd_port=6600
+mpd_password=
 
 # Number of Songs to be added for "Random Tracks"
-value=100
+value=200
 
-# Change this, if you have subfolders for multi-disc albums.
-# This should match the name of your subfolders, exluding the number
-cd_divider=CD
+# stop on suspend?
+stop_after_suspend=no
 
-# Seperator used for splitting tags - Make sure this is something most
-# likely not used in tags itself. Can be multiple characters
-# If you change seperator, update caches with clerk -update
-seperator=•
+# use artist or albumartist for random tracks
+random_artist=artist
 
-# use artist or albumartist for album ratings
-mpd_artist=albumartist
+# scrobbler to use. possible values: mpdscribble, mpdas
+scrobbler=mpdscribble
 
-# if you have missing tags and experience non-adding albums, set this
-# to "Flat", otherwise leave the default of "Tags"
-# Same thing goes for AddTrack value.
-quirkAlbum="Tags"
-quirkTrack="Tags"
-
-# Fill these if mpdscribble runs on a different host
+# Fill these if scrobbler runs on a different host
 # set to 0 if mpdscribble runs locally
 ssh_lastfm=0
 ssh_host=
 
-# mpd socket file (for local filebrowser)  
-mpd_socket=/home/zeltak/.mpd/socket            
+# color of the help messages
+help_color="#0C73C2"
+help_separator_color="#5F5F5F"
+
+# custom keybindings
+# global
+albumlist="Alt+F1"
+tracklist="Alt+F2"
+queue="Alt+F3"
+
+# Adding of songs/albums
+add="Alt+1"
+insert="Alt+2"
+replace="Alt+3"
+rate="Alt+r"
+addplay="Alt+4"
+insertplay="Alt+5"
+savefav="Alt+s"
 
 
-##### DO NOT EDIT #####
-change_db=DBUpdated:FriOct2411:37:112014
+# playback controls
+toggle="Alt+F6"
+prev="Alt+F5"
+next="Alt+F8"
+stop="Alt+F7"
+seek="Alt+f"
+
+# playlist menu
+# also used: rate
+delete="Alt+Delete"
+crop="Alt+x"
+clear="Alt+c"
+movedown="Alt+Down"
+moveup="Alt+Up"
+goalbum="Alt+a"
+gotrack="Alt+t"
+load="Alt+l"
+save="Alt+s"
+
+# table customization
+track_width="2"
+title_width="40"
+artist_width="40"
+date_width="6"
+# album is much longer in order to keep filename off screen
+album_width="200"
+
+#help
+help="Alt+h"
+
+
+# custom widths for playlist
+pl_title_width="60"
+pl_artist_width="40"

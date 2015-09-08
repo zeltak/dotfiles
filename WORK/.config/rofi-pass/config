@@ -1,6 +1,10 @@
 # set path to password store
 root= ~/.password-store
 
+alias column=/home/zeltak/programs/column
+
+
+
 # optional rofi parameters:
 rofiopts="-i -no-levenshtein-sort"
 
@@ -15,7 +19,7 @@ AUTOTYPE_field='autotype'
 EDITOR='emacsclient'
 
 # Browser
-BROWSER='chromium'
+BROWSER='chromium-browser'
 
 ## Misc settings
 
