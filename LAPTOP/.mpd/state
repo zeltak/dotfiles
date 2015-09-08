@@ -1,9 +1,9 @@
-sw_volume: 76
+sw_volume: 80
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
-state: play
-current: 1
-time: 120.023000
+state: pause
+current: 11
+time: 103.491000
 random: 0
 repeat: 0
 single: 0
@@ -12,15 +12,17 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Symphony X/2015 Underworld/01 Overture.flac
-1:Symphony X/2015 Underworld/02 Nevermore.flac
-2:Symphony X/2015 Underworld/03 Underworld.flac
-3:Symphony X/2015 Underworld/04 Without You.flac
-4:Symphony X/2015 Underworld/05 Kiss of Fire.flac
-5:Symphony X/2015 Underworld/06 Charon.flac
-6:Symphony X/2015 Underworld/07 To Hell and Back.flac
-7:Symphony X/2015 Underworld/08 In My Darkest Hour.flac
-8:Symphony X/2015 Underworld/09 Run With the Devil.flac
-9:Symphony X/2015 Underworld/10 Swansong.flac
-10:Symphony X/2015 Underworld/11 Legend.flac
+0:Devin Townsend Project/2012 Epicloud/01 Effervescent!.flac
+1:Devin Townsend Project/2012 Epicloud/02 True North.flac
+2:Devin Townsend Project/2012 Epicloud/03 Lucky Animals.flac
+3:Devin Townsend Project/2012 Epicloud/04 Liberation.flac
+4:Devin Townsend Project/2012 Epicloud/05 Where We Belong.flac
+5:Devin Townsend Project/2012 Epicloud/06 Save Our Now.flac
+6:Devin Townsend Project/2012 Epicloud/07 Kingdom.flac
+7:Devin Townsend Project/2012 Epicloud/08 Divine.flac
+8:Devin Townsend Project/2012 Epicloud/09 Grace.flac
+9:Devin Townsend Project/2012 Epicloud/10 More!.flac
+10:Devin Townsend Project/2012 Epicloud/11 Lessons.flac
+11:Devin Townsend Project/2012 Epicloud/12 Hold On.flac
+12:Devin Townsend Project/2012 Epicloud/13 Angel.flac
 playlist_end
