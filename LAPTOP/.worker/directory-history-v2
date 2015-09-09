@@ -66,7 +66,7 @@
 1436109780:/home/zeltak/.config/devilspie2
 1436109780:/home/zeltak/.config/copyq
 1436109780:/home/zeltak/.config/systemd/user/default.target.wants
-1441726395:/home/zeltak/.config/rofi-surfraw
+1441777892:/home/zeltak/.config/rofi-surfraw
 1440182831:/home/zeltak/.config/rofi-pass
 1441101525:/home/zeltak/.config/clerk2
 1436109780:/home/zeltak/bin/ecapture.sh
@@ -1281,7 +1281,14 @@
 1441217885:/home/zeltak/mounts/lraid/Download/transmission/completed/The Beach Boys - That's Why God Made The Radio (2012)
 1441360964:/home/zeltak/mounts/lraid/Download/transmission/completed/LEGO.Justice.League.Attack.of.the.Legion.of.Doom.2015.BRRip.XviD.AC3-EVO
 1441391550:/home/zeltak/mounts/lraid/Download/transmission/completed/Iron Maiden - The Book of Souls (2015) (CD) (FLAC)/Disc 2
-1441450434:/home/zeltak/mounts/lraid/Download/transmission/completed/Symphony X - Underworld (2015) [FLAC]
+1441769152:/home/zeltak/mounts/lraid/Download/transmission/completed/Symphony X - Underworld (2015) [FLAC]
+1441768915:/home/zeltak/mounts/lraid/Download/transmission/completed/Manic Street Preachers
+1441768924:/home/zeltak/mounts/lraid/Download/transmission/completed/Manic Street Preachers - 2014 - Futurology
+1441769141:/home/zeltak/mounts/lraid/Download/transmission/completed/Gomez...Whatever's on Your Mind(2011)[FLAC]
+1441769163:/home/zeltak/mounts/lraid/Download/transmission/completed/Built To Spill - Untethered Moon [2015][FLAC]
+1441772994:/home/zeltak/mounts/lraid/Download/transmission/completed/Muse - Drones - 2015 (WEB FLAC)
+1441772997:/home/zeltak/mounts/lraid/Download/transmission/completed/Arcade Fire - Reflektor (2013, FLAC)
+1441773004:/home/zeltak/mounts/lraid/Download/transmission/completed/Ghost - Infestissumam 2013 Metal 320kbps CBR MP3 [VX] [P2PDL]
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/incomplete/Nymphomaniac.XXX.720p.BluRay.x264-Jiggly
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/incomplete/Kagney Linn Karter (Gets Some Steele In Her Ass) HD-720p [.mp4]
 1436109780:/home/zeltak/mounts/lraid/Download/transmission/incomplete/Teachers.Stoya.Jenna.Haze
@@ -1299,7 +1306,7 @@
 1441395190:/home/zeltak/mounts/lraid/raid/thd/Storages and MultiOS backups/Acronis Backups/eve laurence
 1441391544:/home/zeltak/mounts/lraid/Usb
 1436109780:/home/zeltak/mounts/lr
-1441726395:/home/zeltak/.mpd
+1441777892:/home/zeltak/.mpd
 1439907540:/home/zeltak/BK/emacs/4.8.2015/.emacs.d
 1441176239:/home/zeltak/BK/org/org/files
 1441176743:/home/zeltak/BK/org/org2.9/agenda
@@ -1309,7 +1316,7 @@
 1441092330:/home/zeltak/Uni/BGU/exposure_lab
 1441695422:/home/zeltak/Uni/grants/EHF_Grant/Final_submission/tal
 1441440790:/home/zeltak/mreview/Music Go Music - Impressions (2014) WEB FLAC
-1441726395:/home/zeltak/media
+1441777892:/home/zeltak/media
 1441176783:/home/zeltak/org/files/agenda
 1440400417:/home/zeltak/org/files/archive
 1440956692:/home/zeltak/.emacs.g/gmail2bbdb
