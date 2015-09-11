@@ -1,9 +1,9 @@
-sw_volume: 85
+sw_volume: 72
 audio_device_state:1:Pulseaudio
 audio_device_state:1:My FIFO
 state: play
-current: 1
-time: 120.070000
+current: 7
+time: 120.279000
 random: 0
 repeat: 0
 single: 0
@@ -12,17 +12,15 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Arcade Fire/2013 Reflektor/01 Reflektor.flac
-1:Arcade Fire/2013 Reflektor/02 We Exist.flac
-2:Arcade Fire/2013 Reflektor/03 Flashbulb Eyes.flac
-3:Arcade Fire/2013 Reflektor/04 Here Comes the Night Time.flac
-4:Arcade Fire/2013 Reflektor/05 Normal Person.flac
-5:Arcade Fire/2013 Reflektor/06 You Already Know.flac
-6:Arcade Fire/2013 Reflektor/07 Joan of Arc.flac
-7:Arcade Fire/2013 Reflektor/08 Here Comes the Night Time II.flac
-8:Arcade Fire/2013 Reflektor/09 Awful Sound (Oh Eurydice).flac
-9:Arcade Fire/2013 Reflektor/10 It’s Never Over (Oh Orpheus).flac
-10:Arcade Fire/2013 Reflektor/11 Porno.flac
-11:Arcade Fire/2013 Reflektor/12 Afterlife.flac
-12:Arcade Fire/2013 Reflektor/13 Supersymmetry _ Untitled.flac
+0:Symphony X/2015 Underworld/01 Overture.flac
+1:Symphony X/2015 Underworld/02 Nevermore.flac
+2:Symphony X/2015 Underworld/03 Underworld.flac
+3:Symphony X/2015 Underworld/04 Without You.flac
+4:Symphony X/2015 Underworld/05 Kiss of Fire.flac
+5:Symphony X/2015 Underworld/06 Charon.flac
+6:Symphony X/2015 Underworld/07 To Hell and Back.flac
+7:Symphony X/2015 Underworld/08 In My Darkest Hour.flac
+8:Symphony X/2015 Underworld/09 Run With the Devil.flac
+9:Symphony X/2015 Underworld/10 Swansong.flac
+10:Symphony X/2015 Underworld/11 Legend.flac
 playlist_end

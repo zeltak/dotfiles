@@ -66,7 +66,7 @@
 1436109780:/home/zeltak/.config/devilspie2
 1436109780:/home/zeltak/.config/copyq
 1436109780:/home/zeltak/.config/systemd/user/default.target.wants
-1441777892:/home/zeltak/.config/rofi-surfraw
+1441951074:/home/zeltak/.config/rofi-surfraw
 1440182831:/home/zeltak/.config/rofi-pass
 1441101525:/home/zeltak/.config/clerk2
 1436109780:/home/zeltak/bin/ecapture.sh
@@ -228,6 +228,8 @@
 1440956582:/home/zeltak/ZH_tmp/org-20150805
 1440956583:/home/zeltak/ZH_tmp/takeout
 1441200032:/home/zeltak/ZH_tmp/tar1.tar.gz#ugz#utar/home/zeltak/.gnupg
+1441817171:/home/zeltak/ZH_tmp/ASynK-2.2.0.zip#uzip/ASynK-2.2.0
+1441817178:/home/zeltak/ZH_tmp/asynk
 1436109780:/home/zeltak/music/Neko Case/2009 Middle Cyclone
 1436109780:/home/zeltak/music/Neko Case/2013 The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You
 1436109780:/home/zeltak/music/Muse/2002 Hullabaloo Soundtrack
@@ -1306,7 +1308,7 @@
 1441395190:/home/zeltak/mounts/lraid/raid/thd/Storages and MultiOS backups/Acronis Backups/eve laurence
 1441391544:/home/zeltak/mounts/lraid/Usb
 1436109780:/home/zeltak/mounts/lr
-1441777892:/home/zeltak/.mpd
+1441951074:/home/zeltak/.mpd
 1439907540:/home/zeltak/BK/emacs/4.8.2015/.emacs.d
 1441176239:/home/zeltak/BK/org/org/files
 1441176743:/home/zeltak/BK/org/org2.9/agenda
@@ -1316,10 +1318,10 @@
 1441092330:/home/zeltak/Uni/BGU/exposure_lab
 1441695422:/home/zeltak/Uni/grants/EHF_Grant/Final_submission/tal
 1441440790:/home/zeltak/mreview/Music Go Music - Impressions (2014) WEB FLAC
-1441777892:/home/zeltak/media
+1441951074:/home/zeltak/media
 1441176783:/home/zeltak/org/files/agenda
 1440400417:/home/zeltak/org/files/archive
-1440956692:/home/zeltak/.emacs.g/gmail2bbdb
+1441816223:/home/zeltak/.emacs.g/gmail2bbdb
 1441103063:/home/zeltak/.password-store/home/zeltak/.password-store/Zpass_2014/Web/Uni/Journals
 1441101948:/home/zeltak/.password-store/Zpass_2014/Computers/Email and IM/IM's
 1441103100:/home/zeltak/.password-store/Zpass_2014/Web/services/Phone
